@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<item>
+<title>[COLOR lightgreen]Last Update: June 11, 2016[/COLOR]</title>
+<link>http://ignoreme</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] DUBAI AL-OULA</title>
+<link>http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/gmswf.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/dubaitv_zpszosqsfyr.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] DUBAI DRAMA</title>
+<link>http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.stream.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/dubaidrama_zpscfeja1zq.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] DUBAI ONE</title>
+<link>http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/dubaione_zpssrf0caqz.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] DUBAI SAMA</title>
+<link>http://dmivll.mangomolo.com/samadubai/smil:samadubai.smil/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/dubaisama_zpszkihzzti.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] DUBAI NOOR</title>
+<link>http://dmiftvll.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/dubainoor_zpskjpoqal7.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] DUBAI ZAMAN</title>
+<link>http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/dubaizaman_zpsf0k72ung.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] DUBAI RACING 1</title>
+<link>http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/dubairacing_zpsjx8qjsau.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] DUBAI RACING 2</title>
+<link>http://dmivll.mangomolo.com/events/smil:events.smil/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/dubairacing_zpsjx8qjsau.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] DUBAI SPORTS 3</title>
+<link>http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1200000.m3u8?stime=20160515065923&amp;etime=20160522030243&amp;token=05ec8952731da642ac3ac</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/dubaisports_zpspdc0yfvh.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] DUBAI SPORTS 4</title>
+<link>http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b2000000.m3u8?stime=20160515065905&amp;etime=20160522030225&amp;token=0e108014c3960e8fc5c51</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/dubaisports_zpspdc0yfvh.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] JEEM TV</title>
+<link>http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream1/masterPlaylist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/jeemtv_zpsugoydpmu.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Offline[/COLOR] MBC 1</title>
+<link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_mbc1&amp;width=592&amp;height=404&amp;key2=1115</link>
+<regex>
+  <name>getrtmp</name>
+  <expres>streamer="(.*?)";</expres>
+  <referer>http://iptv-planet.com/mbc1.html</referer>
+  <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc1&amp;width=592&amp;height=404&amp;key2=1115</page>
+</regex>
+<regex>
+  <name>getplaypath</name>
+  <expres>'file': '(.*?)'</expres>
+  <referer>http://iptv-planet.com/mbc1.html</referer>
+  <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc1&amp;width=592&amp;height=404&amp;key2=1115</page>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/mbc1_zpseenc0ihf.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] MBC 2</title>
+<link>http://63.237.48.28/ios/MBC2/MBC2.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/mbc2_zpsxjojooiw.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Offline[/COLOR] MBC 3</title>
+<link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_mbc3&amp;width=592&amp;height=404&amp;key2=1115</link>
+<regex>
+  <name>getrtmp</name>
+  <expres>streamer="(.*?)";</expres>
+  <referer>http://iptv-planet.com/mbc3.html</referer>
+  <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc3&amp;width=592&amp;height=404&amp;key2=1115</page>
+</regex>
+<regex>
+  <name>getplaypath</name>
+  <expres>'file': '(.*?)'</expres>
+  <referer>http://iptv-planet.com/mbc3.html</referer>
+  <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc3&amp;width=592&amp;height=404&amp;key2=1115</page>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/mbc3_zpsau05h85v.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] MBC 4</title>
+<link>http://63.237.48.28/ios/MBC_4/MBC_4.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/mbc4_zpsysprui9q.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] MBC ACTION</title>
+<link>http://63.237.48.28/ios/MBC_ACTION/MBC_ACTION.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/mbcaction_zpsgok0amsy.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] MBC BOLLYWOOD</title>
+<link>http://63.237.48.28/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/mbcbollywood_zps9myoys5c.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Offline[/COLOR] MBC MAX</title>
+<link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_mbcmax&amp;width=592&amp;height=404&amp;key2=1115</link>
+<regex>
+  <name>getrtmp</name>
+  <expres>streamer="(.*?)";</expres>
+  <referer>http://iptv-planet.com/mbcmax.html</referer>
+  <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcmax&amp;width=592&amp;height=404&amp;key2=1115</page>
+</regex>
+<regex>
+  <name>getplaypath</name>
+  <expres>'file': '(.*?)'</expres>
+  <referer>http://iptv-planet.com/mbcmax.html</referer>
+  <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcmax&amp;width=592&amp;height=404&amp;key2=1115</page>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/mbcmax_zpsebbjdrjt.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Offline[/COLOR] MBC DRAMA</title>
+<link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_mbcdrama&amp;width=592&amp;height=404&amp;key2=1115</link>
+<regex>
+  <name>getrtmp</name>
+  <expres>streamer="(.*?)";</expres>
+  <referer>http://iptv-planet.com/mbcdrama.html</referer>
+  <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcdrama&amp;width=592&amp;height=404&amp;key2=1115</page>
+</regex>
+<regex>
+  <name>getplaypath</name>
+  <expres>'file': '(.*?)'</expres>
+  <referer>http://iptv-planet.com/mbcdrama.html</referer>
+  <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcdrama&amp;width=592&amp;height=404&amp;key2=1115</page>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/mbcdrama_zpsb6aohryq.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] GEM TV</title>
+<link>http://63.237.48.28/ios/GEM_TV/GEM_TV.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/gemtv_zpsnojvaaxr.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] GEM BOLLYWOOD</title>
+<link>http://63.237.48.28/ios/GEM_BOLLYWOOD/GEM_BOLLYWOOD.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/gemtv_zpsnojvaaxr.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] GEM JUNIOR</title>
+<link>http://63.237.48.28/ios/GEM_JUNIOR/GEM_JUNIOR.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/gemtv_zpsnojvaaxr.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] GEM LIFE</title>
+<link>http://63.237.48.28/ios/GEL_LIFE/GEL_LIFE.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/gemtv_zpsnojvaaxr.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] GEM RIVER</title>
+<link>http://63.237.48.28/ios/GEM_RIVER/GEM_RIVER.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/gemtv_zpsnojvaaxr.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] GEM RUBIX</title>
+<link>http://63.237.48.28/ios/GEM_RUBIX/GEM_RUBIX.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/gemtv_zpsnojvaaxr.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] GEM TRAVEL</title>
+<link>http://63.237.48.28/ios/GEM_TRAVEL/GEM_TRAVEL.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/gemtv_zpsnojvaaxr.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] GEM USA</title>
+<link>http://63.237.48.28/ios/GEM_USA/GEM_USA.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/gemtv_zpsnojvaaxr.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] GEM MIFA</title>
+<link>http://63.237.48.28/ios/GEM_MIFA/GEM_MIFA.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/gemtv_zpsnojvaaxr.png</thumbnail>
+</item>
