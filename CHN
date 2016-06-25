@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<item>
+<title>[COLOR lightgreen]Last Update: May 29, 2016[/COLOR]</title>
+<link>http://ignoreme</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] CCTV NEWS</title>
+<link>http://ktv030.ds.kylintv.net:80/nlds/kylin/cctv9/as/live/cctv9.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/cctvnews_zpsh8tueiho.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] CCTV-1</title>
+<link>http://live.dianshibo.com/$doregex[m3u8]</link>
+<regex>
+  <name>m3u8</name>
+  <expres>var src = '/(.*?)';</expres>
+  <page>http://live.dianshibo.com/le/embed?id=cctv1HD_1300</page>
+  <referer>http://www.zoptv.com/live/cctv-1</referer>
+  <agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] CCTV-2</title>
+<link>http://live.dianshibo.com/$doregex[m3u8]</link>
+<regex>
+  <name>m3u8</name>
+  <expres>var src = '/(.*?)';</expres>
+  <page>http://live.dianshibo.com/le/embed?id=cctv2</page>
+  <referer>http://www.zoptv.com/live/cctv-2</referer>
+  <agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] CCTV-3</title>
+<link>http://live.dianshibo.com/$doregex[m3u8]</link>
+<regex>
+  <name>m3u8</name>
+  <expres>var src = '/(.*?)';</expres>
+  <page>http://live.dianshibo.com/le/embed?id=cctv3HD_1300</page>
+  <referer>http://www.zoptv.com/live/cctv-3</referer>
+  <agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] CCTV-4</title>
+<link>$doregex[m3u8]</link>
+<regex>
+  <name>m3u8</name>
+  <expres>var src = '(.*?)';</expres>
+  <page>http://live.dianshibo.com/kl/embed?id=cctv4</page>
+  <referer>http://www.zoptv.com/live/cctv-4</referer>
+  <agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] CCTV-5</title>
+<link>http://live.dianshibo.com/$doregex[m3u8]</link>
+<regex>
+  <name>m3u8</name>
+  <expres>var src = '/(.*?)';</expres>
+  <page>http://live.dianshibo.com/le/embed?id=cctv5_1300</page>
+  <referer>http://www.zoptv.com/live/cctv-5</referer>
+  <agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] CCTV-6</title>
+<link>http://live.dianshibo.com/$doregex[m3u8]</link>
+<regex>
+  <name>m3u8</name>
+  <expres>var src = '/(.*?)';</expres>
+  <page>http://live.dianshibo.com/le/embed?id=cctv6HD_1300</page>
+  <referer>http://www.zoptv.com/live/cctv-6</referer>
+  <agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] CCTV-7</title>
+<link>http://live.dianshibo.com/$doregex[m3u8]</link>
+<regex>
+  <name>m3u8</name>
+  <expres>var src = '/(.*?)';</expres>
+  <page>http://live.dianshibo.com/le/embed?id=cctv7</page>
+  <referer>http://www.zoptv.com/live/cctv-7</referer>
+  <agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] CCTV-8</title>
+<link>http://live.dianshibo.com/$doregex[m3u8]</link>
+<regex>
+  <name>m3u8</name>
+  <expres>var src = '/(.*?)';</expres>
+  <page>http://live.dianshibo.com/le/embed?id=cctv8HD_1300</page>
+  <referer>http://www.zoptv.com/live/cctv-8</referer>
+  <agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] CCTV-9</title>
+<link>http://live.dianshibo.com/$doregex[m3u8]</link>
+<regex>
+  <name>m3u8</name>
+  <expres>var src = '/(.*?)';</expres>
+  <page>http://live.dianshibo.com/le/embed?id=cctv9</page>
+  <referer>http://www.zoptv.com/live/cctv-9</referer>
+  <agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] CCTV-10</title>
+<link>http://live.dianshibo.com/$doregex[m3u8]</link>
+<regex>
+  <name>m3u8</name>
+  <expres>var src = '/(.*?)';</expres>
+  <page>http://live.dianshibo.com/le/embed?id=cctv10</page>
+  <referer>http://www.zoptv.com/live/cctv-10</referer>
+  <agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] CCTV-11</title>
+<link>http://live.dianshibo.com/$doregex[m3u8]</link>
+<regex>
+  <name>m3u8</name>
+  <expres>var src = '/(.*?)';</expres>
+  <page>http://live.dianshibo.com/le/embed?id=cctv11</page>
+  <referer>http://www.zoptv.com/live/cctv-11</referer>
+  <agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] CCTV-12</title>
+<link>http://live.dianshibo.com/$doregex[m3u8]</link>
+<regex>
+  <name>m3u8</name>
+  <expres>var src = '/(.*?)';</expres>
+  <page>http://live.dianshibo.com/le/embed?id=cctv12</page>
+  <referer>http://www.zoptv.com/live/cctv-12</referer>
+  <agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] CCTV-13</title>
+<link>http://live.dianshibo.com/$doregex[m3u8]</link>
+<regex>
+  <name>m3u8</name>
+  <expres>var src = '/(.*?)';</expres>
+  <page>http://live.dianshibo.com/le/embed?id=cctvnew</page>
+  <referer>http://www.zoptv.com/live/cctv-13</referer>
+  <agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] CCTV-14</title>
+<link>http://live.dianshibo.com/$doregex[m3u8]</link>
+<regex>
+  <name>m3u8</name>
+  <expres>var src = '/(.*?)';</expres>
+  <page>http://live.dianshibo.com/le/embed?id=cctvshaoer</page>
+  <referer>http://www.zoptv.com/live/cctv-14</referer>
+  <agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] CCTV-15</title>
+<link>http://live.dianshibo.com/$doregex[m3u8]</link>
+<regex>
+  <name>m3u8</name>
+  <expres>var src = '/(.*?)';</expres>
+  <page>http://live.dianshibo.com/le/embed?id=cctvmusic</page>
+  <referer>http://www.zoptv.com/live/cctv-15</referer>
+  <agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] CHINA MOVIE</title>
+<link>http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/chinamovie/as/live/chinamovie_4.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/chinamovie_zpsu5rd56hv.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] HUNAN INTERNATIONAL TV</title>
+<link>http://ktv045.cdnak.ds.kylintv.net/nlds/kylin/huntv/as/live/huntv_4.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/hunantv_zps73x44imk.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] HNTV JINYING CARTOON</title>
+<link>http://live.dianshibo.com/$doregex[m3u8]</link>
+<regex>
+  <name>m3u8</name>
+  <expres>var src = '/(.*?)';</expres>
+  <page>http://live.dianshibo.com/le/embed?id=jykt</page>
+  <referer>http://www.zoptv.com/live/hunan-jinyingkatong</referer>
+  <agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/hunanjinyingkatong_zps77ig04ln.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] KIRIN LIVE</title>
+<link>http://ktv015.cdnak.ds.kylintv.net/nlds/kylin/kylinlive/as/live/kylinlive_4.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/kirintv_zpsiqkj8wav.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] KIRIN ARTS</title>
+<link>http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/varietyhd/as/live/varietyhd_4.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/kirintv_zpsiqkj8wav.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] KIRIN CHILDREN</title>
+<link>http://ktv041.cdnak.ds.kylintv.net/nlds/kylin/kids/as/live/kids_4.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/kirintv_zpsiqkj8wav.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] KIRIN FASHION</title>
+<link>http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/leisure/as/live/leisure_4.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/kirintv_zpsiqkj8wav.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] PHOENIX TV</title>
+<link>http://ktv028.cdnak.ds.kylintv.net/nlds/kylin/pxasia/as/live/pxasia_4.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/phoenixtv_zpsmhohqxjq.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] PHOENIX INFONEWS</title>
+<link>http://ktv005.cdnak.ds.kylintv.net/nlds/kylin/pxinhd/as/live/pxinhd_4.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/phoenixinfo_zpswryu8eld.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] SHANDONG TV</title>
+<link>http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/sdtvhd/as/live/sdtvhd.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/shandongtv_zpseumd12yh.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] TIANJIN TV</title>
+<link>http://ktv041.cdnak.ds.kylintv.net/nlds/kylin/tjtvhd/as/live/tjtvhd_4.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/tianjintv_zpsnjgrwxct.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] ZHEJIANG TV</title>
+<link>http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/zhejtvhd/as/live/zhejtvhd_4.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/zhejiangtv_zpspygzblqy.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR hotpink]..... HONG KONG .....[/COLOR]</title>
+<link>http://ignoreme</link>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] HKS</title>
+<link>http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/hkstv_zpsswudi87a.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] HKTV</title>
+<link>http://14.198.245.135:8088/hktvlive/hktv_432pb_track.m3u8?t=12e9a7f66f3a892b396e94d81206eb6c&amp;udid=82ab2c92-e15a-4b81-9c1b-2f98fbf3d596&amp;uid=1&amp;vid=1&amp;mxres=720&amp;s=f28849d9f4c57e9e93a5e77cc87c7338</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/HKTV_zpsqkdtcw2l.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] RTHK 31</title>
+<link>http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/rthk_zpsmnd3e6vm.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] RTHK 32</title>
+<link>http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1296_av-b.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/rthk_zpsmnd3e6vm.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Offline[/COLOR] TVB JADE</title>
+<link>http://58.218.152.98:7712/feichui.m3u8?key=1234</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/tvb_zpsg3msqsap.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Offline[/COLOR] TVB J2</title>
+<link>http://58.218.152.98:7712/j253.m3u8?key=1234</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/tvb_zpsg3msqsap.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Offline[/COLOR] TVB J5</title>
+<link>http://token.tvb.com/stream/live/hls/mobilehd_hdj.smil?app=mytv|X-Forwarded-For=58.96.179.7</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/tvb_zpsg3msqsap.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Offline[/COLOR] TVB PEARL</title>
+<link>http://token.tvb.com/stream/live/hls/mobilehd_pearl.smil?app=mytv|X-Forwarded-For=58.96.179.7</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/tvb_zpsg3msqsap.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Offline[/COLOR] TVB iNEWS</title>
+<link>http://58.218.152.98:7712/hudongxw23.m3u8?key=1234</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/tvb_zpsg3msqsap.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Offline[/COLOR] VIU TV</title>
+<link>http://nowtv100-i.akamaihd.net/hls/live/229941/live1/stream3/streamPlaylist.m3u8|X-Forwarded-For=58.96.179.7</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/viutv_zpsdw2utvxt.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR hotpink]..... TAIWAN .....[/COLOR]</title>
+<link>http://ignoreme</link>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] CTS</title>
+<link>http://ktv037.cdnak.ds.kylintv.net/nlds/kylin/ctshd/as/live/ctshd_4.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cts_zpsnye3q56o.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] CTV NEWS [COLOR hotpink](required youtube addon)[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=zJtmGiNfTMM</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/ctv_zpsgmgwcrfg.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] CTI NEWS [COLOR hotpink](required youtube addon)[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=hgIfZz8STLk</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/ctinews_zpsaqsagrsu.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] EASTERN TV</title>
+<link>http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/etgbl/as/live/etgbl_4.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/easterntv_zps4mjedcrh.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] EASTERN SURE</title>
+<link>http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/etyoyo/as/live/etyoyo_4.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/easterntv_zps4mjedcrh.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] FORMOSA TV</title>
+<link>http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/formosatv/as/live/formosatv_4.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/formosatv_zpsiz07y4aq.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] FORMOSA NEWS [COLOR hotpink](required youtube addon)[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=XxJKnDLYZz4</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/formosatv_zpsiz07y4aq.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] GOOD TV 1</title>
+<link>http://live1.goodtv.tv/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/goodtv_zpscor9uaqx.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] GOOD TV 2</title>
+<link>http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch2-3.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/goodtv_zpscor9uaqx.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] NEXT TV</title>
+<link>http://m.nexttv.com.tw/mbr2.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/nexttv_zps1qjh5htj.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] TTV</title>
+<link>http://ktv042.cdnak.ds.kylintv.net/nlds/kylin/ttv/as/live/ttv_4.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/ttv_zpsuq8qutrg.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] TTV NEWS [COLOR hotpink](required youtube addon)[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=yk2CUjbyyQY</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/ttv_zpsuq8qutrg.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR hotpink]..... MACAU .....[/COLOR]</title>
+<link>http://ignoreme</link>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] LOTUS MACAU</title>
+<link>http://live-hls.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/lotusmacau_zpsosvrqf7t.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] MASTV</title>
+<link>http://live.mastvnet.com/n1rtlHG/500/live.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/mastv_zpsxvk5wgcz.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] TDM OU MUN</title>
+<link>http://218.213.227.174:1935/tv/ch1.live/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/tdm_zpscauagr1u.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] CANAL MACAU</title>
+<link>http://218.213.227.174:1935/tv/ch2.live/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/tdm_zpscauagr1u.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] TDM MACAU</title>
+<link>http://218.213.227.174:1935/tv/ch3.live/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/tdm_zpscauagr1u.png</thumbnail>
+</item>
