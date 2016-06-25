@@ -26,7 +26,7 @@
 
 <item>
 <title>[COLOR white]NUR ISLAM 93.3FM[/COLOR]</title>
-<link>rtsp://202.160.15.86/nurislam-01</link>
+<link>mms://202.160.15.85/nurislam-01</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -38,7 +38,7 @@
 
 <item>
 <title>[COLOR white]PILIHAN 95.9FM[/COLOR]</title>
-<link>rtsp://202.160.15.86/pilihan-01</link>
+<link>mms://202.160.15.85/pilihan-01</link>
 <thumbnail></thumbnail>
 </item>
 
