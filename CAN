@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<item>
+<title>[COLOR lightgreen]Last Update: June 11, 2016[/COLOR]</title>
+<link>http://ignoreme</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] GLOBAL TV HALIFAX</title>
+<link>https://glblvhalifax-lh.akamaihd.net/i/glblvHalifax_1@119843/master.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/globaltv_zpsmqjxegvm.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] GLOBAL TV TORONTO</title>
+<link>https://glblvestu-f.akamaihd.net/i/glblvestu_1@78149/master.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/globaltv_zpsmqjxegvm.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] GLOBAL TV VANCOUVER</title>
+<link>https://glblvestu-f.akamaihd.net/i/glblvPSTu_1@80128/master.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/globaltv_zpsmqjxegvm.png</thumbnail>
+</item>
