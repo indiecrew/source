@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<item>
+<title>[COLOR lightgreen]Last Update: June 25, 2016[/COLOR]</title>
+<link>http://ignoreme</link>
+<thumbnail>http://img.freeflagicons.com/thumb/round_icon/singapore/singapore_640.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]HARMONI 94.1FM[/COLOR]</title>
+<link>http://50.7.96.210:8523/;stream.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]KRISTAL FM[/COLOR]</title>
+<link>http://202.152.73.2:801/kfm</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]NOSIONAL 92.3FM[/COLOR]</title>
+<link>http://72.20.10.60:8000/;stream.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]NUR ISLAM 93.3FM[/COLOR]</title>
+<link>rtsp://202.160.15.86/nurislam-01</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]PELANGI 91.4FM[/COLOR]</title>
+<link>http://72.20.10.61:8000/;stream.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]PILIHAN 95.9FM[/COLOR]</title>
+<link>rtsp://202.160.15.86/pilihan-01</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]UBD FM[/COLOR]</title>
+<link>http://202.160.1.55:8000/;stream.mp3?type=.mp3/;stream.mp3</link>
+<thumbnail></thumbnail>
+</item>
