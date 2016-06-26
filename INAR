@@ -49,12 +49,6 @@
 </item>
 
 <item>
-<title>[COLOR white]ELGANGGA 100.3FM[/COLOR]</title>
-<link>http://103.28.148.18:8174/;stream.mp3</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>[COLOR white]GEN 98.7FM[/COLOR]</title>
 <link>rtmp://cdn-edge.sim-indonesia.com:443/radio playpath=genjkt.stream swfUrl=http://www.sportku.com/files/js/apmplayer/script/lib/swf/soundmanager2_flash9.swf pageUrl=http://www.sportku.com/iframe/987genfm_apmplayer2.html?p=www.987genfm.com</link>
 <thumbnail></thumbnail>
@@ -97,12 +91,6 @@
 </item>
 
 <item>
-<title>[COLOR white]JALASVEVA JAYAMAHE 108.0FM[/COLOR]</title>
-<link>http://s3.vinhostmedia.com:6464/;stream.mp3</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>[COLOR white]KIS FM 95.1FM[/COLOR]</title>
 <link>http://live.indostreamserver.com:8800/kisfm</link>
 <thumbnail></thumbnail>
@@ -133,12 +121,6 @@
 </item>
 
 <item>
-<title>[COLOR white]PAS 92.4FM[/COLOR]</title>
-<link>http://202.146.225.106:8080/;stream.mp3</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>[COLOR white]PELITA KASIH 96.3FM[/COLOR]</title>
 <link>http://rpkfm.indostreamserver.com:8030/;stream.mp3</link>
 <thumbnail></thumbnail>
@@ -147,12 +129,6 @@
 <item>
 <title>[COLOR white]PRAMBORS 102.2FM[/COLOR]</title>
 <link>http://masima.rastream.com/masima-pramborsjakarta?awparams=lan%3A%5B%22en%22%5D%3BsetLanguage%3Atrue%3Bstationid%3Amasima-pramborsjakarta%3Btags%3Aradioactive%3BcompanionAds%3Atrue&listenerid=45a7fc584486bae744182f5d73fed5be&type=.flv</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]RADIO ALAIKASSALAM JAKARTA 95.5FM[/COLOR]</title>
-<link>http://i.klikhost.net:9006/;stream.mp3</link>
 <thumbnail></thumbnail>
 </item>
 
