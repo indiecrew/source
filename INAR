@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<item>
+<title>[COLOR lightgreen]Last Update: June 25, 2016[/COLOR]</title>
+<link>http://ignoreme</link>
+<thumbnail>http://img.freeflagicons.com/thumb/round_icon/indonesia/indonesia_640.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]BAHANA 101.8FM[/COLOR]</title>
+<link>http://live.bahanafm.co.id:8102/;stream.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]BENS RADIO 106.2FM[/COLOR]</title>
+<link>http://175.103.58.72:8000/;stream.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]BRAVA RADIO 103.8FM[/COLOR]</title>
+<link>http://mra.rastream.com/mra_brava?type=.flv</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]CAMAJAYA 102.6FM[/COLOR]</title>
+<link>http://live.camajayafm.com:8220/;stream.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]COSMOPOLITAN 90.4FM[/COLOR]</title>
+<link>http://mra.rastream.com/mra_cosmo?type=.flv</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]DELTA 99.1FM[/COLOR]</title>
+<link>http://masima.rastream.com/masima-deltajakarta</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]ELSHINTA 90.0FM[/COLOR]</title>
+<link>http://202.137.4.147:8000/;stream.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]ELGANGGA 100.3FM[/COLOR]</title>
+<link>http://103.28.148.18:8174/;stream.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]GEN 98.7FM[/COLOR]</title>
+<link>rtmp://cdn-edge.sim-indonesia.com:443/radio playpath=genjkt.stream swfUrl=http://www.sportku.com/files/js/apmplayer/script/lib/swf/soundmanager2_flash9.swf pageUrl=http://www.sportku.com/iframe/987genfm_apmplayer2.html?p=www.987genfm.com</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]GLOBAL 88.4FM[/COLOR]</title>
+<link>http://202.147.199.98:8000/;stream.nsv</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]HARD ROCK 87.6FM[/COLOR]</title>
+<link>http://mra.rastream.com/mra_hardrock</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]HITZ RADIO 96.7FM[/COLOR]</title>
+<link>http://103.16.199.43:8900/;stream.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]I-RADIO 89.6FM[/COLOR]</title>
+<link>http://mra.rastream.com/mra_iradio?awparams=%3Btags%3Asplashtest&type=.flv</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]INDIKA MILENIA 91.6FM[/COLOR]</title>
+<link>http://103.16.199.177:9160/;stream.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]JAK 101.0FM[/COLOR]</title>
+<link>rtmp://cdn-edge.sim-indonesia.com:443/radio playpath=jakfm.stream swfUrl=http://cdn.sportku.com/player/flowplayer.commercial-3.2.18.swf pageUrl=http://www.987genfm.com/iframe/jakfm.html</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]JALASVEVA JAYAMAHE 108.0FM[/COLOR]</title>
+<link>http://s3.vinhostmedia.com:6464/;stream.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]KIS FM 95.1FM[/COLOR]</title>
+<link>http://live.indostreamserver.com:8800/kisfm</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LITE 105.8FM[/COLOR]</title>
+<link>http://live.indostreamserver.com:8800/litefm</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]MUSTANG 88.0FM[/COLOR]</title>
+<link>http://live.indostreamserver.com:8800/mustang</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]NINETYNINERS 99.9FM[/COLOR]</title>
+<link>http://ninetyninersbdg.sg.myradio.web.id:8888/ninetyninersbdg</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]NIAGA CHAKTI BHUDI BHAKTI 105.4FM[/COLOR]</title>
+<link>http://live.bandardangdut.net:8228/;stream.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]PAS 92.4FM[/COLOR]</title>
+<link>http://202.146.225.106:8080/;stream.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]PELITA KASIH 96.3FM[/COLOR]</title>
+<link>http://rpkfm.indostreamserver.com:8030/;stream.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]PRAMBORS 102.2FM[/COLOR]</title>
+<link>http://masima.rastream.com/masima-pramborsjakarta?awparams=lan%3A%5B%22en%22%5D%3BsetLanguage%3Atrue%3Bstationid%3Amasima-pramborsjakarta%3Btags%3Aradioactive%3BcompanionAds%3Atrue&listenerid=45a7fc584486bae744182f5d73fed5be&type=.flv</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]RADIO ALAIKASSALAM JAKARTA 95.5FM[/COLOR]</title>
+<link>http://i.klikhost.net:9006/;stream.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]RADIO CAKRAWALA 98.3FM[/COLOR]</title>
+<link>http://158.69.119.235:8016/;stream.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]RADIO DANGDUT INDONESIA 97.1FM[/COLOR]</title>
+<link>http://202.147.199.99:8000/;stream.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]RADIO DFM 103.4FM[/COLOR]</title>
+<link>http://streaming.radio.co/s2c4ce84ef/listen</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]RRI PRO 1 91.2FM[/COLOR]</title>
+<link>http://180.250.80.114:9025/web-rrijakartapro1.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]RRI PRO 2 105.0FM[/COLOR]</title>
+<link>http://180.250.80.114:9025/web-rrijakartapro2.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]RRI PRO 3 88.8FM[/COLOR]</title>
+<link>http://180.250.80.114:9014/web-kbrn.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]RRI PRO 4 92.8FM[/COLOR]</title>
+<link>http://180.250.80.114:9025/web-rrijakartapro4.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]SONORA 92.0FM[/COLOR]</title>
+<link>http://58.65.241.99:8080/live</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]SMART 95.9FM[/COLOR]</title>
+<link>http://101.50.0.77:8000/smartfm.aac</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]SINDO RADIO 104.6FM[/COLOR]</title>
+<link>http://202.147.199.101:8000/;stream.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]SCOUT RADIO 107.7FM[/COLOR]</title>
+<link>http://111.68.31.150:8000/cradio.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]SSK 107.9FM[/COLOR]</title>
+<link>http://202.133.2.250:8000/live</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]TRAX 101.4FM[/COLOR]</title>
+<link>http://mra.rastream.com/mra_trax?awparams=%3Btags%3Atrax%3Btags%3Asplashtest&type=.flv</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]V RADIO 106.6FM[/COLOR]</title>
+<link>http://202.147.199.100:8000/;stream.mp3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]WOMAN RADIO 94.3FM[/COLOR]</title>
+<link>http://202.182.172.146:8005/;stream.mp3</link>
+<thumbnail></thumbnail>
+</item>
