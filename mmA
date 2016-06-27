@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<channels>
+
+<channel>
+<name>[COLOR Orange]LIVESTREAM:[/COLOR] [COLOR White]LOCAL TV[/COLOR]</name>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_world_zpsic7ttnuh.png</thumbnail>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</channel>
+
+<channel>
+<name>[COLOR Orange]LIVESTREAM:[/COLOR] [COLOR White]LOCAL RADIO[/COLOR]</name>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_world_zpsic7ttnuh.png</thumbnail>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</channel>
+
+<channel>
+<name>[COLOR Orange]VIDEO:[/COLOR] [COLOR White]HISTORY[/COLOR]</name>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_world_zpsic7ttnuh.png</thumbnail>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</channel>
+
+<channel>
+<name>[COLOR Orange]VIDEO:[/COLOR] [COLOR White]TRAVEL[/COLOR]</name>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_world_zpsic7ttnuh.png</thumbnail>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</channel>
+
+<channel>
+<name>[COLOR Orange]VIDEO:[/COLOR] [COLOR White]NEWS[/COLOR]</name>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_world_zpsic7ttnuh.png</thumbnail>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</channel>
+
+</channels>
