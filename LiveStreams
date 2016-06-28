@@ -6,18 +6,18 @@
 <name>[COLOR skyblue]TODAY UPDATES[/COLOR]</name>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_world_zpsic7ttnuh.png</thumbnail>
 <link>http://ignoreme</link>
-<externallink>http://ignoreme</externallink>
+<externallink>https://raw.githubusercontent.com/indiecrew/ProjectMRNetwork/master/plugin.video.mrnetworktv/updates</externallink>
 </channel>
 
 <channel>
-<name>[COLOR skyblue]Live TV Streams Channels[/COLOR]</name>
+<name>[COLOR skyblue]LIVESTREAM : LOCAL TV CHANNEL[/COLOR]</name>
 <thumbnail>http://ignoreme</thumbnail>
 <link>http://ignoreme</link>
 <externallink>http://ignoreme</externallink>
 </channel>
 
 <channel>
-<name>[COLOR White]AUSTRALIA[/COLOR]</name>
+<name>AUSTRALIA</name>
 <thumbnail>http://img.freeflagicons.com/thumb/round_icon/australia/australia_640.png</thumbnail>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/indiecrew/source/master/AUS?token=AMv1Nkvi1wq_991865BVkJFEwzKsH1xVks5Xe2IVwA%3D%3D</externallink>
@@ -25,63 +25,63 @@
 
 
 <channel>
-<name>[COLOR White]BRUNEI[/COLOR]</name>
+<name>BRUNEI</name>
 <thumbnail>http://img.freeflagicons.com/thumb/round_icon/brunei/brunei_640.png</thumbnail>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/indiecrew/source/master/BRN?token=AMv1Nujh57S6vVagTSXju9fLxtGcgbfoks5Xd4mHwA%3D%3D</externallink>
 </channel>
 
 <channel>
-<name>[COLOR White]INDONESIA[/COLOR]</name>
+<name>INDONESIA</name>
 <thumbnail>http://img.freeflagicons.com/thumb/round_icon/indonesia/indonesia_640.png</thumbnail>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/indiecrew/source/master/INA?token=AMv1NqC2CrZO2dfgB75Mrpus7jGP7tulks5Xd4lvwA%3D%3D</externallink>
 </channel>
   
 <channel>
-<name>[COLOR White]MALAYSIA[/COLOR]</name>
+<name>MALAYSIA</name>
 <thumbnail>http://img.freeflagicons.com/thumb/round_icon/malaysia/malaysia_640.png</thumbnail>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/indiecrew/source/master/MAS?token=AMv1Nnk8g2RM_ss1JjDpKE4dfA4InOolks5Xd4m1wA%3D%3D</externallink>
 </channel>
 
 <channel>
-<name>[COLOR White]SINGAPORE[/COLOR]</name>
+<name>SINGAPORE</name>
 <thumbnail>http://img.freeflagicons.com/thumb/round_icon/singapore/singapore_640.png</thumbnail>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/indiecrew/source/master/SG?token=AMv1NlbELsFLNYvUGhE-WCf5VhwPVKSQks5Xd4mhwA%3D%3D</externallink>
 </channel>
 
 <channel>
-<name>[COLOR skyblue]Live Radio Streams Channels[/COLOR]</name>
+<name>[COLOR skyblue]LIVESTREAM : LOCAL RADIO CHANNEL[/COLOR]</name>
 <thumbnail>http://ignoreme</thumbnail>
 <link>http://ignoreme</link>
 <externallink>http://ignoreme</externallink>
 </channel>
 
 <channel>
-<name>[COLOR White]BRUNEI[/COLOR]</name>
+<name>BRUNEI</name>
 <thumbnail>http://img.freeflagicons.com/thumb/round_icon/brunei/brunei_640.png</thumbnail>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/indiecrew/source/master/BRNR?token=AMv1Ni8CuAuVWsb97Tmi96Okrk2vY3afks5Xd-CuwA%3D%3D</externallink>
 </channel>
 
 <channel>
-<name>[COLOR White]INDONESIA[/COLOR]</name>
+<name>INDONESIA</name>
 <thumbnail>http://img.freeflagicons.com/thumb/round_icon/indonesia/indonesia_640.png</thumbnail>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/indiecrew/source/master/INAR?token=AMv1NioAWOPu8wdY8eK8a0gG3EE1TdSGks5XeQRowA%3D%3D</externallink>
 </channel>
   
 <channel>
-<name>[COLOR White]MALAYSIA[/COLOR]</name>
+<name>MALAYSIA</name>
 <thumbnail>http://img.freeflagicons.com/thumb/round_icon/malaysia/malaysia_640.png</thumbnail>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/indiecrew/source/master/MASR?token=AMv1Ns1anJp3d2LM3hMMJmEjuFQ1T4Amks5Xd9m5wA%3D%3D</externallink>
 </channel>
 
 <channel>
-<name>[COLOR White]SINGAPORE[/COLOR]</name>
+<name>SINGAPORE</name>
 <thumbnail>http://img.freeflagicons.com/thumb/round_icon/singapore/singapore_640.png</thumbnail>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/indiecrew/source/master/SGR?token=AMv1NuEyd9IGMzCowNgwu-RD1Nzynr2Pks5Xd9u-wA%3D%3D</externallink>
