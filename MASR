@@ -7,7 +7,7 @@
 </item>
 
 <item>
-<title>[COLOR white]ASYIK FM[/COLOR]</title>
+<title>ASYIK FM</title>
 <link>$doregex[getM3u8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0&amp;Referer=http://cdn-rtm-player.gluempsapp.com/dist/v7/player.flash.swf</link>
 <regex>
 <name>getM3u8</name>
@@ -20,7 +20,7 @@
 </item>
 
 <item>
-<title>[COLOR white]AI FM[/COLOR]</title>
+<title>AI FM</title>
 <link>$doregex[getM3u8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0&amp;Referer=http://cdn-rtm-player.gluempsapp.com/dist/v7/player.flash.swf</link>
 <regex>
 <name>getM3u8</name>
@@ -33,19 +33,19 @@
 </item>
 
 <item>
-<title>[COLOR white]BAYU FM[/COLOR]</title>
+<title>BAYU FM</title>
 <link>http://ingest2.astro4.rastream.com/bayu?type=.flv</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/BayuFM_zpsglplwxkg.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]BEST FM[/COLOR]</title>
+<title>BEST FM</title>
 <link>http://s8.voscast.com:8686/;stream.mp3</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/BestFM_zpsxykugra9.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]CLASSIC ROCK FM[/COLOR]</title>
+<title>CLASSIC ROCK FM</title>
 <link>http://astro4.rastream.com/rock?type=.flv</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/ClassicRock_zpssdpshlzh.png</thumbnail>
 </item>
@@ -57,55 +57,55 @@
 </item>
 
 <item>
-<title>[COLOR white]FLY FM[/COLOR]</title>
+<title>FLY FM</title>
 <link>http://13413.live.streamtheworld.com/FLYFMAAC_SC</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/FlyFM_zpsozofyihg.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]GOLD FM[/COLOR]</title>
+<title>GOLD FM</title>
 <link>http://astro4.rastream.com/gold?type=.flv</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/GoldFM_zpshggilvir.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]HOT FM[/COLOR]</title>
+<title>HOT FM</title>
 <link>http://14623.live.streamtheworld.com/HOTFMAAC_SC</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/HotFM_zpslatlx1u8.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]HITZ FM[/COLOR]</title>
+<title>HITZ FM</title>
 <link>http://astro1.rastream.com/hitz?type=.flv</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/HitzFM_zpsltcmyqsc.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]IKIM FM[/COLOR]</title>
+<title>IKIM FM</title>
 <link>http://50.7.96.210:8285/;stream.mp3</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/IkimFM_zpsf5enombi.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]INDIA BEAT FM[/COLOR]</title>
+<title>INDIA BEAT FM</title>
 <link>http://astro4.rastream.com/india?type=.flv</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/IndiaBeat_zpsyzgvathy.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]JAZZ FM[/COLOR]</title>
+<title>JAZZ FM</title>
 <link>http://astro4.rastream.com/jazz?type=.flv</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/JazzFM_zps84o3sbuw.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]KENYALANG FM[/COLOR]</title>
+<title>KENYALANG FM</title>
 <link>http://ingest2.astro4.rastream.com/kenyalang?type=.flv</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/KenyalangFM_zpsyxyzwqyf.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]KLFM[/COLOR]</title>
+<title>KLFM</title>
 <link>$doregex[getM3u8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0&amp;Referer=http://cdn-rtm-player.gluempsapp.com/dist/v7/player.flash.swf</link>
 <regex>
 <name>getM3u8</name>
@@ -118,7 +118,7 @@
 </item>
 
 <item>
-<title>[COLOR white]KLASIK FM[/COLOR]</title>
+<title>KLASIK FM</title>
 <link>$doregex[getM3u8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0&amp;Referer=http://cdn-rtm-player.gluempsapp.com/dist/v7/player.flash.swf</link>
 <regex>
 <name>getM3u8</name>
@@ -131,37 +131,37 @@
 </item>
 
 <item>
-<title>[COLOR white]LITE FM[/COLOR]</title>
+<title>LITE FM</title>
 <link>http://astro1.rastream.com/lite?type=.flv</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/LiteFM_zpsbpr1f9zh.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]MUZIK FM[/COLOR]</title>
+<title>MUZIK FM</title>
 <link>http://d1dyjmgkbos6tr.cloudfront.net/smil:rtm-ch005.smil/chunklist_b1040000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/MuzikFM_zpssqq6idsq.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]MIX FM[/COLOR]</title>
+<title>MIX FM</title>
 <link>http://astro2.rastream.com/mix?type=.flv</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/MixFM_zpsmg3dqhtt.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]MY FM[/COLOR]</title>
+<title>MY FM</title>
 <link>http://astro1.rastream.com/myfm?type=.flv</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/MyFM_zpseqgw8vi9.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]MELODY FM[/COLOR]</title>
+<title>MELODY FM</title>
 <link>http://astro3.rastream.com/melody?type=.flv</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/MelodyFM_zps97ibjuiw.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]MINNAL FM[/COLOR]</title>
+<title>MINNAL FM</title>
 <link>$doregex[getM3u8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0&amp;Referer=http://cdn-rtm-player.gluempsapp.com/dist/v7/player.flash.swf</link>
 <regex>
 <name>getM3u8</name>
@@ -174,7 +174,7 @@
 </item>
 
 <item>
-<title>[COLOR white]NASIONAL FM[/COLOR]</title>
+<title>NASIONAL FM</title>
 <link>$doregex[getM3u8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0&amp;Referer=http://cdn-rtm-player.gluempsapp.com/dist/v7/player.flash.swf</link>
 <regex>
 <name>getM3u8</name>
@@ -187,61 +187,61 @@
 </item>
 
 <item>
-<title>[COLOR white]NURUL QURAN FM[/COLOR]</title>
+<title>NURUL QURAN FM</title>
 <link>http://cloud.tujuh.my:8073/stream</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/NurulQuran_zpsuhbcdpyq.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]ONE FM[/COLOR]</title>
+<title>ONE FM</title>
 <link>http://5293.live.streamtheworld.com/ONEFMAAC_SC</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/OneFM_zpso8sowlsv.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]OPUS FM[/COLOR]</title>
+<title>OPUS FM</title>
 <link>http://astro4.rastream.com/opus?type=.flv</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/OpusFM_zpsekw1xlh2.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]OSAI FM[/COLOR]</title>
+<title>OSAI FM</title>
 <link>http://astro4.rastream.com/osai?type=.flv</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/OsaiFM_zpstajx58fo.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]RED FM[/COLOR]</title>
+<title>RED FM</title>
 <link>http://starrfm.rastream.com/starrfm-redfm?type=.flv</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/RedFM_zpsrrtk5zd3.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]SURIA FM[/COLOR]</title>
+<title>SURIA FM</title>
 <link>http://starrfm.rastream.com/starrfm-suria?type=.flv</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/SuriaFM_zpsflw4vnnw.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]SINAR FM[/COLOR]</title>
+<title>SINAR FM</title>
 <link>http://astro2.rastream.com/sinar?type=.flv</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/SinarFM_zpseo3limqi.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]THR GEGAR[/COLOR]</title>
+<title>THR GEGAR</title>
 <link>http://astro3.rastream.com/gegar?type=.flv</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/ThrGegar_zps62a7mbgf.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]THR RAAGA[/COLOR]</title>
+<title>THR RAAGA</title>
 <link>http://astro3.rastream.com/raaga?type=.flv</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/ThrRaaga_zpsudmylnvh.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]TRAXX FM[/COLOR]</title>
+<title>TRAXX FM</title>
 <link>$doregex[getM3u8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0&amp;Referer=http://cdn-rtm-player.gluempsapp.com/dist/v7/player.flash.swf</link>
 <regex>
 <name>getM3u8</name>
@@ -254,7 +254,7 @@
 </item>
 
 <item>
-<title>[COLOR white]VFM[/COLOR]</title>
+<title>VFM</title>
 <link>$doregex[getM3u8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0&amp;Referer=http://cdn-rtm-player.gluempsapp.com/dist/v7/player.flash.swf</link>
 <regex>
 <name>getM3u8</name>
@@ -267,7 +267,7 @@
 </item>
 
 <item>
-<title>[COLOR white]WAI FM[/COLOR]</title>
+<title>WAI FM</title>
 <link>$doregex[getM3u8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0&amp;Referer=http://cdn-rtm-player.gluempsapp.com/dist/v7/player.flash.swf</link>
 <regex>
 <name>getM3u8</name>
@@ -280,7 +280,7 @@
 </item>
 
 <item>
-<title>[COLOR white]XFRESH FM[/COLOR]</title>
+<title>XFRESH FM</title>
 <link>http://audri.rastream.com/amp-xfm_audri?type=.flv</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/XFM_zpstjzl8hci.png</thumbnail>
 </item>
