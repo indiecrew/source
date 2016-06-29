@@ -50,13 +50,6 @@
 <link>http://ignoreme</link>
 <externallink>http://tiny.cc/jptv</externallink>
 </channel>
-  
-<channel>
-<name>MALAYSIA</name>
-<thumbnail>http://img.freeflagicons.com/thumb/round_icon/malaysia/malaysia_640.png</thumbnail>
-<link>http://ignoreme</link>
-<externallink>http://tiny.cc/mastv</externallink>
-</channel>
 
 <channel>
 <name>SINGAPORE</name>
@@ -85,13 +78,6 @@
 <link>http://ignoreme</link>
 <externallink>http://tiny.cc/inarad</externallink>
 </channel>
-  
-<channel>
-<name>MALAYSIA</name>
-<thumbnail>http://img.freeflagicons.com/thumb/round_icon/malaysia/malaysia_640.png</thumbnail>
-<link>http://ignoreme</link>
-<externallink>http://tiny.cc/masrad</externallink>
-</channel>
 
 <channel>
 <name>SINGAPORE</name>
@@ -101,7 +87,7 @@
 </channel>
 
 <channel>
-<name>[COLOR skyblue]VIDEO : ANIMATION[/COLOR] (BETA)</name>
+<name>[COLOR skyblue]VIDEO : ANIMATION MOVIES[/COLOR] (BETA RELEASE)</name>
 <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
 <items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <item>
