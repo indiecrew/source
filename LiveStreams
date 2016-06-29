@@ -100,12 +100,12 @@
 <externallink>http://tiny.cc/singrad</externallink>
 </channel>
 
-</channels>
-
+<channel>
+<name>[COLOR skyblue]VIDEO : ANIMATION[/COLOR] (BETA)</name>
+<thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
 <items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-
 <item>
-<title>[COLOR skyblue]VIDEO : ANIMATION[/COLOR] (BETA)</title>
+<title>[COLOR skyblue]ANIMATION[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
       <name>makelist</name>
@@ -166,6 +166,7 @@
 </regex>
 <thumbnail>https://raw.githubusercontent.com/team-avengers/Avengers/master/Icons/MOVIES.png</thumbnail>
 </item>
-
 </items>
+</channel>
 
+</channels>
