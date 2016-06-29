@@ -100,7 +100,10 @@
 <externallink>http://tiny.cc/singrad</externallink>
 </channel>
 
+</channels>
+
 <items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
 <item>
 <title>[COLOR skyblue]VIDEO : ANIMATION[/COLOR] (BETA)</title>
 <link>$doregex[makelist]</link>
@@ -163,6 +166,6 @@
 </regex>
 <thumbnail>https://raw.githubusercontent.com/team-avengers/Avengers/master/Icons/MOVIES.png</thumbnail>
 </item>
+
 </items>
 
-</channels>
