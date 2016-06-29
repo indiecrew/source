@@ -23,7 +23,6 @@
 <externallink>http://tiny.cc/austv</externallink>
 </channel>
 
-
 <channel>
 <name>BRUNEI</name>
 <thumbnail>http://img.freeflagicons.com/thumb/round_icon/brunei/brunei_640.png</thumbnail>
@@ -32,10 +31,24 @@
 </channel>
 
 <channel>
+<name>CHINA</name>
+<thumbnail>http://img.freeflagicons.com/thumb/round_icon/brunei/brunei_640.png</thumbnail>
+<link>http://ignoreme</link>
+<externallink>http://tiny.cc/chntv</externallink>
+</channel>
+
+<channel>
 <name>INDONESIA</name>
 <thumbnail>http://img.freeflagicons.com/thumb/round_icon/indonesia/indonesia_640.png</thumbnail>
 <link>http://ignoreme</link>
 <externallink>http://tiny.cc/inatv</externallink>
+</channel>
+
+<channel>
+<name>JAPAN</name>
+<thumbnail>http://img.freeflagicons.com/thumb/round_icon/brunei/brunei_640.png</thumbnail>
+<link>http://ignoreme</link>
+<externallink>http://tiny.cc/jptv</externallink>
 </channel>
   
 <channel>
