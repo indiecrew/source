@@ -8,27 +8,13 @@
 
 <item>
 <title>ASYIK FM</title>
-<link>$doregex[getM3u8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0&amp;Referer=http://cdn-rtm-player.gluempsapp.com/dist/v7/player.flash.swf</link>
-<regex>
-<name>getM3u8</name>
-<expres>file : "(.*?)"</expres>
-<page>http://cdn-rtm-player.gluempsapp.com/105/10161</page>
-<referer>http://myklik.rtm.gov.my/radio/10161</referer>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0</agent>
-</regex>
+<link>http://dkmgz1nucppmx.cloudfront.net/rtm-ch022/playlist.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/AsyikFM_zpsdp9jlab0.png</thumbnail>
 </item>
 
 <item>
 <title>AI FM</title>
-<link>$doregex[getM3u8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0&amp;Referer=http://cdn-rtm-player.gluempsapp.com/dist/v7/player.flash.swf</link>
-<regex>
-<name>getM3u8</name>
-<expres>file : "(.*?)"</expres>
-<page>http://cdn-rtm-player.gluempsapp.com/105/10159</page>
-<referer>http://myklik.rtm.gov.my/radio/10159</referer>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0</agent>
-</regex>
+<link>http://dkmgz1nucppmx.cloudfront.net/rtm-ch020/playlist.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/AiFM_zps9vppoztl.png</thumbnail>
 </item>
 
@@ -51,7 +37,7 @@
 </item>
 
 <item>
-<title>[COLOR white]ERA FM[/COLOR]</title>
+<title>ERA FM</title>
 <link>http://astro2.rastream.com/era?type=.flv</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/EraFM_zpseiqsgmx1.png</thumbnail>
 </item>
@@ -106,27 +92,13 @@
 
 <item>
 <title>KLFM</title>
-<link>$doregex[getM3u8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0&amp;Referer=http://cdn-rtm-player.gluempsapp.com/dist/v7/player.flash.swf</link>
-<regex>
-<name>getM3u8</name>
-<expres>file : "(.*?)"</expres>
-<page>http://cdn-rtm-player.gluempsapp.com/105/10157</page>
-<referer>http://myklik.rtm.gov.my/radio/10157</referer>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0</agent>
-</regex>
+<link>http://dkmgz1nucppmx.cloudfront.net/rtm-ch018/playlist.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/KLFM_zpsvzn72vl8.png</thumbnail>
 </item>
 
 <item>
 <title>KLASIK FM</title>
-<link>$doregex[getM3u8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0&amp;Referer=http://cdn-rtm-player.gluempsapp.com/dist/v7/player.flash.swf</link>
-<regex>
-<name>getM3u8</name>
-<expres>file : "(.*?)"</expres>
-<page>http://cdn-rtm-player.gluempsapp.com/105/10155</page>
-<referer>http://myklik.rtm.gov.my/radio/10155</referer>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0</agent>
-</regex>
+<link>http://dkmgz1nucppmx.cloudfront.net/rtm-ch016/playlist.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/KlasikFM_zpsfcaw4xzh.png</thumbnail>
 </item>
 
@@ -162,27 +134,13 @@
 
 <item>
 <title>MINNAL FM</title>
-<link>$doregex[getM3u8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0&amp;Referer=http://cdn-rtm-player.gluempsapp.com/dist/v7/player.flash.swf</link>
-<regex>
-<name>getM3u8</name>
-<expres>file : "(.*?)"</expres>
-<page>http://cdn-rtm-player.gluempsapp.com/105/10160</page>
-<referer>http://myklik.rtm.gov.my/radio/10160</referer>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0</agent>
-</regex>
+<link>http://dkmgz1nucppmx.cloudfront.net/rtm-ch021/playlist.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/MinnalFM_zpsrpmagfls.png</thumbnail>
 </item>
 
 <item>
 <title>NASIONAL FM</title>
-<link>$doregex[getM3u8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0&amp;Referer=http://cdn-rtm-player.gluempsapp.com/dist/v7/player.flash.swf</link>
-<regex>
-<name>getM3u8</name>
-<expres>file : "(.*?)"</expres>
-<page>http://cdn-rtm-player.gluempsapp.com/105/10156</page>
-<referer>http://myklik.rtm.gov.my/radio/10156</referer>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0</agent>
-</regex>
+<link>http://dkmgz1nucppmx.cloudfront.net/rtm-ch017/playlist.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/NasionalFM_zps4t7g3hcl.png</thumbnail>
 </item>
 
@@ -242,40 +200,19 @@
 
 <item>
 <title>TRAXX FM</title>
-<link>$doregex[getM3u8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0&amp;Referer=http://cdn-rtm-player.gluempsapp.com/dist/v7/player.flash.swf</link>
-<regex>
-<name>getM3u8</name>
-<expres>file : "(.*?)"</expres>
-<page>http://cdn-rtm-player.gluempsapp.com/105/10158</page>
-<referer>http://myklik.rtm.gov.my/radio/10158</referer>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0</agent>
-</regex>
+<link>http://dkmgz1nucppmx.cloudfront.net/rtm-ch019/playlist.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/TraxxFM_zpsiq7htrmr.png</thumbnail>
 </item>
 
 <item>
 <title>VFM</title>
-<link>$doregex[getM3u8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0&amp;Referer=http://cdn-rtm-player.gluempsapp.com/dist/v7/player.flash.swf</link>
-<regex>
-<name>getM3u8</name>
-<expres>file : "(.*?)"</expres>
-<page>http://cdn-rtm-player.gluempsapp.com/105/10163</page>
-<referer>http://myklik.rtm.gov.my/radio/10163</referer>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0</agent>
-</regex>
+<link>http://dkmgz1nucppmx.cloudfront.net/rtm-ch024/playlist.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/VFM_zpsaziokwbj.png</thumbnail>
 </item>
 
 <item>
 <title>WAI FM</title>
-<link>$doregex[getM3u8]|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0&amp;Referer=http://cdn-rtm-player.gluempsapp.com/dist/v7/player.flash.swf</link>
-<regex>
-<name>getM3u8</name>
-<expres>file : "(.*?)"</expres>
-<page>http://cdn-rtm-player.gluempsapp.com/105/10162</page>
-<referer>http://myklik.rtm.gov.my/radio/10162</referer>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0</agent>
-</regex>
+<link>http://dkmgz1nucppmx.cloudfront.net/rtm-ch025/playlist.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/WaiFM_zpsutv1lool.png</thumbnail>
 </item>
 
