@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<channels>
+<channel>
+<name>BRUNEI</name>
+<thumbnail>http://img.freeflagicons.com/thumb/round_icon/brunei/brunei_640.png</thumbnail>
+<link>http://ignoreme</link>
+<externallink>http://tiny.cc/brnrad</externallink>
+</channel>
+
+<channel>
+<name>INDONESIA</name>
+<thumbnail>http://img.freeflagicons.com/thumb/round_icon/indonesia/indonesia_640.png</thumbnail>
+<link>http://ignoreme</link>
+<externallink>http://tiny.cc/inarad</externallink>
+</channel>
+
+<channel>
+<name>SINGAPORE</name>
+<thumbnail>http://img.freeflagicons.com/thumb/round_icon/singapore/singapore_640.png</thumbnail>
+<link>http://ignoreme</link>
+<externallink>http://tiny.cc/singrad</externallink>
+</channel>
+</channels>
