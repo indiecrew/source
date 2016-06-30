@@ -62,28 +62,7 @@
 <name>[COLOR skyblue]LIVESTREAM : LOCAL RADIO CHANNEL[/COLOR]</name>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_world_zpsic7ttnuh.png</thumbnail>
 <link>http://ignoreme</link>
-<externallink>http://ignoreme</externallink>
-</channel>
-
-<channel>
-<name>BRUNEI</name>
-<thumbnail>http://img.freeflagicons.com/thumb/round_icon/brunei/brunei_640.png</thumbnail>
-<link>http://ignoreme</link>
-<externallink>http://tiny.cc/brnrad</externallink>
-</channel>
-
-<channel>
-<name>INDONESIA</name>
-<thumbnail>http://img.freeflagicons.com/thumb/round_icon/indonesia/indonesia_640.png</thumbnail>
-<link>http://ignoreme</link>
-<externallink>http://tiny.cc/inarad</externallink>
-</channel>
-
-<channel>
-<name>SINGAPORE</name>
-<thumbnail>http://img.freeflagicons.com/thumb/round_icon/singapore/singapore_640.png</thumbnail>
-<link>http://ignoreme</link>
-<externallink>http://tiny.cc/singrad</externallink>
+<externallink>https://raw.githubusercontent.com/indiecrew/source/master/LiveRadio?token=AMv1NufW4CCZ862fnkMVSEpvJcYv2d25ks5Xfei0wA%3D%3D</externallink>
 </channel>
 
 </channels>
