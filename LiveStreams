@@ -45,6 +45,13 @@
 </channel>
 
 <channel>
+<name>INDIA</name>
+<thumbnail>http://img.freeflagicons.com/thumb/round_icon/india/india_640.png</thumbnail>
+<link>http://ignoreme</link>
+<externallink>http://tiny.cc/indtv</externallink>
+</channel>
+
+<channel>
 <name>JAPAN</name>
 <thumbnail>http://img.freeflagicons.com/thumb/round_icon/japan/japan_640.png</thumbnail>
 <link>http://ignoreme</link>
