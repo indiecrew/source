@@ -363,13 +363,13 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] CTV NEWS [COLOR hotpink](required youtube addon)[/COLOR]</title>
+<title>[COLOR darkgreen]Online[/COLOR] CTV NEWS [COLOR skyblue](Youtube)[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=zJtmGiNfTMM</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/ctv_zpsgmgwcrfg.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] CTI NEWS [COLOR hotpink](required youtube addon)[/COLOR]</title>
+<title>[COLOR darkgreen]Online[/COLOR] CTI NEWS [COLOR skyblue](Youtube)[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=hgIfZz8STLk</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/ctinews_zpsaqsagrsu.png</thumbnail>
 </item>
@@ -381,7 +381,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] EASTERN SURE</title>
+<title>[COLOR darkgreen]Online[/COLOR] EASTERN YOYO</title>
 <link>http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/etyoyo/as/live/etyoyo_4.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/easterntv_zps4mjedcrh.png</thumbnail>
 </item>
@@ -393,7 +393,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] FORMOSA NEWS [COLOR hotpink](required youtube addon)[/COLOR]</title>
+<title>[COLOR darkgreen]Online[/COLOR] FORMOSA NEWS [COLOR skyblue](Youtube)[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=XxJKnDLYZz4</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/formosatv_zpsiz07y4aq.png</thumbnail>
 </item>
@@ -423,7 +423,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] TTV NEWS [COLOR hotpink](required youtube addon)[/COLOR]</title>
+<title>[COLOR darkgreen]Online[/COLOR] TTV NEWS [COLOR skyblue](Youtube)[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=yk2CUjbyyQY</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/ttv_zpsuq8qutrg.png</thumbnail>
 </item>
