@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]Last Update: June 12, 2016[/COLOR]</title>
+<title>[COLOR lightgreen]Last Update: June 30, 2016[/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail></thumbnail>
 </item>
@@ -54,7 +54,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] INDIA NEWS</title>
+<title>[COLOR red]Offline[/COLOR] INDIA NEWS</title>
 <link>http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD148_W_350.sdp/chunklist.m3u8</link>
 <thumbnail></thumbnail>
 </item>
@@ -133,13 +133,13 @@
 
 <item>
 <title>[COLOR darkgreen]Online[/COLOR] CAPTAIN TV [COLOR skyblue](Youtube)[/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=b7QC_b_85RI</link>
+<link>plugin://plugin.video.youtube/play/?video_id=aD_yz8P8_YM</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/captaintv_zps1aujgn4c.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR darkgreen]Online[/COLOR] CAPTAIN NEWS [COLOR skyblue](Youtube)[/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=FQxQSypZ38E</link>
+<link>plugin://plugin.video.youtube/play/?video_id=uXFbJnQdUFM</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/captaintv_zps1aujgn4c.png</thumbnail>
 </item>
 
@@ -189,7 +189,7 @@
 
 <item>
 <title>[COLOR darkgreen]Online[/COLOR] SUN NEWS [COLOR skyblue](Youtube)[/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=UYWHlDr3iE0</link>
+<link>plugin://plugin.video.youtube/play/?video_id=o7DHWLnslBE</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/suntv_zpsavttwut9.png</thumbnail>
 </item>
 
@@ -218,7 +218,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] VENDHAR TV</title>
+<title>[COLOR red]Offline[/COLOR] VENDHAR TV</title>
 <link>rtmp://45.79.203.234:1935/vendhar/ playpath=myStream swfUrl=http://vendharmedia.in/video-js.swf pageUrl=http://vendharmedia.in/</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/vendhartv_zps5h1bohn5.png</thumbnail>
 </item>
