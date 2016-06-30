@@ -439,7 +439,7 @@
 
 <item>
 <title>[COLOR red]Offline[/COLOR] SBS</title>
-<link>rtmp://nlive.sbs.co.kr/sbsch6pc?u=sbs&amp;type=asp&amp;q=KDE3W39xAXF9fHZefXEFcHh5SmwsJUJ6fWd3SH1vAA%3D%3D|Referer:http://live.dianshibo.com/player/jwplayer/JWPlayer.swf</link>
+<link>rtmp://nlive.sbs.co.kr/sbsch6pc?u=sbs&amp;type=asp&amp;q=KDE3W39xAXF9fHZefXEFcHh5SmwsJUJ6fWd3SH1vAA%3D%3D|Referer=http://live.dianshibo.com/player/jwplayer/JWPlayer.swf</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/sbs_zps2dcmiefi.png</thumbnail>
 </item>
 
