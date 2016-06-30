@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]Last Update: May 18, 2016[/COLOR]</title>
+<title>[COLOR lightgreen]Last Update: June 30, 2016[/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail></thumbnail>
 </item>
@@ -75,7 +75,7 @@
 
 <item>
 <title>[COLOR darkgreen]Online[/COLOR] JTBC</title>
-<link>rtmp://edge2.everyon.tv/etv2/pld343</link>
+<link>http://edge2.everyon.tv/etv2sb/pld343/chunklist_w846788652.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/jtbc_zpsruer38zt.png</thumbnail>
 </item>
 
@@ -414,7 +414,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] MBC</title>
+<title>[COLOR red]Offline[/COLOR] MBC</title>
 <link>http://1001-t.wice.cf:1935/live/mbc.stream/chunklist_w580472093.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/mbc_zps7dt8ovsm.png</thumbnail>
 </item>
@@ -439,19 +439,13 @@
 
 <item>
 <title>[COLOR red]Offline[/COLOR] SBS</title>
-<link>rtmp://nlive.sbs.co.kr/sbsch6pc?u=sbs&amp;type=asp&amp;q=KDE3W39xAXF9fHZefXEFcHh5SmwsJUJ6fWd3SH1vAA%3D%3D</link>
+<link>rtmp://nlive.sbs.co.kr/sbsch6pc?u=sbs&amp;type=asp&amp;q=KDE3W39xAXF9fHZefXEFcHh5SmwsJUJ6fWd3SH1vAA%3D%3D|Referer:http://live.dianshibo.com/player/jwplayer/JWPlayer.swf</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/sbs_zps2dcmiefi.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR red]Offline[/COLOR] SBS FUN E</title>
 <link>http://nlive.sbs.co.kr/sbsetvpc/sbsetv3.stream/chunklist.m3u8?wowzasessionid=0&amp;u=sbs&amp;q=35jZ5rfJ2eoUHqODGGFSfwOKZotz0KlWW7IxDJiEGew=</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/sbs_zps2dcmiefi.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR darkgreen]Online[/COLOR] SBS TJB</title>
-<link>rtmp://123.214.216.18/live/tv</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/sbs_zps2dcmiefi.png</thumbnail>
 </item>
 
