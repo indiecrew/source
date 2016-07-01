@@ -214,6 +214,36 @@
 </item>
 
 <item>
+<title>[COLOR darkgreen]Online[/COLOR] GUANGDONG TV</title>
+<link>http://106.120.175.80:55336/tslive/c27_ct_gdtv1_gdws_smooth_t10/c27_ct_gdtv1_gdws_smooth_t10.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] GUANGDONG ZHUJIANG</title>
+<link>http://106.120.175.80:55336/tslive/c20_ct_huizahn_hz_smooth_t10/c20_ct_huizahn_hz_smooth_t10.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] GUANGZHOU DRAMA</title>
+<link>http://106.120.175.80:55336/tslive/c23_ct_gztv1_gzzh_smooth_t10/c23_ct_gztv1_gzzh_smooth_t10.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] GUANGZHOU NEWS</title>
+<link>http://106.120.175.80:55336/tslive/c23_ct_gztv2_gzxw_smooth_t10/c23_ct_gztv2_gzxw_smooth_t10.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] GUANGXI TV</title>
+<link>http://106.120.175.80:55336/tslive/c12_ct_guanxi1_gxws_smooth_t10/c12_ct_guanxi1_gxws_smooth_t10.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>[COLOR darkgreen]Online[/COLOR] HUNAN INTERNATIONAL TV</title>
 <link>http://ktv045.cdnak.ds.kylintv.net/nlds/kylin/huntv/as/live/huntv_4.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/hunantv_zps73x44imk.png</thumbnail>
