@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]Last Update: June 25, 2016[/COLOR]</title>
+<title>[COLOR lightgreen]Last Update: July 01, 2016[/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail>http://img.freeflagicons.com/thumb/round_icon/malaysia/malaysia_640.png</thumbnail>
 </item>
@@ -20,31 +20,31 @@
 
 <item>
 <title>[COLOR red]Offline[/COLOR] TV3</title>
-<link>http://ignoreme</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv3_zpsccy0afit.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR red]Offline[/COLOR] NTV7</title>
-<link>http://ignoreme</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_ntv7_zpsmslc5gwf.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR red]Offline[/COLOR] 8TV</title>
-<link>http://ignoreme</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_8tv_zpsvhm1dgc8.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR red]Offline[/COLOR] TV9</title>
-<link>http://ignoreme</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv9_zpsvy6n5ypz.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR darkgreen]Online[/COLOR] AL-HIJRAH</title>
-<link>http://nx-cdn.mynexa.my/tvahlive/smil:tvah_hypptv.smil/playlist.m3u8</link>
+<link>http://nx-cdn.mynexa.my/tvahlive/smil:tvah_hypptv.smil/chunklist_b596000_slen.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_alhijrah_zps7om1g57e.png</thumbnail>
 </item>
 
