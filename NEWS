@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]Last Update: May 21, 2016[/COLOR]</title>
+<title>[COLOR lightgreen]Last Update: July 01, 2016[/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail></thumbnail>
 </item>
@@ -110,7 +110,14 @@
 
 <item>
 <title>[COLOR darkgreen]Online[/COLOR] FOX NEWS</title>
-<link>http://167.114.102.27/live/taK3wNQT5XnSK86i4cFHNw/1463838951/b199b33264504f9191862ce605f6754a.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>http://live.dianshibo.com/$doregex[m3u8]</link>
+<regex>
+  <name>m3u8</name>
+  <expres>var src = '/(.*?)';</expres>
+  <page>http://live.dianshibo.com/ds/embed?id=fox-news</page>
+  <referer>http://www.zoptv.com/live/fox-news</referer>
+  <agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
+</regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/foxnews_zpsjdjjmmga.png</thumbnail>
 </item>
 
@@ -157,7 +164,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] WFTV CHANNEL 9</title>
+<title>[COLOR red]Offline[/COLOR] WFTV CHANNEL 9</title>
 <link>http://bcoveliveios-i.akamaihd.net/hls/live/207141/268012959001/WFTV_EVENTLIVE1/WFTV_EVENTLIVE1_800.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/wftv_zpst2nwzmac.png</thumbnail>
 </item>
