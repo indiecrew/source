@@ -19,6 +19,30 @@
 </item>
 
 <item>
+<title>[COLOR darkgreen]Online[/COLOR] PHOENIX TV</title>
+<link>http://ktv028.cdnak.ds.kylintv.net/nlds/kylin/pxasia/as/live/pxasia_4.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/phoenixtv_zpsmhohqxjq.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] PHOENIX INFONEWS</title>
+<link>http://ktv005.cdnak.ds.kylintv.net/nlds/kylin/pxinhd/as/live/pxinhd_4.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/phoenixinfo_zpswryu8eld.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] PHOENIX CHINESE</title>
+<link>http://zv.3gv.ifeng.com/live/zhongwen800k.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] PHOENIX HONG KONG</title>
+<link>http://14.17.115.9/live/hongkong800k.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>[COLOR darkgreen]Online[/COLOR] RTHK 31</title>
 <link>http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/rthk_zpsmnd3e6vm.png</thumbnail>
@@ -28,6 +52,12 @@
 <title>[COLOR darkgreen]Online[/COLOR] RTHK 32</title>
 <link>http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1296_av-b.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/rthk_zpsmnd3e6vm.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] TVB8</title>
+<link>http://110.77.0.182:1935/dvr/1013.stream/chunklist_w1367883828_DVR.m3u8</link>
+<thumbnail>http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0011/8306/brand.gif?itok=lS8_Dvhw</thumbnail>
 </item>
 
 <item>
@@ -58,6 +88,12 @@
 <title>[COLOR red]Offline[/COLOR] TVB iNEWS</title>
 <link>http://58.218.152.98:7712/hudongxw23.m3u8?key=1234</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/tvb_zpsg3msqsap.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] TV CHAMPION</title>
+<link>http://27.100.64.99:1935/liveedge/live_2_0_0.stream/playlist.m3u8?wowzasessionid=1441985599</link>
+<thumbnail></thumbnail>
 </item>
 
 <item>
