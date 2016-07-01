@@ -115,7 +115,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] i24NEWS [COLOR hotpink](required youtube addon)[/COLOR]</title>
+<title>[COLOR darkgreen]Online[/COLOR] i24NEWS [COLOR skyblue](Youtube)[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=Msgo-R3zZuM</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/i24news_zps8ktsn1gv.png</thumbnail>
 </item>
@@ -145,7 +145,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] SKY NEWS [COLOR hotpink](required youtube addon)[/COLOR]</title>
+<title>[COLOR darkgreen]Online[/COLOR] SKY NEWS [COLOR skyblue](Youtube)[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=y60wDzZt8yg</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/skynews_zpsnha7ospw.png</thumbnail>
 </item>
