@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]Last Update: June 28, 2016[/COLOR]</title>
+<title>[COLOR lightgreen]Last Update: July 01, 2016[/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] ABC NEWS 24</title>
+<link>http://www.abc.net.au/res/streaming/video/hls/news24.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/abcnews_zps5dxg2syf.png</thumbnail>
 </item>
 
 <item>
@@ -40,4 +46,16 @@
 <title>[COLOR red]Offline[/COLOR] NINE</title>
 <link>https://9nowlivehls-i.akamaihd.net/hls/live/226647/ch9adlprd/master.m3u8|X-Forwarded-For=203.164.47.122</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/9_zpsiex3yoka.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] CHANNEL 31</title>
+<link>http://c31.mediafoundry.com.au/sites/default/files/manifest/manifest_live_27.m3u8</link>
+<thumbnail>http://frankston.tv/wp-content/uploads/2013/09/channel31-logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] CHANNEL 44</title>
+<link>http://manifester.mediafoundry.com.au/master/t/c44adelaide_1/manifest.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/a8/Channel_44_Logo.png</thumbnail>
 </item>
