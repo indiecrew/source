@@ -44,7 +44,7 @@
 
 <item>
 <title>[COLOR darkgreen]Online[/COLOR] TEN</title>
-<link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDTEN.m3u8?zone=tenplay.web.live&amp;vid=4640804551001&amp;region=SDTEN</link>
+<link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDTEN.m3u8?zone=tenplay.web.live&amp;vid=4640804551001&amp;region=SDTEN|X-Forwarded-For=203.164.47.122</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/ten_zps7jlehnwr.png</thumbnail>
 </item>
 
