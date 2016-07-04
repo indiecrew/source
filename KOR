@@ -93,7 +93,7 @@
 
 <item>
 <title>[COLOR darkgreen]Online[/COLOR] KBS 1 [COLOR skyblue](Geoblock)[/COLOR]</title>
-<link>$doregex[getCleanRTMP] playpath=$doregex[getPATH] flashVer=WIN\2019,0,0,245 swfUrl=http://myk.kbs.co.kr/assets/vod/Flash/KPlayer.swf pageUrl=http://myk.kbs.co.kr/#?chid=N95 live=1</link>
+<link>$doregex[getCleanRTMP] playpath=$doregex[getPATH] flashVer=WIN\2019,0,0,245 swfUrl=http://myk.kbs.co.kr/assets/vod/Flash/KPlayer.swf pageUrl=http://myk.kbs.co.kr/#?chid=N95 live=1|X-Forwarded-For=123.45.67.89</link>
 <regex>
 <name>getCleanRTMP</name>
 <expres>$pyFunction:'$doregex[getRTMP]'.replace('\/','/')</expres>
