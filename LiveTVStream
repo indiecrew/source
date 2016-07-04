@@ -16,17 +16,24 @@
 </channel>
 
 <channel>
+<name>CANADA</name>
+<thumbnail>http://img.freeflagicons.com/thumb/round_icon/canada/canada_640.png</thumbnail>
+<link>http://ignoreme</link>
+<externallink>http://tiny.cc/cantv</externallink>
+</channel>
+
+<channel>
 <name>CHINA</name>
 <thumbnail>http://img.freeflagicons.com/thumb/round_icon/china/china_640.png</thumbnail>
 <link>http://ignoreme</link>
 <externallink>http://tiny.cc/chntv</externallink>
 </channel>
 
-channel>
+<channel>
 <name>HONG KONG</name>
 <thumbnail>http://img.freeflagicons.com/thumb/round_icon/hong_kong/hong_kong_640.png</thumbnail>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>http://tiny.cc/hkgtv</externallink>
 </channel>
 
 <channel>
@@ -51,6 +58,20 @@ channel>
 </channel>
 
 <channel>
+<name>MACAU</name>
+<thumbnail>http://img.freeflagicons.com/thumb/round_icon/macao/macao_640.png</thumbnail>
+<link>http://ignoreme</link>
+<externallink>http://tiny.cc/maotv</externallink>
+</channel>
+
+<channel>
+<name>MALAYSIA</name>
+<thumbnail>http://img.freeflagicons.com/thumb/round_icon/malaysia/malaysia_640.png</thumbnail>
+<link>http://ignoreme</link>
+<externallink>http://tiny.cc/mastv</externallink>
+</channel>
+
+<channel>
 <name>SINGAPORE</name>
 <thumbnail>http://img.freeflagicons.com/thumb/round_icon/singapore/singapore_640.png</thumbnail>
 <link>http://ignoreme</link>
@@ -64,10 +85,10 @@ channel>
 <externallink>http://tiny.cc/kortv</externallink>
 </channel>
 
-channel>
+<channel>
 <name>TAIWAN</name>
 <thumbnail>http://img.freeflagicons.com/thumb/round_icon/republic_of_china/republic_of_china_640.png</thumbnail>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>http://tiny.cc/twntv</externallink>
 </channel>
 </channels>
