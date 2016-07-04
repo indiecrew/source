@@ -38,6 +38,13 @@
 </channel>
 
 <channel>
+<name>CANADA</name>
+<thumbnail>http://img.freeflagicons.com/thumb/round_icon/canada/canada_640.png</thumbnail>
+<link>http://ignoreme</link>
+<externallink>http://tiny.cc/cantv</externallink>
+</channel>
+
+<channel>
 <name>CHINA</name>
 <thumbnail>http://img.freeflagicons.com/thumb/round_icon/china/china_640.png</thumbnail>
 <link>http://ignoreme</link>
