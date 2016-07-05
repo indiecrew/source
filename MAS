@@ -7,97 +7,97 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] TV1</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV1[/COLOR]</title>
 <link>http://rtm-live.glueapi.io/smil:rtm-ch001/chunklist_b1064000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv1_zps8mlj4nck.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] TV2</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV2[/COLOR]</title>
 <link>http://rtm-live.glueapi.io/smil:rtm-ch002/chunklist_b1064000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/My_tv2_zpshzwufzrv.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR red]Offline[/COLOR] TV3</title>
-<link></link>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]TV3[/COLOR]</title>
+<link>.</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv3_zpsccy0afit.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR red]Offline[/COLOR] NTV7</title>
-<link></link>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]NTV7[/COLOR]</title>
+<link>.</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_ntv7_zpsmslc5gwf.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR red]Offline[/COLOR] 8TV</title>
-<link></link>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]8TV[/COLOR]</title>
+<link>.</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_8tv_zpsvhm1dgc8.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR red]Offline[/COLOR] TV9</title>
-<link></link>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]TV9[/COLOR]</title>
+<link>.</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv9_zpsvy6n5ypz.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] AL-HIJRAH</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]AL-HIJRAH[/COLOR]</title>
 <link>http://nx-cdn.mynexa.my/tvahlive/smil:tvah_hypptv.smil/chunklist_b596000_slen.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_alhijrah_zps7om1g57e.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] TVi</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TVi[/COLOR]</title>
 <link>http://d1dyjmgkbos6tr.cloudfront.net/smil:rtm-ch003/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/tvi_zpsmwdrm674.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] MUZIK AKTIF</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MUZIK AKTIF[/COLOR]</title>
 <link>http://d1dyjmgkbos6tr.cloudfront.net/smil:rtm-ch004/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/muzikaktif_zpswj4untkz.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] 1 NEWS</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]1 NEWS[/COLOR]</title>
 <link>http://d1dyjmgkbos6tr.cloudfront.net/smil:rtm-ch006/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/1news_zpsdlajzziq.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] RTM PARLIMEN</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]RTM PARLIMEN[/COLOR]</title>
 <link>http://d1dyjmgkbos6tr.cloudfront.net/smil:rtm-ch007/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/rtmparlimen_zpsu1trkjx7.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] TV IKIM</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV IKIM[/COLOR]</title>
 <link>rtmp://cdnvideo.webvideocore.net:1935/tv10nl playpath=42DG7ABF94HAC4G.tv swfUrl=http://play.webvideocore.net/player3.swf/[[DYNAMIC]]/1 pageUrl=http://www.layarku.tv/tvikim.html</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/tvikim_zpsfj04rhya.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] MARA TV</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MARA TV[/COLOR]</title>
 <link>http://stream2.1malaysiaiptv.com/mylive/smil:maratv_all.smil/chunklist_w387938424_b1000000_sleng.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/maratv_zpsees3ljuu.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] BERNAMA TV</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]BERNAMA TV[/COLOR]</title>
 <link>http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_bernamatv_zpswz7nlgor.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] ASTRO AWANI</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ASTRO AWANI[/COLOR]</title>
 <link>http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer6.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_awani_zpsssci0ox7.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] AKSI SUKAN</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]AKSI SUKAN[/COLOR]</title>
 <link>http://d1dyjmgkbos6tr.cloudfront.net/smil:rtm-ch008/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/aksisukan_zpsynthgfvn.png</thumbnail>
 </item>
