@@ -20,7 +20,7 @@
     <expres>file="([^\"]+)"</expres>
     <page>http://rtm-player.gluempsapp.com/v8/10149</page>
     <referer>http://rtm-player.gluempsapp.com/v8/10149</referer>
-    <agent>Mozilla/5.0</agent>
+    <agent>Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</agent>
     <accept>*/*</accept>
     <cookieJar></cookieJar>
   </regex>
@@ -41,7 +41,7 @@
     <expres>file="([^\"]+)"</expres>
     <page>http://rtm-player.gluempsapp.com/v8/10148</page>
     <referer>http://rtm-player.gluempsapp.com/v8/10148</referer>
-    <agent>Mozilla/5.0</agent>
+    <agent>Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</agent>
     <accept>*/*</accept>
     <cookieJar></cookieJar>
   </regex>
