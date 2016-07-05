@@ -7,13 +7,13 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] CCTV NEWS</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV NEWS[/COLOR]</title>
 <link>http://ktv030.ds.kylintv.net:80/nlds/kylin/cctv9/as/live/cctv9.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/cctvnews_zpsh8tueiho.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] CCTV-1</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-1[/COLOR]</title>
 <link>http://live.dianshibo.com/$doregex[m3u8]</link>
 <regex>
   <name>m3u8</name>
@@ -26,7 +26,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] CCTV-2</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-2[/COLOR]</title>
 <link>http://live.dianshibo.com/$doregex[m3u8]</link>
 <regex>
   <name>m3u8</name>
@@ -39,7 +39,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] CCTV-3</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-3[/COLOR]</title>
 <link>http://live.dianshibo.com/$doregex[m3u8]</link>
 <regex>
   <name>m3u8</name>
@@ -52,7 +52,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] CCTV-4</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-4[/COLOR]</title>
 <link>$doregex[m3u8]</link>
 <regex>
   <name>m3u8</name>
@@ -65,7 +65,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] CCTV-5</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-5[/COLOR]</title>
 <link>http://live.dianshibo.com/$doregex[m3u8]</link>
 <regex>
   <name>m3u8</name>
@@ -78,7 +78,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] CCTV-6</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-6[/COLOR]</title>
 <link>http://live.dianshibo.com/$doregex[m3u8]</link>
 <regex>
   <name>m3u8</name>
@@ -91,7 +91,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] CCTV-7</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-7[/COLOR]</title>
 <link>http://live.dianshibo.com/$doregex[m3u8]</link>
 <regex>
   <name>m3u8</name>
@@ -104,7 +104,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] CCTV-8</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-8[/COLOR]</title>
 <link>http://live.dianshibo.com/$doregex[m3u8]</link>
 <regex>
   <name>m3u8</name>
@@ -117,7 +117,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] CCTV-9</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-9[/COLOR]</title>
 <link>http://live.dianshibo.com/$doregex[m3u8]</link>
 <regex>
   <name>m3u8</name>
@@ -130,7 +130,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] CCTV-10</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-10[/COLOR]</title>
 <link>http://live.dianshibo.com/$doregex[m3u8]</link>
 <regex>
   <name>m3u8</name>
@@ -143,7 +143,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] CCTV-11</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-11[/COLOR]</title>
 <link>http://live.dianshibo.com/$doregex[m3u8]</link>
 <regex>
   <name>m3u8</name>
@@ -156,7 +156,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] CCTV-12</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-12[/COLOR]</title>
 <link>http://live.dianshibo.com/$doregex[m3u8]</link>
 <regex>
   <name>m3u8</name>
@@ -169,7 +169,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] CCTV-13</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-13[/COLOR]</title>
 <link>http://live.dianshibo.com/$doregex[m3u8]</link>
 <regex>
   <name>m3u8</name>
@@ -182,7 +182,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] CCTV-14</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-14[/COLOR]</title>
 <link>http://live.dianshibo.com/$doregex[m3u8]</link>
 <regex>
   <name>m3u8</name>
@@ -195,7 +195,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] CCTV-15</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-15[/COLOR]</title>
 <link>http://live.dianshibo.com/$doregex[m3u8]</link>
 <regex>
   <name>m3u8</name>
@@ -208,49 +208,49 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] CHINA MOVIE</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CHINA MOVIE[/COLOR]</title>
 <link>http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/chinamovie/as/live/chinamovie_4.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/chinamovie_zpsu5rd56hv.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] GUANGDONG TV</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]GUANGDONG TV[/COLOR]</title>
 <link>http://106.120.175.80:55336/tslive/c27_ct_gdtv1_gdws_smooth_t10/c27_ct_gdtv1_gdws_smooth_t10.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] GUANGDONG ZHUJIANG</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]GUANGDONG ZHUJIANG[/COLOR]</title>
 <link>http://106.120.175.80:55336/tslive/c20_ct_huizahn_hz_smooth_t10/c20_ct_huizahn_hz_smooth_t10.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] GUANGZHOU DRAMA</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]GUANGZHOU DRAMA[/COLOR]</title>
 <link>http://106.120.175.80:55336/tslive/c23_ct_gztv1_gzzh_smooth_t10/c23_ct_gztv1_gzzh_smooth_t10.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] GUANGZHOU NEWS</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]GUANGZHOU NEWS[/COLOR]</title>
 <link>http://106.120.175.80:55336/tslive/c23_ct_gztv2_gzxw_smooth_t10/c23_ct_gztv2_gzxw_smooth_t10.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] GUANGXI TV</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]GUANGXI TV[/COLOR]</title>
 <link>http://106.120.175.80:55336/tslive/c12_ct_guanxi1_gxws_smooth_t10/c12_ct_guanxi1_gxws_smooth_t10.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] HUNAN INTERNATIONAL TV</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]HUNAN INTERNATIONAL TV[/COLOR]</title>
 <link>http://ktv045.cdnak.ds.kylintv.net/nlds/kylin/huntv/as/live/huntv_4.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/hunantv_zps73x44imk.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] HNTV JINYING CARTOON</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]HNTV JINYING CARTOON[/COLOR]</title>
 <link>http://live.dianshibo.com/$doregex[m3u8]</link>
 <regex>
   <name>m3u8</name>
@@ -263,43 +263,43 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] KIRIN LIVE</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]KIRIN LIVE[/COLOR]</title>
 <link>http://ktv015.cdnak.ds.kylintv.net/nlds/kylin/kylinlive/as/live/kylinlive_4.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/kirintv_zpsiqkj8wav.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] KIRIN ARTS</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]KIRIN ARTS[/COLOR]</title>
 <link>http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/varietyhd/as/live/varietyhd_4.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/kirintv_zpsiqkj8wav.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] KIRIN CHILDREN</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]KIRIN CHILDREN[/COLOR]</title>
 <link>http://ktv041.cdnak.ds.kylintv.net/nlds/kylin/kids/as/live/kids_4.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/kirintv_zpsiqkj8wav.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] KIRIN FASHION</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]KIRIN FASHION[/COLOR]</title>
 <link>http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/leisure/as/live/leisure_4.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/kirintv_zpsiqkj8wav.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] SHANDONG TV</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SHANDONG TV[/COLOR]</title>
 <link>http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/sdtvhd/as/live/sdtvhd.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/shandongtv_zpseumd12yh.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] TIANJIN TV</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TIANJIN TV[/COLOR]</title>
 <link>http://ktv041.cdnak.ds.kylintv.net/nlds/kylin/tjtvhd/as/live/tjtvhd_4.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/tianjintv_zpsnjgrwxct.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] ZHEJIANG TV</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ZHEJIANG TV[/COLOR]</title>
 <link>http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/zhejtvhd/as/live/zhejtvhd_4.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/zhejiangtv_zpspygzblqy.png</thumbnail>
 </item>
