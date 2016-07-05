@@ -1,31 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=[/COLOR]</title>
-<link>http://ignoreme</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR orange]The following channels require f4mTester Addon[/COLOR]</title>
-<link>http://ignoreme</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR lightgreen]=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=[/COLOR]</title>
-<link>http://ignoreme</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>[COLOR lightgreen]Last Update: June 29, 2016[/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] ANTV</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ANTV[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/antv2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -37,7 +19,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] ANTARA TV</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ANTARA TV[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/antaratv_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -49,7 +31,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] ASWAJA TV</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ASWAJA TV[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/aswajatv_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -61,7 +43,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] BERITA SATU</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]BERITA SATU[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/beritasatu_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -73,7 +55,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] CAHAYA TV</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CAHAYA TV[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/cahayatv_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -85,7 +67,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] DAAI TV</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]DAAI TV[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/daaitv2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -97,7 +79,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] DAMAI TV</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]DAMAI TV[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/more1_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -109,7 +91,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] DMC TV</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]DMC TV[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/dmctv_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -121,7 +103,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] ELSHINTA TV</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ELSHINTA TV[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/elshintatv_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -133,7 +115,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] GLOBAL TV</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]GLOBAL TV[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/globaltv2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -145,7 +127,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] HI INDO!</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]HI INDO![/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/hiindo_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -157,19 +139,19 @@
 </item>
 
 <item>
-<title>[COLOR red]Offline[/COLOR] INI TV</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]INI TV[/COLOR]</title>
 <link>http://streaming.initv.net:1935/live/_definst_/Stream1/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_initv_zpslrigejxj.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR red]Offline[/COLOR] INSPIRA TV</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]INSPIRA TV[/COLOR]</title>
 <link>http://video.inspira.tv:1935/inspiratv/live.sdp/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_inspiratv_zps4g1thpo0.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] INDOSIAR</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]INDOSIAR[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/indosiar2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -181,13 +163,13 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] iNEWS TV</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]iNEWS TV[/COLOR]</title>
 <link>http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/index.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/inews_zpsmbizgfsd.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] JAK TV</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]JAK TV[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/jaktv_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -199,13 +181,13 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] JEK TV</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]JEK TV[/COLOR]</title>
 <link>rtmp://182.253.193.35:1935/live/myStream1</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_jektv_zpsdlmiao7f.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] JTV</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]JTV[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/jawatv_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -217,7 +199,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] KOMPAS TV</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]KOMPAS TV[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/kompastv_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -229,7 +211,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] LBS IN-DRAMA</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]LBS IN-DRAMA[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/lbsindrama_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -241,7 +223,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] LBS K-DRAMA</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]LBS K-DRAMA[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/ldrama2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -253,7 +235,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] METRO TV</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]METRO TV[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/metrotv2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -265,7 +247,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] MNC TV</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MNC TV[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/mnctv2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -277,7 +259,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] MIVO TV</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MIVO TV[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/mivotv_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -289,7 +271,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] NET.</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]NET.[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/nettv_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -301,7 +283,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] NABAWI TV</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]NABAWI TV[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/nabawitv_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -313,7 +295,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] O CHANNEL</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]O CHANNEL[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/ochannel_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -325,7 +307,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] RCTI</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]RCTI[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/rcti2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -337,7 +319,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] RTV</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]RTV[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/rajawalitv.stream_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -349,7 +331,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] SCTV</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SCTV[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/sctv2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -361,7 +343,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] SPACETOON</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SPACETOON[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/spacetoon_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -373,7 +355,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] SPACETOON 2</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SPACETOON 2[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/spacetoon2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -385,7 +367,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] TVRI 1</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TVRI 1[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/tvrinasional_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -397,7 +379,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] TVRI 2</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TVRI 2[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/tvrijakarta_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -409,7 +391,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] TVRI 3</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TVRI 3[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/tvribudaya_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -421,7 +403,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] TVRI 4</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TVRI 4[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/tvriolahraga_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -433,7 +415,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] TRANS 7</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TRANS 7[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/trans72_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -445,7 +427,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] TRANS TV</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TRANS TV[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/transtv2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -457,7 +439,7 @@
 </item>
 
 <item>
-<title>[COLOR red]Offline[/COLOR] THE INDONESIA CHANNEL</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]THE INDONESIA CHANNEL[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/theindonesiachannel_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -469,7 +451,7 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] TV ONE</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV ONE[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/tvone2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -481,19 +463,19 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] TV EDUKASI</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV EDUKASI[/COLOR]</title>
 <link>http://118.98.221.131/live/smil:tvedukasi.smil/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tvedukasi_zpsffpsjove.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] TV BMW</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV BMW[/COLOR]</title>
 <link>http://wowza58.indostreamserver.com:1935/bmwtv/live/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/bmwtv_zpsyg1r64fi.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] U CHANNEL</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]U CHANNEL[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/uchannel_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
