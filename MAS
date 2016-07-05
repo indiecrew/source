@@ -7,14 +7,44 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV1[/COLOR]</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV1[/COLOR] (Link 1)</title>
 <link>http://rtm-live.glueapi.io/smil:rtm-ch001/chunklist_b1064000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv1_zps8mlj4nck.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV2[/COLOR]</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV1[/COLOR] (Link 2)</title>
+<link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.gluempsapp.com/v8/10149</link>
+  <regex>
+    <name>m3u8</name>
+    <expres>file="([^\"]+)"</expres>
+    <page>http://rtm-player.gluempsapp.com/v8/10149</page>
+    <referer>http://rtm-player.gluempsapp.com/v8/10149</referer>
+    <agent>Mozilla/5.0</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv1_zps8mlj4nck.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV2[/COLOR] (Link 1)</title>
 <link>http://rtm-live.glueapi.io/smil:rtm-ch002/chunklist_b1064000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/My_tv2_zpshzwufzrv.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV2[/COLOR] (Link 2)</title>
+<link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.gluempsapp.com/v8/10148</link>
+  <regex>
+    <name>m3u8</name>
+    <expres>file="([^\"]+)"</expres>
+    <page>http://rtm-player.gluempsapp.com/v8/10148</page>
+    <referer>http://rtm-player.gluempsapp.com/v8/10148</referer>
+    <agent>Mozilla/5.0</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/My_tv2_zpshzwufzrv.png</thumbnail>
 </item>
 
