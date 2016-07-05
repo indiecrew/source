@@ -3,35 +3,35 @@
 <channels>
 
 <channel>
-<name>[COLOR skyblue]TODAY UPDATES[/COLOR]</name>
+<name>[COLOR skyblue]ANNOUNCEMENTS:[/COLOR] [COLOR white]TODAY UPDATE[/COLOR]</name>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_world_zpsic7ttnuh.png</thumbnail>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/indiecrew/ProjectMRNetwork/master/plugin.video.mrnetworktv/updates</externallink>
 </channel>
 
 <channel>
-<name>[COLOR skyblue]LIVESTREAM :[/COLOR] [COLOR white]NEWS CHANNEL[/COLOR]</name>
+<name>[COLOR skyblue]LIVESTREAM:[/COLOR] [COLOR white]NEWS CHANNEL[/COLOR]</name>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_world_zpsic7ttnuh.png</thumbnail>
 <link>http://ignoreme</link>
 <externallink>http://tiny.cc/newsc</externallink>
 </channel>
 
 <channel>
-<name>[COLOR skyblue]LIVESTREAM :[/COLOR] [COLOR white]LOCAL TV CHANNEL[/COLOR]</name>
+<name>[COLOR skyblue]LIVESTREAM:[/COLOR] [COLOR white]LOCAL TV CHANNEL[/COLOR]</name>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_world_zpsic7ttnuh.png</thumbnail>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/indiecrew/source/master/LiveTVStream?token=AMv1NoyTT7EdBU5OemplgC6b2NMcNzP_ks5XhDGrwA%3D%3D</externallink>
 </channel>
 
 <channel>
-<name>[COLOR skyblue]LIVESTREAM :[/COLOR] [COLOR white]LOCAL RADIO CHANNEL[/COLOR]</name>
+<name>[COLOR skyblue]LIVESTREAM:[/COLOR] [COLOR white]LOCAL RADIO CHANNEL[/COLOR]</name>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_world_zpsic7ttnuh.png</thumbnail>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/indiecrew/source/master/LiveRadio?token=AMv1NufW4CCZ862fnkMVSEpvJcYv2d25ks5Xfei0wA%3D%3D</externallink>
 </channel>
 
 <channel>
-<name>[COLOR skyblue]LIVESTREAM :[/COLOR] [COLOR white]ISLAMIC CHANNEL[/COLOR]</name>
+<name>[COLOR skyblue]LIVESTREAM:[/COLOR] [COLOR white]ISLAMIC CHANNEL[/COLOR]</name>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_world_zpsic7ttnuh.png</thumbnail>
 <link>http://ignoreme</link>
 <externallink>http://tiny.cc/istv</externallink>
