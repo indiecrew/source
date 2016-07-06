@@ -297,7 +297,7 @@
 <page>http://streamin.to/embed-ipm68wxhv7dx-640x360.html</page>
 <referer>http://streamin.to/ipm68wxhv7dx</referer>
 </regex>
-<thumbnail>http://vplaytv.me/wp-content/uploads/2016/01/chowrasta.jpg</thumbnail>
+<thumbnail>http://www.tontononline.net/wp-content/uploads/2015/10/Chowrasta-2015-Tonton-Online-Full-Movie.jpg</thumbnail>
 </item>
 
 <item>
@@ -369,7 +369,7 @@
 <page>http://streamin.to/embed-ikka93hjsxcq-640x360.html</page>
 <referer>http://streamin.to/ikka93hjsxcq</referer>
 </regex>
-<thumbnail>http://vplaytv.me/wp-content/uploads/2016/01/Apartment.jpg</thumbnail>
+<thumbnail>http://moviekb.com/wp-content/uploads/2016/02/apartmen-2015.jpg</thumbnail>
 </item>
 
 <item>
@@ -393,7 +393,7 @@
 <page>http://streamin.to/embed-sbihkrsp0lnj-640x360.html</page>
 <referer>http://streamin.to/sbihkrsp0lnj</referer>
 </regex>
-<thumbnail>http://pencurimovie.cr/wp-content/uploads/2016/01/7isterijual00_450.jpg</thumbnail>
+<thumbnail>http://indomovi.org/uploads/posts/2016-02/1454307701_isteri-untuk-dijual.jpg</thumbnail>
 </item>
 
 <item>
@@ -502,8 +502,7 @@
 <page>http://streamin.to/embed-4rjx9svmcyuf-640x360.html</page>
 <referer>http://streamin.to/4rjx9svmcyuf</referer>
 </regex>
-<thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/12/176107.jpg</thumbnail>
-<fanart>http://185.109.162.4/i/01/00002/fh1gqka4bpee.jpg</fanart>
+<thumbnail>http://3.bp.blogspot.com/--jQX_0y2_Kw/VmLsZ3d7YNI/AAAAAAAAFQk/UuMJnZ3S1d0/s1600/Strawberi%2BKaripap%2BHello%2BGold%2BCoast.jpg</thumbnail>
 </item>
 
 <item>
@@ -533,7 +532,7 @@
 <page>http://streamin.to/embed-1534p97e15nu-640x360.html</page>
 <referer>http://streamin.to/1534p97e15nu</referer>
 </regex>
-<thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/11/lovesupermoon.jpg</thumbnail>
+<thumbnail>http://4.bp.blogspot.com/-5hMv_j5OF4w/VfhFY14URAI/AAAAAAAAGUI/YFmsiracDv8/s1600/Poster%2BLove%2BSupermoon.JPG</thumbnail>
 </item>
 
 <item>
@@ -581,7 +580,7 @@
 <page>http://streamin.to/embed-z0f9p8fzi7ju-640x360.html</page>
 <referer>http://streamin.to/z0f9p8fzi7ju</referer>
 </regex>
-<thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/11/jelmaan.jpg</thumbnail>
+<thumbnail>https://astrocontent.s3.amazonaws.com/Images/A1ABPoster/174248.jpg</thumbnail>
 </item>
 
 <item>
@@ -605,7 +604,7 @@
 <page>http://streamin.to/embed-ie31n5xxwv8b-640x360.html</page>
 <referer>http://streamin.to/ie31n5xxwv8b</referer>
 </regex>
-<thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/10/7jwanita00_450.jpg</thumbnail>
+<thumbnail>https://2.bp.blogspot.com/-6OijE-aRNnM/Vf_M9OiCnnI/AAAAAAAAAgY/LVsIjQ1X_bI/s1600/bng6rn.PNG</thumbnail>
 </item>
 
 <item>
@@ -629,7 +628,7 @@
 <page>http://streamin.to/embed-eblczr5olk77-640x360.html</page>
 <referer>http://streamin.to/eblczr5olk77</referer>
 </regex>
-<thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/10/kapsul.jpg</thumbnail>
+<thumbnail>http://4.bp.blogspot.com/-09ExKH6ObIs/VaPk6BjXnAI/AAAAAAAAKtQ/g_NhjWHUzM4/s1600/Kapsul%2Bposter.jpg</thumbnail>
 </item>
 
 <item>
@@ -653,7 +652,7 @@
 <page>http://streamin.to/embed-3bnm753zkuxe-640x360.html</page>
 <referer>http://streamin.to/3bnm753zkuxe</referer>
 </regex>
-<thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/10/7makhlukmuzium00_450.jpg</thumbnail>
+<thumbnail>https://2.bp.blogspot.com/-eyoY098FbjM/Veak0G5emVI/AAAAAAAAAV0/4qSZioK7qeQ/s1600/sfdf4.PNG</thumbnail>
 </item>
 
 <item>
@@ -677,7 +676,7 @@
 <page>http://streamin.to/embed-wslzzs10jvtw-640x360.html</page>
 <referer>http://streamin.to/wslzzs10jvtw</referer>
 </regex>
-<thumbnail>http://www.layanjer.com/wp-content/uploads/2015/09/Bravo-5-Malaysia.jpg</thumbnail>
+<thumbnail></thumbnail>
 </item>
 
 <item>
@@ -701,7 +700,7 @@
 <page>http://streamin.to/embed-9k6oqbt41nti-640x360.html</page>
 <referer>http://streamin.to/9k6oqbt41nti</referer>
 </regex>
-<thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/09/jejak.jpg</thumbnail>
+<thumbnail>http://www.movies4you.org/_nw/19/43569738.jpg</thumbnail>
 </item>
 
 <item>
@@ -813,7 +812,7 @@
 <expres>$pyFunction:get_unpacked('http://vidzi.tv/embed-68yi3nsnbzup-640x360.html','(eval.*)')</expres>
 <page></page>
 </regex>
-<thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/07/Suamiku-Jatuh-Dari-Langit-2015-Poster.jpg</thumbnail>
+<thumbnail>http://3.bp.blogspot.com/-BJc_iuP20rM/VaaLzeAzHeI/AAAAAAAAAd8/nBGaKwXFY1I/s1600/SUAMIKU-JATUH-DARI-LANGIT-1.jpg</thumbnail>
 </item>
 
 <item>
@@ -891,7 +890,7 @@
 <page>http://streamin.to/embed-7ryq6e0h0yso-640x360.html</page>
 <referer>http://streamin.to/7ryq6e0h0yso</referer>
 </regex>
-<thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/06/suami-aku-ustaz.jpg</thumbnail>
+<thumbnail>http://fullmovieonlinestreaming.com/wp-content/uploads/2015/08/Suami-Aku-Ustaz-2015-203x293.png</thumbnail>
 </item>
 
 <item>
@@ -967,7 +966,7 @@
 <expres>$pyFunction:get_unpacked('http://vidzi.tv/embed-9ni9ts4oej07-640x360.html','(eval.*)')</expres>
 <page></page>
 </regex>
-<thumbnail>http://pencurimovie.cc/wp-content/uploads/2015/05/selfie.jpg</thumbnail>
+<thumbnail></thumbnail>
 </item>
 
 <item>
@@ -1141,7 +1140,7 @@
 <page>http://streamin.to/embed-774pel8o3y28-640x360.html</page>
 <referer>http://streamin.to/774pel8o3y28</referer>
 </regex>
-<thumbnail>http://pencurimovie.cc/wp-content/uploads/2015/03/bangunan.jpg</thumbnail>
+<thumbnail>http://www.movie2u.pw/wp-content/uploads/2015/12/bangunan--2015--ppvrip-%7C-full-movie-online-10629.jpg</thumbnail>
 </item>
 
 <item>
