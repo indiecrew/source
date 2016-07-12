@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]Last Update: June 29, 2016[/COLOR]</title>
+<title>[COLOR lightgreen]Last Update: July 13, 2016[/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail></thumbnail>
 </item>
@@ -40,6 +40,12 @@
 <referer>http://api.mivo.com/</referer>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_aswajatv_zpsd3v2bq3u.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]BALI TV[/COLOR]</title>
+<link>http://edge.telin.swiftserve.com/live/sejXc8RhId_livetv-sbr/0e3e49d9f128/chunklist.m3u8?stime=20160712140000&amp;etime=20160712180000&amp;encoded=02a4511d10f398923d054&amp;</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/balitv_zpsyfmtsnjk.png</thumbnail>
 </item>
 
 <item>
@@ -184,6 +190,12 @@
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]JEK TV[/COLOR]</title>
 <link>rtmp://182.253.193.35:1935/live/myStream1</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_jektv_zpsdlmiao7f.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]JOGJA TV[/COLOR]</title>
+<link>rtmp://202.169.224.206/live playpath=jogjatv swfUrl=http://streaming.jogjamedianet.com/jwplayer.swf pageUrl=http://jogjatv.tv/live-streaming/</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/jogjatv_zpseylfsdy9.png</thumbnail>
 </item>
 
 <item>
