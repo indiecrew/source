@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]Last Update: July 05, 2016[/COLOR]</title>
+<title>[COLOR lightgreen]Last Update: July 14, 2016[/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]FUJI TV[/COLOR] [COLOR skyblue](VaughnLive)[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]FUJI TV[/COLOR] [COLOR skyblue](VaughnLive)[/COLOR]</title>
 <vaughn>sherming666</vaughn>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fujitv_zpsxsda3x8j.png</thumbnail>
 </item>
@@ -19,13 +19,13 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]NIPPON TV[/COLOR] [COLOR skyblue](VaughnLive)[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]NIPPON TV[/COLOR] [COLOR skyblue](VaughnLive)[/COLOR]</title>
 <vaughn>sherming5555</vaughn>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/nippontv_zpsbegl1pxz.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]NHK[/COLOR] [COLOR skyblue](VaughnLive)[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]NHK[/COLOR] [COLOR skyblue](VaughnLive)[/COLOR]</title>
 <vaughn>sherming777</vaughn>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/nhk_zpskmnsgrfb.png</thumbnail>
 </item>
@@ -43,19 +43,19 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TBS[/COLOR] [COLOR skyblue](VaughnLive)[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]TBS[/COLOR] [COLOR skyblue](VaughnLive)[/COLOR]</title>
 <vaughn>sherming6666</vaughn>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/tbs_zpsqgaktdot.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV ASAHI[/COLOR] [COLOR skyblue](VaughnLive)[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]TV ASAHI[/COLOR] [COLOR skyblue](VaughnLive)[/COLOR]</title>
 <vaughn>sherming99</vaughn>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/tvasahi_zpskh1tkgz5.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV TOKYO[/COLOR] [COLOR skyblue](VaughnLive)[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]TV TOKYO[/COLOR] [COLOR skyblue](VaughnLive)[/COLOR]</title>
 <vaughn>sherming3333</vaughn>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/tvtokyo_zps6re9vdno.png</thumbnail>
 </item>
