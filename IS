@@ -25,7 +25,7 @@
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SURAU TV[/COLOR] (Indonesia)</title>
-<link>rtmp://103.28.22.198:1935/surautv</link>
+<link>rtmp://103.28.22.198:1935/surautv playpath=live swfUrl=http://www.onlineindo.tv/player/player.swf pageUrl=http://www.surau.tv/onlinetv/server2.html</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_surautv_zpsers5c5sj.png</thumbnail>
 </item>
 
