@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]Last Update: July 04, 2016[/COLOR]</title>
+<title>[COLOR lightgreen]Last Update: July 19, 2016[/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail></thumbnail>
 </item>
@@ -37,7 +37,7 @@
 </item>
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]NINE[/COLOR]</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]NINE[/COLOR]</title>
 <link>https://9nowch9livehls-i.akamaihd.net/hls/live/250964/sydney/master.m3u8|X-Forwarded-For=203.164.47.122</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/9_zpsiex3yoka.png</thumbnail>
 </item>
@@ -49,7 +49,7 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CHANNEL 31[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]CHANNEL 31[/COLOR]</title>
 <link>http://c31.mediafoundry.com.au/sites/default/files/manifest/manifest_live_27.m3u8</link>
 <thumbnail>http://frankston.tv/wp-content/uploads/2013/09/channel31-logo.png</thumbnail>
 </item>
