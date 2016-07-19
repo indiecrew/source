@@ -7,6 +7,18 @@
 </item>
 
 <item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ABC NEWS[/COLOR]</title>
+<link>http://iphonestreaming.abc.net.au/news/news_hi.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/abcnews_zps5dxg2syf.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ABC NEWS 24[/COLOR]</title>
+<link>http://iphonestreaming.abc.net.au/news24/news24_hi.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/abcnews_zps5dxg2syf.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]AUSTRALIA PLUS[/COLOR]</title>
 <link>http://118.97.183.222:1935/discover/aplus/chunklist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/australiaplus_zpsp9mguubj.png</thumbnail>
