@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]Last Update: July 19, 2016[/COLOR]</title>
+<title>[COLOR lightgreen]Last Update: July 21, 2016[/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail></thumbnail>
 </item>
@@ -24,13 +24,57 @@
 </item>
 
 <item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]AL-HIJRAH[/COLOR] (Malaysia)</title>
+<link>http://nx-cdn.mynexa.my/tvahlive/smil:tvah_hypptv.smil/chunklist_b596000_slen.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_alhijrah_zps7om1g57e.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]DUBAI NOOR[/COLOR] (UAE)</title>
+<link>http://dmiftvll.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/dubainoor_zpskjpoqal7.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MUSLIM TV[/COLOR] (Thailand)</title>
+<link>http://radio2.thaidhost.com:8888/muslimonair2/live/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_tvmuslim_zpsbhst0hxm.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]PEACE TV[/COLOR] (United Kingdom)</title>
+<link>rtmp://peace.fms.visionip.tv/live/ playpath=b2b-peace_sky-live-25f-4x3-sdh_1 swfUrl=http://www.peacetv.tv/templates/swf/player.swf pageUrl=http://www.peacetv.tv/en-gb/signin/</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/peacetv_zps5zg6i9b2.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TAHFIDZ TV[/COLOR] (Indonesia)</title>
+<link>rtmp://119.235.249.58:1935/tahfidztv/live</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tahfidztv_zpsgmpqbobz.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV IKIM[/COLOR] (Malaysia)</title>
+<link>rtmp://cdnvideo.webvideocore.net:1935/tv10nl playpath=42DG7ABF94HAC4G.tv swfUrl=http://play.webvideocore.net/player3.swf/[[DYNAMIC]]/1 pageUrl=http://www.layarku.tv/tvikim.html</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/tvikim_zpsfj04rhya.png</thumbnail>
+</item
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]RODJA TV[/COLOR] (Indonesia) [COLOR skyblue](Youtube)[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=W5sehUVHcSA</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_rodjatv_zpsut2hukng.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SURAU TV[/COLOR] (Indonesia)</title>
-<link>rtmp://103.28.22.198:1935/surautv playpath=live swfUrl=http://www.onlineindo.tv/player/player.swf pageUrl=http://www.surau.tv/onlinetv/server2.html</link>
+link>rtmp://103.28.22.198:1935/surautv playpath=live swfUrl=http://www.onlineindo.tv/player/player.swf pageUrl=http://www.surau.tv/onlinetv/server2.html</link>
+<link>http://wowza60.indostreamserver.com:1935/surautv/live/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_surautv_zpsers5c5sj.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]PEACE TV[/COLOR] (UK)</title>
-<link>rtmp://peace.fms.visionip.tv/live/ playpath=b2b-peace_sky-live-25f-4x3-sdh_1 swfUrl=http://www.peacetv.tv/templates/swf/player.swf pageUrl=http://www.peacetv.tv/en-gb/signin/</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/peacetv_zps5zg6i9b2.png</thumbnail>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]WESAL TV[/COLOR] (Indonesia)</title>
+<link>rtmp://119.235.249.60:1935/wesaltv/live</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_wesaltv_zpspg85d8ho.png</thumbnail>
 </item>
+
