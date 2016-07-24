@@ -7,13 +7,13 @@
 </item>
 
 <item>
-<title>Cendol (2016) [Malaysia]</title>
+<title>[COLOR white](2016)[/COLOR] Cendol [Malaysia]</title>
 <link></link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>Ada Apa Dengan Cinta 2 (2016) [Indonesia]</title>
+<title>[COLOR white](2016)[/COLOR] Ada Apa Dengan Cinta 2 [Indonesia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-9zcfolbvfy2k-640x360.html</link>
 <regex>
 <name>url</name>
@@ -37,7 +37,7 @@
 </item>
 
 <item>
-<title>Lu Mafia Gua Gangster (2016) [Malaysia]</title>
+<title>[COLOR white](2016)[/COLOR] Lu Mafia Gua Gangster [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-23jeyz7jigrm-640x360.html</link>
 <regex>
 <name>url</name>
@@ -61,7 +61,7 @@
 </item>
 
 <item>
-<title>Perjanjian Syaitan (2016) [Malaysia]</title>
+<title>[COLOR white](2016)[/COLOR] Perjanjian Syaitan [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-webhm596zmad-640x360.html</link>
 <regex>
 <name>url</name>
@@ -85,7 +85,7 @@
 </item>
 
 <item>
-<title>Warna Cinta Impian (2016) [Malaysia]</title>
+<title>[COLOR white](2016)[/COLOR] Warna Cinta Impian [Malaysia]</title>
 <link></link>
 <thumbnail>https://4.bp.blogspot.com/-l_xFhfqzhuM/V0NL1SUQoQI/AAAAAAAACbQ/qWjougx_zfwfvQ_Jigdu6WA_VszOBF-wwCLcB/s320/WarnaCintaImpian.png</thumbnail>
 </item>
@@ -115,7 +115,7 @@
 </item>
 
 <item>
-<title>Angin Cinta (2016) [Malaysia]</title>
+<title>[COLOR white](2016)[/COLOR] Angin Cinta [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-51j9x8oume5f-640x360.html</link>
 <regex>
 <name>url</name>
@@ -139,7 +139,7 @@
 </item>
 
 <item>
-<title>BoboiBoy The Movie (2016) [Malaysia]</title>
+<title>[COLOR white](2016)[/COLOR] BoboiBoy The Movie [Malaysia]</title>
 <link></link>
 <thumbnail>https://2.bp.blogspot.com/-lWYZ7tXrIpM/V0nkqAiS4oI/AAAAAAAACgg/8vF0rjIqfSMIThLCQQ8nc-ha-Ir8pcrtwCLcB/s1600/BoBoiBoy_The_Movie.jpeg</thumbnail>
 </item>
@@ -151,7 +151,7 @@
 </item>
 
 <item>
-<title>Munafik (2016) [Malaysia]</title>
+<title>[COLOR white](2016)[/COLOR] Munafik [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-1giij7wh5vac-640x360.html</link>
 <regex>
 <name>url</name>
@@ -175,7 +175,7 @@
 </item>
 
 <item>
-<title>Usin Ufo Bikin Kecoh (2016) [Malaysia]</title>
+<title>[COLOR white](2016)[/COLOR] Usin Ufo Bikin Kecoh [Malaysia]</title>
 <link></link>
 <thumbnail></thumbnail>
 </item>
@@ -205,7 +205,7 @@
 </item>
 
 <item>
-<title>Pelepas Saka (2016) [Malaysia]</title>
+<title>[COLOR white](2016)[/COLOR] Pelepas Saka [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-e0dfiey9y7q8-640x360.html</link>
 <regex>
 <name>url</name>
@@ -229,7 +229,7 @@
 </item>
 
 <item>
-<title>Mat Moto - Kami Mat Motor Bukan Mat Rempit (2016) [Malaysia]</title>
+<title>[COLOR white](2016)[/COLOR] Mat Moto - Kami Mat Motor Bukan Mat Rempit [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-d0ua7ecmy5zu-640x360.html</link>
 <regex>
 <name>url</name>
@@ -253,7 +253,7 @@
 </item>
 
 <item>
-<title>Langit Cinta (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Langit Cinta [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-3rbbqte99nmi-640x360.html</link>
 <regex>
 <name>url</name>
@@ -277,7 +277,7 @@
 </item>
 
 <item>
-<title>Darah Panas (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Darah Panas [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-hyr7yda25g4c-640x360.html</link>
 <regex>
 <name>url</name>
@@ -301,7 +301,7 @@
 </item>
 
 <item>
-<title>Chowrasta (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Chowrasta [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-ipm68wxhv7dx-640x360.html</link>
 <regex>
 <name>url</name>
@@ -325,7 +325,7 @@
 </item>
 
 <item>
-<title>Badi (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Badi [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-1ms6jlws98zl-640x360.html</link>
 <regex>
 <name>url</name>
@@ -349,7 +349,7 @@
 </item>
 
 <item>
-<title>Girlfriend Kontrak (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Girlfriend Kontrak [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-jjubrqkru8pj-640x360.html</link>
 <regex>
 <name>url</name>
@@ -373,7 +373,7 @@
 </item>
 
 <item>
-<title>Apartment (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Apartment [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-ikka93hjsxcq-640x360.html</link>
 <regex>
 <name>url</name>
@@ -397,7 +397,7 @@
 </item>
 
 <item>
-<title>Isteri Untuk Dijual (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Isteri Untuk Dijual [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-sbihkrsp0lnj-640x360.html</link>
 <regex>
 <name>url</name>
@@ -421,13 +421,13 @@
 </item>
 
 <item>
-<title>Keranda Tok Wan Terbang (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Keranda Tok Wan Terbang [Malaysia]</title>
 <link></link>
 <thumbnail>http://pencurimovie.cr/wp-content/uploads/2016/01/7kerandatok00_450.jpg</thumbnail>
 </item>
 
 <item>
-<title>Ada Apa Dekat Bus Stop (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Ada Apa Dekat Bus Stop [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-pp872b7zmwc6-640x360.html</link>
 <regex>
 <name>url</name>
@@ -451,7 +451,7 @@
 </item>
 
 <item>
-<title>Sinaran (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Sinaran [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-38v352omyvba-640x360.html</link>
 <regex>
 <name>url</name>
@@ -475,14 +475,14 @@
 </item>
 
 <item>
-<title>Rembat Just Duit (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Rembat Just Duit [Malaysia]</title>
 <link></link>
 <thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/12/7rembat00_450.jpg</thumbnail>
 <fanart>http://3.bp.blogspot.com/-UUcrLPWFhAY/Vf1LUViHD6I/AAAAAAAALiE/kvHidOav71o/s400/Filem-Rembat.jpg</fanart>
 </item>
 
 <item>
-<title>Banglo Berkunci (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Banglo Berkunci [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-wd40kmrtrtaf-640x360.html</link>
 <regex>
 <name>url</name>
@@ -506,7 +506,7 @@
 </item>
 
 <item>
-<title>Strawberi Karipap Hello Gold Coast (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Strawberi Karipap Hello Gold Coast [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-4rjx9svmcyuf-640x360.html</link>
 <regex>
 <name>url</name>
@@ -530,7 +530,7 @@
 </item>
 
 <item>
-<title>Juvana 2 : Terperangkap Dalam Kebebasan (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Juvana 2 : Terperangkap Dalam Kebebasan [Malaysia]</title>
 <link></link>
 <thumbnail>https://pbs.twimg.com/profile_images/625873083811803136/_8in0SBs_400x400.jpg</thumbnail>
 </item>
@@ -560,7 +560,7 @@
 </item>
 
 <item>
-<title>Polis Evo (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Polis Evo [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-y130x8rxec3v-640x360.html</link>
 <regex>
 <name>url</name>
@@ -584,7 +584,7 @@
 </item>
 
 <item>
-<title>Jelmaan (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Jelmaan [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-z0f9p8fzi7ju-640x360.html</link>
 <regex>
 <name>url</name>
@@ -608,7 +608,7 @@
 </item>
 
 <item>
-<title>Jwanita (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Jwanita [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-ie31n5xxwv8b-640x360.html</link>
 <regex>
 <name>url</name>
@@ -632,7 +632,7 @@
 </item>
 
 <item>
-<title>Kapsul (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Kapsul [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-eblczr5olk77-640x360.html</link>
 <regex>
 <name>url</name>
@@ -656,7 +656,7 @@
 </item>
 
 <item>
-<title>Usop Wilcha Menghonjang Makhluk Muzium (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Usop Wilcha Menghonjang Makhluk Muzium [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-3bnm753zkuxe-640x360.html</link>
 <regex>
 <name>url</name>
@@ -680,7 +680,7 @@
 </item>
 
 <item>
-<title>Bravo 5 (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Bravo 5 [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-wslzzs10jvtw-640x360.html</link>
 <regex>
 <name>url</name>
@@ -704,7 +704,7 @@
 </item>
 
 <item>
-<title>Jejak Warriors (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Jejak Warriors [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-9k6oqbt41nti-640x360.html</link>
 <regex>
 <name>url</name>
@@ -728,7 +728,7 @@
 </item>
 
 <item>
-<title>Bukit Kepong (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Bukit Kepong [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-jm9nvv2uwhr9-640x360.html</link>
 <regex>
 <name>url</name>
@@ -752,7 +752,7 @@
 </item>
 
 <item>
-<title>CCTV (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] CCTV [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-1afznwh77bh5-640x360.html</link>
 <regex>
 <name>url</name>
@@ -776,7 +776,7 @@
 </item>
 
 <item>
-<title>Misi Rayyan Dan Danish (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Misi Rayyan Dan Danish [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-j3m746si28zj-640x360.html</link>
 <regex>
 <name>url</name>
@@ -800,7 +800,7 @@
 </item>
 
 <item>
-<title>Nota (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Nota [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-5t69axf6pq4f-640x360.html</link>
 <regex>
 <name>url</name>
@@ -824,7 +824,7 @@
 </item>
 
 <item>
-<title>Suamiku Jatuh Dari Langit (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Suamiku Jatuh Dari Langit [Malaysia]</title>
 <link>$doregex[url]|Referer=http://static.vidzi.tv/nplayer/jwplayer.flash.swf&amp;User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>url</name>
@@ -840,7 +840,7 @@
 </item>
 
 <item>
-<title>Gangsterock Kasi Sengat (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Gangsterock Kasi Sengat [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-qjjo7qqy3m9q-640x360.html</link>
 <regex>
 <name>url</name>
@@ -864,13 +864,13 @@
 </item>
 
 <item>
-<title>Banting (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Banting [Singapore]</title>
 <link></link>
 <thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/06/banting-724x1024.jpg</thumbnail>
 </item>
 
 <item>
-<title>Isyarat Cinta (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Isyarat Cinta [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-y5o8da733vjn-640x360.html</link>
 <regex>
 <name>url</name>
@@ -894,7 +894,7 @@
 </item>
 
 <item>
-<title>Suami Aku Ustaz (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Suami Aku Ustaz [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-7ryq6e0h0yso-640x360.html</link>
 <regex>
 <name>url</name>
@@ -918,7 +918,7 @@
 </item>
 
 <item>
-<title>Dia (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Dia [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-sw4qiy6z8y1s-640x360.html</link>
 <regex>
 <name>url</name>
@@ -942,19 +942,19 @@
 </item>
 
 <item>
-<title>Jendela (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Jendela [Malaysia]</title>
 <link></link>
 <thumbnail>http://2.bp.blogspot.com/-8DP2k5rDYg0/VXk4mRNVuyI/AAAAAAAABH0/0Orz1alzS6I/s1600/Jendela.jpg</thumbnail>
 </item>
 
 <item>
-<title>Jalan Puncak Alam (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Jalan Puncak Alam [Malaysia]</title>
 <link></link>
 <thumbnail>http://www.cinema.com.my/images/movies/2015/7jalanpuncakalam00_450.jpg</thumbnail>
 </item>
 
 <item>
-<title>Pilot Cafe (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Pilot Cafe [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-bak2bry40apl-640x360.html</link>
 <regex>
 <name>url</name>
@@ -978,7 +978,7 @@
 </item>
 
 <item>
-<title>Selfie Suara Kubur (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Selfie Suara Kubur [Malaysia]</title>
 <link>$doregex[url]|Referer=http://static.vidzi.tv/nplayer/jwplayer.flash.swf&amp;User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>url</name>
@@ -994,7 +994,7 @@
 </item>
 
 <item>
-<title>Abang Lejen (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Abang Lejen [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-eo584ikff73h-640x360.html</link>
 <regex>
 <name>url</name>
@@ -1018,7 +1018,7 @@
 </item>
 
 <item>
-<title>Hantu Bungkus Ikat Tepi (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Hantu Bungkus Ikat Tepi [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-26cliglouhgg-640x360.html</link>
 <regex>
 <name>url</name>
@@ -1042,7 +1042,7 @@
 </item>
 
 <item>
-<title>Jengka (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Jengka [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-jv7yt6zdupij-640x360.html</link>
 <regex>
 <name>url</name>
@@ -1066,7 +1066,7 @@
 </item>
 
 <item>
-<title>Werewolf Dari Bangladesh (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Werewolf Dari Bangladesh [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-4uf9ew116wzm-640x360.html</link>
 <regex>
 <name>url</name>
@@ -1090,7 +1090,7 @@
 </item>
 
 <item>
-<title>Cicakman 3 (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Cicakman 3 [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-6ks1radcoilp-640x360.html</link>
 <regex>
 <name>url</name>
@@ -1114,7 +1114,7 @@
 </item>
 
 <item>
-<title>Coverina (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Coverina [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-8up835mvi4vt-640x360.html</link>
 <regex>
 <name>url</name>
@@ -1138,13 +1138,13 @@
 </item>
 
 <item>
-<title>Gudang Kubur (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Gudang Kubur [Malaysia]</title>
 <link></link>
 <thumbnail>http://pencurimovie.cc/wp-content/uploads/2015/03/gudang-kubur.jpg</thumbnail>
 </item>
 
 <item>
-<title>Bangunan (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Bangunan [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-774pel8o3y28-640x360.html</link>
 <regex>
 <name>url</name>
@@ -1168,7 +1168,7 @@
 </item>
 
 <item>
-<title>Suamiku Encik Perfect 10 (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Suamiku Encik Perfect 10 [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-85s10h8licl0-640x360.html</link>
 <regex>
 <name>url</name>
@@ -1192,7 +1192,7 @@
 </item>
 
 <item>
-<title>Puaka Balai Gombak (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Puaka Balai Gombak [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-kmysr8azsqle-640x360.html</link>
 <regex>
 <name>url</name>
@@ -1216,7 +1216,7 @@
 </item>
 
 <item>
-<title>Villa Nabila (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Villa Nabila [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-e6gw2kokw91x-640x360.html</link>
 <regex>
 <name>url</name>
@@ -1240,7 +1240,7 @@
 </item>
 
 <item>
-<title>Rumah Pusaka Di Simpang Jalan (2015) [Malaysia]</title>
+<title>[COLOR white](2015)[/COLOR] Rumah Pusaka Di Simpang Jalan [Malaysia]</title>
 <link></link>
 <thumbnail>http://2.bp.blogspot.com/-PSUPFivVMVE/VI0eg6MQ-rI/AAAAAAAAH18/h_QRLwMLRYk/s1600/Rumah%2BPusaka%2BDi%2BSimpang%2BJalan.jpg</thumbnail>
 </item>
