@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]Last Update: June 22, 2016[/COLOR]</title>
+<title>[COLOR lightgreen]Last Update: July 27, 2016[/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail></thumbnail>
 </item>
@@ -146,8 +146,26 @@
 
 <item>
 <title>[COLOR turquoise](2016)[/COLOR] Kipidap [Malaysia]</title>
-<link></link>
-<thumbnail></thumbnail>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-8ljeqwod4kes-728x410.html</link>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-8ljeqwod4kes-728x410.html</page>
+<referer>http://streamin.to/8ljeqwod4kes</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-8ljeqwod4kes-728x410.html</page>
+<referer>http://streamin.to/8ljeqwod4kes</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-8ljeqwod4kes-728x410.html</page>
+<referer>http://streamin.to/8ljeqwod4kes</referer>
+</regex>
+<thumbnail>https://rest.cinepapaya.com/stat/img/static-cp/cine/movie/kipidap-save-the-day-12297-poster-1457969395.jpg?w=250</thumbnail>
 </item>
 
 <item>
@@ -865,8 +883,26 @@
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Banting [Singapore]</title>
-<link></link>
-<thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/06/banting-724x1024.jpg</thumbnail>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-gtfarqbj9cok-640x360.html</link>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-gtfarqbj9cok-640x360.html</page>
+<referer>http://streamin.to/gtfarqbj9cok</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-gtfarqbj9cok-640x360.html</page>
+<referer>http://streamin.to/gtfarqbj9cok</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-gtfarqbj9cok-640x360.html</page>
+<referer>http://streamin.to/gtfarqbj9cok</referer>
+</regex>
+<thumbnail>http://i.hungrygowhere.com/cms/e5/29/d1/5a/130944/d769180afd.jpg</thumbnail>
 </item>
 
 <item>
@@ -949,7 +985,25 @@
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Jalan Puncak Alam [Malaysia]</title>
-<link></link>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=</link>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-7zoh9us01ym1-640x360.html</page>
+<referer>http://streamin.to/7zoh9us01ym1</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-7zoh9us01ym1-640x360.html</page>
+<referer>http://streamin.to/7zoh9us01ym1</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-7zoh9us01ym1-640x360.html</page>
+<referer>http://streamin.to/7zoh9us01ym1</referer>
+</regex>
 <thumbnail>http://www.cinema.com.my/images/movies/2015/7jalanpuncakalam00_450.jpg</thumbnail>
 </item>
 
