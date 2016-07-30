@@ -14,13 +14,13 @@
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]BEIJING TV[/COLOR]</title>
-<link>http://218.244.147.118:6389/wtvlive/migu2/617290095_5</link>
+<link>http://183.61.22.32/padlive1-cnc.wasu.cn/hd_bjws/z.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV NEWS[/COLOR]</title>
-<link>http://218.244.147.118:6389/wtvlive/migu2/609017205_4</link>
+<link>http://218.244.147.118:6389/wtvlive/migu2/609017205_4|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/cctvnews_zpsh8tueiho.png</thumbnail>
 </item>
 
@@ -176,7 +176,7 @@
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]HUNAN INTERNATIONAL TV[/COLOR]</title>
-<link>http://218.244.147.118:6389/wtvlive/migu2/609153594_5</link>
+<link>http://183.61.22.32/padlive1-cnc.wasu.cn/hd_hnws/z.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/hunantv_zps73x44imk.png</thumbnail>
 </item>
 
@@ -237,13 +237,13 @@
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SHENZHEN TV[/COLOR]</title>
-<link>http://218.244.147.118:6389/wtvlive/migu2/608782582_5</link>
+<link>http://183.61.22.32/padlive1-cnc.wasu.cn/hd_szws/z.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TIANJIN TV[/COLOR]</title>
-<link>http://218.244.147.118:6389/wtvlive/migu2/618989181_5</link>
+<link>http://183.61.22.32/padlive1-cnc.wasu.cn/hd_tjws/z.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/tianjintv_zpsnjgrwxct.png</thumbnail>
 </item>
 
