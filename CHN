@@ -133,12 +133,6 @@
 </item>
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]CHINA MOVIE[/COLOR]</title>
-<link>http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/chinamovie/as/live/chinamovie_4.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/chinamovie_zpsu5rd56hv.png</thumbnail>
-</item>
-
-<item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]DRAGON TV[/COLOR]</title>
 <link>http://183.61.22.32/padlive1-cnc.wasu.cn/hd_dfws/z.m3u8</link>
 <thumbnail></thumbnail>
@@ -175,7 +169,7 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]HUNAN INTERNATIONAL TV[/COLOR]</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]HUNAN TV[/COLOR]</title>
 <link>http://183.61.22.32/padlive1-cnc.wasu.cn/hd_hnws/z.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/hunantv_zps73x44imk.png</thumbnail>
 </item>
