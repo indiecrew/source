@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]Last Update: July 01, 2016[/COLOR]</title>
+<title>[COLOR lightgreen]Last Update: July 31, 2016[/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]CHINA MOVIE[/COLOR]</title>
+<link>http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/chinamovie/as/live/chinamovie_4.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/chinamovie_zpsu5rd56hv.png</thumbnail>
 </item>
 
 <item>
@@ -19,13 +25,13 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]PHOENIX TV[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]PHOENIX TV[/COLOR]</title>
 <link>http://ktv028.cdnak.ds.kylintv.net/nlds/kylin/pxasia/as/live/pxasia_4.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/phoenixtv_zpsmhohqxjq.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]PHOENIX INFONEWS[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]PHOENIX INFONEWS[/COLOR]</title>
 <link>http://ktv005.cdnak.ds.kylintv.net/nlds/kylin/pxinhd/as/live/pxinhd_4.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/phoenixinfo_zpswryu8eld.png</thumbnail>
 </item>
@@ -55,8 +61,8 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TVB8[/COLOR]</title>
-<link>http://110.77.0.182:1935/dvr/1013.stream/chunklist_w1367883828_DVR.m3u8</link>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TVB 8[/COLOR]</title>
+<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/tvb8/dujuejiami.m3u8</link>
 <thumbnail>http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0011/8306/brand.gif?itok=lS8_Dvhw</thumbnail>
 </item>
 
