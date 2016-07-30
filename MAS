@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]Last Update: July 01, 2016[/COLOR]</title>
+<title>[COLOR lightgreen]Last Update: July 31, 2016[/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail>http://img.freeflagicons.com/thumb/round_icon/malaysia/malaysia_640.png</thumbnail>
 </item>
@@ -130,4 +130,28 @@
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]AKSI SUKAN[/COLOR]</title>
 <link>http://d1dyjmgkbos6tr.cloudfront.net/smil:rtm-ch008/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/aksisukan_zpsynthgfvn.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ASTRO SUPERSPORT 1[/COLOR]</title>
+<link>rtmp://119.81.36.98:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdGR6VmlXejNQQ2I2dUpHQW5FcVE2YjlmK3Bnd1VYK29YaVhlbTBOdjJvUVd3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=hdmi27 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/27?w=825&amp;h=464|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_supersport_zpskifl4slo.png</thumbnail>
+</item>
+
+item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ASTRO SUPERSPORT 2[/COLOR]</title>
+<link>rtmp://119.81.36.98:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdGR6VmlXejNQQ2I2dUpHQW5FcVE2YjlmK3Bnd1VYK29YaVhlbTBOdjJvUVd3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=hdmi28 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/28?w=825&amp;h=464|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_supersport_zpskifl4slo.png</thumbnail>
+</item>
+
+item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ASTRO SUPERSPORT 3[/COLOR]</title>
+<link>rtmp://119.81.36.98:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdGR6VmlXejNQQ2I2dUpHQW5FcVE2YjlmK3Bnd1VYK29YaVhlbTBOdjJvUVd3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=hdmi29 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/29?w=825&amp;h=464|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_supersport_zpskifl4slo.png</thumbnail>
+</item>
+
+item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ASTRO SUPERSPORT 4[/COLOR]</title>
+<link>rtmp://119.81.36.98:1935/indopeer?Q1hiYVNoTHdLUzhIRHRod1NtRWpvWDRVQU1kUjdWWHNzbExjdjRvMUJLdGR6VmlXejNQQ2I2dUpHQW5FcVE2YjlmK3Bnd1VYK29YaVhlbTBOdjJvUVd3K01Fd3gwMjBYOUF2SU9HM1h0dnM9/ playpath=hdmi30 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://lensagol-live.com/channel/view/30?w=825&amp;h=464|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_supersport_zpskifl4slo.png</thumbnail>
 </item>
