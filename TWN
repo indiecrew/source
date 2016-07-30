@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]Last Update: July 01, 2016[/COLOR]</title>
+<title>[COLOR lightgreen]Last Update: July 31, 2016[/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]BLTV[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]BLTV[/COLOR]</title>
 <link>http://ktv027.cdnak.ds.kylintv.net/nlds/kylin/bltv/as/live/bltv_4.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CATHAY TV[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]CATHAY TV[/COLOR]</title>
 <link>http://ktv026.cdnllnwnl.ds.kylintv.net/nlds/kylin/cathaytv/droid/live/cathaytv_4.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CTS[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]CTS[/COLOR]</title>
 <link>http://ktv037.cdnak.ds.kylintv.net/nlds/kylin/ctshd/as/live/ctshd_4.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cts_zpsnye3q56o.png</thumbnail>
 </item>
@@ -37,25 +37,25 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]EASTERN TV[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]EASTERN TV[/COLOR]</title>
 <link>http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/etgbl/as/live/etgbl_4.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/easterntv_zps4mjedcrh.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]EASTERN YOYO[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]EASTERN YOYO[/COLOR]</title>
 <link>http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/etyoyo/as/live/etyoyo_4.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/easterntv_zps4mjedcrh.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]EASTERN NEWS[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]EASTERN NEWS[/COLOR]</title>
 <link>http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/etnews/as/live/etnews_4.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/easterntv_zps4mjedcrh.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]FORMOSA TV[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]FORMOSA TV[/COLOR]</title>
 <link>http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/formosatv/as/live/formosatv_4.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/formosatv_zpsiz07y4aq.png</thumbnail>
 </item>
@@ -85,7 +85,7 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TTV[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]TTV[/COLOR]</title>
 <link>http://ktv042.cdnak.ds.kylintv.net/nlds/kylin/ttv/as/live/ttv_4.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/ttv_zpsuq8qutrg.png</thumbnail>
 </item>
