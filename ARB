@@ -151,7 +151,7 @@ item>
 </item>
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]MBC DRAMA[/COLOR]</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MBC DRAMA[/COLOR]</title>
 <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=http://embed.iptv-pla.net/embed.php?id=Hi_mbcdrama&amp;width=594&amp;height=404&amp;key2=1118</link>
 <regex>
   <name>getrtmp</name>
