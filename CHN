@@ -1,216 +1,147 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]Last Update: July 01, 2016[/COLOR]</title>
+<title>[COLOR lightgreen]Last Update: July 31, 2016[/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ANHUI TV[/COLOR]</title>
+<link>http://183.61.22.32/padlive1-cnc.wasu.cn/hd_ahws/z.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]BEIJING TV[/COLOR]</title>
+<link>http://218.244.147.118:6389/wtvlive/migu2/617290095_5</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV NEWS[/COLOR]</title>
-<link>http://ktv030.ds.kylintv.net:80/nlds/kylin/cctv9/as/live/cctv9.m3u8</link>
+<link>http://218.244.147.118:6389/wtvlive/migu2/609017205_4</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/cctvnews_zpsh8tueiho.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-1[/COLOR]</title>
-<link>http://live.dianshibo.com/$doregex[m3u8]</link>
-<regex>
-  <name>m3u8</name>
-  <expres>var src = '/(.*?)';</expres>
-  <page>http://live.dianshibo.com/le/embed?id=cctv1HD_1300</page>
-  <referer>http://www.zoptv.com/live/cctv-1</referer>
-  <agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
-</regex>
+<link>http://183.61.22.32/padlive1-cnc.wasu.cn/hd_cctv1/z.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-2[/COLOR]</title>
-<link>http://live.dianshibo.com/$doregex[m3u8]</link>
-<regex>
-  <name>m3u8</name>
-  <expres>var src = '/(.*?)';</expres>
-  <page>http://live.dianshibo.com/le/embed?id=cctv2</page>
-  <referer>http://www.zoptv.com/live/cctv-2</referer>
-  <agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
-</regex>
+<link>http://183.61.22.32/padlive1-cnc.wasu.cn/cctv2/z.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-3[/COLOR]</title>
-<link>http://live.dianshibo.com/$doregex[m3u8]</link>
-<regex>
-  <name>m3u8</name>
-  <expres>var src = '/(.*?)';</expres>
-  <page>http://live.dianshibo.com/le/embed?id=cctv3HD_1300</page>
-  <referer>http://www.zoptv.com/live/cctv-3</referer>
-  <agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
-</regex>
+<link>http://183.61.22.32/padlive1-cnc.wasu.cn/cctv3/z.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-4[/COLOR]</title>
-<link>$doregex[m3u8]</link>
-<regex>
-  <name>m3u8</name>
-  <expres>var src = '(.*?)';</expres>
-  <page>http://live.dianshibo.com/kl/embed?id=cctv4</page>
-  <referer>http://www.zoptv.com/live/cctv-4</referer>
-  <agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
-</regex>
+<link>http://183.61.22.32/padlive2-cnc.wasu.cn/cctv4/z.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-5[/COLOR]</title>
-<link>http://live.dianshibo.com/$doregex[m3u8]</link>
-<regex>
-  <name>m3u8</name>
-  <expres>var src = '/(.*?)';</expres>
-  <page>http://live.dianshibo.com/le/embed?id=cctv5_1300</page>
-  <referer>http://www.zoptv.com/live/cctv-5</referer>
-  <agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
-</regex>
+<link>http://183.61.22.32/padlive1-cnc.wasu.cn/hd_cctv5/z.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-5+[/COLOR]</title>
+<link>http://183.61.22.32/padlive1-cnc.wasu.cn/hd_cctv5jia/z.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-6[/COLOR]</title>
-<link>http://live.dianshibo.com/$doregex[m3u8]</link>
-<regex>
-  <name>m3u8</name>
-  <expres>var src = '/(.*?)';</expres>
-  <page>http://live.dianshibo.com/le/embed?id=cctv6HD_1300</page>
-  <referer>http://www.zoptv.com/live/cctv-6</referer>
-  <agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
-</regex>
+<link>http://183.61.22.32/padlive2-cnc.wasu.cn/cctv6/z.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-7[/COLOR]</title>
-<link>http://live.dianshibo.com/$doregex[m3u8]</link>
-<regex>
-  <name>m3u8</name>
-  <expres>var src = '/(.*?)';</expres>
-  <page>http://live.dianshibo.com/le/embed?id=cctv7</page>
-  <referer>http://www.zoptv.com/live/cctv-7</referer>
-  <agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
-</regex>
+<link>http://183.61.22.32/padlive2-cnc.wasu.cn/cctv7/z.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-8[/COLOR]</title>
-<link>http://live.dianshibo.com/$doregex[m3u8]</link>
-<regex>
-  <name>m3u8</name>
-  <expres>var src = '/(.*?)';</expres>
-  <page>http://live.dianshibo.com/le/embed?id=cctv8HD_1300</page>
-  <referer>http://www.zoptv.com/live/cctv-8</referer>
-  <agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
-</regex>
+<link>http://183.61.22.32/padlive1-cnc.wasu.cn/cctv8/z.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-9[/COLOR]</title>
-<link>http://live.dianshibo.com/$doregex[m3u8]</link>
-<regex>
-  <name>m3u8</name>
-  <expres>var src = '/(.*?)';</expres>
-  <page>http://live.dianshibo.com/le/embed?id=cctv9</page>
-  <referer>http://www.zoptv.com/live/cctv-9</referer>
-  <agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
-</regex>
+<link>http://183.61.22.32/padlive2-cnc.wasu.cn/cctv9/z.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-10[/COLOR]</title>
-<link>http://live.dianshibo.com/$doregex[m3u8]</link>
-<regex>
-  <name>m3u8</name>
-  <expres>var src = '/(.*?)';</expres>
-  <page>http://live.dianshibo.com/le/embed?id=cctv10</page>
-  <referer>http://www.zoptv.com/live/cctv-10</referer>
-  <agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
-</regex>
+<link>http://183.61.22.32/padlive2-cnc.wasu.cn/cctv10/z.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-11[/COLOR]</title>
-<link>http://live.dianshibo.com/$doregex[m3u8]</link>
-<regex>
-  <name>m3u8</name>
-  <expres>var src = '/(.*?)';</expres>
-  <page>http://live.dianshibo.com/le/embed?id=cctv11</page>
-  <referer>http://www.zoptv.com/live/cctv-11</referer>
-  <agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
-</regex>
+<link>http://183.61.22.32/padlive2-cnc.wasu.cn/cctv11/z.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-12[/COLOR]</title>
-<link>http://live.dianshibo.com/$doregex[m3u8]</link>
-<regex>
-  <name>m3u8</name>
-  <expres>var src = '/(.*?)';</expres>
-  <page>http://live.dianshibo.com/le/embed?id=cctv12</page>
-  <referer>http://www.zoptv.com/live/cctv-12</referer>
-  <agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
-</regex>
+<link>http://183.61.22.32/padlive2-cnc.wasu.cn/cctv12/z.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-13[/COLOR]</title>
-<link>http://live.dianshibo.com/$doregex[m3u8]</link>
-<regex>
-  <name>m3u8</name>
-  <expres>var src = '/(.*?)';</expres>
-  <page>http://live.dianshibo.com/le/embed?id=cctvnew</page>
-  <referer>http://www.zoptv.com/live/cctv-13</referer>
-  <agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
-</regex>
+<link>http://183.61.22.32/padlive1-cnc.wasu.cn/cctv13/z.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-14[/COLOR]</title>
-<link>http://live.dianshibo.com/$doregex[m3u8]</link>
-<regex>
-  <name>m3u8</name>
-  <expres>var src = '/(.*?)';</expres>
-  <page>http://live.dianshibo.com/le/embed?id=cctvshaoer</page>
-  <referer>http://www.zoptv.com/live/cctv-14</referer>
-  <agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
-</regex>
+<link>http://183.61.22.32/padlive2-cnc.wasu.cn/cctv14/z.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-15[/COLOR]</title>
-<link>http://live.dianshibo.com/$doregex[m3u8]</link>
-<regex>
-  <name>m3u8</name>
-  <expres>var src = '/(.*?)';</expres>
-  <page>http://live.dianshibo.com/le/embed?id=cctvmusic</page>
-  <referer>http://www.zoptv.com/live/cctv-15</referer>
-  <agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
-</regex>
+<link>http://183.61.22.32/padlive2-cnc.wasu.cn/cctv15/z.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CHINA MOVIE[/COLOR]</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV DISCOVERY[/COLOR]</title>
+<link>http://183.61.22.32/padlive1-cnc.wasu.cn/fxzl/z.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV FOOTBALL[/COLOR]</title>
+<link>http://183.61.22.32/padlive1-cnc.wasu.cn/fyzq/z.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]CHINA MOVIE[/COLOR]</title>
 <link>http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/chinamovie/as/live/chinamovie_4.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/chinamovie_zpsu5rd56hv.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]DRAGON TV[/COLOR]</title>
+<link>http://183.61.22.32/padlive1-cnc.wasu.cn/hd_dfws/z.m3u8</link>
+<thumbnail></thumbnail>
 </item>
 
 <item>
@@ -245,7 +176,7 @@
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]HUNAN INTERNATIONAL TV[/COLOR]</title>
-<link>http://ktv045.cdnak.ds.kylintv.net/nlds/kylin/huntv/as/live/huntv_4.m3u8</link>
+<link>http://218.244.147.118:6389/wtvlive/migu2/609153594_5</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/hunantv_zps73x44imk.png</thumbnail>
 </item>
 
@@ -263,43 +194,61 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]KIRIN LIVE[/COLOR]</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]HUBEI TV[/COLOR]</title>
+<link>http://183.61.22.32/padlive1-cnc.wasu.cn/hd_hbws/z.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]JIANGSU TV[/COLOR]</title>
+<link>http://183.61.22.32/padlive1-cnc.wasu.cn/hd_jsws/z.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]KIRIN LIVE[/COLOR]</title>
 <link>http://ktv015.cdnak.ds.kylintv.net/nlds/kylin/kylinlive/as/live/kylinlive_4.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/kirintv_zpsiqkj8wav.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]KIRIN ARTS[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]KIRIN ARTS[/COLOR]</title>
 <link>http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/varietyhd/as/live/varietyhd_4.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/kirintv_zpsiqkj8wav.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]KIRIN CHILDREN[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]KIRIN CHILDREN[/COLOR]</title>
 <link>http://ktv041.cdnak.ds.kylintv.net/nlds/kylin/kids/as/live/kids_4.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/kirintv_zpsiqkj8wav.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]KIRIN FASHION[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]KIRIN FASHION[/COLOR]</title>
 <link>http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/leisure/as/live/leisure_4.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/kirintv_zpsiqkj8wav.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SHANDONG TV[/COLOR]</title>
-<link>http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/sdtvhd/as/live/sdtvhd.m3u8</link>
+<link>http://183.61.22.32/padlive1-cnc.wasu.cn/hd_sdws/z.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/shandongtv_zpseumd12yh.png</thumbnail>
 </item>
 
 <item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SHENZHEN TV[/COLOR]</title>
+<link>http://218.244.147.118:6389/wtvlive/migu2/608782582_5</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TIANJIN TV[/COLOR]</title>
-<link>http://ktv041.cdnak.ds.kylintv.net/nlds/kylin/tjtvhd/as/live/tjtvhd_4.m3u8</link>
+<link>http://218.244.147.118:6389/wtvlive/migu2/618989181_5</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/tianjintv_zpsnjgrwxct.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ZHEJIANG TV[/COLOR]</title>
-<link>http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/zhejtvhd/as/live/zhejtvhd_4.m3u8</link>
+<link>http: //183.61.22.32/padlive1-cnc.wasu.cn/hd_zjws/z.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/zhejiangtv_zpspygzblqy.png</thumbnail>
 </item>
