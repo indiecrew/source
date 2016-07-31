@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]Last Update: June 30, 2016[/COLOR]</title>
+<title>[COLOR lightgreen]Last Update: July 31, 2016[/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail></thumbnail>
 </item>
@@ -30,13 +30,13 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]BOLLYWOOD MOVIES 1[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]BOLLYWOOD MOVIES 1[/COLOR]</title>
 <link>http://veetle.com/index.php/hls/streamMbrFast/4e0e6f4dcc2d3_/stream.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]BOLLYWOOD MOVIES 2[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]BOLLYWOOD MOVIES 2[/COLOR]</title>
 <link>http://veetle.com/index.php/hls/streamMbrFast/4e2c5fd04592d/stream.m3u8</link>
 <thumbnail></thumbnail>
 </item>
@@ -84,8 +84,8 @@
 </item>
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]ZEE BOLLYWOOD[/COLOR]</title>
-<link>http://www.q7t1.com:8000/live/mario12/mario12/3897.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ZEE BOLLYWOOD[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/3897.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/Zee-tv-logo_zps4qntfqef.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -97,8 +97,8 @@
 </item>
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]ZEE CLASSIC[/COLOR]</title>
-<link>http://www.q7t1.com:8000/live/mario12/mario12/3885.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ZEE CLASSIC[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/3885.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/Zee-tv-logo_zps4qntfqef.png</thumbnail>
 </item>
 
@@ -230,7 +230,7 @@
 </item>
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]ZEE TAMIL[/COLOR]</title>
-<link>http://play-fs.amgiptv.com/vxtvzeetamil/zeetamil.stream/playlist.m3u8</link>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ZEE TAMIL[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://internext.zapto.org:8000/live/ahmed/ahmed/359.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/Zee-tv-logo_zps4qntfqef.png</thumbnail>
 </item>
