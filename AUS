@@ -7,7 +7,7 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ABC NEWS[/COLOR]</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ABC NEWS[/COLOR] [COLOR skyblue](Geoblock)[/COLOR]</title>
 <link>http://iphonestreaming.abc.net.au/news24/news24.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/abcnews_zps5dxg2syf.png</thumbnail>
 </item>
@@ -19,25 +19,25 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SEVEN[/COLOR]</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SEVEN[/COLOR] [COLOR skyblue](Geoblock)[/COLOR]</title>
 <link>https://sevenwestmedia01-i.akamaihd.net/hls/live/224813/MEL1/master.m3u8|X-Forwarded-For=124.168.86.122</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/7_zpsyqrpevyo.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]7TWO[/COLOR]</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]7TWO[/COLOR] [COLOR skyblue](Geoblock)[/COLOR]</title>
 <link>https://sevenwestmedia01-i.akamaihd.net/hls/live/224826/MEL2/master.m3u8|X-Forwarded-For=124.168.86.122</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/7Two_zpscvxqlyd5.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]7MATE[/COLOR]</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]7MATE[/COLOR] [COLOR skyblue](Geoblock)[/COLOR]</title>
 <link>https://sevenwestmedia01-i.akamaihd.net/hls/live/224839/MEL3/master.m3u8|X-Forwarded-For=124.168.86.122</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/7mate_zps6wiygiuj.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]7FLIX[/COLOR]</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]7FLIX[/COLOR] [COLOR skyblue](Geoblock)[/COLOR]</title>
 <link>https://sevenwestmedia01-i.akamaihd.net/hls/live/224856/MEL6/master.m3u8|X-Forwarded-For=124.168.86.122</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/7flix_zpsvq4mkx2s.png</thumbnail>
 </item>
@@ -69,6 +69,7 @@
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TEN[/COLOR]</title>
 <link>http://mrdo.zapto.org:1088/aulive/tensouth/index.m3u8</link>
+link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDTEN.m3u8?|X-Forwarded-For=101.175.18.124</link>
 link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDTEN.m3u8?zone=tenplay.web.live&amp;vid=4640804551001&amp;region=SDTEN|X-Forwarded-For=203.164.47.122</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/ten_zps7jlehnwr.png</thumbnail>
 </item>
@@ -86,9 +87,15 @@ link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDTEN.m3u8?zone=tenp
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]RACING.COM[/COLOR]</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]RACING.COM[/COLOR] [COLOR skyblue](Geoblock)[/COLOR]</title>
 <link>https://sevenwestmedia01-i.akamaihd.net/hls/live/224825/MISC1/master.m3u8?|X-Forwarded-For=101.175.18.124</link>
 <thumbnail>https://cdn.racing.com/resources/Racing/img/favicon/hub/favicon-200x200.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SPORTSFAN[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?&amp;url=http://bponlinehdslive267.ngcdn.telstra.com/hds-live/bp/_definst_/bpsf-pc-000-c3002-fmspkg1-hdsogg1-abr/bpsf-pc-000-c3002-fmspkg1-hdsogg1-abr3.f4m?IS=0&amp;ET=1446577201&amp;CIP=1.2.3.4&amp;KO=1&amp;KN=7&amp;US=b032c5afd259a172cd037211b775ed33</link>
+<thumbnail></thumbnail>
 </item>
 
 <item>
@@ -98,7 +105,7 @@ link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDTEN.m3u8?zone=tenp
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]EXPO[/COLOR]</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]EXPO CHANNEL[/COLOR]</title>
 <link>http://tvsn-lh.akamaihd.net/i/EXPO_1@137553/master.m3u8</link>
 <thumbnail></thumbnail>
 </item>
