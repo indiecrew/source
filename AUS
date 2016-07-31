@@ -57,7 +57,7 @@ link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDTEN.m3u8?zone=tenp
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CHANNEL 31[/COLOR]</title>
-<link>http://manifester-c31.mediafoundry.com.au/stream/c31melbourne/playlist.m3u8|X-Forwarded-For=124.168.86.122</link>
+<link>http://manifester-c31.mediafoundry.com.au/stream/c31melbourne/playlist.m3u8</link>
 <thumbnail>http://frankston.tv/wp-content/uploads/2013/09/channel31-logo.png</thumbnail>
 </item>
 
