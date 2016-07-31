@@ -19,8 +19,44 @@
 </item>
 
 <item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CHANNEL NORTH[/COLOR]</title>
+<link>http://livestream.etv.org.nz/channelnorth.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MAORI TV[/COLOR]</title>
+<link>http://livestream.etv.org.nz/maori.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]PRIME TV[/COLOR]</title>
+<link>http://livestream.etv.org.nz/prime.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SHINE TV[/COLOR]</title>
 <link>http://rhemabroadcast-lh.akamaihd.net/i/livestream_1@185937/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TE REO[/COLOR]</title>
+<link>http://livestream.etv.org.nz/tereo.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV1[/COLOR]</title>
+<link>http://livestream.etv.org.nz/tv1.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV2[/COLOR]</title>
+<link>http://livestream.etv.org.nz/tv2.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
