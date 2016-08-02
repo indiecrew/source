@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]Last Update: July 21, 2016[/COLOR]</title>
+<title>[COLOR lightgreen]Last Update: August 2, 2016[/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail></thumbnail>
 </item>
@@ -14,7 +14,7 @@
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MASJID AN-NABAWI, MADINAH[/COLOR] [COLOR skyblue](Youtube)[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ArVmnth5jB4</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qv5siL0_usg</link>
 <thumbnail>http://www.lazywazy.in/wp-content/uploads/2015/09/masjid-nabawi-madinatul-munawwaroh2.jpg</thumbnail>
 </item>
 
@@ -37,8 +37,8 @@
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MUSLIM TV[/COLOR] (Thailand)</title>
-<link>http://radio2.thaidhost.com:8888/muslimonair2/live/playlist.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_tvmuslim_zpsbhst0hxm.png</thumbnail>
+<link>http://www.atxmediaserver.com:1935/TV_muslim1/TV_muslim1/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_thaimuslimtv_zpsxjcgn028.png</thumbnail>
 </item>
 
 <item>
@@ -73,8 +73,7 @@ link>rtmp://103.28.22.198:1935/surautv playpath=live swfUrl=http://www.onlineind
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]WESAL TV[/COLOR] (Indonesia)</title>
-<link>rtmp://119.235.249.60:1935/wesaltv/live</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_wesaltv_zpspg85d8ho.png</thumbnail>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]INSAN TV[/COLOR] (Indonesia)</title>
+<link>http://wz.insantv.net/group/ngrp:insantv_all/chunklist_b762697.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_insantv_zpsjsisshrg.png</thumbnail>
 </item>
-
