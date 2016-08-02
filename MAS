@@ -8,7 +8,7 @@
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV1[/COLOR] (Link 1)</title>
-<link>http://rtm-live.glueapi.io/smil:ch001.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b974000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 link>http://rtm-live.glueapi.io/smil:rtm-ch001/chunklist_b1064000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv1_zps8mlj4nck.png</thumbnail>
 </item>
@@ -30,7 +30,7 @@ link>http://rtm-live.glueapi.io/smil:rtm-ch001/chunklist_b1064000_sleng.m3u8|Use
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV2[/COLOR] (Link 1)</title>
-<link>http://rtm-live.glueapi.io/smil:rtm-ch002/playlist.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b974000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 link>http://rtm-live.glueapi.io/smil:rtm-ch002/chunklist_b1064000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/My_tv2_zpshzwufzrv.png</thumbnail>
 </item>
@@ -50,25 +50,25 @@ link>http://rtm-live.glueapi.io/smil:rtm-ch002/chunklist_b1064000_sleng.m3u8|Use
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/My_tv2_zpshzwufzrv.png</thumbnail>
 </item>
 
-<item>
+item>
 <title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]TV3[/COLOR]</title>
 <link>.</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv3_zpsccy0afit.png</thumbnail>
 </item>
 
-<item>
+item>
 <title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]NTV7[/COLOR]</title>
 <link>.</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_ntv7_zpsmslc5gwf.png</thumbnail>
 </item>
 
-<item>
+item>
 <title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]8TV[/COLOR]</title>
 <link>.</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_8tv_zpsvhm1dgc8.png</thumbnail>
 </item>
 
-<item>
+item>
 <title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]TV9[/COLOR]</title>
 <link>.</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv9_zpsvy6n5ypz.png</thumbnail>
@@ -82,7 +82,7 @@ link>http://rtm-live.glueapi.io/smil:rtm-ch002/chunklist_b1064000_sleng.m3u8|Use
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TVi[/COLOR] (Link 1)</title>
-<link>http://rtm-live.glueapi.io/smil:rtm-ch003.smil/playlist.m3u8</link>
+<link>http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b974000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 link>http://d1dyjmgkbos6tr.cloudfront.net/smil:rtm-ch003/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/tvi_zpsmwdrm674.png</thumbnail>
 </item>
@@ -104,7 +104,7 @@ link>http://d1dyjmgkbos6tr.cloudfront.net/smil:rtm-ch003/playlist.m3u8</link>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MUZIK AKTIF[/COLOR] (Link 1)</title>
-<link>http://rtm-live.glueapi.io/smil:rtm-ch004.smil/playlist.m3u8</link>
+<link>http://rtm-live.glueapi.io/smil:rtmch004/chunklist_b974000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 link>http://d1dyjmgkbos6tr.cloudfront.net/smil:rtm-ch004/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/muzikaktif_zpswj4untkz.png</thumbnail>
 </item>
@@ -126,7 +126,7 @@ link>http://d1dyjmgkbos6tr.cloudfront.net/smil:rtm-ch004/playlist.m3u8</link>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]1 NEWS[/COLOR] (Link 1)</title>
-<link>http://rtm-live.glueapi.io/smil:rtm-ch006/playlist.m3u8</link>
+<link>http://rtm-live.glueapi.io/smil:rtmch006/chunklist_b974000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 link>http://d1dyjmgkbos6tr.cloudfront.net/smil:rtm-ch006/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/1news_zpsdlajzziq.png</thumbnail>
 </item>
@@ -148,7 +148,7 @@ link>http://d1dyjmgkbos6tr.cloudfront.net/smil:rtm-ch006/playlist.m3u8</link>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]RTM PARLIMEN[/COLOR] (Link 1)</title>
-<link>http://d1dyjmgkbos6tr.cloudfront.net/smil:rtm-ch007/playlist.m3u8</link>
+<link>http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b950000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/rtmparlimen_zpsu1trkjx7.png</thumbnail>
 </item>
 
@@ -192,7 +192,7 @@ link>http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Lay
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_awani_zpsssci0ox7.png</thumbnail>
 </item>
 
-<item>
+item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]AKSI SUKAN[/COLOR]</title>
 <link>http://d1dyjmgkbos6tr.cloudfront.net/smil:rtm-ch008/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/aksisukan_zpsynthgfvn.png</thumbnail>
