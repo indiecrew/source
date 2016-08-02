@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<item>
+<title>[COLOR lightgreen]Last Update: August 3, 2016[/COLOR]</title>
+<link>http://ignoreme</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CLTV36[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?&amp;url=http://cltv36-lh.akamaihd.net/z/cltv36_1@300961/manifest.f4m</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/PH_cltv36_zps9cibryhs.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SMNI[/COLOR]</title>
+<link>http://smni.live.cdn.bitgravity.com/smni/live/feed001?width=450&amp;height=350&amp;streamType=live&amp;AutoPlay=true</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]UNTV37[/COLOR]</title>
+<link>rtmp://livestream01.untvweb.com/public/untvwebstream</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/PH_untv_zpsp9ku7sac.png</thumbnail>
+</item>
