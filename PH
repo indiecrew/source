@@ -7,15 +7,66 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CLTV36[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?&amp;url=http://cltv36-lh.akamaihd.net/z/cltv36_1@300961/manifest.f4m</link>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ABS-CBN[/COLOR]</title>
+<link></link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/PH_abscbn_zpsf6nddocp.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]AKSYON TV[/COLOR]</title>
+<link></link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/PH_aksyontv_zps2kjilc0s.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CLTV36[/COLOR]</title>
+<link>http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/master.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/PH_cltv36_zps9cibryhs.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SMNI[/COLOR]</title>
-<link>http://smni.live.cdn.bitgravity.com/smni/live/feed001?width=450&amp;height=350&amp;streamType=live&amp;AutoPlay=true</link>
-<thumbnail></thumbnail>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]GMA7[/COLOR]</title>
+<link>$doregex[get-link]</link>
+<regex>
+<name>get-link</name>
+<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/4sf5Vg9jPav/streams/live/playlist.m3u8')</expres>
+<page></page>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/PH_gma7_zpsiriyzxpk.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]INC TV[/COLOR]</title>
+<link>http://churchrus2-lh.akamaihd.net/i/COCTesting_1@57550/master.m3u8</link>
+<thumbnail>http://vignette2.wikia.nocookie.net/iglesia-ni-cristo/images/3/38/IglesiaNiCristoTelevisionlogo.png/revision/latest?cb=20130930133202</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]NET25[/COLOR]</title>
+<link>$doregex[get-link]</link>
+<regex>
+<name>get-link</name>
+<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/zz6GbLsqQqF/streams/live/playlist.m3u8')</expres>
+<page></page>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/PH_net25_zpskrj8zr8j.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]PEOPLE'S TELEVISION[/COLOR] [COLOR skyblue](Youtube)[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/user/PTVPhilippines/featured</page>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/PH_peopletv_zpse6somh5p.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV5[/COLOR]</title>
+<link></link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/PH_tv5_zps6qlxk9ej.png</thumbnail>
 </item>
 
 <item>
