@@ -29,7 +29,7 @@
 <link>$doregex[get-link]</link>
 <regex>
 <name>get-link</name>
-<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/4sf5Vg9jPav/streams/live/playlist.m3u8')</expres>
+<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/21475190/streams/live/playlist.m3u8')</expres>
 <page></page>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/PH_gma7_zpsiriyzxpk.png</thumbnail>
@@ -46,7 +46,7 @@
 <link>$doregex[get-link]</link>
 <regex>
 <name>get-link</name>
-<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/zz6GbLsqQqF/streams/live/playlist.m3u8')</expres>
+<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/21881226/streams/live/playlist.m3u8')</expres>
 <page></page>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/PH_net25_zpskrj8zr8j.png</thumbnail>
