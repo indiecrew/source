@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]Last Update: August 3, 2016[/COLOR]</title>
+<title>[COLOR lightgreen]Last Update: August 4, 2016[/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail></thumbnail>
 </item>
@@ -26,12 +26,7 @@
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]GMA7[/COLOR]</title>
-<link>$doregex[get-link]</link>
-<regex>
-<name>get-link</name>
-<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/21475190/streams/live/playlist.m3u8')</expres>
-<page></page>
-</regex>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/PH_gma7_zpsiriyzxpk.png</thumbnail>
 </item>
 
@@ -43,12 +38,7 @@
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]NET25[/COLOR]</title>
-<link>$doregex[get-link]</link>
-<regex>
-<name>get-link</name>
-<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/21881226/streams/live/playlist.m3u8')</expres>
-<page></page>
-</regex>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/PH_net25_zpskrj8zr8j.png</thumbnail>
 </item>
 
