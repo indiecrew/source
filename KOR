@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]Last Update: July 15, 2016[/COLOR]</title>
+<title>[COLOR lightgreen]Last Update: August 4, 2016[/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail></thumbnail>
 </item>
@@ -92,7 +92,7 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]KBS 1[/COLOR] [COLOR skyblue](Geoblock)[/COLOR] (Link 1)</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]KBS 1[/COLOR] [COLOR skyblue](Geoblock)[/COLOR]</title>
 <link>$doregex[getCleanRTMP] playpath=$doregex[getPATH] flashVer=WIN\2019,0,0,245 swfUrl=http://myk.kbs.co.kr/assets/vod/Flash/KPlayer.swf pageUrl=http://myk.kbs.co.kr/#?chid=N95 live=1|X-Forwarded-For=123.45.67.89</link>
 <regex>
 <name>getCleanRTMP</name>
@@ -130,13 +130,7 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]KBS 1[/COLOR] (Link 2)</title>
-<link>http://live.kbskme.gscdn.com/1tv/_definst_/1tv_5.stream/chunklist.m3u8?wowzasessionid=1930044910&amp;csu=false&amp;tid=0cb228613930797387489a4ebbf97b7a</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/kbs_zpsjxwxee0p.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]KBS 2[/COLOR] [COLOR skyblue](Geoblock)[/COLOR] (Link 1)</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]KBS 2[/COLOR] [COLOR skyblue](Geoblock)[/COLOR]</title>
 <link>$doregex[getCleanRTMP] playpath=$doregex[getPATH] flashVer=WIN\2019,0,0,245 swfUrl=http://myk.kbs.co.kr/assets/vod/Flash/KPlayer.swf pageUrl=http://myk.kbs.co.kr/#?chid=12 live=1</link>
 <regex>
 <name>getCleanRTMP</name>
@@ -174,13 +168,7 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]KBS 2[/COLOR] (Link 2)</title>
-<link>http://live.kbskme.gscdn.com/2tv/_definst_/2tv_5.stream/chunklist.m3u8?wowzasessionid=128027211&amp;csu=false&amp;tid=5271b1d72ca68033a70e97bc3f27ee6e</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/kbs_zpsjxwxee0p.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]KBS DRAMA[/COLOR] [COLOR skyblue](Geoblock)[/COLOR] (Link 1)</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]KBS DRAMA[/COLOR] [COLOR skyblue](Geoblock)[/COLOR]</title>
 <link>$doregex[getCleanRTMP] playpath=$doregex[getPATH] flashVer=WIN\2019,0,0,245 swfUrl=http://myk.kbs.co.kr/assets/vod/Flash/KPlayer.swf pageUrl=http://myk.kbs.co.kr/#?chid=N91 live=1</link>
 <regex>
 <name>getCleanRTMP</name>
@@ -214,12 +202,6 @@
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0</agent>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/kbs_zpsjxwxee0p.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]KBS DRAMA[/COLOR] (Link 2)</title>
-<link>http://live.kbskme.gscdn.com/kbsn_drama/_definst_/kbsn_drama_5.stream/chunklist.m3u8?wowzasessionid=644238357&amp;csu=false&amp;tid=951304087d30935aeccc52217486bcf6</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/kbs_zpsjxwxee0p.png</thumbnail>
 </item>
 
@@ -415,13 +397,13 @@
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]KBS WORLD[/COLOR] [COLOR skyblue](Youtube)[/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=nCKEcpWdzrU</link>
+<link>plugin://plugin.video.youtube/play/?video_id=PUl4hiEOXSo</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/kbsworld_zpsopqlva6w.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]KBS WORLD 24[/COLOR] [COLOR skyblue](Youtube)[/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=YBoL4_WimT8</link>
+<link>plugin://plugin.video.youtube/play/?video_id=foMoVEsg6dc</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/kbs_zpsjxwxee0p.png</thumbnail>
 </item>
 
@@ -456,19 +438,19 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SBS[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]SBS[/COLOR]</title>
 <link>rtmp://nlive.sbs.co.kr/sbsch6pc?u=sbs&amp;type=asp&amp;q=KDE3W39xAXF9fnZTfXACcHhwSmwsJUJ6fWd3SH1vAA%3D%3D playpath=sbs1ch63.stream swfUrl=http://vod.sbs.co.kr/onair/NeTVOnAir_1_4_1.swf?url=http://sbsplayer.sbs.co.kr/OnAir/env/SBS.xml?controlSetting=YYYYNNNNY&amp;rn=0 pageUrl=http://live.64ma.com:1930/tv/html/flv.asp?code=vEYgegtLRi0tR8Lmj8o98sLBNTmkP4EgeT0kU2E6UCGhXRcTPaMhULEne7ItUuEnez0xU20xen1hXxmjAGKBe9ckearniV5QNFo6UxmdugNdesJ9qTrmvpcqDH0kRj5m8iEne7IgUaEnez0xU20xen1hXtEgNarnigNdeS1</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/sbs_zps2dcmiefi.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SBS FUN E[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]SBS FUN E[/COLOR]</title>
 <link>rtmp://nlive.sbs.co.kr/sbsetvpc?u=sbs&amp;type=asp&amp;q=KDE3W39xAXF9fnZTfXACfnl6SmwsJUJ6fWd3SH1vAA%3D%3D playpath=sbsetv3.stream swfUrl=http://vod.sbs.co.kr/onair/NeTVOnAir_1_4_1.swf?url=http://sbsplayer.sbs.co.kr/OnAir/env/ETV.xml?controlSetting=YYYYNNNNY&amp;rn=0 pageUrl=http://live.64ma.com:1930/tv/html/flv.asp?code=vEYgegtLRi0tR8Lmj8o98sLBNTmkP4EgeT0kU2E6UCGhXj5m5aMhULEne7ItUuEnez0xU20xen1hXxmjAGKBe9ckearniV5QNFo6UxmdugNdesJ9qTrmvpcqDH0kRj5m8iEne7IgUaEnez0xU20xen1hXtEgNarnigNdeS2</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/sbs_zps2dcmiefi.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SBS PLUS[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]SBS PLUS[/COLOR]</title>
 <link>rtmp://nlive.sbs.co.kr/sbspluspc?u=sbs&amp;type=asp&amp;q=KDE3W39xAXF9fnZTfXADd3h6SmwsJUJ6fWd3SH1vAA%3D%3D playpath=sbsplus3.stream swfUrl=http://vod.sbs.co.kr/onair/NeTVOnAir_1_4_1.swf?url=http://sbsplayer.sbs.co.kr/OnAir/env/PLUS.xml?controlSetting=YYYYNNNNY&amp;rn=0 pageUrl=http://live.64ma.com:1930/tv/html/flv.asp?code=Ruschc80tRi0Pj8LmjEegU75QNL1IUacQNsEkM%2EVjUY0xPmKJPaMhULEne7ItUuEnez0xU20xen1hXxmjAGKBe9ckearniV5QNFo6UxmdugNdesJ9qTrmvpcqDH0kRj5m8iEne7IgUaEnez0xU20xen1hXtEgNarnigNdeS4</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/sbs_zps2dcmiefi.png</thumbnail>
 </item>
