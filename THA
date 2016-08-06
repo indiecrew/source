@@ -7,18 +7,6 @@
 </item>
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]13 SIAM THAI TV[/COLOR]</title>
-<link>.</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_13siamthai_zpskemh8jzm.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]@TV[/COLOR]</title>
-<link>.</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_tv_zpsjwnsx9b8.png</thumbnail>
-</item>
-
-<item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]AC1 CHINESE SERIES[/COLOR]</title>
 <link>http://103.40.138.89:1935/live/ac1/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_ac1_zpsoilckren.png</thumbnail>
@@ -49,20 +37,14 @@
 </item>
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]BANG CHANNEL[/COLOR]</title>
-<link>.</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_bangchannel_zpspvxslo8p.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]BLUESKY CHANNEL[/COLOR]</title>
-<link>.</link>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]BLUESKY CHANNEL[/COLOR]</title>
+<link>rtmp://203.150.228.24:1935/bluesky_live playpath=myStream swfUrl=http://www.fahwonmai.tv/live/flowplayer-3.2.7.swf pageUrl=http://www.fahwonmai.tv/</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_blueskychannel_zpsuk4f3ks7.png</thumbnail>
 </item> 
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]BRIGHT TV[/COLOR]</title>
-<link>.</link>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]BRIGHT TV[/COLOR]</title>
+<link>rtmp://iam.brighttv.co.th/BrightTV/ playpath=live swfUrl=http://vjs.zencdn.net/4.7/video-js.swf pageUrl=http://www.brighttv.co.th/th/live</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_brighttv_zpshweyt1vv.png</thumbnail>
 </item> 
 
@@ -91,12 +73,6 @@
 </item>
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]CHALERM KRUNG[/COLOR]</title>
-<link>.</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_chalermkrung_zpsgszzuqso.png</thumbnail>
-</item>
-
-<item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CHAIYO TV[/COLOR]</title>
 <link>http://live.thaichaiyotv.co.th:1935/thaichaiyotv/live/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_chaiyotv_zpsfy1f0rir.png</thumbnail>
@@ -104,7 +80,7 @@
 
 <item>
 <title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]DARA DAILY TV[/COLOR]</title>
-<link>rtmp://202.44.53.116:1935/live/daradaily</link>
+<link>.</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_daradailytv_zpsuaelv2so.png</thumbnail>
 </item>
 
@@ -115,27 +91,9 @@
 </item>
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]DR TV[/COLOR]</title>
-<link>.</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_drtv_zpsvs0pij0x.png</thumbnail>
-</item>
-
-<item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ESAN TV[/COLOR]</title>
 <link>rtmp://103.40.138.89:1935/live/esan</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_esantv_zpsdfapwd0e.png</thumbnail>
-</item> 
-
-<item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]ETV[/COLOR]</title>
-<link>.</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_etv_zpsrau0lvbi.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]FAT TV[/COLOR]</title>
-<link>.</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_fattv_zpsepclpmef.png</thumbnail>
 </item> 
 
 <item>
@@ -151,32 +109,26 @@
 </item> 
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]H PLUS CHANNEL[/COLOR]</title>
-<link>.</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_hpluschannel_zpsfcsypnea.png</thumbnail>
-</item> 
-
-<item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]MCOT[/COLOR]</title>
-<link>.</link>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MCOT[/COLOR]</title>
+<link>http://49.231.20.64:8158/FreeTVChannel/StreamService/SD/MCOTHD/heve.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_mcothd_zpsbizgaxok.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]MCOT KIDS & FAMILY[/COLOR]</title>
-<link>.</link>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MCOT KIDS & FAMILY[/COLOR]</title>
+<link>http://49.231.20.66:8158/FreeTVChannel/StreamService/SD/MCOTKID/heve.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_mcotfamily_zps3bwyr6fa.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]MCOT 1[/COLOR]</title>
-<link>.</link>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MCOT 1[/COLOR]</title>
+<link>http://lb-media.mcot.net:1935/mcot1_edge/mcot1.stream/chunklist_w9654280.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_mcot1_zpsvz7adnzb.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]MCOT WORLD[/COLOR]</title>
-<link>.</link>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MCOT WORLD[/COLOR]</title>
+<link>rtmp://lb-media.mcot.net:1935/mcotworld_edge/ playpath=mcotworld.stream swfUrl=http://www.mcot.net/ui-object/flowplayer/flowplayer-3.2.9.swf pageUrl=http://www.mcot.net/mcotworld</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_mcotworld_zps1ksvh9gw.png</thumbnail>
 </item>
 
@@ -205,7 +157,7 @@
 </item> 
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]MAXAGRO TV[/COLOR]</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MAXAGRO TV[/COLOR]</title>
 <link>http://111.223.36.6/tp_maxagro_ch.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_maxagrotv_zpspc8hvkfz.png</thumbnail>
 </item> 
@@ -217,79 +169,55 @@
 </item> 
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]MONEY CHANNEL[/COLOR]</title>
-<link>http://202.170.127.201/mnychlive.isml/manifest(format=m3u8-aapl).m3u8</link>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MONEY CHANNEL[/COLOR]</title>
+<link>http://61.47.34.38/moneych/mnychlive.isml/manifest(format=m3u8-aapl).m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_moneychannel_zps2hfhcrwy.png</thumbnail>
 </item> 
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]MONGKOL CHANNEL[/COLOR]</title>
-<link>.</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_mongkolchannel_zpsr8xbkyzp.png</thumbnail>
-</item> 
-
-<item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]NBT TV[/COLOR]</title>
-<link>.</link>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]NBT TV[/COLOR]</title>
+<link>http://49.231.20.63:8158/FreeTVChannel/StreamService/SD/NBT/heve.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_nbttv_zpst5tjx4yk.png</thumbnail>
 </item> 
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]NBT WORLD[/COLOR]</title>
-<link>.</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_nbtworld.jpg_zpscfms3qdo.png</thumbnail>
-</item> 
-
-<item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]N NATION[/COLOR]</title>
-<link>http://202.170.127.195/nationlive.isml/manifest(format=m3u8-aapl).m3u8</link>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]NATION TV[/COLOR]</title>
+<link>http://61.47.34.37/nation/nationlive.isml/manifest(format=m3u8-aapl).m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_nationtv_zps97f6zue8.png</thumbnail>
 </item> 
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]NOW 26[/COLOR]</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]NOW 26[/COLOR]</title>
 <link>http://nationstream.nationgroup.com/live.isml/manifest(format=m3u8-aapl).m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_now26_zpsoy5umhf8.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]ONEHD TV[/COLOR]</title>
-<link>.</link>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ONEHD TV[/COLOR]</title>
+<link>rtmp://202.142.220.224:1935/gmmone playpath=gmmone swfUrl=http://www.onehd.net//jwplayer/player.swf pageUrl=http://www.onehd.net/live</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_onetv_zpsmbraxf2x.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]POLICE TV[/COLOR]</title>
-<link>.</link>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]POLICE TV[/COLOR]</title>
+<link>rtmp://live.netdesignhost.com/policetvlive/ playpath=policetvlive swfUrl=http://www.policetv.tv/flowplayer.commercial-3.2.11.swf pageUrl=http://www.policetv.tv/</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_policetv_zpsvtyjcwco.png</thumbnail>
 </item> 
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]POP TV[/COLOR]</title>
-<link>http://live.poptv.co.th:1935/poptv/live/playlist.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_poptv_zps98voxf2v.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]PPTV[/COLOR]</title>
-<link>.</link>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]PPTV[/COLOR]</title>
+<link>http://pr04ed004.dcs-cdn.com/ch1/th1pba.isml/QualityLevels(576000)/manifest(format=m3u8-aapl).m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_pptv_zpsiqptxluh.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]SABAIDEE TV[/COLOR]</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SABAIDEE TV[/COLOR]</title>
 <link>rtsp://202.142.207.150:1935/live/livesabaidee1</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_sabaideetv_zpsxcfcifkj.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]SMMTV[/COLOR]</title>
-<link>http://edge2-bkk.3bb.co.th:1935/smmtv_livestream/smmtv.stream_live1/playlist.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_smmtv_zpsiybq4fi2.png</thumbnail>
-</item> 
-
-<item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]SMART TV[/COLOR]</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SMART TV[/COLOR]</title>
 <link>http://111.223.36.5/tp_smart_tv.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_smarttv_zpsmpahf2gc.png</thumbnail>
 </item> 
@@ -301,22 +229,10 @@
 </item>
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]THAI MUSLIM TV[/COLOR]</title>
-<link>.</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_thaimuslimtv_zpsxjcgn028.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]TGN[/COLOR]</title>
-<link>http://61.91.12.34:1935/live/smil:tgnadaptive.smil/playlist.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_tgn_zpssary4zc2.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]TRUE4U TV[/COLOR]</title>
-<link>.</link>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TRUE4U TV[/COLOR]</title>
+<link>http://tvsedge220.truevisions.tv/liveedge_app/207_th_m_auto.smil/playlist.m3u8?appid=true4u&amp;uid=kxfz9dny3p&amp;mpass=26MuLvo1E812UFSKkovju0gPVJA2Vvbjyn2MJapBhLIevtHcCH0yKpN2%2BnGakFiLdgegLrp3KerMCCUmRpJLeGsyCAKXeYjBopaMUnG1nmfXdqpNGr9z0ryrJcThbm7UbJ%2BOAxiLpjEWvxHUC8R6%2B0zuRPfFbvE43Hd%2FSW2%2F6%2FU</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_true4utv_zpsgbudj3vr.png</thumbnail>
-</item> 
+</item>http://49.231.20.77:8158/FreeTVChannel/StreamService/SD/TRUE4U/heve.m3u8
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TCC TV[/COLOR]</title>
@@ -325,19 +241,19 @@
 </item> 
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]TNN 24[/COLOR]</title>
-<link>.</link>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TNN 24[/COLOR]</title>
+<link>http://playlistservices.truelife.com/playlist.php?scope=platform&amp;contentgroup=live&amp;content_id=104637&amp;project_id=11&amp;device=web&amp;product_id=104637&amp;ref=live&amp;b_d=3</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_tnn24_zpszwyyxrvm.png</thumbnail>
 </item> 
-
+swf:http://www.truelife.com/partner_live/TLPlayerh.swf
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]TV 24[/COLOR]</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV 24[/COLOR]</title>
 <link>http://103.22.182.99:1935/flash2837/flash2837/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_tv24_zpsgtdjcjq4.png</thumbnail>
 </item> 
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]TV PARLIAMENT[/COLOR]</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV PARLIAMENT[/COLOR]</title>
 <link>http://202.57.162.55:1935/radio01/radio01/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_parliamenttv_zpscafhbqju.png</thumbnail>
 </item>
@@ -349,32 +265,26 @@
 </item> 
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]TV MUSLIM[/COLOR]</title>
-<link>.</link>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]THAI MUSLIM TV[/COLOR]</title>
+<link>rtmp://radio2.thaidhost.com:8888/muslimonair2 playpath=live swfUrl=http://html.login.in.th/flashstreaming/player.swf pageUrl=http://www.tmtv.asia/</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_tvmuslim_zpsbhst0hxm.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]VLIKE CHANNEL[/COLOR]</title>
-<link>http://vlike.live.co.th:1935/vlike/live/playlist.m3u8</link>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]VLIKE CHANNEL[/COLOR]</title>
+<link>rtmp://livestream.voicetv.co.th:1935/live-edge playpath=voicetv_360p swfUrl=http://live.voicetv.co.th/player/osmf/StrobeMediaPlayback.swf pageUrl=http://live.voicetv.co.th/</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_vlikechannel_zpsxecvhsos.png</thumbnail>
 </item> 
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]VOICE TV[/COLOR]</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]VOICE TV[/COLOR]</title>
 <link>http://livestream.voicetv.co.th:1935/live-edge/smil:voicetv_all.smil/playlist.m3u8?DVR</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_voicetv_zpsgoqixurz.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]WE TV[/COLOR]</title>
-<link>http://27.254.81.49:1935/user_live/hWhV37/playlist.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_wetv_zpsxjouw787.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]WHITE CHANNEL[/COLOR]</title>
-<link>.</link>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]WHITE CHANNEL[/COLOR]</title>
+<link>http://live4.netdesignhost.com/whitechannellive/whitechannellive2/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_whitechannel_zpslja96r6j.png</thumbnail>
 </item>
 
@@ -391,7 +301,7 @@
 </item> 
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]YOU CHANNEL[/COLOR]</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]YOU CHANNEL[/COLOR]</title>
 <link>http://stream.rs.co.th/you-hi/index.m3u8?d=web</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_youchannel_zpskjn26ex6.png</thumbnail>
 </item> 
