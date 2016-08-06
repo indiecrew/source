@@ -188,7 +188,7 @@
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]NOW 26[/COLOR]</title>
-<link>http://nationstream.nationgroup.com/live.isml/manifest(format=m3u8-aapl).m3u8</link>
+<link>http://49.231.20.70:8158/FreeTVChannel/StreamService/SD/NOW/heve.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_now26_zpsoy5umhf8.png</thumbnail>
 </item>
 
@@ -212,7 +212,7 @@
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SABAIDEE TV[/COLOR]</title>
-<link>rtsp://202.142.207.150:1935/live/livesabaidee1</link>
+<link>http://stream.rs.co.th/sbd-low/index.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_sabaideetv_zpsxcfcifkj.png</thumbnail>
 </item>
 
@@ -230,7 +230,7 @@
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TRUE4U TV[/COLOR]</title>
-<link>http://tvsedge220.truevisions.tv/liveedge_app/207_th_m_auto.smil/playlist.m3u8?appid=true4u&amp;uid=kxfz9dny3p&amp;mpass=26MuLvo1E812UFSKkovju0gPVJA2Vvbjyn2MJapBhLIevtHcCH0yKpN2%2BnGakFiLdgegLrp3KerMCCUmRpJLeGsyCAKXeYjBopaMUnG1nmfXdqpNGr9z0ryrJcThbm7UbJ%2BOAxiLpjEWvxHUC8R6%2B0zuRPfFbvE43Hd%2FSW2%2F6%2FU</link>
+<link>http://49.231.20.77:8158/FreeTVChannel/StreamService/SD/TRUE4U/heve.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_true4utv_zpsgbudj3vr.png</thumbnail>
 </item>http://49.231.20.77:8158/FreeTVChannel/StreamService/SD/TRUE4U/heve.m3u8
 
@@ -242,10 +242,10 @@
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TNN 24[/COLOR]</title>
-<link>http://playlistservices.truelife.com/playlist.php?scope=platform&amp;contentgroup=live&amp;content_id=104637&amp;project_id=11&amp;device=web&amp;product_id=104637&amp;ref=live&amp;b_d=3</link>
+<link>http://49.231.20.64:8158/FreeTVChannel/StreamService/SD/TNN/heve.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_tnn24_zpszwyyxrvm.png</thumbnail>
 </item> 
-swf:http://www.truelife.com/partner_live/TLPlayerh.swf
+
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV 24[/COLOR]</title>
 <link>http://103.22.182.99:1935/flash2837/flash2837/playlist.m3u8</link>
@@ -278,7 +278,7 @@ swf:http://www.truelife.com/partner_live/TLPlayerh.swf
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]VOICE TV[/COLOR]</title>
-<link>http://livestream.voicetv.co.th:1935/live-edge/smil:voicetv_all.smil/playlist.m3u8?DVR</link>
+<link>http://49.231.20.75:8158/FreeTVChannel/StreamService/SD/VOICETV/heve.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_voicetv_zpsgoqixurz.png</thumbnail>
 </item>
 
