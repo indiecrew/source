@@ -114,9 +114,17 @@
 </channel>
 
 <channel>
+<name>THAILAND</name>
+<thumbnail>http://img.freeflagicons.com/thumb/round_icon/thailand/thailand_640.png</thumbnail>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</channel>
+
+<channel>
 <name>UNITED ARAB EMIRATES</name>
 <thumbnail>http://img.freeflagicons.com/thumb/round_icon/united_arab_emirates/united_arab_emirates_640.png</thumbnail>
 <link>http://ignoreme</link>
 <externallink>http://tiny.cc/uaetv</externallink>
 </channel>
+
 </channels>
