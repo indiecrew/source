@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]Last Update: July 31, 2016[/COLOR]</title>
+<title>[COLOR lightgreen]Last Update: August 7, 2016[/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail></thumbnail>
 </item>
@@ -77,6 +77,12 @@ link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDTEN.m3u8?zone=tenp
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CHANNEL 31[/COLOR]</title>
 <link>http://manifester-c31.mediafoundry.com.au/stream/c31melbourne/playlist.m3u8</link>
+<thumbnail>http://frankston.tv/wp-content/uploads/2013/09/channel31-logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CHANNEL 31 FISHING[/COLOR]</title>
+<link>http://manifester.mediafoundry.com.au/stream/c31melbourne_fishing/playlist.m3u8</link>
 <thumbnail>http://frankston.tv/wp-content/uploads/2013/09/channel31-logo.png</thumbnail>
 </item>
 
