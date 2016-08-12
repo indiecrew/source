@@ -1,15 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]Last Update: July 27, 2016[/COLOR]</title>
-<link>http://ignoreme</link>
+<title>[COLOR turquoise](2016)[/COLOR] Cendol [Malaysia]</title>
+<link></link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR turquoise](2016)[/COLOR] Cendol [Malaysia]</title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[COLOR turquoise](2016)[/COLOR] Zack Kapcai [Malaysia]</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-7491b8kzkgy0-640x360.html</link>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-7491b8kzkgy0-640x360.html</page>
+<referer>http://streamin.to/7491b8kzkgy0</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-7491b8kzkgy0-640x360.html</page>
+<referer>http://streamin.to/7491b8kzkgy0</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-7491b8kzkgy0-640x360.html</page>
+<referer>http://streamin.to/7491b8kzkgy0</referer>
+</regex>
+<thumbnail>http://vplaytv.me/wp-content/uploads/2016/08/zackkapcai.jpg</thumbnail>
 </item>
 
 <item>
