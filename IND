@@ -18,8 +18,8 @@
 </item>
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]B4U MOVIES[/COLOR]</title>
-<f4m>http://www.q7t1.com:8000/live/mario12/mario12/1743.ts&amp;streamtype=TSDOWNLOADER</f4m>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]B4U MOVIES[/COLOR]</title>
+<f4m>http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/940.ts&amp;streamtype=TSDOWNLOADER</f4m>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/b4u_zpskpfdbtqd.png</thumbnail>
 </item>
 
@@ -42,7 +42,7 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ENTERR TV[/COLOR]</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ENTERR 10 TV[/COLOR]</title>
 <link>http://livestream.asianetmobiletv.com/content/enterten_cjvfhkemye_hls/enterten_cjvfhkemye_master.m3u8</link>
 <thumbnail></thumbnail>
 </item>
@@ -62,6 +62,18 @@
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]HATHWAY CINE[/COLOR]</title>
 <link>http://livestream.asianetmobiletv.com/content/hathwayccc_rsbdkdhlfuzb_hls/hathwayccc_rsbdkdhlfuzb_master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]IBN 7[/COLOR]</title>
+<link>http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]IBN LOKMAT[/COLOR]</title>
+<link>http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_3.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -117,7 +129,6 @@
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ZEE BOLLYWOOD[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/3897.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/Zee-tv-logo_zps4qntfqef.png</thumbnail>
-<fanart></fanart>
 </item>
 
 <item>
@@ -153,25 +164,25 @@
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]STAR SPORT 1[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/hamada/hamada/1925.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/Zee-tv-logo_zps4qntfqef.png</thumbnail>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/starsports_zpsnu9e4gjp.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]STAR SPORT 2[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1740.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/Zee-tv-logo_zps4qntfqef.png</thumbnail>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/starsports_zpsnu9e4gjp.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]STAR SPORT 3[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/hamada/hamada/1927.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/Zee-tv-logo_zps4qntfqef.png</thumbnail>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/starsports_zpsnu9e4gjp.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]STAR SPORT 4[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/hamada/hamada/1928.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/Zee-tv-logo_zps4qntfqef.png</thumbnail>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/starsports_zpsnu9e4gjp.png</thumbnail>
 </item>
 
 <item>
@@ -186,8 +197,32 @@
 </item>
 
 <item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]AKARAM TV[/COLOR]</title>
+<link>http://uk1.zecast.com/star-live-1/_definst_/mp4:akaram1.stream/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ARRA TV[/COLOR]</title>
+<link>http://arratvcloud.purplestream.in/arratvorg/smil:arratv.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ATHAVAN TV[/COLOR]</title>
+<link>http://amglive.mmdlive.lldns.net/amglive/0275c0991e9b4f34b7e1433ec440e923/chunklist_b732000.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]BOSS TV[/COLOR]</title>
+<link>http://bosstv3.chennaistream.net/bosstv/mp4:bosstvlive/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CAPTAIN TV[/COLOR] [COLOR skyblue](Youtube)[/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=aD_yz8P8_YM</link>
+<link>plugin://plugin.video.youtube/play/?video_id=3ahdoA5tOTQ</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/captaintv_zps1aujgn4c.png</thumbnail>
 </item>
 
@@ -243,7 +278,7 @@
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SUN NEWS[/COLOR] [COLOR skyblue](Youtube)[/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=o7DHWLnslBE</link>
+<link>plugin://plugin.video.youtube/play/?video_id=YaAikrGpqyY</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/suntv_zpsavttwut9.png</thumbnail>
 </item>
 
@@ -284,7 +319,7 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ZEE TAMIL[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]ZEE TAMIL[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://internext.zapto.org:8000/live/ahmed/ahmed/359.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/Zee-tv-logo_zps4qntfqef.png</thumbnail>
 </item>
