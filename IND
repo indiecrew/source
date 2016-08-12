@@ -233,6 +233,42 @@
 </item>
 
 <item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CTN[/COLOR]</title>
+<link>rtmp://45.79.203.234:1935/ctntv/myStream</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CHANNEL UFX[/COLOR]</title>
+<link>http://live.wmncdn.net/ufx/378846f78998168446c173d7055d2653.sdp/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]DERANA TV[/COLOR] [COLOR skyblue](Youtube)[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=_B3R4j_zYuE</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]DD PODHIGAI[/COLOR]</title>
+<link>http://live-fs.wmncdn.net/ddpodigailive2/live2.stream/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]DHEERAN TV[/COLOR]</title>
+<link>http://edgecastdheerantv.purplestream.in/dheeranorg/ngrp:dheeran_all/chunklist_b512000.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]DEEPAM TV[/COLOR]</title>
+<link>http://amglive.mmdlive.lldns.net/amglive/2239f12a6f2e4cce8fbec6522fc8cbe9/chunklist_b1928000.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]EET TV[/COLOR]</title>
 <link>rtmp://37.59.17.222:1935/live_ca/eettv</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/eettv_zpsjde2u4ih.png</thumbnail>
@@ -245,16 +281,106 @@
 </item>
 
 <item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ISAI ARUVI[/COLOR]</title>
+<link>http://367449830.r.cdnsun.net/367449830/_definst_/isaiaruvi/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]KATHIR TV[/COLOR]</title>
+<link>http://45.79.203.234:1935/kathir/myStream/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]KALAIGNAR TV[/COLOR]</title>
+<link>http://livestream.asianetmobiletv.com:80/content/kalaingar_njwlqfjvaj_hls/kalaingar_njwlqfjvaj_master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MAKKAL TV[/COLOR]</title>
+<link>http://45.79.203.234:1935/makkal/myStream/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MEGA TV[/COLOR]</title>
+<link>http://play-fs.amgiptv.com/vxtvmegatv/megatv.stream/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MEGA 24[/COLOR]</title>
+<link>http://play-fs.amgiptv.com/vxtvmega24/mega24.stream/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MK TV[/COLOR]</title>
+<link>http://d2tunwguqq620e.cloudfront.net/mktv/ngrp:mknews_all/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MOON TV[/COLOR]</title>
+<link>rtmp://49.207.182.189:1953/hls/moonvision</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]NETHRA TV[/COLOR]</title>
+<link>http://dammikartmp.tulix.tv/slrc2/slrc2/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]PUTHUYUGAM TV[/COLOR]</title>
 <link>http://d211bpuke56xnv.cloudfront.net/ngmedia/pym_400/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/puthuyugam_zpsokjxrk1w.png</thumbnail>
 </item>
 
 <item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]PEPPERS TV[/COLOR]</title>
+<link>http://live.wmncdn.net/pepperstv/51f5cdae2cc7bd5e4e8e76b7357ae0f8.sdp/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]POLIMER TV[/COLOR]</title>
+<link>http://livestream.asianetmobiletv.com/content/polimertv_sjcubxbbmg_hls/polimertv_sjcubxbbmg_profile1.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]RAJ TV[/COLOR]</title>
+<link>http://livestream.asianetmobiletv.com/content/rajtv_bqpwbkwbptft_hls/rajtv_bqpwbkwbptft_profile3.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]RAJ MUSIX[/COLOR]</title>
+<link>http://livestream.asianetmobiletv.com/content/rajmusic_rawgueicbzyj_hls/rajmusic_rawgueicbzyj_profile3.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]RAJ DIGITAL PLUS[/COLOR]</title>
+<link>http://amglive.mmdlive.lldns.net/amglive/63f4a566b3c14a50a108e65a7a03c254/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]RUPAVAHINI TV[/COLOR]</title>
+<link>http://dammikartmp.tulix.tv/slrc1/slrc1/chunklist_w747273608.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SANTHORA TV[/COLOR]</title>
 <link>http://santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w17596822.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/santhoratv_zpsegu5lzty.png</thumbnail>
-</item>
+</item>http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
 
 <item>
 <title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]SUN TV[/COLOR]</title>
@@ -283,8 +409,50 @@
 </item>
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]TAMIL TV[/COLOR]</title>
-<link>http://tv-streamer-lon-01.orutv.com/broadcast_low/index.m3u8</link>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SARAS TV[/COLOR]</title>
+<link>http://live.streamjo.com:1935/sarastv/sarastv/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SHALINI TV[/COLOR]</title>
+<link>http://45.79.203.234:1935/shalini/myStream/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SIRIPPOLI TV[/COLOR]</title>
+<link>http://livestream.asianetmobiletv.com:80/content/siripoli_sonyfpvgto_hls/siripoli_sonyfpvgto_master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SWARNAVAHINI TV[/COLOR] [COLOR skyblue](Youtube)[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=yZWhtPEjKbA</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SUPER TV[/COLOR]</title>
+<link>http://supertvcloud.purplestream.in/supertvorg/ngrp:supertv_all/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TAMILAN TV[/COLOR]</title>
+<link>http://38.96.175.192:1943/live/tamilantelevision1/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TAMIL BUSINESS TV[/COLOR]</title>
+<link>rtmp://rtmp.santhoratv.zecast.net/tamilbusinesstv/tamilbusinesstv</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TAMIL ARUVI[/COLOR]</title>
+<link>http://91.82.85.44:1935/scr8174/lives078.sdp/playlist.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -301,21 +469,57 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]VASANTH TV[/COLOR]</title>
-<link>http://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/chunklist_w146489470.m3u8?e=0&amp;h=54e44f64b2e6d5122acdf77d01ab7f9f</link>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TUNES 6[/COLOR]</title>
+<link>http://live.wmncdn.net/tunes6/72781e965e0681e980034a778ee7067b.sdp/playlist.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]VENDHAR TV[/COLOR]</title>
-<link>rtmp://45.79.203.234:1935/vendhar/ playpath=myStream swfUrl=http://vendharmedia.in/video-js.swf pageUrl=http://vendharmedia.in/</link>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]VASANTH TV[/COLOR]</title>
+<link>http://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/chunklist_w146489470.m3u8?e=0&amp;h=54e44f64b2e6d5122acdf77d01ab7f9f</link>
+<thumbnail></thumbnail>http://vasanth.live.cdn.bitgravity.com/vasanth/secure/live/feed01?e=0%26h%3Da9be0836bc39f96d0a9a958a659dfc1d%26bgsecuredir%3D1
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]VENDHAR TV[/COLOR]</title>
+<link>rtmp://45.79.203.234:1935/vendharm/myStream</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/vendhartv_zps5h1bohn5.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]VIMBAM TV[/COLOR]</title>
+<link>http://91.219.43.148:1935/vimbamtv/vimbamtv/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]VANAVIL PLUS[/COLOR]</title>
+<link>http://45.79.203.234:1935/vanavil/myStream/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]VASANTHAM TV[/COLOR]</title>
+<link>http://cdncities.com/vasanthamtv/vasanthamtv/playlist.m3u8</link>
+<thumbnail></thumbnail>
 </item>
 
 <item>
 <title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]VIJAY TV[/COLOR]</title>
 <link>.</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/vijaytv_zpssd21mlpe.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]WIN TV[/COLOR]</title>
+<link>rtmp://45.79.203.234:1935/win/myStream</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]YUGAM TV[/COLOR]</title>
+<link>http://45.79.203.234:1935/z1m/myStream/playlist.m3u8</link>
+<thumbnail></thumbnail>
 </item>
 
 <item>
