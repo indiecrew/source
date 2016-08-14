@@ -15,7 +15,7 @@
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CANTERBURY TV[/COLOR]</title>
 <link>http://scc-cdn.5stream.com/stream/stream_med/index.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/canterburytv_zpsot6bin4l.png</thumbnail>
 </item>
 
 <item>
@@ -63,24 +63,24 @@
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV3[/COLOR]</title>
 <link>http://mworks-i.akamaihd.net/hls/live/247858/AES128/3812193411001/tv3_live/master_2000.m3u8|X-Forwarded-For=202.150.115.76</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/tv3_zpsdetvgf6r.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TVNZ DUKE[/COLOR]</title>
 <link>https://tvnzioslive01-i.akamaihd.net/hls/live/245926/tvnzhlsingest/Duke/playlist.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/duke_zpspxkexuyu.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]THE EDGE[/COLOR]</title>
 <link>http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/theedgetv_live/master.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/theedge_zpsfpiqi1li.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TVSN[/COLOR]</title>
 <link>http://tvsn-lh.akamaihd.net/i/TVSN_NZ_1@137553/master.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/tvsn_zps29xbhfmo.png</thumbnail>
 </item>
 
