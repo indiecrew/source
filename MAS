@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]Last Update: August 2, 2016[/COLOR]</title>
+<title>[COLOR lightgreen]Last Update: August 14, 2016[/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail>http://img.freeflagicons.com/thumb/round_icon/malaysia/malaysia_640.png</thumbnail>
 </item>
@@ -15,12 +15,12 @@ link>http://rtm-live.glueapi.io/smil:rtm-ch001/chunklist_b1064000_sleng.m3u8|Use
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV1[/COLOR] (Link 2)</title>
-<link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.gluempsapp.com/v8/10149</link>
+<link>$doregex[m3u8]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&amp;Referer=http://rtm-player.glueapi.io/f/10149</link>
   <regex>
     <name>m3u8</name>
     <expres>file="([^\"]+)"</expres>
-    <page>http://rtm-player.gluempsapp.com/v8/10149</page>
-    <referer>http://rtm-player.gluempsapp.com/v8/10149</referer>
+    <page>http://rtm-player.glueapi.io/f/10149</page>
+    <referer>http://rtm-player.glueapi.io/f/10149</referer>
     <agent>Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</agent>
     <accept>*/*</accept>
     <cookieJar></cookieJar>
@@ -37,12 +37,12 @@ link>http://rtm-live.glueapi.io/smil:rtm-ch002/chunklist_b1064000_sleng.m3u8|Use
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV2[/COLOR] (Link 2)</title>
-<link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.gluempsapp.com/v8/10148</link>
+<link>$doregex[m3u8]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&amp;Referer=http://rtm-player.glueapi.io/f/10148</link>
   <regex>
     <name>m3u8</name>
     <expres>file="([^\"]+)"</expres>
-    <page>http://rtm-player.gluempsapp.com/v8/10148</page>
-    <referer>http://rtm-player.gluempsapp.com/v8/10148</referer>
+    <page>http://rtm-player.glueapi.io/f/10148</page>
+    <referer>http://rtm-player.glueapi.io/f/10148</referer>
     <agent>Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</agent>
     <accept>*/*</accept>
     <cookieJar></cookieJar>
@@ -89,12 +89,12 @@ link>http://d1dyjmgkbos6tr.cloudfront.net/smil:rtm-ch003/playlist.m3u8</link>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TVi[/COLOR] (Link 2)</title>
-<link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.gluempsapp.com/v8/10150</link>
+<link>$doregex[m3u8]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&amp;Referer=http://rtm-player.glueapi.io/f/10150</link>
   <regex>
     <name>m3u8</name>
     <expres>file="([^\"]+)"</expres>
-    <page>http://rtm-player.gluempsapp.com/v8/10150</page>
-    <referer>http://rtm-player.gluempsapp.com/v8/10150</referer>
+    <page>http://rtm-player.glueapi.io/f/10150</page>
+    <referer>http://rtm-player.glueapi.io/f/10150</referer>
     <agent>Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</agent>
     <accept>*/*</accept>
     <cookieJar></cookieJar>
@@ -111,12 +111,12 @@ link>http://d1dyjmgkbos6tr.cloudfront.net/smil:rtm-ch004/playlist.m3u8</link>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MUZIK AKTIF[/COLOR] (Link 2)</title>
-<link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.gluempsapp.com/v8/10151</link>
+<link>$doregex[m3u8]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&amp;Referer=http://rtm-player.glueapi.io/f/10151</link>
   <regex>
     <name>m3u8</name>
     <expres>file="([^\"]+)"</expres>
-    <page>http://rtm-player.gluempsapp.com/v8/10151</page>
-    <referer>http://rtm-player.gluempsapp.com/v8/10151</referer>
+    <page>http://rtm-player.glueapi.io/f/10151</page>
+    <referer>http://rtm-player.glueapi.io/f/10151</referer>
     <agent>Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</agent>
     <accept>*/*</accept>
     <cookieJar></cookieJar>
@@ -133,12 +133,12 @@ link>http://d1dyjmgkbos6tr.cloudfront.net/smil:rtm-ch006/playlist.m3u8</link>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]1 NEWS[/COLOR] (Link 2)</title>
-<link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.gluempsapp.com/v8/10153</link>
+<link>$doregex[m3u8]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&amp;Referer=http://rtm-player.glueapi.io/f/10153</link>
   <regex>
     <name>m3u8</name>
     <expres>file="([^\"]+)"</expres>
-    <page>http://rtm-player.gluempsapp.com/v8/10153</page>
-    <referer>http://rtm-player.gluempsapp.com/v8/10153</referer>
+    <page>http://rtm-player.glueapi.io/f/10153</page>
+    <referer>http://rtm-player.glueapi.io/f/10153</referer>
     <agent>Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</agent>
     <accept>*/*</accept>
     <cookieJar></cookieJar>
@@ -154,12 +154,12 @@ link>http://d1dyjmgkbos6tr.cloudfront.net/smil:rtm-ch006/playlist.m3u8</link>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]RTM PARLIMEN[/COLOR] (Link 2)</title>
-<link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.gluempsapp.com/v8/10152</link>
+<link>$doregex[m3u8]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&amp;Referer=http://rtm-player.glueapi.io/f/10152</link>
   <regex>
     <name>m3u8</name>
     <expres>file="([^\"]+)"</expres>
-    <page>http://rtm-player.gluempsapp.com/v8/10152</page>
-    <referer>http://rtm-player.gluempsapp.com/v8/10152</referer>
+    <page>http://rtm-player.glueapi.io/f/10152</page>
+    <referer>http://rtm-player.glueapi.io/f/10152</referer>
     <agent>Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</agent>
     <accept>*/*</accept>
     <cookieJar></cookieJar>
@@ -200,24 +200,24 @@ item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ASTRO SUPERSPORT 1[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es3/es3/1769.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/gwyndaf/gwyndaf/7528.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_supersport_zpskifl4slo.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ASTRO SUPERSPORT 2[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es3/es3/1770.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/gwyndaf/gwyndaf/7529.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_supersport_zpskifl4slo.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ASTRO SUPERSPORT 3[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es3/es3/1768.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/gwyndaf/gwyndaf/7530.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_supersport_zpskifl4slo.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ASTRO SUPERSPORT 4[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es3/es3/1790.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/gwyndaf/gwyndaf/7236.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_supersport_zpskifl4slo.png</thumbnail>
 </item>
