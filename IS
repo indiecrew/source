@@ -37,7 +37,7 @@
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MUSLIM TV[/COLOR] (Thailand)</title>
-<link>http://www.atxmediaserver.com:1935/TV_muslim1/TV_muslim1/playlist.m3u8</link>
+<link>rtmp://radio2.thaidhost.com:8888/muslimonair2 playpath=live swfUrl=http://html.login.in.th/flashstreaming/player.swf pageUrl=http://www.tmtv.asia/</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_thaimuslimtv_zpsxjcgn028.png</thumbnail>
 </item>
 
@@ -61,7 +61,7 @@
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]THAI MUSLIM TV[/COLOR] (Thailand)</title>
-<link>rtmp://radio2.thaidhost.com:8888/muslimonair2 playpath=live swfUrl=http://html.login.in.th/flashstreaming/player.swf pageUrl=http://www.tmtv.asia/</link>
+<link>http://www.atxmediaserver.com:1935/TV_muslim1/TV_muslim1/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_tvmuslim_zpsbhst0hxm.png</thumbnail>
 </item>
 
