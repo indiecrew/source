@@ -271,12 +271,6 @@
 </item> 
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]THAI MUSLIM TV[/COLOR]</title>
-<link>rtmp://radio2.thaidhost.com:8888/muslimonair2 playpath=live swfUrl=http://html.login.in.th/flashstreaming/player.swf pageUrl=http://www.tmtv.asia/</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_tvmuslim_zpsbhst0hxm.png</thumbnail>
-</item>
-
-<item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]VLIKE CHANNEL[/COLOR]</title>
 <link>rtmp://livestream.voicetv.co.th:1935/live-edge playpath=voicetv_360p swfUrl=http://live.voicetv.co.th/player/osmf/StrobeMediaPlayback.swf pageUrl=http://live.voicetv.co.th/</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_vlikechannel_zpsxecvhsos.png</thumbnail>
@@ -289,22 +283,10 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]WHITE CHANNEL[/COLOR]</title>
-<link>http://live4.netdesignhost.com/whitechannellive/whitechannellive2/playlist.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_whitechannel_zpslja96r6j.png</thumbnail>
-</item>
-
-<item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]WORKPOINT CHANNEL[/COLOR]</title>
 <link>http://122.155.180.125/workpoint/_definst_/workpoint_270p/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_workpointtv_zpssw5jf0yw.png</thumbnail>
 </item>  
-
-<item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]YATEEM TV[/COLOR]</title>
-<link>http://radio2.thaidhost.com:8888/muslimonair1/live/playlist.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_yateemtv_zpsmcytnw4g.png</thumbnail>
-</item> 
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]YOU CHANNEL[/COLOR]</title>
