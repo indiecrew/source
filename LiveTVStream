@@ -86,6 +86,13 @@ channel>
 </channel>
 
 <channel>
+<name>PALESTINE</name>
+<thumbnail>http://img.freeflagicons.com/thumb/round_icon/palestinian_territory/palestinian_territory_640.png</thumbnail>
+<link>http://ignoreme</link>
+<externallink>http://tiny.cc/pltv</externallink>
+</channel>
+
+<channel>
 <name>PHILIPPINES</name>
 <thumbnail>http://img.freeflagicons.com/thumb/round_icon/philippines/philippines_640.png</thumbnail>
 <link>http://ignoreme</link>
