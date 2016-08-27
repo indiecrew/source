@@ -107,16 +107,19 @@ link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDTEN.m3u8?zone=tenp
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SKY RACING 1[/COLOR]</title>
 <link>http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky1.m3u8|X-Forwarded-For=101.175.18.124</link>
+<thumbnail>http://www.racingfans.com.au/uploaded/articles/skyracing.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SKY RACING 2[/COLOR]</title>
 <link>http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky2.m3u8|X-Forwarded-For=101.175.18.124</link>
+<thumbnail>http://www.racingfans.com.au/uploaded/articles/skyracing.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SKY RACING NSW[/COLOR]</title>
 <link>http://kitdigitaioslive-i.akamaihd.net/hls/live/219670/skyr_ios_unblocked/skyrnsw.m3u8|X-Forwarded-For=101.175.18.124</link>
+<thumbnail>http://www.racingfans.com.au/uploaded/articles/skyracing.jpg</thumbnail>
 </item>
 
 <item>
