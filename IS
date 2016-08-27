@@ -57,7 +57,13 @@
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV IKIM[/COLOR] (Malaysia)</title>
 <link>rtmp://cdnvideo.webvideocore.net:1935/tv10nl playpath=42DG7ABF94HAC4G.tv swfUrl=http://play.webvideocore.net/player3.swf/[[DYNAMIC]]/1 pageUrl=http://www.layarku.tv/tvikim.html</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/tvikim_zpsfj04rhya.png</thumbnail>
-</item
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]THAI MUSLIM TV[/COLOR] (Thailand)</title>
+<link>rtmp://radio2.thaidhost.com:8888/muslimonair2 playpath=live swfUrl=http://html.login.in.th/flashstreaming/player.swf pageUrl=http://www.tmtv.asia/</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_tvmuslim_zpsbhst0hxm.png</thumbnail>
+</item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]RODJA TV[/COLOR] (Indonesia) [COLOR skyblue](Youtube)[/COLOR]</title>
@@ -71,3 +77,15 @@ link>rtmp://103.28.22.198:1935/surautv playpath=live swfUrl=http://www.onlineind
 <link>http://wowza60.indostreamserver.com:1935/surautv/live/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_surautv_zpsers5c5sj.png</thumbnail>
 </item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]WHITE CHANNEL[/COLOR] (Thailand)</title>
+<link>http://live4.netdesignhost.com/whitechannellive/whitechannellive2/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_whitechannel_zpslja96r6j.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]YATEEM TV[/COLOR] (Thailand)</title>
+<link>http://radio2.thaidhost.com:8888/muslimonair1/live/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_yateemtv_zpsmcytnw4g.png</thumbnail>
+</item> 
