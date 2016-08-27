@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]Last Update: August 2, 2016[/COLOR]</title>
+<title>[COLOR lightgreen]Last Update: August 28, 2016[/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail></thumbnail>
 </item>
@@ -14,7 +14,7 @@
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MASJID AN-NABAWI, MADINAH[/COLOR] [COLOR skyblue](Youtube)[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qv5siL0_usg</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ArVmnth5jB4</link>
 <thumbnail>http://www.lazywazy.in/wp-content/uploads/2015/09/masjid-nabawi-madinatul-munawwaroh2.jpg</thumbnail>
 </item>
 
@@ -70,10 +70,4 @@
 link>rtmp://103.28.22.198:1935/surautv playpath=live swfUrl=http://www.onlineindo.tv/player/player.swf pageUrl=http://www.surau.tv/onlinetv/server2.html</link>
 <link>http://wowza60.indostreamserver.com:1935/surautv/live/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_surautv_zpsers5c5sj.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]INSAN TV[/COLOR] (Indonesia)</title>
-<link>http://wz.insantv.net/group/ngrp:insantv_all/chunklist_b762697.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_insantv_zpsjsisshrg.png</thumbnail>
 </item>
