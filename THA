@@ -55,9 +55,9 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CHANNEL 3[/COLOR]</title>
-<link>http://61.91.12.34:1935/live/smil:tv5adaptive.smil/playlist.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_tv3_zps3x0wyd6y.png</thumbnail>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]CHANNEL 3[/COLOR]</title>
+<link>.</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_tv3_zpsdiqjkuii.png</thumbnail>
 </item>
 
 <item>
