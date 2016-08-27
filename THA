@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]Last Update: August 6, 2016[/COLOR]</title>
+<title>[COLOR lightgreen]Last Update: August 28, 2016[/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail>http://img.freeflagicons.com/thumb/round_icon/thailand/thailand_640.png</thumbnail>
 </item>
@@ -55,14 +55,20 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CHANNEL 5[/COLOR]</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CHANNEL 3[/COLOR]</title>
+<link>http://61.91.12.34:1935/live/smil:tv5adaptive.smil/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_tv3_zps3x0wyd6y.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]CHANNEL 5[/COLOR]</title>
 <link>http://61.91.12.34:1935/live/smil:tv5adaptive.smil/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_tv5_zps3x0wyd6y.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CHANNEL 7[/COLOR]</title>
-<link>http://rtmp.thaitv.co.th/live/thaitv.m3u8</link>
+<link>http://je7.bugaboo.tv/liveedgech7_partner/720p/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_channel7_zpsqeeq1pey.png</thumbnail>
 </item>
 
@@ -110,13 +116,13 @@
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MCOT[/COLOR]</title>
-<link>http://49.231.20.64:8158/FreeTVChannel/StreamService/SD/MCOTHD/heve.m3u8</link>
+<link>http://lb-media.mcot.net:1935/9mcot_edge/9mcot.stream/chunklist_w899094540.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_mcothd_zpsbizgaxok.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MCOT KIDS & FAMILY[/COLOR]</title>
-<link>http://49.231.20.66:8158/FreeTVChannel/StreamService/SD/MCOTKID/heve.m3u8</link>
+<link>http://lb-media.mcot.net:1935/mcotfamily_edge/mcotfamily.stream/chunklist_w1334709340.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_mcotfamily_zps3bwyr6fa.png</thumbnail>
 </item>
 
@@ -176,7 +182,7 @@
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]NBT TV[/COLOR]</title>
-<link>http://49.231.20.63:8158/FreeTVChannel/StreamService/SD/NBT/heve.m3u8</link>
+<link>http://202.43.34.234:1935/11/s1/chunklist.m3u8?wowzasessionid=793909446</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_nbttv_zpst5tjx4yk.png</thumbnail>
 </item> 
 
@@ -187,7 +193,7 @@
 </item> 
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]NOW 26[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]NOW 26[/COLOR]</title>
 <link>http://49.231.20.70:8158/FreeTVChannel/StreamService/SD/NOW/heve.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_now26_zpsoy5umhf8.png</thumbnail>
 </item>
@@ -229,10 +235,10 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TRUE4U TV[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]TRUE4U TV[/COLOR]</title>
 <link>http://49.231.20.77:8158/FreeTVChannel/StreamService/SD/TRUE4U/heve.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_true4utv_zpsgbudj3vr.png</thumbnail>
-</item>http://49.231.20.77:8158/FreeTVChannel/StreamService/SD/TRUE4U/heve.m3u8
+</item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TCC TV[/COLOR]</title>
@@ -242,7 +248,7 @@
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TNN 24[/COLOR]</title>
-<link>http://49.231.20.64:8158/FreeTVChannel/StreamService/SD/TNN/heve.m3u8</link>
+<link>http://111.223.36.3/tp_tnn24.m3u8?bandwidth=956</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_tnn24_zpszwyyxrvm.png</thumbnail>
 </item> 
 
@@ -278,7 +284,7 @@
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]VOICE TV[/COLOR]</title>
-<link>http://49.231.20.75:8158/FreeTVChannel/StreamService/SD/VOICETV/heve.m3u8</link>
+<link>http://livestream.voicetv.co.th/live-edge/voicetv_360p/chunklist_w1360777989.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_voicetv_zpsgoqixurz.png</thumbnail>
 </item>
 
