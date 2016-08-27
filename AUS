@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]Last Update: August 7, 2016[/COLOR]</title>
+<title>[COLOR lightgreen]Last Update: August 27, 2016[/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail></thumbnail>
 </item>
@@ -102,6 +102,21 @@ link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDTEN.m3u8?zone=tenp
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SPORTSFAN[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?&amp;url=http://bponlinehdslive267.ngcdn.telstra.com/hds-live/bp/_definst_/bpsf-pc-000-c3002-fmspkg1-hdsogg1-abr/bpsf-pc-000-c3002-fmspkg1-hdsogg1-abr3.f4m?IS=0&amp;ET=1446577201&amp;CIP=1.2.3.4&amp;KO=1&amp;KN=7&amp;US=b032c5afd259a172cd037211b775ed33</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/sportfans_zpsrmoi2lbj.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SKY RACING 1[/COLOR]</title>
+<link>http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky1.m3u8|X-Forwarded-For=101.175.18.124</link>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SKY RACING 2[/COLOR]</title>
+<link>http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky2.m3u8|X-Forwarded-For=101.175.18.124</link>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SKY RACING NSW[/COLOR]</title>
+<link>http://kitdigitaioslive-i.akamaihd.net/hls/live/219670/skyr_ios_unblocked/skyrnsw.m3u8|X-Forwarded-For=101.175.18.124</link>
 </item>
 
 <item>
