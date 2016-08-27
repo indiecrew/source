@@ -91,7 +91,7 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SURIA[/COLOR]</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SURIA[/COLOR] (Link 1)</title>
 <link>$doregex[m3u8]|X-Forwarded-For=203.208.224.155</link>
 <regex>
 	<name>m3u8</name>
@@ -99,6 +99,12 @@
 	<page>http://goo.gl/uQhZSa</page>
   <referer>http://goo.gl/uQhZSa</referer>
 </regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_suria_zpsipi9s6ls.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SURIA[/COLOR] (Link 2)</title>
+<link>http://tglsuria-lh.akamaihd.net/i/suria_fta@334584/index_2_av-b.m3u8?sd=10&amp;rebase=on?sd=10&amp;b=1000-&amp;rebase=on|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_suria_zpsipi9s6ls.png</thumbnail>
 </item>
 
