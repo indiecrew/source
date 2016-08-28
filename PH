@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]Last Update: August 4, 2016[/COLOR]</title>
+<title>[COLOR lightgreen]Last Update: August 28, 2016[/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail></thumbnail>
 </item>
@@ -16,6 +16,12 @@
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]AKSYON TV[/COLOR]</title>
 <link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/PH_aksyontv_zps2kjilc0s.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]FILAM TV[/COLOR] [COLOR skyblue](Youtube)[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=pF7dZ6RWet4</link>
+<thumbnail></thumbnail>
 </item>
 
 <item>
@@ -43,7 +49,7 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]PEOPLE'S TELEVISION[/COLOR] [COLOR skyblue](Youtube)[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]PEOPLE'S TELEVISION[/COLOR] [COLOR skyblue](Youtube)[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
