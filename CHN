@@ -1,152 +1,134 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]Last Update: July 31, 2016[/COLOR]</title>
+<title>[COLOR lightgreen]Last Update: August 28, 2016[/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ANHUI TV[/COLOR]</title>
-<link>http://183.61.22.32/padlive1-cnc.wasu.cn/hd_ahws/z.m3u8</link>
+<link>http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001247/index.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]BEIJING TV[/COLOR]</title>
-<link>http://183.61.22.32/padlive1-cnc.wasu.cn/hd_bjws/z.m3u8</link>
+<link>http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001225/index.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV NEWS[/COLOR]</title>
-<link>http://218.244.147.118:6389/wtvlive/migu2/609017205_4|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001122/index.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/cctvnews_zpsh8tueiho.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-1[/COLOR]</title>
-<link>http://183.61.22.32/padlive1-cnc.wasu.cn/hd_cctv1/z.m3u8</link>
+<link>http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001017/index.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-2[/COLOR]</title>
-<link>http://183.61.22.32/padlive1-cnc.wasu.cn/cctv2/z.m3u8</link>
+<link>http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001023/index.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-3[/COLOR]</title>
-<link>http://183.61.22.32/padlive1-cnc.wasu.cn/cctv3/z.m3u8</link>
+<link>http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001026/index.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-4[/COLOR]</title>
-<link>http://183.61.22.32/padlive2-cnc.wasu.cn/cctv4/z.m3u8</link>
+<link>http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001118/index.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-5[/COLOR]</title>
-<link>http://183.61.22.32/padlive1-cnc.wasu.cn/hd_cctv5/z.m3u8</link>
+<link>http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001028/index.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-5+[/COLOR]</title>
-<link>http://183.61.22.32/padlive1-cnc.wasu.cn/hd_cctv5jia/z.m3u8</link>
+<link>http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001043/index.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-6[/COLOR]</title>
-<link>http://183.61.22.32/padlive2-cnc.wasu.cn/cctv6/z.m3u8</link>
+<link>http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001030/index.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-7[/COLOR]</title>
-<link>http://183.61.22.32/padlive2-cnc.wasu.cn/cctv7/z.m3u8</link>
+<link>http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001120/index.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-8[/COLOR]</title>
-<link>http://183.61.22.32/padlive1-cnc.wasu.cn/cctv8/z.m3u8</link>
+<link>http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001032/index.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-9[/COLOR]</title>
-<link>http://183.61.22.32/padlive2-cnc.wasu.cn/cctv9/z.m3u8</link>
+<link>http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001034/index.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-10[/COLOR]</title>
-<link>http://183.61.22.32/padlive2-cnc.wasu.cn/cctv10/z.m3u8</link>
+<link>http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001124/index.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-11[/COLOR]</title>
-<link>http://183.61.22.32/padlive2-cnc.wasu.cn/cctv11/z.m3u8</link>
+<link>http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001126/index.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-12[/COLOR]</title>
-<link>http://183.61.22.32/padlive2-cnc.wasu.cn/cctv12/z.m3u8</link>
+<link>http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001128/index.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-13[/COLOR]</title>
-<link>http://183.61.22.32/padlive1-cnc.wasu.cn/cctv13/z.m3u8</link>
+<link>http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001130/index.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-14[/COLOR]</title>
-<link>http://183.61.22.32/padlive2-cnc.wasu.cn/cctv14/z.m3u8</link>
+<link>http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001132/index.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-15[/COLOR]</title>
-<link>http://183.61.22.32/padlive2-cnc.wasu.cn/cctv15/z.m3u8</link>
+<link>http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001134/index.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
-
-<item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV DISCOVERY[/COLOR]</title>
-<link>http://183.61.22.32/padlive1-cnc.wasu.cn/fxzl/z.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV FOOTBALL[/COLOR]</title>
-<link>http://183.61.22.32/padlive1-cnc.wasu.cn/fyzq/z.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
-</item>
-
+ 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]DRAGON TV[/COLOR]</title>
-<link>http://183.61.22.32/padlive1-cnc.wasu.cn/hd_dfws/z.m3u8</link>
+<link>http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001223/index.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]GUANGDONG TV[/COLOR]</title>
 <link>http://106.120.175.80:55336/tslive/c27_ct_gdtv1_gdws_smooth_t10/c27_ct_gdtv1_gdws_smooth_t10.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]GUANGDONG ZHUJIANG[/COLOR]</title>
-<link>http://106.120.175.80:55336/tslive/c20_ct_huizahn_hz_smooth_t10/c20_ct_huizahn_hz_smooth_t10.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -175,27 +157,38 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]HNTV JINYING CARTOON[/COLOR]</title>
-<link>http://live.dianshibo.com/$doregex[m3u8]</link>
-<regex>
-  <name>m3u8</name>
-  <expres>var src = '/(.*?)';</expres>
-  <page>http://live.dianshibo.com/le/embed?id=jykt</page>
-  <referer>http://www.zoptv.com/live/hunan-jinyingkatong</referer>
-  <agent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36</agent>
-</regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/hunanjinyingkatong_zps77ig04ln.png</thumbnail>
-</item>
-
-<item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]HUBEI TV[/COLOR]</title>
-<link>http://183.61.22.32/padlive1-cnc.wasu.cn/hd_hbws/z.m3u8</link>
+<link>http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001251/index.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]JIANGSU TV[/COLOR]</title>
-<link>http://183.61.22.32/padlive1-cnc.wasu.cn/hd_jsws/z.m3u8</link>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]HOT EXPLORE[/COLOR]</title>
+<link>http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001241/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]HOT CINEMA[/COLOR]</title>
+<link>http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001237/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]HOT THEATER[/COLOR]</title>
+<link>http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001227/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]HOT ANIMATION[/COLOR]</title>
+<link>http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001231/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]JIANGXI TV[/COLOR]</title>
+<link>http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001182/index.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -206,43 +199,25 @@
 </item>
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]KIRIN ARTS[/COLOR]</title>
-<link>http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/varietyhd/as/live/varietyhd_4.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/kirintv_zpsiqkj8wav.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]KIRIN CHILDREN[/COLOR]</title>
-<link>http://ktv041.cdnak.ds.kylintv.net/nlds/kylin/kids/as/live/kids_4.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/kirintv_zpsiqkj8wav.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]KIRIN FASHION[/COLOR]</title>
-<link>http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/leisure/as/live/leisure_4.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/kirintv_zpsiqkj8wav.png</thumbnail>
-</item>
-
-<item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SHANDONG TV[/COLOR]</title>
-<link>http://183.61.22.32/padlive1-cnc.wasu.cn/hd_sdws/z.m3u8</link>
+<link>http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001166/index.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/shandongtv_zpseumd12yh.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SHENZHEN TV[/COLOR]</title>
-<link>http://183.61.22.32/padlive1-cnc.wasu.cn/hd_szws/z.m3u8</link>
+<link>http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001229/index.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TIANJIN TV[/COLOR]</title>
-<link>http://183.61.22.32/padlive1-cnc.wasu.cn/hd_tjws/z.m3u8</link>
+<link>http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001180/index.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/tianjintv_zpsnjgrwxct.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ZHEJIANG TV[/COLOR]</title>
-<link>http: //183.61.22.32/padlive1-cnc.wasu.cn/hd_zjws/z.m3u8</link>
+<link>http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001221/index.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/zhejiangtv_zpspygzblqy.png</thumbnail>
 </item>
