@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR turquoise](2016)[/COLOR] Cendol [Malaysia]</title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>[COLOR turquoise](2016)[/COLOR] Dukun Doktor Dani [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-9g36d8w31j01-640x360.html</link>
 <regex>
@@ -76,6 +70,18 @@
 <referer>http://streamin.to/9zcfolbvfy2k</referer>
 </regex>
 <thumbnail>http://cdn3.gsc.com.my/WebLITE/Applications/MovieManagement/uploaded/pics/2016/Ada_apa_dengan_cinta2/AADC2_v1_984x1482_500.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR turquoise](2016)[/COLOR] Cendol [Malaysia]</title>
+<link>$doregex[m3u8]</link>
+<regex>
+	<name>m3u8</name>
+	<expres>src="(.*?)" type="video/mp4" label="HD"</expres>
+	<page>http://arai.space/video.php?v=515357308667817</page>
+  <referer>http://arai.space/video.php?v=515357308667817</referer>
+</regex>
+<thumbnail>http://www.cinema.com.my/images/movies/2016/7cendol00_450.jpg</thumbnail>
 </item>
 
 <item>
