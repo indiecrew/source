@@ -73,14 +73,8 @@
 </item>
 
 <item>
-<title>[COLOR turquoise](2016)[/COLOR] Cendol [Malaysia]</title>
-<link>$doregex[m3u8]</link>
-<regex>
-	<name>m3u8</name>
-	<expres>src="(.*?)" type="video/mp4" label="HD"</expres>
-	<page>http://arai.space/video.php?v=515357308667817</page>
-  <referer>http://arai.space/video.php?v=515357308667817</referer>
-</regex>
+<title>[COLOR turquoise](2016)[/COLOR] Cendol[Malaysia]</title>
+<link>https://video.xx.fbcdn.net/v/t42.9040-2/10000000_1227044120647596_1927164074_n.mp4?efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJzdmVfaGQifQ==&amp;rl=1500&amp;vabr=355&amp;oh=2b4e7fb5748aadaf955161dd42997b73&amp;oe=57C4BED6</link>
 <thumbnail>http://www.cinema.com.my/images/movies/2016/7cendol00_450.jpg</thumbnail>
 </item>
 
