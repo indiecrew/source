@@ -193,7 +193,7 @@
 </item>
 
 <item>
-<title>JIANGSU TV</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]JIANGSU TV[/COLOR]</title>
 <link>http://218.203.106.12:5580/ysten-businessmobile/live/hdjiangsustv/yst.m3u8</link>
 <thumbnail>http://www.chinawhisper.com/wp-content/uploads/2013/08/Jiangsu-Satellite-Television.jpg</thumbnail>
 </item>
@@ -230,7 +230,7 @@
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]XING KONG TV[/COLOR]</title>
-<link>http://httpdvb.slave.dzcatv.com:13164/httpdvb/sdxkws_.m3u8</link>
+<link>http://httpdvb.slave.dzcatv.com:13164/httpdvb/sdxkws_.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.chinawhisper.com/wp-content/uploads/2013/08/xingkong-tv.jpg</thumbnail>
 </item>
 
