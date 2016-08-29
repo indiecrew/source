@@ -7,6 +7,30 @@
 </item>
 
 <item>
+<title>[COLOR turquoise](2016)[/COLOR] Dukun Doktor Dani [Malaysia]</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-9g36d8w31j01-640x360.html</link>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-9g36d8w31j01-640x360.html</page>
+<referer>http://streamin.to/9g36d8w31j01</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>flv\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-9g36d8w31j01-640x360.html</page>
+<referer>http://streamin.to/9g36d8w31j01</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-9g36d8w31j01-640x360.html</page>
+<referer>http://streamin.to/9g36d8w31j01</referer>
+</regex>
+<thumbnail>https://2.bp.blogspot.com/-LjA6vyiv5wY/V4iQOTkBcNI/AAAAAAAAB7I/pmKc1OmpBW0ic5OuNZuFXISHiSEyR7PfACLcB/s1600/Dukun%2BDoktor%2BDani.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR turquoise](2016)[/COLOR] Zack Kapcai [Malaysia]</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-7491b8kzkgy0-640x360.html</link>
 <regex>
