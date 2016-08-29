@@ -9,13 +9,13 @@
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ANHUI TV[/COLOR]</title>
 <link>http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001247/index.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.chinawhisper.com/wp-content/uploads/2013/08/Anhui-TV.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]BEIJING TV[/COLOR]</title>
 <link>http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001225/index.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>https://www.lycatv.tv/lyca-cms/img/07102612Beijing%20TV.png</thumbnail>
 </item>
 
 <item>
@@ -123,7 +123,7 @@
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]DRAGON TV[/COLOR]</title>
 <link>http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001223/index.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.chinawhisper.com/wp-content/uploads/2013/08/Shanghai-Oriental-Television.jpg</thumbnail>
 </item>
 
 <item>
@@ -152,7 +152,7 @@
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]HUNAN TV[/COLOR]</title>
-<link>http://183.61.22.32/padlive1-cnc.wasu.cn/hd_hnws/z.m3u8</link>
+<link>http://218.203.106.12:5580/ysten-businessmobile/live/hdhunanstv/yst.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/hunantv_zps73x44imk.png</thumbnail>
 </item>
 
@@ -193,6 +193,12 @@
 </item>
 
 <item>
+<title>JIANGSU TV</title>
+<link>http://218.203.106.12:5580/ysten-businessmobile/live/hdjiangsustv/yst.m3u8</link>
+<thumbnail>http://www.chinawhisper.com/wp-content/uploads/2013/08/Jiangsu-Satellite-Television.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]KIRIN LIVE[/COLOR]</title>
 <link>http://ktv015.cdnak.ds.kylintv.net/nlds/kylin/kylinlive/as/live/kylinlive_4.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/kirintv_zpsiqkj8wav.png</thumbnail>
@@ -207,13 +213,25 @@
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SHENZHEN TV[/COLOR]</title>
 <link>http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001229/index.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.chinawhisper.com/wp-content/uploads/2013/08/shenzhen-TV.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TIANJIN TV[/COLOR]</title>
-<link>http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001180/index.m3u8</link>
+<link>http://218.203.106.12:5580/ysten-businessmobile/live/hdtianjinstv/yst.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/tianjintv_zpsnjgrwxct.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]THE TRAVEL CHANNEL[/COLOR]</title>
+<link>http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001170/index.m3u8</link>
+<thumbnail>http://www.chinawhisper.com/wp-content/uploads/2013/08/The-Travel-Channel.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]XING KONG TV[/COLOR]</title>
+<link>http://httpdvb.slave.dzcatv.com:13164/httpdvb/sdxkws_.m3u8</link>
+<thumbnail>http://www.chinawhisper.com/wp-content/uploads/2013/08/xingkong-tv.jpg</thumbnail>
 </item>
 
 <item>
