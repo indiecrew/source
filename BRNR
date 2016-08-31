@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]Last Update: June 25, 2016[/COLOR]</title>
+<title>[COLOR lightgreen]Last Update: September 1st, 2016[/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail>http://img.freeflagicons.com/thumb/round_icon/brunei/brunei_640.png</thumbnail>
 </item>
@@ -20,7 +20,7 @@
 
 <item>
 <title>NASIONAL 92.3FM</title>
-<link>http://72.20.10.60:8000/;stream.mp3</link>
+<link>rtsp://202.160.15.85/nasional-01</link>
 <thumbnail>http://www.rtb.gov.bn/PublishingImages/Radio%20Logos/Nasional.png</thumbnail>
 </item>
 
