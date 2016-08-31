@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]Last Update: July 14, 2016[/COLOR]</title>
+<title>[COLOR lightgreen]Last Update: September 1st, 2016[/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail></thumbnail>
 </item>
@@ -73,25 +73,49 @@
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]BERITA SATU[/COLOR] (Link 2)</title>
-<link>http://edge.firstmediacdn.swiftserve.com/live/fmcdn/amlst:bsnews/playlist.m3u8</link>
+<link>$doregex[m3u8]</link>
+<regex>
+	<name>m3u8</name>
+	<expres>m3u8source = "(.*?)";</expres>
+	<page>http://www.beritasatu.com/playstream.php?channel=news</page>
+  <referer>http://www.beritasatu.com/playstream.php?channel=news</referer>
+</regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_beritasatutv_zpsdgoulgmq.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]BERITA SATU SPORT[/COLOR]</title>
-<link>http://edge.firstmediacdn.swiftserve.com/live/fmcdn/amlst:beritasatusport/playlist.m3u8</link>
+<link>$doregex[m3u8]</link>
+<regex>
+	<name>m3u8</name>
+	<expres>m3u8source = "(.*?)";</expres>
+	<page>http://www.beritasatu.com/playstream.php?channel=sport</page>
+  <referer>http://www.beritasatu.com/playstream.php?channel=sport</referer>
+</regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_beritasatutv_zpsdgoulgmq.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]BERITA SATU ENGLISH[/COLOR]</title>
-<link>http://edge.firstmediacdn.swiftserve.com/live/fmcdn/amlst:beritasatuenglish/playlist.m3u8</link>
+<link>$doregex[m3u8]</link>
+<regex>
+	<name>m3u8</name>
+	<expres>m3u8source = "(.*?)";</expres>
+	<page>http://www.beritasatu.com/playstream.php?channel=english</page>
+  <referer>http://www.beritasatu.com/playstream.php?channel=english</referer>
+</regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_beritasatutv_zpsdgoulgmq.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]BERITA SATU WORLD[/COLOR]</title>
-<link>http://edge.firstmediacdn.swiftserve.com/live/fmcdn/amlst:beritasatuworld/playlist.m3u8</link>
+<link>$doregex[m3u8]</link>
+<regex>
+	<name>m3u8</name>
+	<expres>m3u8source = "(.*?)";</expres>
+	<page>http://www.beritasatu.com/playstream.php?channel=world</page>
+  <referer>http://www.beritasatu.com/playstream.php?channel=world</referer>
+</regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_beritasatutv_zpsdgoulgmq.png</thumbnail>
 </item>
 
@@ -421,13 +445,7 @@
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SCTV[/COLOR] (Link 2)</title>
-<link>$doregex[get-m3u8]</link>
-<regex>
-<name>get-m3u8</name>
-<expres>data-clip-hls-url="(.*)"</expres>
-<page>http://www.vidio.com/live/204-sctv-tv-stream/embed</page>
-<referer>http://www.sctv.co.id/live</referer>
-</regex>
+<link>http://tv.vidiostream.com/i/sctv_1@137582/master.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_sctv_zpsibjuh3i7.png</thumbnail>
 </item>
 
@@ -555,12 +573,6 @@
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV EDUKASI[/COLOR]</title>
 <link>http://118.98.221.131/live/smil:tvedukasi.smil/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tvedukasi_zpsffpsjove.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV BMW[/COLOR]</title>
-<link>http://wowza58.indostreamserver.com:1935/bmwtv/live/playlist.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/bmwtv_zpsyg1r64fi.png</thumbnail>
 </item>
 
 <item>
