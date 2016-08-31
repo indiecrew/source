@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]Last Update: August 28, 2016[/COLOR]</title>
+<title>[COLOR lightgreen]Last Update: September 1st, 2016[/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail></thumbnail>
 </item>
@@ -61,27 +61,15 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]PHOENIX TV[/COLOR]</title>
-<link>http://218.203.106.12:5580/ysten-business/live/fhchinese/yst.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/phoenixtv_zpsmhohqxjq.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]PHOENIX INFONEWS[/COLOR]</title>
-<link>http://ktv005.cdnak.ds.kylintv.net/nlds/kylin/pxinhd/as/live/pxinhd_4.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/phoenixinfo_zpswryu8eld.png</thumbnail>
-</item>
-
-<item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]PHOENIX CHINESE[/COLOR]</title>
 <link>http://zv.3gv.ifeng.com/live/zhongwen800k.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/phoenixtv_zpsmhohqxjq.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]PHOENIX HONG KONG[/COLOR]</title>
 <link>http://14.17.115.9/live/hongkong800k.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/phoenixtv_zpsmhohqxjq.png</thumbnail>
 </item>
 
 <item>
@@ -103,8 +91,8 @@
 </item>
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]TVB JADE[/COLOR]</title>
-<link>http://58.218.152.98:7712/feichui.m3u8?key=1234</link>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TVB JADE[/COLOR]</title>
+<link>http://dlhls.cdn.zhanqi.tv/zqlive/2869_tUPFz.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/tvb_zpsg3msqsap.png</thumbnail>
 </item>
 
