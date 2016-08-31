@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]Last Update: August 28, 2016[/COLOR]</title>
+<title>[COLOR lightgreen]Last Update: September 1st, 2016[/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail></thumbnail>
 </item>
@@ -159,7 +159,7 @@
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]HUBEI TV[/COLOR]</title>
 <link>http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001251/index.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.zoptv.com/assets/logo/hubei-tv.png</thumbnail>
 </item>
 
 <item>
@@ -189,7 +189,7 @@
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]JIANGXI TV[/COLOR]</title>
 <link>http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001182/index.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.cicsep.com/cicsep/uploadfile.do-action=open&filepath=image-filec2e98e8c8df8.jpg</thumbnail>
 </item>
 
 <item>
@@ -202,6 +202,18 @@
 <title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]KIRIN LIVE[/COLOR]</title>
 <link>http://ktv015.cdnak.ds.kylintv.net/nlds/kylin/kylinlive/as/live/kylinlive_4.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/kirintv_zpsiqkj8wav.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]PHOENIX TV[/COLOR]</title>
+<link>http://218.203.106.12:5580/ysten-business/live/fhchinese/yst.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/phoenixtv_zpsmhohqxjq.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]PHOENIX INFONEWS[/COLOR]</title>
+<link>http://ktv005.cdnak.ds.kylintv.net/nlds/kylin/pxinhd/as/live/pxinhd_4.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/phoenixinfo_zpswryu8eld.png</thumbnail>
 </item>
 
 <item>
