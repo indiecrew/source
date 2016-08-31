@@ -229,13 +229,7 @@
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]INDOSIAR[/COLOR] (Link 2)</title>
-<link>$doregex[get-m3u8]</link>
-<regex>
-<name>get-m3u8</name>
-<expres>data-clip-hls-url="(.*)"</expres>
-<page>https://www.vidio.com/live/205-indosiar-tv-stream/embed</page>
-<referer>http://www.indosiar.com/live</referer>
-</regex>
+<link>http://livestreaming-a.production.liputan6.static6.com/i/indosiar_1@137568/master.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_indosiar_zpsnlwwccnu.png</thumbnail>
 </item>
 
