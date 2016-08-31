@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]Last Update: August 12, 2016[/COLOR]</title>
+<title>[COLOR lightgreen]Last Update: September 1st, 2016[/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail></thumbnail>
 </item>
@@ -18,7 +18,7 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]B4U MOVIES[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]B4U MOVIES[/COLOR]</title>
 <f4m>http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/940.ts&amp;streamtype=TSDOWNLOADER</f4m>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/b4u_zpskpfdbtqd.png</thumbnail>
 </item>
@@ -197,7 +197,7 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]AKARAM TV[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]AKARAM TV[/COLOR]</title>
 <link>http://uk1.zecast.com/star-live-1/_definst_/mp4:akaram1.stream/playlist.m3u8</link>
 <thumbnail></thumbnail>
 </item>
@@ -209,7 +209,7 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ATHAVAN TV[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]ATHAVAN TV[/COLOR]</title>
 <link>http://amglive.mmdlive.lldns.net/amglive/0275c0991e9b4f34b7e1433ec440e923/chunklist_b732000.m3u8</link>
 <thumbnail></thumbnail>
 </item>
