@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]Last Update: June 25, 2016[/COLOR]</title>
+<title>[COLOR lightgreen]Last Update: September 1st, 2016[/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail>http://img.freeflagicons.com/thumb/round_icon/malaysia/malaysia_640.png</thumbnail>
 </item>
@@ -44,7 +44,7 @@
 
 <item>
 <title>FLY FM</title>
-<link>http://13413.live.streamtheworld.com/FLYFMAAC_SC</link>
+<link>http://mediaprima.rastream.com/mediaprima-flyfm?&amp;authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE0NzI2NTA5OTkzMzgsImV4cCI6MTQ3MjczNzM5OTMzOH0.4Mm8hTBAd8jP53fqS_iVS-kPP76tnx2vBGHp44f2_a0&amp;type=.flv</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/FlyFM_zpsozofyihg.png</thumbnail>
 </item>
 
@@ -56,7 +56,7 @@
 
 <item>
 <title>HOT FM</title>
-<link>http://14623.live.streamtheworld.com/HOTFMAAC_SC</link>
+<link>http://radioactive1.rastream.com/mediaprima-hotfm</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/HotFM_zpslatlx1u8.png</thumbnail>
 </item>
 
@@ -104,14 +104,8 @@
 
 <item>
 <title>LITE FM</title>
-<link>http://astro1.rastream.com/lite?type=.flv</link>
+<link>http://astro1.rastream.com/lite?type=.flv&amp;authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE0NzI2NDkwNDgsImlhdCI6MTQ3MjY0ODQ0OCwib2lkIjoibGF5bGlvLWFuZHJvaWQifQ.pbmSQT1slDjGkBXtqaI6OrPuTR3XN-uNWvWsKYYDGnI</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/LiteFM_zpsbpr1f9zh.png</thumbnail>
-</item>
-
-<item>
-<title>MUZIK FM</title>
-<link>http://d1dyjmgkbos6tr.cloudfront.net/smil:rtm-ch005.smil/chunklist_b1040000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/MuzikFM_zpssqq6idsq.png</thumbnail>
 </item>
 
 <item>
@@ -152,7 +146,7 @@
 
 <item>
 <title>ONE FM</title>
-<link>http://5293.live.streamtheworld.com/ONEFMAAC_SC</link>
+<link>http://mediaprima.rastream.com/mediaprima-onefm?&amp;authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE0NzI2NTEzNzk2OTEsImV4cCI6MTQ3MjczNzc3OTY5MX0.N9eOIHNIFd1BGC6oFv9fPDgcZgBP94AV4VfTpBPbtjg&amp;type=.flv</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/OneFM_zpso8sowlsv.png</thumbnail>
 </item>
 
@@ -194,7 +188,7 @@
 
 <item>
 <title>THR RAAGA</title>
-<link>http://astro3.rastream.com/raaga?type=.flv</link>
+<link>http://astro3.rastream.com/raaga?type=.flv|X-Forwarded-For=42.154.55.155</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/ThrRaaga_zpsudmylnvh.png</thumbnail>
 </item>
 
