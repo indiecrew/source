@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]Last Update: August 27, 2016[/COLOR]</title>
+<title>[COLOR lightgreen]Last Update: September 2nd, 2016[/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail></thumbnail>
 </item>
@@ -67,9 +67,9 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TEN[/COLOR]</title>
-link>http://mrdo.zapto.org:1088/aulive/tensouth/index.m3u8</link>
-<link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDTEN.m3u8?|X-Forwarded-For=101.175.18.124</link>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]TEN[/COLOR]</title>
+<link>http://mrdo.zapto.org:1088/aulive/tensouth/index.m3u8|X-Forwarded-For=101.175.18.124</link>
+link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDTEN.m3u8?|X-Forwarded-For=101.175.18.124</link>
 link>http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDTEN.m3u8?zone=tenplay.web.live&amp;vid=4640804551001&amp;region=SDTEN|X-Forwarded-For=203.164.47.122</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/ten_zps7jlehnwr.png</thumbnail>
 </item>
