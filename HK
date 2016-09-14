@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]Last Update: September 1st, 2016[/COLOR]</title>
+<title>[COLOR lightgreen]Last Update: September 14, 2016[/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail></thumbnail>
 </item>
@@ -97,26 +97,26 @@
 </item>
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]TVB J2[/COLOR]</title>
-<link>http://58.218.152.98:7712/j253.m3u8?key=1234</link>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TVB J2[/COLOR]</title>
+<link>http://202.126.55.12:80/session/1772b002-7a4d-11e6-95d1-0050569012dd/7wza4f/mytvlive/smil:mobilehd_j2.smil/chunklist_b1096000.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/tvb_zpsg3msqsap.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]TVB J5[/COLOR]</title>
-<link>http://token.tvb.com/stream/live/hls/mobilehd_hdj.smil?app=mytv|X-Forwarded-For=58.96.179.7</link>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TVB J5[/COLOR]</title>
+<link>http://202.126.55.12:80/session/1772b002-7a4d-11e6-95d1-0050569012dd/7wza4f/mytvlive/smil:mobilehd_hdj.smil/chunklist_b1096000.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/tvb_zpsg3msqsap.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]TVB PEARL[/COLOR]</title>
-<link>http://token.tvb.com/stream/live/hls/mobilehd_pearl.smil?app=mytv|X-Forwarded-For=58.96.179.7</link>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TVB PEARL[/COLOR]</title>
+<link>http://202.126.55.12:80/session/1772b002-7a4d-11e6-95d1-0050569012dd/7wza4f/enewslive/smil:mobilehd_enews.smil/chunklist_b1096000.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/tvb_zpsg3msqsap.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]TVB iNEWS[/COLOR]</title>
-<link>http://58.218.152.98:7712/hudongxw23.m3u8?key=1234</link>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TVB iNEWS[/COLOR]</title>
+<link>http://202.126.55.12:80/session/1772b002-7a4d-11e6-95d1-0050569012dd/7wza4f/mytvlive/smil:mobilehd_inews.smil/chunklist_b1096000.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/tvb_zpsg3msqsap.png</thumbnail>
 </item>
 
