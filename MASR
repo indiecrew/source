@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]Last Update: September 1st, 2016[/COLOR]</title>
+<title>[COLOR lightgreen]Last Update: September 16, 2016[/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail>http://img.freeflagicons.com/thumb/round_icon/malaysia/malaysia_640.png</thumbnail>
 </item>
@@ -28,6 +28,12 @@
 <title>BEST FM</title>
 <link>http://s8.voscast.com:8686/;stream.mp3</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/BestFM_zpsxykugra9.png</thumbnail>
+</item>
+
+<item>
+<title>BFM 89.9</title>
+<link>http://bfm.rastream.com/bfm-bfm899?&amp;authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE0NzM5ODM2NTM4MDMsImV4cCI6MTQ3NDA3MDA1MzgwM30.YRvlOXhL8w9Jdrw-OF_erHlYhM7e72IJSDOOzKJSKEk&listenerid=45a7fc584486bae744182f5d73fed5be&amp;type=.flv</link>
+<thumbnail>http://www.treasuremind.biz/images/BFM.gif</thumbnail>
 </item>
 
 <item>
