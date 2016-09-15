@@ -20,14 +20,14 @@
 <name>[COLOR skyblue]LIVESTREAM:[/COLOR] [COLOR white]LOCAL TV CHANNEL[/COLOR]</name>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_world_zpsic7ttnuh.png</thumbnail>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/indiecrew/source/master/LiveTVStream?token=AMv1NkHOz3QutMlN1AwJi0hpUCaL3slKks5X24e7wA%3D%3D</externallink>
+<externallink>https://raw.githubusercontent.com/indiecrew/source/master/LiveTVStream?token=AMv1NvPu-Nm7xcnNtGOtZi4_OzleoWVUks5X5GvnwA%3D%3D</externallink>
 </channel>
 
 <channel>
 <name>[COLOR skyblue]LIVESTREAM:[/COLOR] [COLOR white]LOCAL RADIO CHANNEL[/COLOR]</name>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/flag_world_zpsic7ttnuh.png</thumbnail>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/indiecrew/source/master/LiveRadio?token=AMv1NhfWJt6foKbk_d6Lf8YaAgD9Ox7nks5X24eUwA%3D%3D</externallink>
+<externallink>https://raw.githubusercontent.com/indiecrew/source/master/LiveRadio?token=AMv1Nqzyco_ZmJfWJGIESl2vtIMmimGRks5X5GvmwA%3D%3D</externallink>
 </channel>
 
 <channel>
@@ -37,7 +37,7 @@
 <externallink>http://tiny.cc/istv</externallink>
 </channel>
 
-<channel>
+channel>
 <name>[COLOR skyblue]VIDEO ON DEMAND:[/COLOR] [COLOR white]MALAY MOVIE[/COLOR]</name>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/vod_zps7qwtwmsy.png</thumbnail>
 <link>http://ignoreme</link>
