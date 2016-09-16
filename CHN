@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]Last Update: September 1st, 2016[/COLOR]</title>
+<title>[COLOR lightgreen]Last Update: September 16, 2016[/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail></thumbnail>
 </item>
@@ -118,6 +118,36 @@
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CCTV-15[/COLOR]</title>
 <link>http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001134/index.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CIBN MOVIE[/COLOR]</title>
+<link>http://web-play.pptv.com/web-m3u8-303541.m3u8?type=m3u8.web.phone&amp;playback=0&amp;kk=&amp;o=pub.pptv.com</link>
+<thumbnail>http://www.cnii.com.cn/internetnews/img/attachement/jpg/site2/20140811/00016c58d8d515527b0b5b.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CIBN HIT THEATER[/COLOR]</title>
+<link>http://web-play.pptv.com/web-m3u8-303543.m3u8?type=m3u8.web.phone&amp;playback=0&amp;kk=&amp;o=pub.pptv.com</link>
+<thumbnail>http://www.cnii.com.cn/internetnews/img/attachement/jpg/site2/20140811/00016c58d8d515527b0b5b.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CIBN WAR THEATER[/COLOR]</title>
+<link>http://web-play.pptv.com/web-m3u8-303547.m3u8?type=m3u8.web.phone&amp;playback=0&amp;kk=&amp;o=pub.pptv.com</link>
+<thumbnail>http://www.cnii.com.cn/internetnews/img/attachement/jpg/site2/20140811/00016c58d8d515527b0b5b.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CIBN COMEDY THEATER[/COLOR]</title>
+<link>http://web-play.pptv.com/web-m3u8-303545.m3u8?type=m3u8.web.phone&amp;playback=0&amp;kk=&amp;o=pub.pptv.com</link>
+<thumbnail>http://www.cnii.com.cn/internetnews/img/attachement/jpg/site2/20140811/00016c58d8d515527b0b5b.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CIBN CLASSIC THEATER[/COLOR]</title>
+<link>http://web-play.pptv.com/web-m3u8-303549.m3u8?type=m3u8.web.phone&amp;playback=0&amp;kk=&amp;o=pub.pptv.com</link>
+<thumbnail>http://www.cnii.com.cn/internetnews/img/attachement/jpg/site2/20140811/00016c58d8d515527b0b5b.jpg</thumbnail>
 </item>
  
 <item>
