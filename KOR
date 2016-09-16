@@ -396,13 +396,13 @@
 </item>
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]KBS 1[/COLOR]</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]KBS 1[/COLOR]</title>
 <link>rtmp://rtmpplay3.idol001.com:1935/live/korea_kbs1</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/kbs_zpsjxwxee0p.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]KBS 2[/COLOR]</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]KBS 2[/COLOR]</title>
 <link>rtmp://rtmpplay3.idol001.com:1935/live/korea_kbs2</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/kbs_zpsjxwxee0p.png</thumbnail>
 </item>
@@ -432,19 +432,19 @@
 </item>
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]MBC MUSIC[/COLOR]</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MBC MUSIC[/COLOR]</title>
 <link>rtmp://rtmpplay3.idol001.com:1935/live/korea_mbcmusic</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/mbc_zps7dt8ovsm.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]MBC EVERYONE[/COLOR]</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MBC EVERYONE[/COLOR]</title>
 <link>rtmp://rtmpplay3.idol001.com:1935/live/korea_mbceveryone</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/mbc_zps7dt8ovsm.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]MNET[/COLOR]</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MNET[/COLOR]</title>
 <link>rtmp://rtmpplay3.idol001.com:1935/live/korea_mnet</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/mnet_zpsgztxecs5.png</thumbnail>
 </item>
@@ -462,8 +462,8 @@
 </item>
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]SBS[/COLOR]</title>
-<link>rtmp://rtmpplay3.idol001.com:1935/live/korea_sbs|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SBS[/COLOR]</title>
+<link>rtmp://rtmpplay3.idol001.com:1935/live/korea_sbs</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/sbs_zps2dcmiefi.png</thumbnail>
 </item>
 
@@ -474,7 +474,7 @@
 </item>
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]SBS MTV[/COLOR]</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SBS MTV[/COLOR]</title>
 <link>rtmp://rtmpplay3.idol001.com:1935/live/korea_sbsmtv</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/sbs_zps2dcmiefi.png</thumbnail>
 </item>
