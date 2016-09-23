@@ -1,1342 +1,490 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
+<title>[COLOR turquoise](2016)[/COLOR] Mirip [Malaysia]</title>
+<link>http://streamin.to/embed-1h7g5nqqrybv-728x410.html</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR turquoise](2016)[/COLOR] Kampung Drift [Malaysia]</title>
+<link>https://tune.pk/player/embed_player.php?vid=6675514&amp;folder=&amp;width=728&amp;height=410&amp;=no</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR turquoise](2016)[/COLOR] Dukun Doktor Dani [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-9g36d8w31j01-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-9g36d8w31j01-640x360.html</page>
-<referer>http://streamin.to/9g36d8w31j01</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-9g36d8w31j01-640x360.html</page>
-<referer>http://streamin.to/9g36d8w31j01</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-9g36d8w31j01-640x360.html</page>
-<referer>http://streamin.to/9g36d8w31j01</referer>
-</regex>
-<thumbnail>https://2.bp.blogspot.com/-LjA6vyiv5wY/V4iQOTkBcNI/AAAAAAAAB7I/pmKc1OmpBW0ic5OuNZuFXISHiSEyR7PfACLcB/s1600/Dukun%2BDoktor%2BDani.jpg</thumbnail>
+<link>http://streamin.to/9g36d8w31j01</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2016)[/COLOR] Zack Kapcai [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-7491b8kzkgy0-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-7491b8kzkgy0-640x360.html</page>
-<referer>http://streamin.to/7491b8kzkgy0</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-7491b8kzkgy0-640x360.html</page>
-<referer>http://streamin.to/7491b8kzkgy0</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-7491b8kzkgy0-640x360.html</page>
-<referer>http://streamin.to/7491b8kzkgy0</referer>
-</regex>
-<thumbnail>http://vplaytv.me/wp-content/uploads/2016/08/zackkapcai.jpg</thumbnail>
+<link>
+sublink:http://watchvideo5.us/embed-igmfry9i9mn6.html#
+sublink:http://speedplay.xyz/embed-cy11u21fsaba.html#
+</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2016)[/COLOR] Ada Apa Dengan Cinta 2 [Indonesia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-9zcfolbvfy2k-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-9zcfolbvfy2k-640x360.html</page>
-<referer>http://streamin.to/9zcfolbvfy2k</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-9zcfolbvfy2k-640x360.html</page>
-<referer>http://streamin.to/9zcfolbvfy2k</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-9zcfolbvfy2k-640x360.html</page>
-<referer>http://streamin.to/9zcfolbvfy2k</referer>
-</regex>
-<thumbnail>http://cdn3.gsc.com.my/WebLITE/Applications/MovieManagement/uploaded/pics/2016/Ada_apa_dengan_cinta2/AADC2_v1_984x1482_500.jpg</thumbnail>
+<link>
+sublink:http://speedplay.xyz/embed-9aq2fmbr8igf.html#
+sublink:http://watchvideo5.us/embed-p2x1gy8a74t1.html#
+</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2016)[/COLOR] Cendol [Malaysia]</title>
-<link>https://video.xx.fbcdn.net/v/t42.9040-2/10000000_1227044120647596_1927164074_n.mp4?efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJzdmVfaGQifQ==&amp;rl=1500&amp;vabr=355&amp;oh=2b4e7fb5748aadaf955161dd42997b73&amp;oe=57C4BED6</link>
-<thumbnail>http://www.cinema.com.my/images/movies/2016/7cendol00_450.jpg</thumbnail>
+<link></link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2016)[/COLOR] Lu Mafia Gua Gangster [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-23jeyz7jigrm-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-23jeyz7jigrm-640x360.html</page>
-<referer>http://streamin.to/23jeyz7jigrm</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-23jeyz7jigrm-640x360.html</page>
-<referer>http://streamin.to/23jeyz7jigrm</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-23jeyz7jigrm-640x360.html</page>
-<referer>http://streamin.to/23jeyz7jigrm</referer>
-</regex>
-<thumbnail>http://pencurimovie.se/wp-content/uploads/2016/06/lu-mafia-gua-gangster.jpg</thumbnail>
+<link>http://streamin.to/23jeyz7jigrm</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2016)[/COLOR] Perjanjian Syaitan [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-webhm596zmad-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-webhm596zmad-640x360.html</page>
-<referer>http://streamin.to/webhm596zmad</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-webhm596zmad-640x360.html</page>
-<referer>http://streamin.to/webhm596zmad</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-webhm596zmad-640x360.html</page>
-<referer>http://streamin.to/webhm596zmad</referer>
-</regex>
-<thumbnail>http://www.finas.gov.my/wp-content/uploads/2016/04/Poster-perjanjian-syaitan-2-1.jpg</thumbnail>
+<link>http://streamin.to/webhm596zmad</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2016)[/COLOR] Warna Cinta Impian [Malaysia]</title>
 <link></link>
-<thumbnail>https://4.bp.blogspot.com/-l_xFhfqzhuM/V0NL1SUQoQI/AAAAAAAACbQ/qWjougx_zfwfvQ_Jigdu6WA_VszOBF-wwCLcB/s320/WarnaCintaImpian.png</thumbnail>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2016)[/COLOR] Hey Orang Kita [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-ditpnhn3jd8v-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-ditpnhn3jd8v-640x360.html</page>
-<referer>http://streamin.to/ditpnhn3jd8v</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-ditpnhn3jd8v-640x360.html</page>
-<referer>http://streamin.to/ditpnhn3jd8v</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-ditpnhn3jd8v-640x360.html</page>
-<referer>http://streamin.to/ditpnhn3jd8v</referer>
-</regex>
-<thumbnail>https://2.bp.blogspot.com/-F5OdGOecyFc/V0jwmpeSmuI/AAAAAAAADwc/UR8qvl1T6U8OwsLR2RxLodSSVlkn2CbPACLcB/s1600/Hei%2BOrang%2BKita%2B-%2BMytontontube.jpg</thumbnail>
+<link></link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2016)[/COLOR] Angin Cinta [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-51j9x8oume5f-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-51j9x8oume5f-640x360.html</page>
-<referer>http://streamin.to/51j9x8oume5f</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-51j9x8oume5f-640x360.html</page>
-<referer>http://streamin.to/51j9x8oume5f</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-51j9x8oume5f-640x360.html</page>
-<referer>http://streamin.to/51j9x8oume5f</referer>
-</regex>
-<thumbnail>http://pencurimovie.se/wp-content/uploads/2016/05/Angin-Cinta.jpg</thumbnail>
+<link></link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2016)[/COLOR] BoboiBoy The Movie [Malaysia]</title>
 <link></link>
-<thumbnail>https://2.bp.blogspot.com/-lWYZ7tXrIpM/V0nkqAiS4oI/AAAAAAAACgg/8vF0rjIqfSMIThLCQQ8nc-ha-Ir8pcrtwCLcB/s1600/BoBoiBoy_The_Movie.jpeg</thumbnail>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2016)[/COLOR] Kipidap [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-8ljeqwod4kes-728x410.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-8ljeqwod4kes-728x410.html</page>
-<referer>http://streamin.to/8ljeqwod4kes</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-8ljeqwod4kes-728x410.html</page>
-<referer>http://streamin.to/8ljeqwod4kes</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-8ljeqwod4kes-728x410.html</page>
-<referer>http://streamin.to/8ljeqwod4kes</referer>
-</regex>
-<thumbnail>https://rest.cinepapaya.com/stat/img/static-cp/cine/movie/kipidap-save-the-day-12297-poster-1457969395.jpg?w=250</thumbnail>
+<link>http://streamin.to/8ljeqwod4kes</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2016)[/COLOR] Munafik [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-1giij7wh5vac-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-1giij7wh5vac-640x360.html</page>
-<referer>http://streamin.to/1giij7wh5vac</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-1giij7wh5vac-640x360.html</page>
-<referer>http://streamin.to/1giij7wh5vac</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-1giij7wh5vac-640x360.html</page>
-<referer>http://streamin.to/1giij7wh5vac</referer>
-</regex>
-<thumbnail>http://www.tontononline.net/wp-content/uploads/2016/01/Munafik-2016.jpg</thumbnail>
+<link>http://speedplay.xyz/embed-y4p102z3glj3.html</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2016)[/COLOR] Usin Ufo Bikin Kecoh [Malaysia]</title>
-<link></link>
-<thumbnail></thumbnail>
+<link>
+sublink:http://watchvideo5.us/embed-jcl7d4c1mh27.html#
+sublink:http://speedplay.xyz/embed-mf610chnke7l.html#
+</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2016)[/COLOR] Ola Bola [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-5tq2r4ex7glc-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-5tq2r4ex7glc-640x360.html</page>
-<referer>http://streamin.to/5tq2r4ex7glc</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-5tq2r4ex7glc-640x360.html</page>
-<referer>http://streamin.to/5tq2r4ex7glc</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-5tq2r4ex7glc-640x360.html</page>
-<referer>http://streamin.to/5tq2r4ex7glc</referer>
-</regex>
-<thumbnail>http://1.bp.blogspot.com/-ishazC7tLlI/VqnQNuahIMI/AAAAAAAAc_A/lUO7aZXOi4U/s1600/Ola%2BBola%2BMovie%2BReview%2B2016%2B%25284%2529.jpg</thumbnail>
+<link>http://streamin.to/5tq2r4ex7glc</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2016)[/COLOR] Pelepas Saka [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-e0dfiey9y7q8-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-e0dfiey9y7q8-640x360.html</page>
-<referer>http://streamin.to/e0dfiey9y7q8</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-e0dfiey9y7q8-640x360.html</page>
-<referer>http://streamin.to/e0dfiey9y7q8</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-e0dfiey9y7q8-640x360.html</page>
-<referer>http://streamin.to/e0dfiey9y7q8</referer>
-</regex>
-<thumbnail>http://kitepunye.com/wp-content/uploads/2016/02/poster.jpg</thumbnail>
+<link>http://streamin.to/e0dfiey9y7q8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2016)[/COLOR] Mat Moto - Kami Mat Motor Bukan Mat Rempit [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-d0ua7ecmy5zu-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-d0ua7ecmy5zu-640x360.html</page>
-<referer>http://streamin.to/d0ua7ecmy5zu</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-d0ua7ecmy5zu-640x360.html</page>
-<referer>http://streamin.to/d0ua7ecmy5zu</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-d0ua7ecmy5zu-640x360.html</page>
-<referer>http://streamin.to/d0ua7ecmy5zu</referer>
-</regex>
-<thumbnail>http://www.tontononline.net/wp-content/uploads/2016/01/Mat-Moto-2016.jpg</thumbnail>
+<link>http://streamin.to/d0ua7ecmy5zu</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Langit Cinta [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-3rbbqte99nmi-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-3rbbqte99nmi-640x360.html</page>
-<referer>http://streamin.to/3rbbqte99nmi</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-3rbbqte99nmi-640x360.html</page>
-<referer>http://streamin.to/3rbbqte99nmi</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-3rbbqte99nmi-640x360.html</page>
-<referer>http://streamin.to/3rbbqte99nmi</referer>
-</regex>
-<thumbnail>https://pbs.twimg.com/media/CQoSpYcVEAA1Jse.jpg</thumbnail>
+<link>
+sublink:http://watchvideo5.us/embed-tc681b45n1u2.html#
+sublink:https://www.rapidvideo.com/embed/lmcsGShm0/#
+</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Darah Panas [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-hyr7yda25g4c-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-hyr7yda25g4c-640x360.html</page>
-<referer>http://streamin.to/hyr7yda25g4c</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-hyr7yda25g4c-640x360.html</page>
-<referer>http://streamin.to/hyr7yda25g4c</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-hyr7yda25g4c-640x360.html</page>
-<referer>http://streamin.to/hyr7yda25g4c</referer>
-</regex>
-<thumbnail>http://www.tontononline.net/wp-content/uploads/2015/11/Darah-Panas-2015-Download-Online-Full-Movie.jpg</thumbnail>
+<link>
+sublink:http://streamin.to/embed-i5rqvdi11h2x-728x410.html#
+sublink:http://watchvideo5.us/embed-s89oi2xy86qk.html#
+sublink:https://docs.google.com/file/d/0B6OA3sroX2HbcDRlaS1jM3p5T0E/preview#
+</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Chowrasta [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-ipm68wxhv7dx-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-ipm68wxhv7dx-640x360.html</page>
-<referer>http://streamin.to/ipm68wxhv7dx</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-ipm68wxhv7dx-640x360.html</page>
-<referer>http://streamin.to/ipm68wxhv7dx</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-ipm68wxhv7dx-640x360.html</page>
-<referer>http://streamin.to/ipm68wxhv7dx</referer>
-</regex>
-<thumbnail>http://www.tontononline.net/wp-content/uploads/2015/10/Chowrasta-2015-Tonton-Online-Full-Movie.jpg</thumbnail>
+<link></link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Badi [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-1ms6jlws98zl-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-1ms6jlws98zl-640x360.html</page>
-<referer>http://streamin.to/1ms6jlws98zl</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-1ms6jlws98zl-640x360.html</page>
-<referer>http://streamin.to/1ms6jlws98zl</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-1ms6jlws98zl-640x360.html</page>
-<referer>http://streamin.to/1ms6jlws98zl</referer>
-</regex>
-<thumbnail>http://www.tontononline.net/wp-content/uploads/2015/11/Badi-2015-Tonton-Online-Free-Full-Movie.jpg</thumbnail>
+<link>
+sublink:http://streamin.to/embed-ixr63dfhp0qw-728x410.html#
+sublink:http://www.dailymotion.com/embed/video/k7LV2pJtZOIAe4dIAwP?=1&amp;logo=0&amp;hideInfos=0&amp;start=0&amp;syndication=&amp;foreground=&amp;highlight=&amp;background=#
+</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Girlfriend Kontrak [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-jjubrqkru8pj-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-jjubrqkru8pj-640x360.html</page>
-<referer>http://streamin.to/jjubrqkru8pj</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-jjubrqkru8pj-640x360.html</page>
-<referer>http://streamin.to/jjubrqkru8pj</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-jjubrqkru8pj-640x360.html</page>
-<referer>http://streamin.to/jjubrqkru8pj</referer>
-</regex>
-<thumbnail>http://assets.veedo.my/wp-content/uploads/2015/09/25100755/featured_girlfriend_kontrak.jpg</thumbnail>
+<link></link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Apartment [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-ikka93hjsxcq-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-ikka93hjsxcq-640x360.html</page>
-<referer>http://streamin.to/ikka93hjsxcq</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-ikka93hjsxcq-640x360.html</page>
-<referer>http://streamin.to/ikka93hjsxcq</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-ikka93hjsxcq-640x360.html</page>
-<referer>http://streamin.to/ikka93hjsxcq</referer>
-</regex>
-<thumbnail>http://moviekb.com/wp-content/uploads/2016/02/apartmen-2015.jpg</thumbnail>
+<link>
+sublink:http://streamin.to/embed-6c84pewnv2cg-728x410.html#
+sublink:http://watchvideo5.us/embed-1lstcf5n02kh.html#
+</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Isteri Untuk Dijual [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-sbihkrsp0lnj-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-sbihkrsp0lnj-640x360.html</page>
-<referer>http://streamin.to/sbihkrsp0lnj</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-sbihkrsp0lnj-640x360.html</page>
-<referer>http://streamin.to/sbihkrsp0lnj</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-sbihkrsp0lnj-640x360.html</page>
-<referer>http://streamin.to/sbihkrsp0lnj</referer>
-</regex>
-<thumbnail>http://indomovi.org/uploads/posts/2016-02/1454307701_isteri-untuk-dijual.jpg</thumbnail>
+<link>http://streamin.to/sbihkrsp0lnj</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Keranda Tok Wan Terbang [Malaysia]</title>
-<link></link>
-<thumbnail>http://pencurimovie.cr/wp-content/uploads/2016/01/7kerandatok00_450.jpg</thumbnail>
+<link>http://streamin.to/embed-xgzcqj8sosja-728x410.html</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Ada Apa Dekat Bus Stop [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-pp872b7zmwc6-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-pp872b7zmwc6-640x360.html</page>
-<referer>http://streamin.to/pp872b7zmwc6</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-pp872b7zmwc6-640x360.html</page>
-<referer>http://streamin.to/pp872b7zmwc6</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-pp872b7zmwc6-640x360.html</page>
-<referer>http://streamin.to/pp872b7zmwc6</referer>
-</regex>
-<thumbnail>http://www.tontononline.net/wp-content/uploads/2015/10/Ada-Apa-Dekat-Bus-Stop-2015-Tonton-Online-Full-Movie.jpg</thumbnail>
+<link>
+sublink:http://streamin.to/embed-ywuv6h1web38-728x410.html#
+sublink:http://watchvideo5.us/embed-cev1in7jyn56.html#
+</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Sinaran [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-38v352omyvba-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-38v352omyvba-640x360.html</page>
-<referer>http://streamin.to/38v352omyvba</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-38v352omyvba-640x360.html</page>
-<referer>http://streamin.to/38v352omyvba</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-38v352omyvba-640x360.html</page>
-<referer>http://streamin.to/38v352omyvba</referer>
-</regex>
-<thumbnail>http://www.tontononline.net/wp-content/uploads/2015/10/Sinaran-2015-Tonton-Online-Full-Movie.jpg</thumbnail>
+<link>
+sublink:http://streamin.to/embed-o6kjb015l6wo-728x410.html#
+sublink:http://streamin.to/embed-md6chvk2z55t-728x410.html#
+sublink:http://vid.ag/embed-jdwe4aqzkeq7.html#
+</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Rembat Just Duit [Malaysia]</title>
-<link></link>
-<thumbnail>http://pencurimovie.pw/wp-content/uploads/2015/12/7rembat00_450.jpg</thumbnail>
-<fanart>http://3.bp.blogspot.com/-UUcrLPWFhAY/Vf1LUViHD6I/AAAAAAAALiE/kvHidOav71o/s400/Filem-Rembat.jpg</fanart>
+<link>http://streamin.to/embed-dbrstrlcjmrb-728x410.html</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Banglo Berkunci [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-wd40kmrtrtaf-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-wd40kmrtrtaf-640x360.html</page>
-<referer>http://streamin.to/wd40kmrtrtaf</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-wd40kmrtrtaf-640x360.html</page>
-<referer>http://streamin.to/wd40kmrtrtaf</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-wd40kmrtrtaf-640x360.html</page>
-<referer>http://streamin.to/wd40kmrtrtaf</referer>
-</regex>
-<thumbnail>http://i1068.photobucket.com/albums/u441/mig_online/Artikel/2015/Artikel%20September%202015/Banglo%20Berkunci%20FA%20Poster/FA%20Poster%20Banglo%20Berkunci_zpsxluxglsx.jpg</thumbnail>
+<link></link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Strawberi Karipap Hello Gold Coast [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-4rjx9svmcyuf-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-4rjx9svmcyuf-640x360.html</page>
-<referer>http://streamin.to/4rjx9svmcyuf</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-4rjx9svmcyuf-640x360.html</page>
-<referer>http://streamin.to/4rjx9svmcyuf</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-4rjx9svmcyuf-640x360.html</page>
-<referer>http://streamin.to/4rjx9svmcyuf</referer>
-</regex>
-<thumbnail>http://3.bp.blogspot.com/--jQX_0y2_Kw/VmLsZ3d7YNI/AAAAAAAAFQk/UuMJnZ3S1d0/s1600/Strawberi%2BKaripap%2BHello%2BGold%2BCoast.jpg</thumbnail>
+<link></link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Juvana 2 : Terperangkap Dalam Kebebasan [Malaysia]</title>
-<link></link>
-<thumbnail>https://pbs.twimg.com/profile_images/625873083811803136/_8in0SBs_400x400.jpg</thumbnail>
+<link>http://streamin.to/embed-ymhi2av7ii3e-728x410.html</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Love Supermoon [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-1534p97e15nu-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-1534p97e15nu-640x360.html</page>
-<referer>http://streamin.to/1534p97e15nu</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-1534p97e15nu-640x360.html</page>
-<referer>http://streamin.to/1534p97e15nu</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-1534p97e15nu-640x360.html</page>
-<referer>http://streamin.to/1534p97e15nu</referer>
-</regex>
-<thumbnail>http://4.bp.blogspot.com/-5hMv_j5OF4w/VfhFY14URAI/AAAAAAAAGUI/YFmsiracDv8/s1600/Poster%2BLove%2BSupermoon.JPG</thumbnail>
+<link>
+sublink:http://streamin.to/embed-g5bydhf7dkcp-728x410.html#
+sublink:https://www.rapidvideo.com/embed/4Cyw7K5n5/#
+</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Polis Evo [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-y130x8rxec3v-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-y130x8rxec3v-640x360.html</page>
-<referer>http://streamin.to/y130x8rxec3v</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-y130x8rxec3v-640x360.html</page>
-<referer>http://streamin.to/y130x8rxec3v</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-y130x8rxec3v-640x360.html</page>
-<referer>http://streamin.to/y130x8rxec3v</referer>
-</regex>
-<thumbnail>http://twitchfilm.com/assets/2015/08/PolisEvo.jpg</thumbnail>
+<link>
+sublink:http://speedplay.xyz/embed-qqgmngtf2xzo.html#
+sublink:http://watchvideo5.us/embed-qy0onkt93w7u.html#
+</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Jelmaan [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-z0f9p8fzi7ju-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-z0f9p8fzi7ju-640x360.html</page>
-<referer>http://streamin.to/z0f9p8fzi7ju</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-z0f9p8fzi7ju-640x360.html</page>
-<referer>http://streamin.to/z0f9p8fzi7ju</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-z0f9p8fzi7ju-640x360.html</page>
-<referer>http://streamin.to/z0f9p8fzi7ju</referer>
-</regex>
-<thumbnail>https://astrocontent.s3.amazonaws.com/Images/A1ABPoster/174248.jpg</thumbnail>
+<link>http://watchvideo5.us/embed-x2ere17ue29r.html</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Jwanita [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-ie31n5xxwv8b-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-ie31n5xxwv8b-640x360.html</page>
-<referer>http://streamin.to/ie31n5xxwv8b</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-ie31n5xxwv8b-640x360.html</page>
-<referer>http://streamin.to/ie31n5xxwv8b</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-ie31n5xxwv8b-640x360.html</page>
-<referer>http://streamin.to/ie31n5xxwv8b</referer>
-</regex>
-<thumbnail>https://2.bp.blogspot.com/-6OijE-aRNnM/Vf_M9OiCnnI/AAAAAAAAAgY/LVsIjQ1X_bI/s1600/bng6rn.PNG</thumbnail>
+<link>
+sublink:http://speedplay.xyz/embed-hwh9w21xb07c.html#
+sublink:http://watchvideo5.us/embed-8o0xhorsch0g.html#
+sublink:http://streamin.to/embed-h7vbcyxvb4ux-728x410.html#
+</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Kapsul [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-eblczr5olk77-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-eblczr5olk77-640x360.html</page>
-<referer>http://streamin.to/eblczr5olk77</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-eblczr5olk77-640x360.html</page>
-<referer>http://streamin.to/eblczr5olk77</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-eblczr5olk77-640x360.html</page>
-<referer>http://streamin.to/eblczr5olk77</referer>
-</regex>
-<thumbnail>http://4.bp.blogspot.com/-09ExKH6ObIs/VaPk6BjXnAI/AAAAAAAAKtQ/g_NhjWHUzM4/s1600/Kapsul%2Bposter.jpg</thumbnail>
+<link></link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Usop Wilcha Menghonjang Makhluk Muzium [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-3bnm753zkuxe-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-3bnm753zkuxe-640x360.html</page>
-<referer>http://streamin.to/3bnm753zkuxe</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-3bnm753zkuxe-640x360.html</page>
-<referer>http://streamin.to/3bnm753zkuxe</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-3bnm753zkuxe-640x360.html</page>
-<referer>http://streamin.to/3bnm753zkuxe</referer>
-</regex>
-<thumbnail>https://2.bp.blogspot.com/-eyoY098FbjM/Veak0G5emVI/AAAAAAAAAV0/4qSZioK7qeQ/s1600/sfdf4.PNG</thumbnail>
+<link>
+sublink:http://streamin.to/embed-yt1vpllo94gi-728x410.html#
+sublink:http://streamin.to/embed-bqjr74qvxmvo-728x410.html#
+</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Bravo 5 [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-wslzzs10jvtw-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-wslzzs10jvtw-640x360.html</page>
-<referer>http://streamin.to/wslzzs10jvtw</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-wslzzs10jvtw-640x360.html</page>
-<referer>http://streamin.to/wslzzs10jvtw</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-wslzzs10jvtw-640x360.html</page>
-<referer>http://streamin.to/wslzzs10jvtw</referer>
-</regex>
-<thumbnail></thumbnail>
+<link>
+sublink:http://watchvideo5.us/embed-myuve8h2h2jp.html#
+sublink:http://streamin.to/embed-e50g2vxrv0pc-728x410.html#
+</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Jejak Warriors [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-9k6oqbt41nti-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-9k6oqbt41nti-640x360.html</page>
-<referer>http://streamin.to/9k6oqbt41nti</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-9k6oqbt41nti-640x360.html</page>
-<referer>http://streamin.to/9k6oqbt41nti</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-9k6oqbt41nti-640x360.html</page>
-<referer>http://streamin.to/9k6oqbt41nti</referer>
-</regex>
-<thumbnail>http://www.movies4you.org/_nw/19/43569738.jpg</thumbnail>
+<link>
+sublink:http://watchvideo5.us/embed-ejo64hlwzh5c.html#
+sublink:http://streamin.to/embed-b3tuh9qll425-728x410.html#
+</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Bukit Kepong [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-jm9nvv2uwhr9-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-jm9nvv2uwhr9-640x360.html</page>
-<referer>http://streamin.to/jm9nvv2uwhr9</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-jm9nvv2uwhr9-640x360.html</page>
-<referer>http://streamin.to/jm9nvv2uwhr9</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-jm9nvv2uwhr9-640x360.html</page>
-<referer>http://streamin.to/jm9nvv2uwhr9</referer>
-</regex>
-<thumbnail>https://pbs.twimg.com/media/CCMZr5RUAAEemnr.jpg</thumbnail>
+<link>
+sublink:http://watchvideo5.us/embed-hlbp64eec5xw.html#
+sublink:http://streamin.to/embed-b8by666e7zw8-728x410.html#
+</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] CCTV [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-1afznwh77bh5-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-1afznwh77bh5-640x360.html</page>
-<referer>http://streamin.to/1afznwh77bh5</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-1afznwh77bh5-640x360.html</page>
-<referer>http://streamin.to/1afznwh77bh5</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-1afznwh77bh5-640x360.html</page>
-<referer>http://streamin.to/1afznwh77bh5</referer>
-</regex>
-<thumbnail>http://3.bp.blogspot.com/-6bJWtrFI0xs/VYoO0786diI/AAAAAAAABMk/UuYgaNf3VVM/s1600/CCTV.png</thumbnail>
+<link>
+sublink:http://watchvideo5.us/embed-r2q0chrf4hxl.html#
+sublink:http://streamin.to/embed-rh1s8651t08l-728x410.html#
+</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Misi Rayyan Dan Danish [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-j3m746si28zj-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-j3m746si28zj-640x360.html</page>
-<referer>http://streamin.to/j3m746si28zj</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-j3m746si28zj-640x360.html</page>
-<referer>http://streamin.to/j3m746si28zj</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-j3m746si28zj-640x360.html</page>
-<referer>http://streamin.to/j3m746si28zj</referer>
-</regex>
-<thumbnail>http://www.thesoftbay.com/wp-content/uploads/2015/09/Misi-Rayyan-Dan-Danish.jpg</thumbnail>
+<link>http://streamin.to/embed-nir86bs4k6sh-728x410.html</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Nota [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-5t69axf6pq4f-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-5t69axf6pq4f-640x360.html</page>
-<referer>http://streamin.to/5t69axf6pq4f</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-5t69axf6pq4f-640x360.html</page>
-<referer>http://streamin.to/5t69axf6pq4f</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-5t69axf6pq4f-640x360.html</page>
-<referer>http://streamin.to/5t69axf6pq4f</referer>
-</regex>
-<thumbnail>http://3.bp.blogspot.com/-Sq4X2HWAXHY/VbOht-gJYLI/AAAAAAAAASM/23xI8X0BFXc/s1600/nota_fullmovie.png</thumbnail>
+<link>
+sublink:http://streamin.to/embed-rjfylt4ooh4g-728x410.html#
+sublink:http://streamin.to/embed-hx6y7pa4yyl0-728x410.html#
+</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Suamiku Jatuh Dari Langit [Malaysia]</title>
-<link>$doregex[url]|Referer=http://static.vidzi.tv/nplayer/jwplayer.flash.swf&amp;User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<regex>
-<name>url</name>
-<expres>hls....file:"(.*?)"</expres>
-<page>$doregex[unpacked]</page>
-</regex>
-<regex>
-<name>unpacked</name>
-<expres>$pyFunction:get_unpacked('http://vidzi.tv/embed-68yi3nsnbzup-640x360.html','(eval.*)')</expres>
-<page></page>
-</regex>
-<thumbnail>http://3.bp.blogspot.com/-BJc_iuP20rM/VaaLzeAzHeI/AAAAAAAAAd8/nBGaKwXFY1I/s1600/SUAMIKU-JATUH-DARI-LANGIT-1.jpg</thumbnail>
+<link>http://vidzi.tv/embed-68yi3nsnbzup-640x360.html</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Gangsterock Kasi Sengat [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-qjjo7qqy3m9q-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-qjjo7qqy3m9q-640x360.html</page>
-<referer>http://streamin.to/qjjo7qqy3m9q</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-qjjo7qqy3m9q-640x360.html</page>
-<referer>http://streamin.to/qjjo7qqy3m9q</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-qjjo7qqy3m9q-640x360.html</page>
-<referer>http://streamin.to/qjjo7qqy3m9q</referer>
-</regex>
-<thumbnail>http://www.cinema.com.my/images/movies/2015/7gangsterock00_450.jpg</thumbnail>
+<link>
+sublink:http://watchvideo5.us/embed-vmxv9o2onj6b.html#
+sublink:http://streamin.to/embed-59hua3fvnu9t-728x410.html#
+</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Banting [Singapore]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-gtfarqbj9cok-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-gtfarqbj9cok-640x360.html</page>
-<referer>http://streamin.to/gtfarqbj9cok</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-gtfarqbj9cok-640x360.html</page>
-<referer>http://streamin.to/gtfarqbj9cok</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-gtfarqbj9cok-640x360.html</page>
-<referer>http://streamin.to/gtfarqbj9cok</referer>
-</regex>
-<thumbnail>http://i.hungrygowhere.com/cms/e5/29/d1/5a/130944/d769180afd.jpg</thumbnail>
+<link>
+sublink:http://streamin.to/embed-3md2k7vndxd3-728x410.html#
+sublink:http://watchvideo5.us/embed-4d7zzkjlbn5v.html#
+</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Isyarat Cinta [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-y5o8da733vjn-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-y5o8da733vjn-640x360.html</page>
-<referer>http://streamin.to/y5o8da733vjn</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-y5o8da733vjn-640x360.html</page>
-<referer>http://streamin.to/y5o8da733vjn</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-y5o8da733vjn-640x360.html</page>
-<referer>http://streamin.to/y5o8da733vjn</referer>
-</regex>
-<thumbnail>http://www.cinema.com.my/images/movies/2015/7isyaratcinta00_450.jpg</thumbnail>
+<link>
+sublink:http://watchvideo5.us/embed-bsx671g3hatd.html#
+sublink:http://streamin.to/embed-7whfytu8fx7y-728x410.html#
+</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Suami Aku Ustaz [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-7ryq6e0h0yso-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-7ryq6e0h0yso-640x360.html</page>
-<referer>http://streamin.to/7ryq6e0h0yso</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-7ryq6e0h0yso-640x360.html</page>
-<referer>http://streamin.to/7ryq6e0h0yso</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-7ryq6e0h0yso-640x360.html</page>
-<referer>http://streamin.to/7ryq6e0h0yso</referer>
-</regex>
-<thumbnail>http://fullmovieonlinestreaming.com/wp-content/uploads/2015/08/Suami-Aku-Ustaz-2015-203x293.png</thumbnail>
+<link></link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Dia [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-sw4qiy6z8y1s-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-sw4qiy6z8y1s-640x360.html</page>
-<referer>http://streamin.to/sw4qiy6z8y1s</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-sw4qiy6z8y1s-640x360.html</page>
-<referer>http://streamin.to/sw4qiy6z8y1s</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-sw4qiy6z8y1s-640x360.html</page>
-<referer>http://streamin.to/sw4qiy6z8y1s</referer>
-</regex>
-<thumbnail>http://2.bp.blogspot.com/-ABr-YdVVBqM/VX8X6hTpSTI/AAAAAAAAAY8/a_v8f2YKXSo/s1600/dia.jpg</thumbnail>
+<link>
+sublink:http://watchvideo5.us/embed-i6wvke5fqnea.html#
+sublink:http://streamin.to/embed-8w0ute1nle5p-728x410.html#
+</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Jendela [Malaysia]</title>
-<link></link>
-<thumbnail>http://2.bp.blogspot.com/-8DP2k5rDYg0/VXk4mRNVuyI/AAAAAAAABH0/0Orz1alzS6I/s1600/Jendela.jpg</thumbnail>
+<link>http://streamin.to/embed-v7tamxoqv58n-728x410.html</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Jalan Puncak Alam [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-7zoh9us01ym1-640x360.html</page>
-<referer>http://streamin.to/7zoh9us01ym1</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-7zoh9us01ym1-640x360.html</page>
-<referer>http://streamin.to/7zoh9us01ym1</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-7zoh9us01ym1-640x360.html</page>
-<referer>http://streamin.to/7zoh9us01ym1</referer>
-</regex>
-<thumbnail>http://www.cinema.com.my/images/movies/2015/7jalanpuncakalam00_450.jpg</thumbnail>
+<link>
+sublink:http://watchvideo5.us/embed-4y0zx33n99yx.html#
+sublink:http://streamin.to/embed-ugbpczhbihzg-728x410.html#
+</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Pilot Cafe [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-bak2bry40apl-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-bak2bry40apl-640x360.html</page>
-<referer>http://streamin.to/bak2bry40apl</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-bak2bry40apl-640x360.html</page>
-<referer>http://streamin.to/bak2bry40apl</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-bak2bry40apl-640x360.html</page>
-<referer>http://streamin.to/bak2bry40apl</referer>
-</regex>
-<thumbnail>http://upload.wikimedia.org/wikipedia/ms/4/45/Pilot-Cafe-Poster-27x39-copy3.jpg</thumbnail>
+<link>
+sublink:http://streamin.to/embed-5va3km4i1kke-728x410.html#
+sublink:http://streamin.to/embed-g12kn4sbsa8h-728x410.html#
+</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Selfie Suara Kubur [Malaysia]</title>
-<link>$doregex[url]|Referer=http://static.vidzi.tv/nplayer/jwplayer.flash.swf&amp;User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<regex>
-<name>url</name>
-<expres>hls....file:"(.*?)"</expres>
-<page>$doregex[unpacked]</page>
-</regex>
-<regex>
-<name>unpacked</name>
-<expres>$pyFunction:get_unpacked('http://vidzi.tv/embed-9ni9ts4oej07-640x360.html','(eval.*)')</expres>
-<page></page>
-</regex>
-<thumbnail></thumbnail>
+<link>http://vidzi.tv/embed-9ni9ts4oej07-640x360.html</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Abang Lejen [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-eo584ikff73h-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-eo584ikff73h-640x360.html</page>
-<referer>http://streamin.to/eo584ikff73h</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-eo584ikff73h-640x360.html</page>
-<referer>http://streamin.to/eo584ikff73h</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-eo584ikff73h-640x360.html</page>
-<referer>http://streamin.to/eo584ikff73h</referer>
-</regex>
-<thumbnail>http://www.thesoftbay.com/wp-content/uploads/2015/05/Abang-Lejen-2015-DVDRip.jpg</thumbnail>
+<link>
+sublink:http://watchvideo5.us/embed-hvs2alsx01ir.html#
+sublink:http://streamin.to/embed-fxu3eey06f0k-728x410.html#
+</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Hantu Bungkus Ikat Tepi [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-26cliglouhgg-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-26cliglouhgg-640x360.html</page>
-<referer>http://streamin.to/26cliglouhgg</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-26cliglouhgg-640x360.html</page>
-<referer>http://streamin.to/26cliglouhgg</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-26cliglouhgg-640x360.html</page>
-<referer>http://streamin.to/26cliglouhgg</referer>
-</regex>
-<thumbnail>http://www.cinema.com.my/images/movies/2014/7hantubungkusikattepi00_450.jpg</thumbnail>
+<link>
+sublink:http://watchvideo5.us/embed-1zqg2me52gxc.html#
+sublink:http://streamin.to/embed-tzd5n1mmgneh-728x410.html#
+</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Jengka [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-jv7yt6zdupij-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-jv7yt6zdupij-640x360.html</page>
-<referer>http://streamin.to/jv7yt6zdupij</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-jv7yt6zdupij-640x360.html</page>
-<referer>http://streamin.to/jv7yt6zdupij</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-jv7yt6zdupij-640x360.html</page>
-<referer>http://streamin.to/jv7yt6zdupij</referer>
-</regex>
-<thumbnail>http://2.bp.blogspot.com/-hDNKpqnTYRo/VRJ0Gz41k3I/AAAAAAAAAcE/BNRMYtXalVk/s1600/sdsdfe.JPG</thumbnail>
+<link>
+sublink:http://watchvideo5.us/embed-6or2lrzvxvf5.html#
+sublink:http://streamin.to/embed-dywqaoxc0jfh-728x410.html#
+</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Werewolf Dari Bangladesh [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-4uf9ew116wzm-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-4uf9ew116wzm-640x360.html</page>
-<referer>http://streamin.to/4uf9ew116wzm</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-4uf9ew116wzm-640x360.html</page>
-<referer>http://streamin.to/4uf9ew116wzm</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-4uf9ew116wzm-640x360.html</page>
-<referer>http://streamin.to/4uf9ew116wzm</referer>
-</regex>
-<thumbnail>https://farm9.staticflickr.com/8639/16391791030_c1f870164a_b.jpg</thumbnail>
+<link>http://streamin.to/embed-0hkk39tsvw8o-728x410.html</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Cicakman 3 [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-6ks1radcoilp-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-6ks1radcoilp-640x360.html</page>
-<referer>http://streamin.to/6ks1radcoilp</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-6ks1radcoilp-640x360.html</page>
-<referer>http://streamin.to/6ks1radcoilp</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-6ks1radcoilp-640x360.html</page>
-<referer>http://streamin.to/6ks1radcoilp</referer>
-</regex>
-<thumbnail>http://twitchfilm.com/assets_c/2014/12/Cicakman3-thumb-300xauto-52120.jpg</thumbnail>
+<link>
+sublink:http://watchvideo5.us/embed-uxysjdhmmfnp.html#
+sublink:http://streamin.to/embed-c643dbqkdhq0-728x410.html#
+</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Coverina [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-8up835mvi4vt-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-8up835mvi4vt-640x360.html</page>
-<referer>http://streamin.to/8up835mvi4vt</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-8up835mvi4vt-640x360.html</page>
-<referer>http://streamin.to/8up835mvi4vt</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-8up835mvi4vt-640x360.html</page>
-<referer>http://streamin.to/8up835mvi4vt</referer>
-</regex>
-<thumbnail>http://www.cinema.com.my/images/movies/2015/7coverina00_450.jpg</thumbnail>
+<link>
+sublink:http://watchvideo5.us/embed-4mlo8p1wkrb9.html#
+sublink:http://streamin.to/embed-5xwh01phzq7o-728x410.html#
+</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Gudang Kubur [Malaysia]</title>
-<link></link>
-<thumbnail>http://pencurimovie.cc/wp-content/uploads/2015/03/gudang-kubur.jpg</thumbnail>
+<link>http://streamin.to/embed-lcx84lougtca-728x410.html</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Bangunan [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-774pel8o3y28-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-774pel8o3y28-640x360.html</page>
-<referer>http://streamin.to/774pel8o3y28</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-774pel8o3y28-640x360.html</page>
-<referer>http://streamin.to/774pel8o3y28</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-774pel8o3y28-640x360.html</page>
-<referer>http://streamin.to/774pel8o3y28</referer>
-</regex>
-<thumbnail>http://www.movie2u.pw/wp-content/uploads/2015/12/bangunan--2015--ppvrip-%7C-full-movie-online-10629.jpg</thumbnail>
+<link></link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Suamiku Encik Perfect 10 [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-85s10h8licl0-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-85s10h8licl0-640x360.html</page>
-<referer>http://streamin.to/85s10h8licl0</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-85s10h8licl0-640x360.html</page>
-<referer>http://streamin.to/85s10h8licl0</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-85s10h8licl0-640x360.html</page>
-<referer>http://streamin.to/85s10h8licl0</referer>
-</regex>
-<thumbnail>http://3.bp.blogspot.com/-pigROVAtpz0/VLgLMtNpoEI/AAAAAAAAAXA/CQ9vXhZIUQk/s1600/Suamiku%2BEncik%2BPerfect%2B10!.jpg</thumbnail>
+<link>http://streamin.to/embed-6wff7p2qeo6r-728x410.html</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Puaka Balai Gombak [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-kmysr8azsqle-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-kmysr8azsqle-640x360.html</page>
-<referer>http://streamin.to/kmysr8azsqle</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-kmysr8azsqle-640x360.html</page>
-<referer>http://streamin.to/kmysr8azsqle</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-kmysr8azsqle-640x360.html</page>
-<referer>http://streamin.to/kmysr8azsqle</referer>
-</regex>
-<thumbnail>https://farm9.staticflickr.com/8625/16049169137_f49fd2be9c_b.jpg</thumbnail>
+<link>http://streamin.to/embed-j05ds4y5hzh2-728x410.html</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Villa Nabila [Malaysia]</title>
-<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-e6gw2kokw91x-640x360.html</link>
-<regex>
-<name>url</name>
-<expres>streamer: "([^"]*)</expres>
-<page>http://streamin.to/embed-e6gw2kokw91x-640x360.html</page>
-<referer>http://streamin.to/e6gw2kokw91x</referer>
-</regex>
-<regex>
-<name>h-key</name>
-<expres>flv\?h=([^"]*)</expres>
-<page>http://streamin.to/embed-e6gw2kokw91x-640x360.html</page>
-<referer>http://streamin.to/e6gw2kokw91x</referer>
-</regex>
-<regex>
-<name>p-key</name>
-<expres>file: "([^"]*)</expres>
-<page>http://streamin.to/embed-e6gw2kokw91x-640x360.html</page>
-<referer>http://streamin.to/e6gw2kokw91x</referer>
-</regex>
-<thumbnail>http://www.hairulafiz.com/wp-content/uploads/2014/11/Filem-Villa-Nabila-bakal-ditayangkan-pada-tahun-2015.jpg</thumbnail>
+<link>http://streamin.to/embed-wldj79nr5os1-728x410.html</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR turquoise](2015)[/COLOR] Rumah Pusaka Di Simpang Jalan [Malaysia]</title>
-<link></link>
-<thumbnail>http://2.bp.blogspot.com/-PSUPFivVMVE/VI0eg6MQ-rI/AAAAAAAAH18/h_QRLwMLRYk/s1600/Rumah%2BPusaka%2BDi%2BSimpang%2BJalan.jpg</thumbnail>
+<link>
+sublink:http://watchvideo5.us/embed-6lsoet6w2j0z.html#
+sublink:http://speedplay.xyz/embed-mwu7j8n8brue.html#
+</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
 </item>
