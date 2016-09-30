@@ -6,7 +6,7 @@
 <thumbnail></thumbnail>
 </item>
 
-item>
+<item>
 <title>[COLOR red]Offline[/COLOR] ASTRO SUPERSPORTS 1</title>
 <f4m>http://bit.do/astrosp1&amp;streamtype=TSDOWNLOADER</f4m>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_supersport_zpskifl4slo.png</thumbnail>
@@ -18,7 +18,7 @@ item>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/btsport_zps6ivouikh.png</thumbnail>
 </item>
 
-item>
+<item>
 <title>[COLOR darkgreen]Online[/COLOR] CTH STADIUM 1</title>
 <link>http://27.254.64.105:1935/mobilelink/cth1.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
 <regex>
@@ -271,7 +271,7 @@ item>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/starsports_zpsnu9e4gjp.png</thumbnail>
 </item>
 
-item>
+<item>
 <title>[COLOR red]Offline[/COLOR] TSN 1</title>
 <f4m>http://cp.dmbshare.net:8000/live/leo1/leo1/4594.ts&amp;streamtype=TSDOWNLOADER</f4m>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/tsn_zpsdve6k7lj.png</thumbnail>
