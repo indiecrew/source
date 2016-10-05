@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<channels>
+
+<channel>
+<name>INDONESIA</name>
+<thumbnail>http://img.freeflagicons.com/thumb/round_icon/indonesia/indonesia_640.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/indiecrew/source/master/VODI</externallink>
+</channel>
+
+<channel>
+<name>MALAYSIA</name>
+<thumbnail>http://img.freeflagicons.com/thumb/round_icon/malaysia/malaysia_640.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/indiecrew/source/master/VODM</externallink>
+</channel>
+
+<channel>
+<name>SINGAPORE</name>
+<thumbnail>http://img.freeflagicons.com/thumb/round_icon/singapore/singapore_640.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/indiecrew/source/master/VODS</externallink>
+</channel>
+
+</channels>
