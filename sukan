@@ -34,13 +34,6 @@
 </item>
 
 <item>
-<title>[COLOR skyblue]Upcoming Live Streams[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.youtube/playlist/PL8fVUTBmJhHKOjs3cOED-MHMO3p46tbNg/?page=1</jsonrpc>
-<thumbnail>http://pic.prepics-cdn.com/c02c591a6b5bf/58142838_220x220.png</thumbnail>
-</item>
-
-<item>
 <title>[COLOR skyblue]Live Gaming[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.youtube/playlist/PLiCvVJzBupKkcJigTI-XZ0wRr_nuT9Nqo/?page=1</jsonrpc>
