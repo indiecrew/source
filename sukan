@@ -2,12 +2,24 @@
 
 <item>
 <title>[COLOR skyblue]test[/COLOR]</title>
-<pw>http://config.playwire.com/21772/videos/v2/5169645/zeus.json</pw>
-</item>
-
-<item>
-<title>[COLOR skyblue]test[/COLOR]</title>
-<pw>http://config.playwire.com/21772/videos/v2/5169646/zeus.json</pw>
+<link>$doregex[openDialog]</link>
+<regex>
+<name>openDialog</name>
+<expres><![CDATA[#$pyFunction
+import xbmcaddon
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    __addon__ = xbmcaddon.Addon()
+    __addonname__ = __addon__.getAddonInfo('name')     
+    line1 = "Disclaimer:"
+    line2 = "MR Network TV does not host or upload any videos, films or media files. We simply aggregates links in a convenient, user-friendly interface. We will not responsible for the accuracy, compliance, copyright, legality, decency, or any other aspect of the content of other linked sites. If you have any legal issues, please contact the appropriate media file owners or host sites. Any legal issues regarding the free online TV shows and movies on this add-on should be taken up with the actual file hosts and providers themselves, as we're not affiliated with them. All copyright of TV shows, movies and videos is reserved by the copyright owner(s)."
+    line3 = "Use MR Network TV at your own risk" 
+    xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
+    return 
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
 </item>
 
 <item>
