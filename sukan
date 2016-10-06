@@ -11,17 +11,17 @@
 <item>
 <title>[COLOR skyblue]Live Sport Now on Youtube[/COLOR]</title>
 <link>ignorme</link>
-<jsonrpc>Plugin://plugin.video.youtube/channel/UC4R8DWoMoI7CAwX8_LjQHig/?page=0</jsonrpc>
-</item>
-
-<item>
-<title>[COLOR skyblue]Live Sport Now on Youtube[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>Plugin://plugin.video.youtube/channel/UCkcRYjXjAhsBPVH4aeIPxmQ</jsonrpc>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCkcRYjXjAhsBPVH4aeIPxmQ/?page=0</jsonrpc>
 </item>
 
 <item>
 <title>[COLOR skyblue]Live Sport Now on Youtube[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.youtube/playlist/PL8fVUTBmJhHJIx7LEJSC4L8AefFY1xts-/?page=1</jsonrpc>
+</item>
+
+<item>
+<title>[COLOR skyblue]Live Gaming Now on Youtube[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/playlist/PLiCvVJzBupKkcJigTI-XZ0wRr_nuT9Nqo/?page=1</jsonrpc>
 </item>
