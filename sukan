@@ -6,35 +6,35 @@
 </item>
 
 <item>
-<title>[COLOR skyblue]Top Stories[/COLOR]</title>
+<title>Top Stories</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.youtube/playlist/PL4Yp_5ExVAU2ZibWga1kUqRRd1KqBT-kN/?page=1</jsonrpc>
 <thumbnail>http://pic.prepics-cdn.com/c02c591a6b5bf/58142838_220x220.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR skyblue]Highlights[/COLOR]</title>
+<title>Highlights</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.youtube/playlist/PL8fVUTBmJhHKEJjTNWn-ykf67rVrFWYtC/?page=1</jsonrpc>
 <thumbnail>http://pic.prepics-cdn.com/c02c591a6b5bf/58142838_220x220.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR skyblue]Popular Videos[/COLOR]</title>
+<title>Popular Videos</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.youtube/playlist/PL8fVUTBmJhHJmpP7sLb9JfLtdwCmYX9xC/?page=1</jsonrpc>
 <thumbnail>http://pic.prepics-cdn.com/c02c591a6b5bf/58142838_220x220.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR skyblue]Live Sport[/COLOR]</title>
+<title>Live Sport</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.youtube/playlist/PL8fVUTBmJhHJIx7LEJSC4L8AefFY1xts-/?page=1</jsonrpc>
 <thumbnail>http://pic.prepics-cdn.com/c02c591a6b5bf/58142838_220x220.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR skyblue]Live Gaming[/COLOR]</title>
+<title>Live Gaming</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.youtube/playlist/PLiCvVJzBupKkcJigTI-XZ0wRr_nuT9Nqo/?page=1</jsonrpc>
 <thumbnail>http://pic.prepics-cdn.com/c02c591a6b5bf/58142838_220x220.png</thumbnail>
