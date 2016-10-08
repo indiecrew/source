@@ -3,6 +3,12 @@
 <channels>
 
 <channel>
+<name>BRUNEI</name>
+<thumbnail>http://img.freeflagicons.com/thumb/round_icon/brunei/brunei_640.png</thumbnail>
+<externallink>https://goo.gl/xXtxgj</externallink>
+</channel>
+
+<channel>
 <name>INDONESIA</name>
 <thumbnail>http://img.freeflagicons.com/thumb/round_icon/indonesia/indonesia_640.png</thumbnail>
 <externallink>https://goo.gl/n5o8D3</externallink>
