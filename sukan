@@ -46,69 +46,15 @@
 </item>
 
 <item>
-<title>BOX NATION</title>
-<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/boxnation.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-</regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/boxnation_zps8wueccuq.png</thumbnail>
-</item>
-
-<item>
 <title>EUROSPORT</title>
 <link>http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/eurosport_zpsoquxl9yz.png</thumbnail>
 </item>
 
 <item>
-<title>ESPN</title>
-<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/espn.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-</regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/espn_zpstansmdl1.png</thumbnail>
-</item>
-
-<item>
-<title>FOX SPORTS 1</title>
-<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/foxsports1.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-</regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/foxsports_zps6ge7yrfo.png</thumbnail>
-</item>
-
-<item>
-<title>FOX SPORTS 2</title>
-<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/foxsports2.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-</regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/foxsports_zps6ge7yrfo.png</thumbnail>
-</item>
-
-<item>
 <title>NBC GOLF</title>
 <link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/nbcgolf_zpscfntlrtf.png</thumbnail>
-</item>
-
-<item>
-<title>NFL NETWORK</title>
-<link>http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/nflnetwork_zpsiawa4qqc.png</thumbnail>
 </item>
 
 <item>
@@ -145,18 +91,6 @@
 <title>PAC 12 MOUNTAIN</title>
 <link>http://pac12hd2-lh.akamaihd.net/i/p12moun_delivery@132839/master.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/pac12_zpsnoabj7vb.png</thumbnail>
-</item>
-
-<item>
-<title>PREMIER SPORTS</title>
-<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/premiersports.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-</regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/premiersports_zpsxwu8ajlr.png</thumbnail>
 </item>
 
 <item>
