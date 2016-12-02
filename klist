@@ -3,6 +3,13 @@
 <item>
 <title>Malay Karaoke</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.youtube/playlist?list=UUtvaIdR0TvxjqIho_L7aefQ</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/playlist?list=UUtvaIdR0TvxjqIho_L7aefQ/</jsonrpc>
+<thumbnail>https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg</thumbnail>
+</item>
+
+<item>
+<title>Malay Karaoke</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/playlist/UUtvaIdR0TvxjqIho_L7aefQ/</jsonrpc>
 <thumbnail>https://pbs.twimg.com/media/CquvKeSWAAAP-4j.jpg</thumbnail>
 </item>
