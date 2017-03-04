@@ -15,38 +15,20 @@
 </channel>
 
 <channel>
-<name>CHINA</name>
-<thumbnail>http://img.freeflagicons.com/thumb/rectangular_icon_with_iso_code/china/china_640.png</thumbnail>
-<externallink>xxx</externallink>
-</channel>
-
-<channel>
-<name>HONG KONG</name>
-<thumbnail>http://img.freeflagicons.com/thumb/rectangular_icon_with_iso_code/hong_kong/hong_kong_640.png</thumbnail>
-<externallink>xxx</externallink>
-</channel>
-
-<channel>
 <name>INDONESIA</name>
 <thumbnail>http://img.freeflagicons.com/thumb/rectangular_icon_with_iso_code/indonesia/indonesia_640.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/indiecrew/source/master/idn</externallink>
 </channel>
 
 <channel>
-<name>MACAU</name>
-<thumbnail>http://img.freeflagicons.com/thumb/rectangular_icon_with_iso_code/macao/macao_640.png</thumbnail>
+<name>MALAYSIA</name>
+<thumbnail>http://img.freeflagicons.com/thumb/rectangular_icon_with_iso_code/malaysia/malaysia_640.png</thumbnail>
 <externallink>xxx</externallink>
 </channel>
 
 <channel>
 <name>NEW ZEALAND</name>
 <thumbnail>http://img.freeflagicons.com/thumb/rectangular_icon_with_iso_code/new_zealand/new_zealand_640.png</thumbnail>
-<externallink>xxx</externallink>
-</channel>
-
-<channel>
-<name>PALESTINE</name>
-<thumbnail>http://img.freeflagicons.com/thumb/rectangular_icon_with_iso_code/palestinian_territory/palestinian_territory_640.png</thumbnail>
 <externallink>xxx</externallink>
 </channel>
 
@@ -59,18 +41,6 @@
 <channel>
 <name>SOUTH KOREA</name>
 <thumbnail>http://img.freeflagicons.com/thumb/rectangular_icon_with_iso_code/korea_south/korea_south_640.png</thumbnail>
-<externallink>xxx</externallink>
-</channel>
-
-<channel>
-<name>TAIWAN</name>
-<thumbnail>http://img.freeflagicons.com/thumb/rectangular_icon_with_iso_code/republic_of_china/republic_of_china_640.png</thumbnail>
-<externallink>xxx</externallink>
-</channel>
-
-<channel>
-<name>UNITED ARAB EMIRATES</name>
-<thumbnail>http://img.freeflagicons.com/thumb/rectangular_icon_with_iso_code/united_arab_emirates/united_arab_emirates_640.png</thumbnail>
 <externallink>xxx</externallink>
 </channel>
 
