@@ -1,50 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]Last Update: October 7, 2016[/COLOR]</title>
+<title>[COLOR lightgreen]Last Update: March 4, 2017[/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail>http://img.freeflagicons.com/thumb/round_icon/malaysia/malaysia_640.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV1[/COLOR] (Link 1)</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV1[/COLOR]</title>
 <link>http://rtm-live.glueapi.io/smil:rtmch001.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv1_zps8mlj4nck.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV1[/COLOR] (Link 2)</title>
-<link>$doregex[m3u8]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&amp;Referer=http://rtm-player.glueapi.io/f/10149</link>
-  <regex>
-    <name>m3u8</name>
-    <expres>file="([^\"]+)"</expres>
-    <page>http://rtm-player.glueapi.io/f/10149</page>
-    <referer>http://rtm-player.glueapi.io/f/10149</referer>
-    <agent>Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</agent>
-    <accept>*/*</accept>
-    <cookieJar></cookieJar>
-  </regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv1_zps8mlj4nck.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV2[/COLOR] (Link 1)</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV2[/COLOR]</title>
 <link>http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b974000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/My_tv2_zpshzwufzrv.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV2[/COLOR] (Link 2)</title>
-<link>$doregex[m3u8]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&amp;Referer=http://rtm-player.glueapi.io/f/10148</link>
-  <regex>
-    <name>m3u8</name>
-    <expres>file="([^\"]+)"</expres>
-    <page>http://rtm-player.glueapi.io/f/10148</page>
-    <referer>http://rtm-player.glueapi.io/f/10148</referer>
-    <agent>Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</agent>
-    <accept>*/*</accept>
-    <cookieJar></cookieJar>
-  </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/My_tv2_zpshzwufzrv.png</thumbnail>
 </item>
 
@@ -79,86 +49,26 @@ item>
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TVi[/COLOR] (Link 1)</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TVi[/COLOR]</title>
 <link>http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b974000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/tvi_zpsmwdrm674.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TVi[/COLOR] (Link 2)</title>
-<link>$doregex[m3u8]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&amp;Referer=http://rtm-player.glueapi.io/f/10150</link>
-  <regex>
-    <name>m3u8</name>
-    <expres>file="([^\"]+)"</expres>
-    <page>http://rtm-player.glueapi.io/f/10150</page>
-    <referer>http://rtm-player.glueapi.io/f/10150</referer>
-    <agent>Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</agent>
-    <accept>*/*</accept>
-    <cookieJar></cookieJar>
-  </regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/tvi_zpsmwdrm674.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MUZIK AKTIF[/COLOR] (Link 1)</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MUZIK AKTIF[/COLOR]</title>
 <link>http://rtm-live.glueapi.io/smil:rtmch004/chunklist_b974000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/muzikaktif_zpswj4untkz.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MUZIK AKTIF[/COLOR] (Link 2)</title>
-<link>$doregex[m3u8]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&amp;Referer=http://rtm-player.glueapi.io/f/10151</link>
-  <regex>
-    <name>m3u8</name>
-    <expres>file="([^\"]+)"</expres>
-    <page>http://rtm-player.glueapi.io/f/10151</page>
-    <referer>http://rtm-player.glueapi.io/f/10151</referer>
-    <agent>Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</agent>
-    <accept>*/*</accept>
-    <cookieJar></cookieJar>
-  </regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/muzikaktif_zpswj4untkz.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]1 NEWS[/COLOR] (Link 1)</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]1 NEWS[/COLOR]</title>
 <link>http://rtm-live.glueapi.io/smil:rtmch006/chunklist_b974000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/1news_zpsdlajzziq.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]1 NEWS[/COLOR] (Link 2)</title>
-<link>$doregex[m3u8]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&amp;Referer=http://rtm-player.glueapi.io/f/10153</link>
-  <regex>
-    <name>m3u8</name>
-    <expres>file="([^\"]+)"</expres>
-    <page>http://rtm-player.glueapi.io/f/10153</page>
-    <referer>http://rtm-player.glueapi.io/f/10153</referer>
-    <agent>Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</agent>
-    <accept>*/*</accept>
-    <cookieJar></cookieJar>
-  </regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/1news_zpsdlajzziq.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]RTM PARLIMEN[/COLOR] (Link 1)</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]RTM PARLIMEN[/COLOR]</title>
 <link>http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b950000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/rtmparlimen_zpsu1trkjx7.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]RTM PARLIMEN[/COLOR] (Link 2)</title>
-<link>$doregex[m3u8]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&amp;Referer=http://rtm-player.glueapi.io/f/10152</link>
-  <regex>
-    <name>m3u8</name>
-    <expres>file="([^\"]+)"</expres>
-    <page>http://rtm-player.glueapi.io/f/10152</page>
-    <referer>http://rtm-player.glueapi.io/f/10152</referer>
-    <agent>Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</agent>
-    <accept>*/*</accept>
-    <cookieJar></cookieJar>
-  </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/rtmparlimen_zpsu1trkjx7.png</thumbnail>
 </item>
 
