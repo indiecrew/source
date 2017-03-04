@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]Last Update: October 7, 2016[/COLOR]</title>
+<title>[COLOR lightgreen]Last Update: March 4, 2017[/COLOR]</title>
 <link>http://ignoreme</link>
-<thumbnail></thumbnail>
+<thumbnail>http://img.freeflagicons.com/thumb/round_icon/indonesia/indonesia_640.png</thumbnail>
 </item>
 
 <item>
@@ -43,78 +43,13 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]BALI TV[/COLOR]</title>
-<link>$doregex[ReplaceUrl]</link>
-<regex>
-  <name>ReplaceUrl</name>
-  <expres>$pyFunction: '$doregex[m3u8]'.replace('\/','/')</expres>
-  <page></page>
-</regex>
-<regex>
-  <name>m3u8</name>
-  <expres>play_url":"(.*?)"</expres>
-  <page>http://www.useetv.com/services/tv_play_auth?channel_code=balitv&amp;token=&amp;starttime=&amp;endtime=&amp;vd_service=livetv</page>
-  <referer>http://www.useetv.com/services/tv_play_auth?channel_code=balitv&amp;token=&amp;starttime=&amp;endtime=&amp;vd_service=livetv</referer>
-</regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/balitv_zpsyfmtsnjk.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]BERITA SATU[/COLOR] [COLOR skyblue](f4mTester)[/COLOR] (Link 1)</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]BERITA SATU[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/beritasatu_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
 <expres>wmsAuthSign=(.*)</expres>
 <page>http://api.mivo.com/v3/mobile/channels/wms-auth?</page>
 <referer>http://api.mivo.com/</referer>
-</regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_beritasatutv_zpsdgoulgmq.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]BERITA SATU[/COLOR] (Link 2)</title>
-<link>$doregex[m3u8]</link>
-<regex>
-	<name>m3u8</name>
-	<expres>m3u8source = "(.*?)";</expres>
-	<page>http://www.beritasatu.com/playstream.php?channel=news</page>
-  <referer>http://www.beritasatu.com/playstream.php?channel=news</referer>
-</regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_beritasatutv_zpsdgoulgmq.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]BERITA SATU SPORT[/COLOR]</title>
-<link>$doregex[m3u8]</link>
-<regex>
-	<name>m3u8</name>
-	<expres>m3u8source = "(.*?)";</expres>
-	<page>http://www.beritasatu.com/playstream.php?channel=sport</page>
-  <referer>http://www.beritasatu.com/playstream.php?channel=sport</referer>
-</regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_beritasatutv_zpsdgoulgmq.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]BERITA SATU ENGLISH[/COLOR]</title>
-<link>$doregex[m3u8]</link>
-<regex>
-	<name>m3u8</name>
-	<expres>m3u8source = "(.*?)";</expres>
-	<page>http://www.beritasatu.com/playstream.php?channel=english</page>
-  <referer>http://www.beritasatu.com/playstream.php?channel=english</referer>
-</regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_beritasatutv_zpsdgoulgmq.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]BERITA SATU WORLD[/COLOR]</title>
-<link>$doregex[m3u8]</link>
-<regex>
-	<name>m3u8</name>
-	<expres>m3u8source = "(.*?)";</expres>
-	<page>http://www.beritasatu.com/playstream.php?channel=world</page>
-  <referer>http://www.beritasatu.com/playstream.php?channel=world</referer>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_beritasatutv_zpsdgoulgmq.png</thumbnail>
 </item>
@@ -129,12 +64,6 @@
 <referer>http://api.mivo.com/</referer>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_ctv_zpsuthdtkdg.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CNN INDONESIA[/COLOR]</title>
-<link>http://live.cnnindonesia.com/livecnn/cnn_live_tv1.sdp/playlist.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/cnn_zpsf3dtporx.png</thumbnail>
 </item>
 
 <item>
@@ -210,19 +139,7 @@
 </item>
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]INI TV[/COLOR]</title>
-<link>http://streaming.initv.net:1935/live/_definst_/Stream1/playlist.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_initv_zpslrigejxj.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]INSPIRA TV[/COLOR]</title>
-<link>http://video.inspira.tv:1935/inspiratv/live.sdp/playlist.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_inspiratv_zps4g1thpo0.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]INDOSIAR[/COLOR] [COLOR skyblue](f4mTester)[/COLOR] (Link 1)</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]INDOSIAR[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/indosiar2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -230,12 +147,6 @@
 <page>http://api.mivo.com/v3/mobile/channels/wms-auth?</page>
 <referer>http://api.mivo.com/</referer>
 </regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_indosiar_zpsnlwwccnu.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]INDOSIAR[/COLOR] (Link 2)</title>
-<link>http://livestreaming-a.production.liputan6.static6.com/i/indosiar_1@137568/master.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_indosiar_zpsnlwwccnu.png</thumbnail>
 </item>
 
@@ -330,7 +241,7 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MNC TV[/COLOR] [COLOR skyblue](f4mTester)[/COLOR] (Link 1)</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MNC TV[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/mnctv2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -338,12 +249,6 @@
 <page>http://api.mivo.com/v3/mobile/channels/wms-auth?</page>
 <referer>http://api.mivo.com/</referer>
 </regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_mnc_tv_zpshi58jhma.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MNC TV[/COLOR] (Link 2)</title>
-<link>http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index1024.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_mnc_tv_zpshi58jhma.png</thumbnail>
 </item>
 
@@ -360,7 +265,7 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]NET.[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]NET TV[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/nettv_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -396,7 +301,7 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]RCTI[/COLOR] [COLOR skyblue](f4mTester)[/COLOR] (Link 1)</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]RCTI[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/rcti2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -408,13 +313,7 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]RCTI[/COLOR] (Link 2)</title>
-<link>http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index1024.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_rcti_zpspbf3nrr5.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]RTV[/COLOR] [COLOR skyblue](f4mTester)[/COLOR] (Link 1)</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]RTV[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/rajawalitv.stream_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -426,13 +325,7 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]RTV[/COLOR] (Link 2)</title>
-<link>rtmp://203.153.97.35/live/ playpath=livestream swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.tvonline.id/playerrtv.html</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_rtv_zps7zwluxo5.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SCTV[/COLOR] [COLOR skyblue](f4mTester)[/COLOR] (Link 1)</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SCTV[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/sctv2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -440,12 +333,6 @@
 <page>http://api.mivo.com/v3/mobile/channels/wms-auth?</page>
 <referer>http://api.mivo.com/</referer>
 </regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_sctv_zpsibjuh3i7.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SCTV[/COLOR] (Link 2)</title>
-<link>http://tv.vidiostream.com/i/sctv_1@137582/master.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_sctv_zpsibjuh3i7.png</thumbnail>
 </item>
 
@@ -543,18 +430,6 @@
 <referer>http://api.mivo.com/</referer>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_trans_tv_zpsef7hiuqo.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]THE INDONESIA CHANNEL[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/theindonesiachannel_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://api.mivo.com/v3/mobile/channels/wms-auth?</page>
-<referer>http://api.mivo.com/</referer>
-</regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tictv_zpsglqai3sx.png</thumbnail>
 </item>
 
 <item>
