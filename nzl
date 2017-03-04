@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<item>
+<title>[COLOR lightgreen]Last Update: Nov 12, 2016[/COLOR]</title>
+<link>http://ignoreme</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]BRAVO[/COLOR]</title>
+<link>http://mworks-i.akamaihd.net/hls/live/251979/AES128/3812193411001/Bravo_Live/master.m3u8|X-Forwarded-For=202.150.115.76</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/logo_zpsasqx9tlx.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CANTERBURY TV[/COLOR]</title>
+<link>http://scc-cdn.5stream.com/stream/stream_med/index.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/canterburytv_zpsot6bin4l.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]CHANNEL NORTH[/COLOR]</title>
+<link>http://livestream.etv.org.nz/channelnorth.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/channelnorth_zps2nuqhc7e.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]MAORI TV[/COLOR]</title>
+<link>http://livestream.etv.org.nz/maori.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/maoritv_zpsmuucfoqk.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]PRIME TV[/COLOR]</title>
+<link>http://livestream.etv.org.nz/prime.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/prime_zpshp9xwln9.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SHINE TV[/COLOR]</title>
+<link>http://rhemabroadcast-lh.akamaihd.net/i/livestream_1@185937/master.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/shinetv_zps0hvhtmqo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]TE REO[/COLOR]</title>
+<link>http://livestream.etv.org.nz/tereo.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/tereo_zpszpkhjnxq.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]TV1[/COLOR]</title>
+<link>http://livestream.etv.org.nz/tv1.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/one_zpsiauqt9rf.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]TV2[/COLOR]</title>
+<link>http://livestream.etv.org.nz/tv2.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/two_zpse5vwqh16.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV3[/COLOR]</title>
+<link>http://mworks-i.akamaihd.net/hls/live/247858/AES128/3812193411001/tv3_live/master_2000.m3u8|X-Forwarded-For=202.150.115.76</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/tv3_zpsdetvgf6r.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]TVNZ DUKE[/COLOR]</title>
+<link>http://livestream.etv.org.nz/./duke/duke_1000k.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/duke_zpspxkexuyu.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]THE EDGE[/COLOR]</title>
+<link>http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/theedgetv_live/master.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/theedge_zpsfpiqi1li.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TVSN[/COLOR]</title>
+<link>http://tvsn-lh.akamaihd.net/i/TVSN_NZ_1@137553/master.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/tvsn_zps29xbhfmo.png</thumbnail>
+</item>
