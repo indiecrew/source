@@ -481,15 +481,9 @@
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TVN[/COLOR]</title>
-<link>http://222.239.21.69/tvn/_definst_/449105246D714C5F2D83EB9257FF0088/chunklist_w2039417571.m3u</link>
-<thumbnail>https://koreanupdatesweb.files.wordpress.com/2014/08/logo_tvn.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TVN ENTERTAINMENT[/COLOR]</title>
 <link>http://121.156.62.136:1935/chc09/s5.stream/playlist.m3u8</link>
 <thumbnail>https://koreanupdatesweb.files.wordpress.com/2014/08/logo_tvn.jpg</thumbnail>
-</item>
+</item>http://222.239.21.69/tvn/_definst_/449105246D714C5F2D83EB9257FF0088/chunklist_w2039417571.m3u
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]THE MOVIES[/COLOR]</title>
