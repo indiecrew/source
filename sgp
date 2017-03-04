@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]Last Update: August 27, 2016[/COLOR]</title>
+<title>[COLOR lightgreen]Last Update: March 4, 2017[/COLOR]</title>
 <link>http://ignoreme</link>
-<thumbnail></thumbnail>
+<thumbnail>http://img.freeflagicons.com/thumb/round_icon/singapore/singapore_640.png</thumbnail>
 </item>
 
 <item>
@@ -109,7 +109,7 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]VASANTHAM[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]VASANTHAM[/COLOR]</title>
 <link>$doregex[m3u8]|X-Forwarded-For=203.208.224.155</link>
 <regex>
 	<name>m3u8</name>
@@ -123,5 +123,11 @@
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TOGGLE LIVE 1[/COLOR]</title>
 <link>http://tgllive-lh.akamaihd.net/i/toggle_live@334524/master.m3u8</link>
+<thumbnail>http://video.toggle.sg/image/5776826/16x9/947/533/77bc39e05d5680078a53f1de78292f48/Og/toggle-live-new-image.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]TOGGLE LIVE 2[/COLOR]</title>
+<link>http://tgllive2-lh.akamaihd.net/i/toggle_live2@342560/master.m3u8</link>
 <thumbnail>http://video.toggle.sg/image/5776826/16x9/947/533/77bc39e05d5680078a53f1de78292f48/Og/toggle-live-new-image.png</thumbnail>
 </item> 
