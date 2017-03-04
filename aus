@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<item>
+<title>[COLOR lightgreen]Last Update: Nov 21, 2016[/COLOR]</title>
+<link>http://ignoreme</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ABC NEWS[/COLOR] [COLOR skyblue](Geoblock)[/COLOR]</title>
+<link>http://iphonestreaming.abc.net.au/news24/news24.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/abcnews_zps5dxg2syf.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]AUSTRALIA PLUS[/COLOR]</title>
+<link>http://118.97.183.222:1935/discover/aplus/chunklist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/australiaplus_zpsp9mguubj.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SEVEN[/COLOR] [COLOR skyblue](Geoblock)[/COLOR]</title>
+<link>https://sevenwestmedia01-i.akamaihd.net/hls/live/224817/PER1/master.m3u8|X-Forwarded-For=101.175.18.124</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/7_zpsyqrpevyo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]7TWO[/COLOR] [COLOR skyblue](Geoblock)[/COLOR]</title>
+<link>https://sevenwestmedia01-i.akamaihd.net/hls/live/224827/SYD2/master_high.m3u8|X-Forwarded-For=101.175.18.124</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/7Two_zpscvxqlyd5.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]7MATE[/COLOR] [COLOR skyblue](Geoblock)[/COLOR]</title>
+<link>https://sevenwestmedia01-i.akamaihd.net/hls/live/224839/MEL3/master.m3u8|X-Forwarded-For=124.168.86.122</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/7mate_zps6wiygiuj.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]7FLIX[/COLOR] [COLOR skyblue](Geoblock)[/COLOR]</title>
+<link>http://sevenwestmedia01-i.akamaihd.net/hls/live/224860/PER6/master.m3u8|X-Forwarded-For=101.175.18.124</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/7flix_zpsvq4mkx2s.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]TEN[/COLOR]</title>
+<link>http://mrdo.zapto.org:1088/aulive/tensouth/index.m3u8|X-Forwarded-For=101.175.18.124</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/ten_zps7jlehnwr.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]RACING.COM[/COLOR] [COLOR skyblue](Geoblock)[/COLOR]</title>
+<link>https://sevenwestmedia01-i.akamaihd.net/hls/live/224825/MISC1/master.m3u8?|X-Forwarded-For=101.175.18.124</link>
+<thumbnail>https://cdn.racing.com/resources/Racing/img/favicon/hub/favicon-200x200.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SPORTSFAN[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?&amp;url=http://bponlinehdslive267.ngcdn.telstra.com/hds-live/bp/_definst_/bpsf-pc-000-c3002-fmspkg1-hdsogg1-abr/bpsf-pc-000-c3002-fmspkg1-hdsogg1-abr3.f4m?IS=0&amp;ET=1446577201&amp;CIP=1.2.3.4&amp;KO=1&amp;KN=7&amp;US=b032c5afd259a172cd037211b775ed33</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/sportfans_zpsrmoi2lbj.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SKY RACING 1[/COLOR]</title>
+<link>http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky1.m3u8|X-Forwarded-For=101.175.18.124</link>
+<thumbnail>http://www.racingfans.com.au/uploaded/articles/skyracing.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SKY RACING 2[/COLOR]</title>
+<link>http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky2.m3u8|X-Forwarded-For=101.175.18.124</link>
+<thumbnail>http://www.racingfans.com.au/uploaded/articles/skyracing.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SKY RACING NSW[/COLOR]</title>
+<link>http://kitdigitaioslive-i.akamaihd.net/hls/live/219670/skyr_ios_unblocked/skyrnsw.m3u8|X-Forwarded-For=101.175.18.124</link>
+<thumbnail>http://www.racingfans.com.au/uploaded/articles/skyracing.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TVSN[/COLOR]</title>
+<link>http://tvsn-lh.akamaihd.net/i/TVSN_1@137553/master.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/tvsn_zps29xbhfmo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]EXPO CHANNEL[/COLOR]</title>
+<link>http://tvsn-lh.akamaihd.net/i/EXPO_1@137553/master.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/expo_zps59d1ivlb.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]NINE[/COLOR]</title>
+<link>https://9nowch9livehls-i.akamaihd.net/hls/live/250962/melbourne/master.m3u8|X-Forwarded-For=203.164.47.122</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/9_zpsiex3yoka.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]9GEM[/COLOR]</title>
+<link>https://9nowgemlivehls-i.akamaihd.net/hls/live/250972/melbourne/master.m3u8|X-Forwarded-For=101.175.18.124</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/9gem_zpsxlnn31zm.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]9GO[/COLOR]</title>
+<link>https://9nowgolivehls-i.akamaihd.net/hls/live/250977/melbourne/master.m3u8|X-Forwarded-For=101.175.18.124</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/9go_zpsrqywjsyi.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]9LIFE[/COLOR]</title>
+<link>https://9nowlifelivehls-i.akamaihd.net/hls/live/250992/melbourne/master.m3u8|X-Forwarded-For=101.175.18.124</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/9life_zps2fezaqba.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CHANNEL 31[/COLOR]</title>
+<link>http://manifester-c31.mediafoundry.com.au/stream/c31melbourne/playlist.m3u8</link>
+<thumbnail>http://frankston.tv/wp-content/uploads/2013/09/channel31-logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CHANNEL 31 FISHING[/COLOR]</title>
+<link>http://manifester.mediafoundry.com.au/stream/c31melbourne_fishing/playlist.m3u8</link>
+<thumbnail>http://frankston.tv/wp-content/uploads/2013/09/channel31-logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CHANNEL 44[/COLOR]</title>
+<link>http://manifester.mediafoundry.com.au/master/t/c44adelaide_1/manifest.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/a8/Channel_44_Logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]WEST TV[/COLOR]</title>
+<link>http://manifester-wtvperth.mediafoundry.com.au/stream/wtvperth/playlist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/WTV_Perth_Logo.svg/2000px-WTV_Perth_Logo.svg.png</thumbnail>
+</item>
