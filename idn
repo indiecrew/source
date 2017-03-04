@@ -175,12 +175,6 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]JOGJA TV[/COLOR]</title>
-<link>rtmp://202.169.224.206/live playpath=jogjatv swfUrl=http://streaming.jogjamedianet.com/jwplayer.swf pageUrl=http://jogjatv.tv/live-streaming/</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/jogjatv_zpseylfsdy9.png</thumbnail>
-</item>
-
-<item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]JTV[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/jawatv_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
