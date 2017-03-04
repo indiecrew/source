@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<item>
+<title>[COLOR lightgreen]Last Update: Nov 12, 2016[/COLOR]</title>
+<link>http://ignoreme</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ARIRANG[/COLOR]</title>
+<link>http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_w849387532_b1728000_sleng.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/arirang_zpsp6gddwjh.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ALL THE K-POP[/COLOR] [COLOR skyblue](Youtube)[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=v6NTX2gH_uM</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/allthekpop_zpssztd5qq8.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CHANNEL A[/COLOR]</title>
+<link>http://175.198.55.161:8871/CHANNELA_H</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/channela_zpsfcjpiwrg.png</thumbnail>
+</item>http://edge2.everyon.tv/etv2/pld251/playlist.m3u8
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CHOSUN TV[/COLOR]</title>
+<link>rtmp://live.chosun.gscdn.com:1935/live/_definst_mp4:tvchosun1.stream</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/chosuntv_zps6pz61wej.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]EBS 1[/COLOR]</title>
+<link>rtmp://ebsonair.ebs.co.kr:1935/groundwavefamilypc playpath=familypc1m swfUrl=http://www.ebs.co.kr/common/swf/onairPlayer_20160114.swf pageUrl=http://www.ebs.co.kr/onair?channelCodeString=tv</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/ebs_zpskbmxtvzy.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]EBS 2[/COLOR]</title>
+<link>rtmp://ebsonair.ebs.co.kr:1935/ebs2familypc playpath=familypc1m swfUrl=http://www.ebs.co.kr/common/swf/onairPlayer_20160114.swf pageUrl=http://www.ebs.co.kr/onair?channelCodeString=tv2</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/ebs_zpskbmxtvzy.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]EBS E[/COLOR]</title>
+<link>rtmp://ebsonair.ebs.co.kr:1935/plus3familypc playpath=familypc1m swfUrl=http://www.ebs.co.kr/common/swf/onairPlayer_20160114.swf pageUrl=http://www.ebs.co.kr/onair?channelCodeString=ebse
+</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/ebs_zpskbmxtvzy.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]EBS U[/COLOR]</title>
+<link>rtmp://ebsonair.ebs.co.kr:1935/ebsufamilypc playpath=familypc1m swfUrl=http://www.ebs.co.kr/common/swf/onairPlayer_20160114.swf pageUrl=http://www.ebs.co.kr/onair?channelCodeString=ebsu</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/ebs_zpskbmxtvzy.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]EBS PLUS 1[/COLOR]</title>
+<link>rtmp://ebsonair.ebs.co.kr:1935/plus1familypc playpath=familypc1m swfUrl=http://www.ebs.co.kr/common/swf/onairPlayer_20160114.swf pageUrl=http://www.ebs.co.kr/onair?channelCodeString=plus1</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/ebs_zpskbmxtvzy.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]EBS PLUS 2[/COLOR]</title>
+<link>rtmp://ebsonair.ebs.co.kr:1935/plus2familypc playpath=familypc1m swfUrl=http://www.ebs.co.kr/common/swf/onairPlayer_20160114.swf pageUrl=http://www.ebs.co.kr/onair?channelCodeString=plus2</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/ebs_zpskbmxtvzy.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]JEI ENGLISH[/COLOR]</title>
+<link>rtmp://edge2.everyon.tv/etv2sb/phd15</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/jei_zps2qps4jqb.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]JTBC[/COLOR]</title>
+<link>http://175.198.55.161:8871/JTBC_H</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/jtbc_zpsruer38zt.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]JTBC GOLF[/COLOR]</title>
+<link>http://175.198.55.161:8871/JGOLF_H</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/jtbc_zpsruer38zt.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]KBS 1[/COLOR] [COLOR skyblue](Geoblock)[/COLOR]</title>
+<link>$doregex[getCleanRTMP] playpath=$doregex[getPATH] flashVer=WIN\2019,0,0,245 swfUrl=http://myk.kbs.co.kr/assets/vod/Flash/KPlayer.swf pageUrl=http://myk.kbs.co.kr/#?chid=N95 live=1|X-Forwarded-For=123.45.67.89</link>
+<regex>
+<name>getCleanRTMP</name>
+<expres>$pyFunction:'$doregex[getRTMP]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getRTMP</name>
+<expres>(rtmp.*?)\\\/1tv_<expres>
+<page>http://myk.kbs.co.kr/api/kp_cms/live_stream</page>
+<referer>http://myk.kbs.co.kr/<referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0</agent>
+<X-Req>XMLHttpRequest</X-Req>
+<rawpost>service_url=rtmp%3A%2F%2Flive.kbskme.gscdn.com%2F1tv%2F_definst_%2F1tv_5.stream&amp;channel_code=11&amp;channel_type=TV&amp;pk_token=$doregex[getPKToken]</rawpost>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getPATH</name>
+<expres>definst_\\\/(.*?)"<expres>
+<page>http://myk.kbs.co.kr/api/kp_cms/live_stream</page>
+<referer>http://myk.kbs.co.kr/<referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0</agent>
+<X-Req>XMLHttpRequest</X-Req>
+<rawpost>service_url=rtmp%3A%2F%2Flive.kbskme.gscdn.com%2F1tv%2F_definst_%2F1tv_5.stream&amp;channel_code=11&amp;channel_type=TV&amp;pk_token=$doregex[getPKToken]</rawpost>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getPKToken</name>
+<expres>pk_token" value="(.*?)"<expres>
+<page>http://myk.kbs.co.kr/</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/kbs_zpsjxwxee0p.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]KBS 2[/COLOR] [COLOR skyblue](Geoblock)[/COLOR]</title>
+<link>$doregex[getCleanRTMP] playpath=$doregex[getPATH] flashVer=WIN\2019,0,0,245 swfUrl=http://myk.kbs.co.kr/assets/vod/Flash/KPlayer.swf pageUrl=http://myk.kbs.co.kr/#?chid=12 live=1</link>
+<regex>
+<name>getCleanRTMP</name>
+<expres>$pyFunction:'$doregex[getRTMP]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getRTMP</name>
+<expres>(rtmp.*?)\\\/2tv_<expres>
+<page>http://myk.kbs.co.kr/api/kp_cms/live_stream</page>
+<referer>http://myk.kbs.co.kr/<referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0</agent>
+<X-Req>XMLHttpRequest</X-Req>
+<rawpost>service_url=rtmp%3A%2F%2Flive.kbskme.gscdn.com%2F2tv%2F_definst_%2F2tv_5.stream&amp;channel_code=11&amp;channel_type=TV&amp;pk_token=$doregex[getPKToken]</rawpost>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getPATH</name>
+<expres>definst_\\\/(.*?)"<expres>
+<page>http://myk.kbs.co.kr/api/kp_cms/live_stream</page>
+<referer>http://myk.kbs.co.kr/<referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0</agent>
+<X-Req>XMLHttpRequest</X-Req>
+<rawpost>service_url=rtmp%3A%2F%2Flive.kbskme.gscdn.com%2F2tv%2F_definst_%2F2tv_5.stream&amp;channel_code=11&amp;channel_type=TV&amp;pk_token=$doregex[getPKToken]</rawpost>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getPKToken</name>
+<expres>pk_token" value="(.*?)"<expres>
+<page>http://myk.kbs.co.kr/</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/kbs_zpsjxwxee0p.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]KBS DRAMA[/COLOR] [COLOR skyblue](Geoblock)[/COLOR]</title>
+<link>$doregex[getCleanRTMP] playpath=$doregex[getPATH] flashVer=WIN\2019,0,0,245 swfUrl=http://myk.kbs.co.kr/assets/vod/Flash/KPlayer.swf pageUrl=http://myk.kbs.co.kr/#?chid=N91 live=1</link>
+<regex>
+<name>getCleanRTMP</name>
+<expres>$pyFunction:'$doregex[getRTMP]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getRTMP</name>
+<expres>(rtmp.*?)\\\/kbsn_drama_<expres>
+<page>http://myk.kbs.co.kr/api/kp_cms/live_stream</page>
+<referer>http://myk.kbs.co.kr/<referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0</agent>
+<X-Req>XMLHttpRequest</X-Req>
+<rawpost>service_url=rtmp%3A%2F%2Flive.kbskme.gscdn.com%2Fkbsn_drama%2F_definst_%2Fkbsn_drama_5.stream&amp;channel_code=11&amp;channel_type=TV&amp;pk_token=$doregex[getPKToken]</rawpost>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getPATH</name>
+<expres>definst_\\\/(.*?)"<expres>
+<page>http://myk.kbs.co.kr/api/kp_cms/live_stream</page>
+<referer>http://myk.kbs.co.kr/<referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0</agent>
+<X-Req>XMLHttpRequest</X-Req>
+<rawpost>service_url=rtmp%3A%2F%2Flive.kbskme.gscdn.com%2Fkbsn_drama%2F_definst_%2Fkbsn_drama_5.stream&amp;channel_code=11&amp;channel_type=TV&amp;pk_token=$doregex[getPKToken]</rawpost>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getPKToken</name>
+<expres>pk_token" value="(.*?)"<expres>
+<page>http://myk.kbs.co.kr/</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/kbs_zpsjxwxee0p.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]KBS W[/COLOR] [COLOR skyblue](Geoblock)[/COLOR]</title>
+<link>$doregex[getCleanRTMP] playpath=$doregex[getPATH] flashVer=WIN\2019,0,0,245 swfUrl=http://myk.kbs.co.kr/assets/vod/Flash/KPlayer.swf pageUrl=http://myk.kbs.co.kr/#?chid=N94 live=1</link>
+<regex>
+<name>getCleanRTMP</name>
+<expres>$pyFunction:'$doregex[getRTMP]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getRTMP</name>
+<expres>(rtmp.*?)\\\/kbsn_wtv_<expres>
+<page>http://myk.kbs.co.kr/api/kp_cms/live_stream</page>
+<referer>http://myk.kbs.co.kr/<referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0</agent>
+<X-Req>XMLHttpRequest</X-Req>
+<rawpost>service_url=rtmp%3A%2F%2Flive.kbskme.gscdn.com%2Fkbsn_wtv%2F_definst_%2Fkbsn_wtv_5.stream&amp;channel_code=11&amp;channel_type=TV&amp;pk_token=$doregex[getPKToken]</rawpost>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getPATH</name>
+<expres>definst_\\\/(.*?)"<expres>
+<page>http://myk.kbs.co.kr/api/kp_cms/live_stream</page>
+<referer>http://myk.kbs.co.kr/<referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0</agent>
+<X-Req>XMLHttpRequest</X-Req>
+<rawpost>service_url=rtmp%3A%2F%2Flive.kbskme.gscdn.com%2Fkbsn_wtv%2F_definst_%2Fkbsn_wtv_5.stream&amp;channel_code=11&amp;channel_type=TV&amp;pk_token=$doregex[getPKToken]</rawpost>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getPKToken</name>
+<expres>pk_token" value="(.*?)"<expres>
+<page>http://myk.kbs.co.kr/</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/kbs_zpsjxwxee0p.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]KBS N LIFE[/COLOR] [COLOR skyblue](Geoblock)[/COLOR]</title>
+<link>$doregex[getCleanRTMP] playpath=$doregex[getPATH] flashVer=WIN\2019,0,0,245 swfUrl=http://myk.kbs.co.kr/assets/vod/Flash/KPlayer.swf pageUrl=http://myk.kbs.co.kr/#?chid=N93 live=1</link>
+<regex>
+<name>getCleanRTMP</name>
+<expres>$pyFunction:'$doregex[getRTMP]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getRTMP</name>
+<expres>(rtmp.*?)\\\/kbsn_prime_<expres>
+<page>http://myk.kbs.co.kr/api/kp_cms/live_stream</page>
+<referer>http://myk.kbs.co.kr/<referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0</agent>
+<X-Req>XMLHttpRequest</X-Req>
+<rawpost>service_url=rtmp%3A%2F%2Flive.kbskme.gscdn.com%2Fkbsn_prime%2F_definst_%2Fkbsn_prime_5.stream&amp;channel_code=11&amp;channel_type=TV&amp;pk_token=$doregex[getPKToken]</rawpost>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getPATH</name>
+<expres>definst_\\\/(.*?)"<expres>
+<page>http://myk.kbs.co.kr/api/kp_cms/live_stream</page>
+<referer>http://myk.kbs.co.kr/<referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0</agent>
+<X-Req>XMLHttpRequest</X-Req>
+<rawpost>service_url=rtmp%3A%2F%2Flive.kbskme.gscdn.com%2Fkbsn_prime%2F_definst_%2Fkbsn_prime_5.stream&amp;channel_code=11&amp;channel_type=TV&amp;pk_token=$doregex[getPKToken]</rawpost>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getPKToken</name>
+<expres>pk_token" value="(.*?)"<expres>
+<page>http://myk.kbs.co.kr/</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/kbs_zpsjxwxee0p.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]KBS JOY[/COLOR] [COLOR skyblue](Geoblock)[/COLOR]</title>
+<link>$doregex[getCleanRTMP] playpath=$doregex[getPATH] flashVer=WIN\2019,0,0,245 swfUrl=http://myk.kbs.co.kr/assets/vod/Flash/KPlayer.swf pageUrl=http://myk.kbs.co.kr/#?chid=N92 live=1</link>
+<regex>
+<name>getCleanRTMP</name>
+<expres>$pyFunction:'$doregex[getRTMP]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getRTMP</name>
+<expres>(rtmp.*?)\\\/kbsn_joy_<expres>
+<page>http://myk.kbs.co.kr/api/kp_cms/live_stream</page>
+<referer>http://myk.kbs.co.kr/<referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0</agent>
+<X-Req>XMLHttpRequest</X-Req>
+<rawpost>service_url=rtmp%3A%2F%2Flive.kbskme.gscdn.com%2Fkbsn_joy%2F_definst_%2Fkbsn_joy_5.stream&amp;channel_code=11&amp;channel_type=TV&amp;pk_token=$doregex[getPKToken]</rawpost>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getPATH</name>
+<expres>definst_\\\/(.*?)"<expres>
+<page>http://myk.kbs.co.kr/api/kp_cms/live_stream</page>
+<referer>http://myk.kbs.co.kr/<referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0</agent>
+<X-Req>XMLHttpRequest</X-Req>
+<rawpost>service_url=rtmp%3A%2F%2Flive.kbskme.gscdn.com%2Fkbsn_joy%2F_definst_%2Fkbsn_joy_5.stream&amp;channel_code=11&amp;channel_type=TV&amp;pk_token=$doregex[getPKToken]</rawpost>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getPKToken</name>
+<expres>pk_token" value="(.*?)"<expres>
+<page>http://myk.kbs.co.kr/</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/kbs_zpsjxwxee0p.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]KBS KIDS[/COLOR] [COLOR skyblue](Geoblock)[/COLOR]</title>
+<link>$doregex[getCleanRTMP] playpath=$doregex[getPATH] flashVer=WIN\2019,0,0,245 swfUrl=http://myk.kbs.co.kr/assets/vod/Flash/KPlayer.swf pageUrl=http://myk.kbs.co.kr/#?chid=N96 live=1</link>
+<regex>
+<name>getCleanRTMP</name>
+<expres>$pyFunction:'$doregex[getRTMP]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getRTMP</name>
+<expres>(rtmp.*?)\\\/kbsn_kids_<expres>
+<page>http://myk.kbs.co.kr/api/kp_cms/live_stream</page>
+<referer>http://myk.kbs.co.kr/<referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0</agent>
+<X-Req>XMLHttpRequest</X-Req>
+<rawpost>service_url=rtmp%3A%2F%2Flive.kbskme.gscdn.com%2Fkbsn_kids%2F_definst_%2Fkbsn_kids_5.stream&amp;channel_code=11&amp;channel_type=TV&amp;pk_token=$doregex[getPKToken]</rawpost>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getPATH</name>
+<expres>definst_\\\/(.*?)"<expres>
+<page>http://myk.kbs.co.kr/api/kp_cms/live_stream</page>
+<referer>http://myk.kbs.co.kr/<referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0</agent>
+<X-Req>XMLHttpRequest</X-Req>
+<rawpost>service_url=rtmp%3A%2F%2Flive.kbskme.gscdn.com%2Fkbsn_kids%2F_definst_%2Fkbsn_kids_5.stream&amp;channel_code=11&amp;channel_type=TV&amp;pk_token=$doregex[getPKToken]</rawpost>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getPKToken</name>
+<expres>pk_token" value="(.*?)"<expres>
+<page>http://myk.kbs.co.kr/</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/kbs_zpsjxwxee0p.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]KBS N SPORTS[/COLOR] [COLOR skyblue](Geoblock)[/COLOR]</title>
+<link>$doregex[getCleanRTMP] playpath=$doregex[getPATH] flashVer=WIN\2019,0,0,245 swfUrl=http://myk.kbs.co.kr/assets/vod/Flash/KPlayer.swf pageUrl=http://myk.kbs.co.kr/#?chid=N95 live=1</link>
+<regex>
+<name>getCleanRTMP</name>
+<expres>$pyFunction:'$doregex[getRTMP]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getRTMP</name>
+<expres>(rtmp.*?)\\\/kbsn_sports_<expres>
+<page>http://myk.kbs.co.kr/api/kp_cms/live_stream</page>
+<referer>http://myk.kbs.co.kr/<referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0</agent>
+<X-Req>XMLHttpRequest</X-Req>
+<rawpost>service_url=rtmp%3A%2F%2Flive.kbskme.gscdn.com%2Fkbsn_sports%2F_definst_%2Fkbsn_sports_5.stream&amp;channel_code=11&amp;channel_type=TV&amp;pk_token=$doregex[getPKToken]</rawpost>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getPATH</name>
+<expres>definst_\\\/(.*?)"<expres>
+<page>http://myk.kbs.co.kr/api/kp_cms/live_stream</page>
+<referer>http://myk.kbs.co.kr/<referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0</agent>
+<X-Req>XMLHttpRequest</X-Req>
+<rawpost>service_url=rtmp%3A%2F%2Flive.kbskme.gscdn.com%2Fkbsn_sports%2F_definst_%2Fkbsn_sports_5.stream&amp;channel_code=11&amp;channel_type=TV&amp;pk_token=$doregex[getPKToken]</rawpost>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getPKToken</name>
+<expres>pk_token" value="(.*?)"<expres>
+<page>http://myk.kbs.co.kr/</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/kbs_zpsjxwxee0p.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]KBS 1[/COLOR]</title>
+<link>http://175.198.55.161:8871/KBS1_H</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/kbs_zpsjxwxee0p.png</thumbnail>
+</item>rtmp://rtmpplay3.idol001.com:1935/live/korea_kbs1
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]KBS 2[/COLOR]</title>
+<link>http://175.198.55.161:8871/KBS2_H</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/kbs_zpsjxwxee0p.png</thumbnail>
+</item>rtmp://rtmpplay3.idol001.com:1935/live/korea_kbs2
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]KBS WORLD[/COLOR] [COLOR skyblue](Youtube)[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=PUl4hiEOXSo</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/kbsworld_zpsopqlva6w.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]KBS WORLD 24[/COLOR] [COLOR skyblue](Youtube)[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=9nMuTuy5SIs</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/kbs_zpsjxwxee0p.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]KCTV[/COLOR]</title>
+<link>rtsp://media2.kctvjeju.com/live5</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/kctv_zpsnpsufnbx.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MBC[/COLOR]</title>
+<link>http://175.198.55.161:8871/MBC_H</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/mbc_zps7dt8ovsm.png</thumbnail>
+</item>rtmp://rtmpplay3.idol001.com:1935/live/korea_mbc
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MNET[/COLOR]</title>
+<link>http://175.198.55.161:8871/MNET_H</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/mnet_zpsgztxecs5.png</thumbnail>
+</item>rtmp://rtmpplay3.idol001.com:1935/live/korea_mnet
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MBN[/COLOR]</title>
+<link>http://175.198.55.161:8871/MBN_H</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/mbn_zps9hy4cbep.png</thumbnail>
+</item>http://edge2.everyon.tv/etv2/pld17/playlist.m3u8
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]OCN[/COLOR]</title>
+<link>http://175.198.55.161:8871/OCN_H</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/a/aa/OCN_logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]PLAYY WEST[/COLOR]</title>
+<link>http://123.108.164.71/etv2sb/phd743/lihattv.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/playy_zpsgpbsx64m.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SBS[/COLOR]</title>
+<link>http://175.198.55.161:8871/SBS_H</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/sbs_zps2dcmiefi.png</thumbnail>
+</item>rtmp://rtmpplay3.idol001.com:1935/live/korea_sbs
+
+<item>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]SBS FUN E[/COLOR]</title>
+<link>rtmp://nlive.sbs.co.kr/sbsetvpc?u=sbs&amp;type=asp&amp;q=KDE3W39xAXF9fnZTfXACfnl6SmwsJUJ6fWd3SH1vAA%3D%3D playpath=sbsetv3.stream swfUrl=http://vod.sbs.co.kr/onair/NeTVOnAir_1_4_1.swf?url=http://sbsplayer.sbs.co.kr/OnAir/env/ETV.xml?controlSetting=YYYYNNNNY&amp;rn=0 pageUrl=http://live.64ma.com:1930/tv/html/flv.asp?code=vEYgegtLRi0tR8Lmj8o98sLBNTmkP4EgeT0kU2E6UCGhXj5m5aMhULEne7ItUuEnez0xU20xen1hXxmjAGKBe9ckearniV5QNFo6UxmdugNdesJ9qTrmvpcqDH0kRj5m8iEne7IgUaEnez0xU20xen1hXtEgNarnigNdeS2</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/sbs_zps2dcmiefi.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SBS KNN[/COLOR]</title>
+<link>rtmp://211.220.195.200:1935/live/mp4:KnnTv.stream</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/sbs_zps2dcmiefi.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SBS CNBC[/COLOR]</title>
+<link>http://175.198.55.161:8871/CNBC_H</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/sbs_zps2dcmiefi.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SBS GOLF[/COLOR]</title>
+<link>http://175.198.55.161:8871/SBSGOLF_H</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/sbs_zps2dcmiefi.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SUPERACTION[/COLOR]</title>
+<link>http://175.198.55.161:8871/SUPERACTION_H</link>
+<thumbnail>http://sportshd.in/wp-content/uploads/2016/03/Super-Action.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]TBS[/COLOR]</title>
+<link>mms://115.84.165.160/catvlive</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/tbs_zpsprldwayi.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TVN[/COLOR]</title>
+<link>http://175.198.55.161:8871/TVN_H</link>
+<thumbnail>https://koreanupdatesweb.files.wordpress.com/2014/08/logo_tvn.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]THE MOVIES[/COLOR]</title>
+<link>http://123.108.164.71/etv2sb/phd8/lihattv.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/themoviechannel_zps3qtmolvw.png</thumbnail>
+</item>
