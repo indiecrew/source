@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<item>
+<title>[COLOR lightgreen]Last Update: August 27, 2016[/COLOR]</title>
+<link>http://ignoreme</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CHANNEL 5[/COLOR] (Link 1)</title>
+<link>$doregex[m3u8]|X-Forwarded-For=203.208.224.155</link>
+<regex>
+	<name>m3u8</name>
+	<expres>Channel 5.*\n.*url": "(.*?)",</expres>
+	<page>http://goo.gl/uQhZSa</page>
+  <referer>http://goo.gl/uQhZSa</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_channel5_zpslpt6pjmb.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CHANNEL 5[/COLOR] (Link 2)</title>
+<link>http://tglch5-lh.akamaihd.net/i/channel5_fta@334581/master.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_channel5_zpslpt6pjmb.png</thumbnail>
+</item> 
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CHANNEL 8[/COLOR] (Link 1)</title>
+<link>$doregex[m3u8]|X-Forwarded-For=203.208.224.155</link>
+<regex>
+	<name>m3u8</name>
+	<expres>Channel 8.*\n.*url": "(.*?)",</expres>
+	<page>http://goo.gl/uQhZSa</page>
+        <referer>http://goo.gl/uQhZSa</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_channel8_zpsv6hcf98c.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CHANNEL 8[/COLOR] (Link 2)</title>
+<link>http://tglch8-lh.akamaihd.net/i/channel8_fta@334582/master.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_channel8_zpsv6hcf98c.png</thumbnail>
+</item> 
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CHANNEL U[/COLOR] (Link 1)</title>
+<link>$doregex[m3u8]|X-Forwarded-For=203.208.224.155</link>
+<regex>
+	<name>m3u8</name>
+	<expres>Channel U.*\n.*url": "(.*?)",</expres>
+	<page>http://goo.gl/uQhZSa</page>
+  <referer>http://goo.gl/uQhZSa</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_channelu_zpshu6beqce.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CHANNEL U[/COLOR] (Link 2)</title>
+<link>http://tglchu-lh.akamaihd.net/i/channelu_fta@334583/master.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_channelu_zpshu6beqce.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]NEWSASIA[/COLOR] (Link 1)</title>
+<link>$doregex[m3u8]|X-Forwarded-For=203.208.224.155</link>
+<regex>
+	<name>m3u8</name>
+	<expres>NewsAsia.*\n.*url": "(.*?)",</expres>
+	<page>http://goo.gl/uQhZSa</page>
+  <referer>http://goo.gl/uQhZSa</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_newsasia_zpsfuehs6hf.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]NEWSASIA[/COLOR] (Link 2)</title>
+<link>http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_newsasia_zpsfuehs6hf.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]OKTO[/COLOR]</title>
+<link>$doregex[m3u8]|X-Forwarded-For=203.208.224.155</link>
+<regex>
+	<name>m3u8</name>
+	<expres>Okto.*\n.*url": "(.*?)",</expres>
+	<page>http://goo.gl/uQhZSa</page>
+  <referer>http://goo.gl/uQhZSa</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_okto_zpsmpvovqan.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SURIA[/COLOR] (Link 1)</title>
+<link>$doregex[m3u8]|X-Forwarded-For=203.208.224.155</link>
+<regex>
+	<name>m3u8</name>
+	<expres>Suria.*\n.*url": "(.*?)",</expres>
+	<page>http://goo.gl/uQhZSa</page>
+  <referer>http://goo.gl/uQhZSa</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_suria_zpsipi9s6ls.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SURIA[/COLOR] (Link 2)</title>
+<link>http://tglsuria-lh.akamaihd.net/i/suria_fta@334584/master.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_suria_zpsipi9s6ls.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]VASANTHAM[/COLOR]</title>
+<link>$doregex[m3u8]|X-Forwarded-For=203.208.224.155</link>
+<regex>
+	<name>m3u8</name>
+	<expres>Vasantham.*\n.*url": "(.*?)",</expres>
+	<page>http://goo.gl/uQhZSa</page>
+  <referer>http://goo.gl/uQhZSa</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_vasantham_zpslvh8vfyj.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TOGGLE LIVE 1[/COLOR]</title>
+<link>http://tgllive-lh.akamaihd.net/i/toggle_live@334524/master.m3u8</link>
+<thumbnail>http://video.toggle.sg/image/5776826/16x9/947/533/77bc39e05d5680078a53f1de78292f48/Og/toggle-live-new-image.png</thumbnail>
+</item> 
