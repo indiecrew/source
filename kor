@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]Last Update: Nov 12, 2016[/COLOR]</title>
+<title>[COLOR lightgreen]Last Update: March 4, 2017[/COLOR]</title>
 <link>http://ignoreme</link>
-<thumbnail></thumbnail>
+<thumbnail>http://img.freeflagicons.com/thumb/round_icon/korea_south/korea_south_640.png</thumbnail>
 </item>
 
 <item>
@@ -20,9 +20,9 @@
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CHANNEL A[/COLOR]</title>
-<link>http://175.198.55.161:8871/CHANNELA_H</link>
+<link>http://edge2.everyon.tv/etv2/pld251/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/channela_zpsfcjpiwrg.png</thumbnail>
-</item>http://edge2.everyon.tv/etv2/pld251/playlist.m3u8
+</item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CHOSUN TV[/COLOR]</title>
@@ -74,14 +74,8 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]JTBC[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]JTBC[/COLOR]</title>
 <link>http://175.198.55.161:8871/JTBC_H</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/jtbc_zpsruer38zt.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]JTBC GOLF[/COLOR]</title>
-<link>http://175.198.55.161:8871/JGOLF_H</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/jtbc_zpsruer38zt.png</thumbnail>
 </item>
 
@@ -390,16 +384,16 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]KBS 1[/COLOR]</title>
-<link>http://175.198.55.161:8871/KBS1_H</link>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]KBS 1[/COLOR]</title>
+<link>rtmp://rtmpplay3.idol001.com:1935/live/korea_kbs1</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/kbs_zpsjxwxee0p.png</thumbnail>
-</item>rtmp://rtmpplay3.idol001.com:1935/live/korea_kbs1
+</item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]KBS 2[/COLOR]</title>
-<link>http://175.198.55.161:8871/KBS2_H</link>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]KBS 2[/COLOR]</title>
+<link>rtmp://rtmpplay3.idol001.com:1935/live/korea_kbs2</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/kbs_zpsjxwxee0p.png</thumbnail>
-</item>rtmp://rtmpplay3.idol001.com:1935/live/korea_kbs2
+</item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]KBS WORLD[/COLOR] [COLOR skyblue](Youtube)[/COLOR]</title>
@@ -415,30 +409,30 @@
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]KCTV[/COLOR]</title>
-<link>rtsp://media2.kctvjeju.com/live5</link>
+<link>http://122.202.129.136:1935/live/ch5/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/kctv_zpsnpsufnbx.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MBC[/COLOR]</title>
-<link>http://175.198.55.161:8871/MBC_H</link>
+<link>http://123.108.164.71/etv2/phd847/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/mbc_zps7dt8ovsm.png</thumbnail>
-</item>rtmp://rtmpplay3.idol001.com:1935/live/korea_mbc
+</item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MNET[/COLOR]</title>
-<link>http://175.198.55.161:8871/MNET_H</link>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]MNET[/COLOR]</title>
+<link>rtmp://rtmpplay3.idol001.com:1935/live/korea_mnet</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/mnet_zpsgztxecs5.png</thumbnail>
-</item>rtmp://rtmpplay3.idol001.com:1935/live/korea_mnet
+</item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MBN[/COLOR]</title>
-<link>http://175.198.55.161:8871/MBN_H</link>
+<link>http://edge2.everyon.tv/etv2/pld17/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/mbn_zps9hy4cbep.png</thumbnail>
-</item>http://edge2.everyon.tv/etv2/pld17/playlist.m3u8
+</item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]OCN[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]OCN[/COLOR]</title>
 <link>http://175.198.55.161:8871/OCN_H</link>
 <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/a/aa/OCN_logo.jpg</thumbnail>
 </item>
@@ -450,10 +444,10 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SBS[/COLOR]</title>
-<link>http://175.198.55.161:8871/SBS_H</link>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]SBS[/COLOR]</title>
+<link>rtmp://rtmpplay3.idol001.com:1935/live/korea_sbs</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/sbs_zps2dcmiefi.png</thumbnail>
-</item>rtmp://rtmpplay3.idol001.com:1935/live/korea_sbs
+</item>
 
 <item>
 <title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]SBS FUN E[/COLOR]</title>
@@ -462,25 +456,13 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SBS KNN[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]SBS KNN[/COLOR]</title>
 <link>rtmp://211.220.195.200:1935/live/mp4:KnnTv.stream</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/sbs_zps2dcmiefi.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SBS CNBC[/COLOR]</title>
-<link>http://175.198.55.161:8871/CNBC_H</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/sbs_zps2dcmiefi.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SBS GOLF[/COLOR]</title>
-<link>http://175.198.55.161:8871/SBSGOLF_H</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/sbs_zps2dcmiefi.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SUPERACTION[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]SUPERACTION[/COLOR]</title>
 <link>http://175.198.55.161:8871/SUPERACTION_H</link>
 <thumbnail>http://sportshd.in/wp-content/uploads/2016/03/Super-Action.gif</thumbnail>
 </item>
@@ -492,8 +474,20 @@
 </item>
 
 <item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TRENDY[/COLOR]</title>
+<link>http://123.108.164.71/etv2sb/phd4/playlist.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/1609375177/Imagen_3.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TVN[/COLOR]</title>
-<link>http://175.198.55.161:8871/TVN_H</link>
+<link>http://222.239.21.69/tvn/_definst_/449105246D714C5F2D83EB9257FF0088/chunklist_w2039417571.m3u</link>
+<thumbnail>https://koreanupdatesweb.files.wordpress.com/2014/08/logo_tvn.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TVN ENTERTAINMENT[/COLOR]</title>
+<link>http://121.156.62.136:1935/chc09/s5.stream/playlist.m3u8</link>
 <thumbnail>https://koreanupdatesweb.files.wordpress.com/2014/08/logo_tvn.jpg</thumbnail>
 </item>
 
