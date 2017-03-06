@@ -1,163 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
-<item>
-<title>[COLOR lightgreen]Last Update: March 4, 2017[/COLOR]</title>
-<link>http://ignoreme</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR turquoise]These list from the IPTVLINKS website[/COLOR]</title>
-<link>http://ignoreme</link>
-<thumbnail></thumbnail>
-</item>
  
-<item>
+item>
 <title>[B][I]Sky 1[/I][/B]</title>
 <link>http://mcdn-play-358.5centscdn.net/sky1extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8</link>
 <thumbnail>https://www.worldview-learning.com/wp-content/uploads/2016/01/sky-logo.jpg</thumbnail>
 </item>
 
 <item>
-<title>[B][I]Sky 2[/I][/B]</title>
-<link>http://mcdn-play-358.5centscdn.net/sky2extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8</link>
-<thumbnail>https://www.worldview-learning.com/wp-content/uploads/2016/01/sky-logo.jpg</thumbnail>
+<title>[COLOR turquoise]Coin Locker Girl aka Chinatown [/COLOR](South Korea)</title>
+<link>http://vidto.me/sbs94p6aojx4.html</link>
+<thumbnail>http://pics.filmaffinity.com/cha_i_na_ta_un-237177174-large.jpg</thumbnail>
+<fanart>http://pm1.narvii.com/6059/fdcf2dd120ba1a69a224c468947c594d15907fe7_hq.jpg</fanart>
 </item>
 
 <item>
-<title>[B][I]Sky Arts[/I][/B]</title>
-<link>http://mcdn-play-358.5centscdn.net/skyarts1extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8</link>
-<thumbnail>https://www.worldview-learning.com/wp-content/uploads/2016/01/sky-logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>[B][I]Sky Atlantic[/I][/B]</title>
-<link>http://mcdn-play-358.5centscdn.net/skyatlanticextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8</link>
-<thumbnail>https://www.worldview-learning.com/wp-content/uploads/2016/01/sky-logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>[B][I]Sky Disney[/I][/B]</title>
-<link>http://mcdn-play-358.5centscdn.net/skymovdisneyextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8</link>
-<thumbnail>https://www.worldview-learning.com/wp-content/uploads/2016/01/sky-logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>[B][I]Sky Living[/I][/B]</title>
-<link>http://mcdn-play-358.5centscdn.net/skylivingextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8</link>
-<thumbnail>https://www.worldview-learning.com/wp-content/uploads/2016/01/sky-logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>[B][I]Sky Action[/I][/B]</title>
-<link>http://mcdn-play-358.5centscdn.net/skymovactionextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8</link>
-<thumbnail>https://www.worldview-learning.com/wp-content/uploads/2016/01/sky-logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>[B][I]Sky Comedy[/I][/B]</title>
-<link>http://mcdn-play-358.5centscdn.net/skymovcomedyextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8</link>
-<thumbnail>https://www.worldview-learning.com/wp-content/uploads/2016/01/sky-logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>[B][I]Sky Drama[/I][/B]</title>
-<link>http://mcdn-play-358.5centscdn.net/skymovdramaextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8</link>
-<thumbnail>https://www.worldview-learning.com/wp-content/uploads/2016/01/sky-logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>[B][I]Sky Family[/I][/B]</title>
-<link>http://mcdn-play-358.5centscdn.net/skymovfamilyextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8</link>
-<thumbnail>https://www.worldview-learning.com/wp-content/uploads/2016/01/sky-logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>[B][I]Sky Modern Greats[/I][/B]</title>
-<link>http://mcdn-play-358.5centscdn.net/skymovgreatsextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8</link>
-<thumbnail>https://www.worldview-learning.com/wp-content/uploads/2016/01/sky-logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>[B][I]Sky Premiere[/I][/B]</title>
-<link>http://mcdn-play-358.5centscdn.net/skymovpremhdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8</link>
-<thumbnail>https://www.worldview-learning.com/wp-content/uploads/2016/01/sky-logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>[B][I]Sky Sci Fi Horror[/I][/B]</title>
-<link>http://mcdn-play-358.5centscdn.net/skymovscifiextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8</link>
-<thumbnail>https://www.worldview-learning.com/wp-content/uploads/2016/01/sky-logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>[B][I]Sky Select[/I][/B]</title>
-<link>http://mcdn-play-358.5centscdn.net/skymovselectextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8</link>
-<thumbnail>https://www.worldview-learning.com/wp-content/uploads/2016/01/sky-logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>[B][I]Sky News[/I][/B]</title>
-<link>http://mcdn-play-358.5centscdn.net/skynewsextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8</link>
-<thumbnail>https://www.worldview-learning.com/wp-content/uploads/2016/01/sky-logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>[B][I]Sky PPV[/I][/B]</title>
-<link>http://mcdn-play-358.5centscdn.net/skyppvextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8</link>
-<thumbnail>https://www.worldview-learning.com/wp-content/uploads/2016/01/sky-logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>[B][I]Sky Thriller[/I][/B]</title>
-<link>http://mcdn-play-358.5centscdn.net/skythrillerhdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8</link>
-<thumbnail>https://www.worldview-learning.com/wp-content/uploads/2016/01/sky-logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>[B][I]Sky Sport 1[/I][/B]</title>
-<link>http://mcdn-play-358.5centscdn.net/skysports1extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8</link>
-<thumbnail>https://www.worldview-learning.com/wp-content/uploads/2016/01/sky-logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>[B][I]Sky Sport 2[/I][/B]</title>
-<link>http://mcdn-play-358.5centscdn.net/skysports2extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8</link>
-<thumbnail>https://www.worldview-learning.com/wp-content/uploads/2016/01/sky-logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>[B][I]Sky Sport 3[/I][/B]</title>
-<link>http://mcdn-play-358.5centscdn.net/skysports3extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8</link>
-<thumbnail>https://www.worldview-learning.com/wp-content/uploads/2016/01/sky-logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>[B][I]Sky Sport 4[/I][/B]</title>
-<link>http://mcdn-play-358.5centscdn.net/skysports4extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8</link>
-<thumbnail>https://www.worldview-learning.com/wp-content/uploads/2016/01/sky-logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>[B][I]Sky Sport 5[/I][/B]</title>
-<link>http://mcdn-play-358.5centscdn.net/skysports5extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8</link>
-<thumbnail>https://www.worldview-learning.com/wp-content/uploads/2016/01/sky-logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>[B][I]Sky Sport F1[/I][/B]</title>
-<link>http://mcdn-play-358.5centscdn.net/skysportsf1extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8</link>
-<thumbnail>https://www.worldview-learning.com/wp-content/uploads/2016/01/sky-logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>[B][I]Sky Sport Mix[/I][/B]</title>
-<link>http://mcdn-play-358.5centscdn.net/skysportsmixextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8</link>
-<thumbnail>https://www.worldview-learning.com/wp-content/uploads/2016/01/sky-logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>[B][I]Sky Sport News[/I][/B]</title>
-<link>http://mcdn-play-358.5centscdn.net/skysportsnewsextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8</link>
-<thumbnail>https://www.worldview-learning.com/wp-content/uploads/2016/01/sky-logo.jpg</thumbnail>
+<title>[COLOR turquoise]The Gifted Hands [/COLOR](South Korea)</title>
+<link>http://vidzi.tv/xaq025mlhb7p.html</link>
+<thumbnail>https://assets-cdn-image.movielala.com/movielala/image/upload/c_fit,fl_progressive.force_strip,g_north,h_720,w_480/544f4ea5776f72f1459b1100.jpg</thumbnail>
+<fanart>http://www.hancinema.net/photos/fullsizephoto276949.jpg</fanart>
 </item>
