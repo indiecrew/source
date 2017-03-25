@@ -18,33 +18,8 @@
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/My_tv2_zpshzwufzrv.png</thumbnail>
 </item>
 
-item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]TV3[/COLOR]</title>
-<link></link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv3_zpsccy0afit.png</thumbnail>
-</item>
-
-item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]NTV7[/COLOR]</title>
-<link></link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_ntv7_zpsmslc5gwf.png</thumbnail>
-</item>
-
-item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]8TV[/COLOR]</title>
-<link></link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_8tv_zpsvhm1dgc8.png</thumbnail>
-</item>
-
-item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]TV9[/COLOR]</title>
-<link></link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv9_zpsvy6n5ypz.png</thumbnail>
-</item>
-
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]AL-HIJRAH[/COLOR]</title>
-f4m>http://tvah-cdn.mynexa.my/tvahlive/smil:tvahlivestream.smil/manifest.f4m</f4m>
 <link>http://tvah-cdn.mynexa.my/tvahlive/smil:liveattvah.smil/chunklist_b736000_slen.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_alhijrah_zps7om1g57e.png</thumbnail>
 </item>
