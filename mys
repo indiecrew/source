@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]Last Update: March 4, 2017[/COLOR]</title>
+<title>[COLOR lightgreen]Last Update: March 25, 2017[/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail>http://img.freeflagicons.com/thumb/round_icon/malaysia/malaysia_640.png</thumbnail>
 </item>
@@ -44,7 +44,8 @@ item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]AL-HIJRAH[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
-<f4m>http://tvah-cdn.mynexa.my/tvahlive/smil:tvahlivestream.smil/manifest.f4m</f4m>
+f4m>http://tvah-cdn.mynexa.my/tvahlive/smil:tvahlivestream.smil/manifest.f4m</f4m>
+<link>http://tvah-cdn.mynexa.my/tvahlive/smil:liveattvah.smil/chunklist_b736000_slen.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_alhijrah_zps7om1g57e.png</thumbnail>
 </item>
 
