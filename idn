@@ -43,11 +43,11 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]BERITA SATU[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]BERITA SATU.[/COLOR] [COLOR skyblue](f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
-<expres>dataSlug: "beritasatu",\ndataUrl: "(.*?)",</expres>
+<expres>dataSlug: "beritasatu",.*\n.*dataUrl: "(.*?)",</expres>
 <page>http://api.mivo.com/v4/web/channels</page>
 <referer>http://api.mivo.com/</referer>
 </regex>
