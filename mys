@@ -25,6 +25,12 @@
 </item>
 
 <item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV9[/COLOR]</title>
+<link>http://go.layarku.tv/tv9m.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv9_zpsvy6n5ypz.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]AL-HIJRAH[/COLOR]</title>
 <link>http://tvah-cdn.mynexa.my/tvahlive/smil:liveattvah.smil/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_alhijrah_zps7om1g57e.png</thumbnail>
