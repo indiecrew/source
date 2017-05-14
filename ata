@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR turquoise]Under Construction[/COLOR]</title>
-<link>http://ignoreme</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</thumbnail>
-<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsofcekter.jpg</fanart>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MASJID AL-HARAM, MAKKAH[/COLOR] [COLOR skyblue](Youtube)[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=g8P2mybvMQg</link>
+<thumbnail>https://worldreligion4790.files.wordpress.com/2012/10/hajj2.jpg</thumbnail>
 </item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MASJID AN-NABAWI, MADINAH[/COLOR] [COLOR skyblue](Youtube)[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qZh9H09-mxQ</link>
+<thumbnail>http://www.lazywazy.in/wp-content/uploads/2015/09/masjid-nabawi-madinatul-munawwaroh2.jpg</thumbnail>
+</item>
+
 
