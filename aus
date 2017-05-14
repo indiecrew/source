@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]Last Update: March 4, 2017[/COLOR]</title>
+<title>[B][I][COLOR lightgreen]Last Update: May 2017[/COLOR][/I][/B]</title>
 <link>http://ignoreme</link>
 <thumbnail>http://img.freeflagicons.com/thumb/round_icon/australia/australia_640.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]AUSTRALIA PLUS[/COLOR]</title>
+<link>rtmp://118.97.183.196/jhos//aplus</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/australiaplus_zpsp9mguubj.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]TEST:[/COLOR] [COLOR turquoise]SEVEN[/COLOR]</title>
+<link>https://melbourneseven-i.akamaihd.net/hls/live/263658/MEL1/master.m3u8|X-Forwarded-For=101.175.18.124</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/7_zpsyqrpevyo.png</thumbnail>
 </item>
 
 <item>
