@@ -97,15 +97,27 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV EDUKASI[/COLOR]</title>
-<link>http://118.98.221.131/live/smil:tvedukasi.smil/playlist.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tvedukasi_zpsffpsjove.png</thumbnail>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]RODJA TV[/COLOR] (Indonesia) [COLOR skyblue](Youtube)[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=W5sehUVHcSA</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_rodjatv_zpsut2hukng.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SCTV[/COLOR]</title>
 <link>https://livestream-hybrid.akamaized.net/live/smil:sctv.smil/master.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_sctv_zpsibjuh3i7.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TAHFIDZ TV[/COLOR] (Indonesia)</title>
+<link>rtmp://119.235.249.58:1935/tahfidztv/live</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tahfidztv_zpsgmpqbobz.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV EDUKASI[/COLOR]</title>
+<link>http://118.98.221.131/live/smil:tvedukasi.smil/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tvedukasi_zpsffpsjove.png</thumbnail>
 </item>
 
 <item>
