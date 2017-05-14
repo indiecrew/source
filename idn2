@@ -97,8 +97,8 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]RODJA TV[/COLOR] (Indonesia) [COLOR skyblue](Youtube)[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=W5sehUVHcSA</link>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]RODJA TV[/COLOR] [COLOR skyblue](Youtube)[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=x2kAIqFhCFU</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_rodjatv_zpsut2hukng.png</thumbnail>
 </item>
 
@@ -109,7 +109,7 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TAHFIDZ TV[/COLOR] (Indonesia)</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TAHFIDZ TV[/COLOR]</title>
 <link>rtmp://119.235.249.58:1935/tahfidztv/live</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tahfidztv_zpsgmpqbobz.png</thumbnail>
 </item>
