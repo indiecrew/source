@@ -1,4 +1,4 @@
-#EXTINF:-1, tvg-logo="http://img.freeflagicons.com/thumb/round_icon/malaysia/malaysia_640.png" group-title="radmal", [B][I][COLOR lightgreen]Last Update: October 2016[/COLOR][/I][/B]
+#EXTINF:-1, tvg-logo="http://img.freeflagicons.com/thumb/round_icon/malaysia/malaysia_640.png" group-title="radmal", [B][I][COLOR lightgreen]Last Update: June 2017[/COLOR][/I][/B]
 http://ignoreme
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/AsyikFM_zpsdp9jlab0.png" group-title="radmal", ASYIK FM
 http://dkmgz1nucppmx.cloudfront.net/rtm-ch022/playlist.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
@@ -15,11 +15,11 @@ http://astro4.rastream.com/rock?type=.flv
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/EraFM_zpseiqsgmx1.png" group-title="radmal", ERA FM
 http://astro2.rastream.com/era?type=.flv
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/FlyFM_zpsozofyihg.png" group-title="radmal", FLY FM
-http://mediaprima.rastream.com/mediaprima-flyfm?&amp;authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE0NzI2NTA5OTkzMzgsImV4cCI6MTQ3MjczNzM5OTMzOH0.4Mm8hTBAd8jP53fqS_iVS-kPP76tnx2vBGHp44f2_a0&amp;type=.flv
+http://mediaprima.rastream.com/mediaprima-flyfm?&amp;authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE0OTgyMjQ3NDEsImV4cCI6MTQ5ODMxMTE0MX0.AekgRTtuRufcwu42ySNrsLc2esQK0oCoOMZFuE3qA4c&amp;type=.flv
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/GoldFM_zpshggilvir.png" group-title="radmal", GOLD FM
 http://astro4.rastream.com/gold?type=.flv
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/HotFM_zpslatlx1u8.png" group-title="radmal", HOT FM
-http://mediaprima.rastream.com/mediaprima-hotfm?&amp;authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE0NzI2NTEzNzk2OTEsImV4cCI6MTQ3MjczNzc3OTY5MX0.N9eOIHNIFd1BGC6oFv9fPDgcZgBP94AV4VfTpBPbtjg&amp;type=.flv
+http://mediaprima.rastream.com/mediaprima-hotfm?&amp;authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE0OTgyMjQ3NDEsImV4cCI6MTQ5ODMxMTE0MX0.AekgRTtuRufcwu42ySNrsLc2esQK0oCoOMZFuE3qA4c&amp;type=.flv
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/HitzFM_zpsltcmyqsc.png" group-title="radmal", HITZ FM
 http://astro1.rastream.com/hitz?type=.flv
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/IkimFM_zpsf5enombi.png" group-title="radmal", IKIM FM
@@ -49,7 +49,7 @@ http://dkmgz1nucppmx.cloudfront.net/rtm-ch017/playlist.m3u8|User-Agent=Mozilla/5
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/NurulQuran_zpsuhbcdpyq.png" group-title="radmal", NURUL QURAN FM
 http://cloud.tujuh.my:8073/stream
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/OneFM_zpso8sowlsv.png" group-title="radmal", ONE FM
-http://mediaprima.rastream.com/mediaprima-onefm?&amp;authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE0NzI2NTEzNzk2OTEsImV4cCI6MTQ3MjczNzc3OTY5MX0.N9eOIHNIFd1BGC6oFv9fPDgcZgBP94AV4VfTpBPbtjg&amp;type=.flv
+http://mediaprima.rastream.com/mediaprima-onefm?&amp;authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE0OTgyMjQ3NDEsImV4cCI6MTQ5ODMxMTE0MX0.AekgRTtuRufcwu42ySNrsLc2esQK0oCoOMZFuE3qA4c&amp;type=.flv
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/OpusFM_zpsekw1xlh2.png" group-title="radmal", OPUS FM
 http://astro4.rastream.com/opus?type=.flv
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/OsaiFM_zpstajx58fo.png" group-title="radmal", OSAI FM
