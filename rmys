@@ -35,7 +35,7 @@ http://dkmgz1nucppmx.cloudfront.net/rtm-ch018/playlist.m3u8|User-Agent=Mozilla/5
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/KlasikFM_zpsfcaw4xzh.png" group-title="radmal", KLASIK FM
 http://dkmgz1nucppmx.cloudfront.net/rtm-ch016/playlist.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/LiteFM_zpsbpr1f9zh.png" group-title="radmal", LITE FM
-http://astro1.rastream.com/lite?&amp;authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE0NzI2NTIyOTU3MjQsImV4cCI6MTQ3MjczODY5NTcyNH0.Prt_tRAogWZ22hzRCk1sA8GEli_C8SHNxwdifggq_Ko&amp;type=.flv
+http://astro1.rastream.com/lite?&amp;authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE0OTgyMjQ2MjksImV4cCI6MTQ5ODMxMTAyOX0.vV1W8_i4qmJ4kmYR8MlOEPmJNAD0rzneNYHyMKi_oq8&amp;type=.flv
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/MixFM_zpsmg3dqhtt.png" group-title="radmal", MIX FM
 http://astro2.rastream.com/mix?type=.flv
 #EXTINF:-1, tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/RadioFM/MyFM_zpseqgw8vi9.png" group-title="radmal", MY FM
