@@ -21,6 +21,12 @@
 </channel>
 
 <channel>
+<name>JAPAN</name>
+<thumbnail>http://img.freeflagicons.com/thumb/square_icon_with_iso_code/japan/japan_640.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/indiecrew/source/master/jap</externallink>
+</channel>
+
+<channel>
 <name>MALAYSIA</name>
 <thumbnail>http://img.freeflagicons.com/thumb/square_icon_with_iso_code/malaysia/malaysia_640.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/indiecrew/source/master/mys</externallink>
