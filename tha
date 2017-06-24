@@ -5,9 +5,45 @@
 <link>http://ignoreme</link>
 <thumbnail>http://img.freeflagicons.com/thumb/round_icon/thailand/thailand_640.png</thumbnail>
 </item>
- 
+
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]xxx[/COLOR]</title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]AMARIN TV[/COLOR]</title>
+<link>http://202.170.120.228:1935/stream/5195e80fe1ed0/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_amarintv_zpsw2ikvvp9.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CHANNEL 2[/COLOR]</title>
+<link>http://stream.rs.co.th/ch2-hi/index.m3u8?d=web</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_tv2_zpscvco603w.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CHANNEL 5[/COLOR]</title>
+<link>http://27.254.62.62:8081/live/tv5stream/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_tv5_zps3x0wyd6y.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]CHANNEL 7[/COLOR]</title>
+<link>.</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_channel7_zpsqeeq1pey.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CHANNEL 8[/COLOR]</title>
+<link>http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_channel8_zpsblu66c9m.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]THAI PBS[/COLOR]</title>
+<link>http://thaipbs-live.cdn.byteark.com/live/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_pbs_zpsxrrwurj5.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]THAIRATH TV[/COLOR]</title>
+<link>http://live.thairath.co.th/trtv2/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_thairathtv_zpsaptxlzwj.png</thumbnail>
 </item>
