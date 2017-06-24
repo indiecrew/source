@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[B][I][COLOR lightgreen]Last Update: May 2017[/COLOR][/I][/B]</title>
+<title>[B][I][COLOR lightgreen]Last Update: June 2017[/COLOR][/I][/B]</title>
 <link>http://ignoreme</link>
 <thumbnail>http://img.freeflagicons.com/thumb/round_icon/singapore/singapore_640.png</thumbnail>
 </item>
@@ -76,10 +76,10 @@
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]NEWSASIA[/COLOR] (Link 2)</title>
 <link>http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_newsasia_zpsfuehs6hf.png</thumbnail>
-</item>
+</item>http://tglcnas-lh.akamaihd.net/i/cnas_fta@334579/master.m3u8
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]OKTO[/COLOR]</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]OKTO[/COLOR] (Link 1)</title>
 <link>$doregex[m3u8]|X-Forwarded-For=203.208.224.155</link>
 <regex>
 	<name>m3u8</name>
@@ -87,6 +87,12 @@
 	<page>http://goo.gl/uQhZSa</page>
   <referer>http://goo.gl/uQhZSa</referer>
 </regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_okto_zpsmpvovqan.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]OKTO[/COLOR] (Link 2)</title>
+<link>http://tglokto-lh.akamaihd.net/i/oktoenv_fta@344014/master.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_okto_zpsmpvovqan.png</thumbnail>
 </item>
 
