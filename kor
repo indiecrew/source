@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]Last Update: March 4, 2017[/COLOR]</title>
+<title>[B][I][COLOR lightgreen]Last Update: June 2017[/COLOR][/I][/B]</title>
 <link>http://ignoreme</link>
 <thumbnail>http://img.freeflagicons.com/thumb/round_icon/korea_south/korea_south_640.png</thumbnail>
 </item>
@@ -14,7 +14,7 @@
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ALL THE K-POP[/COLOR] [COLOR skyblue](Youtube)[/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=v6NTX2gH_uM</link>
+<link>plugin://plugin.video.youtube/play/?video_id=qGNyfwrjV0c</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/allthekpop_zpssztd5qq8.png</thumbnail>
 </item>
 
@@ -68,7 +68,7 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]JEI ENGLISH[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]JEI ENGLISH[/COLOR]</title>
 <link>rtmp://edge2.everyon.tv/etv2sb/phd15</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/jei_zps2qps4jqb.png</thumbnail>
 </item>
@@ -438,14 +438,14 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]PLAYY WEST[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]PLAYY WEST[/COLOR]</title>
 <link>http://123.108.164.71/etv2sb/phd743/lihattv.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/playy_zpsgpbsx64m.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]SBS[/COLOR]</title>
-<link>rtmp://rtmpplay3.idol001.com:1935/live/korea_sbs</link>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]SBS[/COLOR]</title>
+<link>http://123.108.164.71/etv2/phd847/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/sbs_zps2dcmiefi.png</thumbnail>
 </item>
 
@@ -474,7 +474,7 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TRENDY[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]TRENDY[/COLOR]</title>
 <link>http://123.108.164.71/etv2sb/phd4/playlist.m3u8</link>
 <thumbnail>https://pbs.twimg.com/profile_images/1609375177/Imagen_3.png</thumbnail>
 </item>
@@ -486,7 +486,7 @@
 </item>http://222.239.21.69/tvn/_definst_/449105246D714C5F2D83EB9257FF0088/chunklist_w2039417571.m3u
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]THE MOVIES[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]THE MOVIES[/COLOR]</title>
 <link>http://123.108.164.71/etv2sb/phd8/lihattv.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/themoviechannel_zps3qtmolvw.png</thumbnail>
 </item>
