@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[B][I][COLOR lightgreen]Last Update: May 2017[/COLOR][/I][/B]</title>
+<title>[B][I][COLOR lightgreen]Last Update: June 2017[/COLOR][/I][/B]</title>
 <link>http://ignoreme</link>
 <thumbnail>http://img.freeflagicons.com/thumb/round_icon/new_zealand/new_zealand_640.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]BRAVO[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]BRAVO[/COLOR]</title>
 <link>http://mworks-i.akamaihd.net/hls/live/251979/AES128/3812193411001/Bravo_Live/master.m3u8|X-Forwarded-For=202.150.115.76</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/logo_zpsasqx9tlx.png</thumbnail>
 </item>
@@ -25,19 +25,19 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV3[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]TV3[/COLOR]</title>
 <link>http://mworks-i.akamaihd.net/hls/live/247858/AES128/3812193411001/tv3_live/master_2000.m3u8|X-Forwarded-For=202.150.115.76</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/tv3_zpsdetvgf6r.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TVNZ DUKE[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]TVNZ DUKE[/COLOR]</title>
 <link>https://tvnzioslive01-i.akamaihd.net/hls/live/245926/tvnzhlsingest/Duke/playlistR_555.m3u8|X-Forwarded-For=146.171.248.36</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/duke_zpspxkexuyu.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]THE EDGE[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]THE EDGE[/COLOR]</title>
 <link>http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/theedgetv_live/master.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/theedge_zpsfpiqi1li.png</thumbnail>
 </item>
