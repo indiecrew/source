@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[B][I][COLOR lightgreen]Last Update: May 2017[/COLOR][/I][/B]</title>
+<title>[B][I][COLOR lightgreen]Last Update: June 2017[/COLOR][/I][/B]</title>
 <link>http://ignoreme</link>
 <thumbnail>http://img.freeflagicons.com/thumb/round_icon/indonesia/indonesia_640.png</thumbnail>
 </item>
@@ -20,7 +20,7 @@
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]CNN INDONESIA[/COLOR]</title>
-<link>http://live.cnnindonesia.com/livecnn/cnn_live_tv1.sdp/playlist.m3u8</link>
+<link>http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w464393843_b384000_sleng.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/cnn_zpsf3dtporx.png</thumbnail>
 </item>
 
@@ -32,7 +32,7 @@
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]iNEWS TV[/COLOR]</title>
-<link>http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/index.m3u8</link>
+<link>http://cdn-live.metube.id/tv/channel3000005/index1000.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/inews_zpsmbizgfsd.png</thumbnail>
 </item>
 
@@ -68,13 +68,13 @@
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]MNC TV[/COLOR]</title>
-<link>http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index1024.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>http://cdn-live.metube.id/tv/channel2000022/index1024.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_mnc_tv_zpshi58jhma.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]NET.[/COLOR]</title>
-<link>https://livestream-hybrid.akamaized.net/live/smil:nettv.smil/master.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qlnavBZqtbs</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_nettv_zpskioucxna.png</thumbnail>
 </item>
 
@@ -86,7 +86,7 @@
 
 <item>
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]RCTI[/COLOR]</title>
-<link>http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index512.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>http://204.12.244.163/live/tv6/index.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_rcti_zpspbf3nrr5.png</thumbnail>
 </item>
 
@@ -97,8 +97,8 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]RODJA TV[/COLOR] [COLOR skyblue](Youtube)[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=x2kAIqFhCFU</link>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]RODJA TV[/COLOR]</title>
+<link>http://vids.rodja.tv:1935/live/rodja/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_rodjatv_zpsut2hukng.png</thumbnail>
 </item>
 
@@ -115,7 +115,7 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TV EDUKASI[/COLOR]</title>
+<title>[COLOR red]OFF:[/COLOR] [COLOR turquoise]TV EDUKASI[/COLOR]</title>
 <link>http://118.98.221.131/live/smil:tvedukasi.smil/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tvedukasi_zpsffpsjove.png</thumbnail>
 </item>
@@ -139,7 +139,7 @@
 </item>
 
 <item>
-<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TVRI OLAH RAGA[/COLOR]</title>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]TVRI OLAHRAGA[/COLOR]</title>
 <link>http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tvriolahraga_zpsrrux4aqc.png</thumbnail>
 </item>
