@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[B][I][COLOR lightgreen]Last Update: April 2017[/COLOR][/I][/B]</title>
+<title>[B][I][COLOR lightgreen]Last Update: June 2017[/COLOR][/I][/B]</title>
 <link>http://ignoreme</link>
 <thumbnail>http://img.freeflagicons.com/thumb/round_icon/malaysia/malaysia_640.png</thumbnail>
 </item>
@@ -82,4 +82,10 @@
 <title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ASTRO AWANI[/COLOR]</title>
 <link>http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_awani_zpsssci0ox7.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LIVE:[/COLOR] [COLOR turquoise]ASTRO AEC[/COLOR]</title>
+<link>http://playback02.aotg-video.astro.com.my/AOTGHLS/master_AECAPP_03.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/aec_zpsquaawbwe.png</thumbnail>
 </item>
