@@ -1,9 +1,9 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml" url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/compressed/mytv.xml.gz" refresh="1440" max-conn="1" refresh="24"
  
-#EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://raw.githubusercontent.com/indiecrew/source/master/icon/tv1.png",TV1
+#EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/tv1.png",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=1
  
-#EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="102" tvg-id="102" tvg-chno="102" tvg-logo="https://raw.githubusercontent.com/indiecrew/source/master/icon/tv2.png",TV2
+#EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="102" tvg-id="102" tvg-chno="102" tvg-logo="hhttps://raw.githubusercontent.com/indiecrew/icon/master/tv2.png",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
  
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",TV3
@@ -38,7 +38,7 @@ http://w.nasvpn.xyz:8080/live/aaaa/aaaa/7856.ts
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="112" tvg-id="112" tvg-chno="112" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/122.png",TVS
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TVSwak.m3u8
 
-#EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://raw.githubusercontent.com/indiecrew/source/master/icon/suke-tv.png",Suke TV
+#EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/suke-tv.png",Suke TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCzh6SMSWad2934rgoq_cNkg/live
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="114" tvg-id="114" tvg-chno="114" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Astro_Oasis.png/330px-Astro_Oasis.png",Astro Oasis
