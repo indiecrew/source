@@ -76,6 +76,17 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 #EXTINF:-1 group-title="myOrigin: Singapura" ch-number="205" tvg-id="205" tvg-chno="205" tvg-logo="",vasantham
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=612eb711dfb444f7a194c5e20d7f7048&key=b6226449b9ed5066542e6d6ad5ecb346
+#EXTINF:-1 group-title="myOrigin: Singapura" ch-number="206" tvg-id="206" tvg-chno="206" tvg-logo="",oktolidays
+https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
+
+#EXTINF:-1 group-title="myOrigin: Singapura" ch-number="207" tvg-id="207" tvg-chno="207" tvg-logo="",meWATCH LIVE 1
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+
+#EXTINF:-1 group-title="myOrigin: Singapura" ch-number="208" tvg-id="208" tvg-chno="208" tvg-logo="",meWATCH LIVE 2
+https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+
 ----------------------Australia----------------------
 
 #EXTINF:-1 group-title="myOrigin: Australia" ch-number="901" tvg-id="901" tvg-chno="901" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/abctv.png",abc 
