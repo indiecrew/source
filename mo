@@ -125,3 +125,11 @@ http://58.96.43.228:9981/stream/channelid/590433938?ticket=61D48386817DBD364C4B0
 
 #EXTINF:-1 group-title="myOrigin: Australia" ch-number="908" tvg-id="908" tvg-chno="908" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/tenpeach.png",10peach
 http://58.96.43.228:9981/stream/channelid/543597512?ticket=97CFE938364ED8ED4F24E43E61F31D75AC7DFE7D&profile=pass
+
+----------------------Islamic----------------------
+
+#EXTINF:-1 group-title="myOrigin: Islamic" ch-number="991" tvg-id="991" tvg-chno="991" tvg-logo="",Makkah Live 
+https://www.youtube.com/watch?v=w4Ay4lHpR4o
+
+#EXTINF:-1 group-title="myOrigin: Islamic" ch-number="992" tvg-id="992" tvg-chno="992" tvg-logo="",Madinah Live
+https://www.youtube.com/watch?v=X2EWnA6cc-M
