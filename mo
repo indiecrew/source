@@ -102,34 +102,40 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 
 ----------------------Australia----------------------
 
-#EXTINF:-1 group-title="myOrigin: Australia" ch-number="901" tvg-id="901" tvg-chno="901" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/abctv.png",abc 
+#EXTINF:-1 group-title="myOrigin: Australia" ch-number="801" tvg-id="801" tvg-chno="801" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/abctv.png",abc 
 http://58.96.43.228:9981/stream/channelid/1227792883?ticket=85318F3C070E8CB67FF33D92FDD836C3FDAAB9BD&profile=pass
 
-#EXTINF:-1 group-title="myOrigin: Australia" ch-number="902" tvg-id="902" tvg-chno="902" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/seven.png",7
+#EXTINF:-1 group-title="myOrigin: Australia" ch-number="802" tvg-id="802" tvg-chno="802" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/seven.png",7
 http://58.96.43.228:9981/stream/channelid/2086778100?ticket=FAE850CC7D524C3A308E1967041EAFC42C70D076&profile=pass
 
-#EXTINF:-1 group-title="myOrigin: Australia" ch-number="903" tvg-id="903" tvg-chno="903" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/nine.png",9
+#EXTINF:-1 group-title="myOrigin: Australia" ch-number="803" tvg-id="803" tvg-chno="803" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/nine.png",9
 http://58.96.43.228:9981/stream/channelid/1499078674?ticket=8E48050C6C2F9F6460509DA4813E335B54685A88&profile=pass
 
-#EXTINF:-1 group-title="myOrigin: Australia" ch-number="904" tvg-id="904" tvg-chno="904" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/ninelife.png",9life
+#EXTINF:-1 group-title="myOrigin: Australia" ch-number="804" tvg-id="804" tvg-chno="804" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/ninelife.png",9life
 http://58.96.43.228:9981/stream/channelid/747333059?ticket=56BA565DB0F9607C93F900E692583B25BC508346&profile=pass
 
-#EXTINF:-1 group-title="myOrigin: Australia" ch-number="905" tvg-id="905" tvg-chno="905" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/ninego.png",9go 
+#EXTINF:-1 group-title="myOrigin: Australia" ch-number="805" tvg-id="805" tvg-chno="805" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/ninego.png",9go 
 http://58.96.43.228:9981/stream/channelid/426154180?ticket=0784527443424511AE241B62CD1B4C0B722124DD&profile=pass
 
-#EXTINF:-1 group-title="myOrigin: Australia" ch-number="906" tvg-id="906" tvg-chno="906" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/ninegem.png",9gem 
+#EXTINF:-1 group-title="myOrigin: Australia" ch-number="806" tvg-id="806" tvg-chno="806" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/ninegem.png",9gem 
 http://58.96.43.228:9981/stream/channelid/2144431963?ticket=8F9448C5B23A457421DB593CC698B6B3E351EB4C&profile=pass
 
-#EXTINF:-1 group-title="myOrigin: Australia" ch-number="907" tvg-id="907" tvg-chno="907" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/tenbold.png",10bold
+#EXTINF:-1 group-title="myOrigin: Australia" ch-number="807" tvg-id="807" tvg-chno="807" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/tenbold.png",10bold
 http://58.96.43.228:9981/stream/channelid/590433938?ticket=61D48386817DBD364C4B063F4E34181A1E964F20&profile=pass
 
-#EXTINF:-1 group-title="myOrigin: Australia" ch-number="908" tvg-id="908" tvg-chno="908" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/tenpeach.png",10peach
+#EXTINF:-1 group-title="myOrigin: Australia" ch-number="808" tvg-id="808" tvg-chno="808" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/tenpeach.png",10peach
 http://58.96.43.228:9981/stream/channelid/543597512?ticket=97CFE938364ED8ED4F24E43E61F31D75AC7DFE7D&profile=pass
+
+----------------------Sports----------------------
+
+#EXTINF:-1 group-title="myFreeview: Sports" ch-number="901" tvg-id="901" tvg-chno="901" tvg-logo="",Astro Arena
+http://50.7.168.234:8278/Arena/playlist.m3u8?tid=MEAE2270026322700263&ct=19382&tsum=fa2bc987587172d37e25d154b45b7b0b
+
 
 ----------------------Islamic----------------------
 
 #EXTINF:-1 group-title="myOrigin: Islamic" ch-number="991" tvg-id="991" tvg-chno="991" tvg-logo="",Makkah Live 
-https://www.youtube.com/watch?v=w4Ay4lHpR4o
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=w4Ay4lHpR4o
 
 #EXTINF:-1 group-title="myOrigin: Islamic" ch-number="992" tvg-id="992" tvg-chno="992" tvg-logo="",Madinah Live
-https://www.youtube.com/watch?v=X2EWnA6cc-M
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=X2EWnA6cc-M
