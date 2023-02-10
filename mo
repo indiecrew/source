@@ -128,14 +128,20 @@ http://58.96.43.228:9981/stream/channelid/543597512?ticket=97CFE938364ED8ED4F24E
 
 ----------------------Sports----------------------
 
-#EXTINF:-1 group-title="myFreeview: Sports" ch-number="901" tvg-id="901" tvg-chno="901" tvg-logo="",Astro Arena
-http://50.7.168.234:8278/Arena/playlist.m3u8?tid=MEAE2270026322700263&ct=19382&tsum=fa2bc987587172d37e25d154b45b7b0b
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="901" tvg-id="901" tvg-chno="901" tvg-logo="",jSports1
+http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
+
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="902" tvg-id="902" tvg-chno="902" tvg-logo="",jSports2
+http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
+
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="903" tvg-id="903" tvg-chno="903" tvg-logo="",jSports3
+http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
 
 
 ----------------------Islamic----------------------
 
 #EXTINF:-1 group-title="myOrigin: Islamic" ch-number="991" tvg-id="991" tvg-chno="991" tvg-logo="",Makkah Live 
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=w4Ay4lHpR4o
+https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/watch?v=w4Ay4lHpR4o
 
 #EXTINF:-1 group-title="myOrigin: Islamic" ch-number="992" tvg-id="992" tvg-chno="992" tvg-logo="",Madinah Live
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=X2EWnA6cc-M
+https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/watch?v=X2EWnA6cc-M
