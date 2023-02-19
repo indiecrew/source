@@ -128,13 +128,19 @@ http://103.167.167.5:8111/play/a00r/index.m3u8
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
  
 #EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="406" tvg-id="406" tvg-chno="406" tvg-logo="",transtv
-http://103.226.232.199:8008/play/a01b/index.m3u8
+http://beetv.my.id/x/oxygen-transtv-masihsama.m3u8
  
 #EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="407" tvg-id="407" tvg-chno="407" tvg-logo="",trans7
-http://103.226.232.199:8008/play/a01l/index.m3u8
+http://beetv.my.id/x/oxygen-trans7-masihsama.m3u8
  
 #EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="408" tvg-id="408" tvg-chno="408" tvg-logo="",rtv
-http://103.226.232.199:8008/play/a02f/index.m3u8
+http://beetv.my.id/x/oxygen-rtv-masihsama.m3u8
+
+#EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="409" tvg-id="409" tvg-chno="409" tvg-logo="",tvri
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
+
+#EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="410" tvg-id="410" tvg-chno="410" tvg-logo="",antv
+http://beetv.my.id/x/oxygen-antv-masihsama.m3u8
 
 ----------------------Australia----------------------
 
