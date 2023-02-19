@@ -170,28 +170,28 @@ http://58.96.43.228:9981/stream/channelid/543597512?ticket=97CFE938364ED8ED4F24E
 
 ----------------------Kids-------------------------
 
-#EXTINF:-1 group-title="myFreeview: Kids" ch-number="601" tvg-id="601" tvg-chno="601" tvg-logo="",nickelodeon
+#EXTINF:-1 group-title="myOrigin: Kids" ch-number="601" tvg-id="601" tvg-chno="601" tvg-logo="",nickelodeon
 http://xtreamui.ddns.net:8000/xtreamui2/FJ7sowGK57/178
 
-#EXTINF:-1 group-title="myFreeview: Kids" ch-number="602" tvg-id="602" tvg-chno="602" tvg-logo="",nickJr
+#EXTINF:-1 group-title="myOrigin: Kids" ch-number="602" tvg-id="602" tvg-chno="602" tvg-logo="",nickJr
 http://xtreamui.ddns.net:8000/xtreamui2/FJ7sowGK57/182
 
-#EXTINF:-1 group-title="myFreeview: Kids" ch-number="603" tvg-id="603" tvg-chno="603" tvg-logo="",disney
+#EXTINF:-1 group-title="myOrigin: Kids" ch-number="603" tvg-id="603" tvg-chno="603" tvg-logo="",disney
 http://208.86.19.13:81/14.stream/index.m3u8
 
-#EXTINF:-1 group-title="myFreeview: Kids" ch-number="604" tvg-id="604" tvg-chno="604" tvg-logo="",disneyJr
+#EXTINF:-1 group-title="myOrigin: Kids" ch-number="604" tvg-id="604" tvg-chno="604" tvg-logo="",disneyJr
 http://xtreamui.ddns.net:8000/xtreamui2/FJ7sowGK57/170
 
-#EXTINF:-1 group-title="myFreeview: Kids" ch-number="605" tvg-id="605" tvg-chno="605" tvg-logo="",cartoonNetwork
+#EXTINF:-1 group-title="myOrigin: Kids" ch-number="605" tvg-id="605" tvg-chno="605" tvg-logo="",cartoonNetwork
 http://xtreamui.ddns.net:8000/xtreamui2/FJ7sowGK57/413
 
-#EXTINF:-1 group-title="myFreeview: Kids" ch-number="606" tvg-id="606" tvg-chno="606" tvg-logo="",kidsCentral
+#EXTINF:-1 group-title="myOrigin: Kids" ch-number="606" tvg-id="606" tvg-chno="606" tvg-logo="",kidsCentral
 https://simultv.s.llnwi.net/o058/KidCentral/interlink.m3u8
 
 ----------------------News-------------------------
 
 #EXTINF:-1 group-title="myOrigin: News" ch-number="701" tvg-id="701" tvg-chno="701" tvg-logo="",bernamaTV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw/live
+https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/watch?v=RCTQED23dxc
  
 #EXTINF:-1 group-title="myOrigin: News" ch-number="702" tvg-id="702" tvg-chno="702" tvg-logo="",beritaRTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8?id=5
@@ -200,7 +200,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8?
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
  
 #EXTINF:-1 group-title="myOrigin: News" ch-number="704" tvg-id="704" tvg-chno="704" tvg-logo="",tvIkim
-https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8?nimblesessionid=22187718
+https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8?nimblesessionid=22553420
  
 #EXTINF:-1 group-title="myOrigin: News" ch-number="705" tvg-id="705" tvg-chno="705" tvg-logo="",alJazeera
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
