@@ -122,7 +122,7 @@ http://online-teve.xp3.biz/vidio/204.m3u8
 http://103.167.167.5:8111/play/a01c/index.m3u8
  
 #EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="404" tvg-id="404" tvg-chno="404" tvg-logo="",indosiar
-http://online-teve.xp3.biz/vidio/205.m3u8
+http://103.167.167.5:8111/play/a00r/index.m3u8
  
 #EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="405" tvg-id="405" tvg-chno="405" tvg-logo="",metrotv
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
@@ -162,6 +162,26 @@ http://58.96.43.228:9981/stream/channelid/590433938?ticket=61D48386817DBD364C4B0
 #EXTINF:-1 group-title="myOrigin: Australia" ch-number="508" tvg-id="508" tvg-chno="508" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/tenpeach.png",10peach
 http://58.96.43.228:9981/stream/channelid/543597512?ticket=97CFE938364ED8ED4F24E43E61F31D75AC7DFE7D&profile=pass
 
+----------------------Kids-------------------------
+
+#EXTINF:-1 group-title="myFreeview: Kids" ch-number="601" tvg-id="601" tvg-chno="601" tvg-logo="",nickelodeon
+http://xtreamui.ddns.net:8000/xtreamui2/FJ7sowGK57/178
+
+#EXTINF:-1 group-title="myFreeview: Kids" ch-number="602" tvg-id="602" tvg-chno="602" tvg-logo="",nickJr
+http://xtreamui.ddns.net:8000/xtreamui2/FJ7sowGK57/182
+
+#EXTINF:-1 group-title="myFreeview: Kids" ch-number="603" tvg-id="603" tvg-chno="603" tvg-logo="",disney
+http://208.86.19.13:81/14.stream/index.m3u8
+
+#EXTINF:-1 group-title="myFreeview: Kids" ch-number="604" tvg-id="604" tvg-chno="604" tvg-logo="",disneyJr
+http://xtreamui.ddns.net:8000/xtreamui2/FJ7sowGK57/170
+
+#EXTINF:-1 group-title="myFreeview: Kids" ch-number="605" tvg-id="605" tvg-chno="605" tvg-logo="",cartoonNetwork
+http://xtreamui.ddns.net:8000/xtreamui2/FJ7sowGK57/413
+
+#EXTINF:-1 group-title="myFreeview: Kids" ch-number="606" tvg-id="606" tvg-chno="606" tvg-logo="",kidsCentral
+https://simultv.s.llnwi.net/o058/KidCentral/interlink.m3u8
+
 ----------------------News-------------------------
 
 #EXTINF:-1 group-title="myOrigin: News" ch-number="701" tvg-id="701" tvg-chno="701" tvg-logo="",bernamaTV
@@ -200,27 +220,30 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="803" tvg-id="803" tvg-chno="803" tvg-logo="",tvN Movies
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 
-#EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="804" tvg-id="804" tvg-chno="804" tvg-logo="",KBS World
+#EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="805" tvg-id="805" tvg-chno="805" tvg-logo="",KBS World
 #http://dontuse1.strmz.cc:2082/live/udWK9XzrS/rBRkWdR/2186080.m3u8
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
-#EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="805" tvg-id="805" tvg-chno="805" tvg-logo="",One
+#EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="806" tvg-id="806" tvg-chno="806" tvg-logo="",KBS World (ID)
+http://103.167.167.5:8111/play/a03a/index.m3u8
+
+#EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="807" tvg-id="807" tvg-chno="807" tvg-logo="",One
 http://dontuse1.strmz.cc:2082/live/udWK9XzrS/rBRkWdR/2186063.m3u8
 
-#EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="806" tvg-id="806" tvg-chno="806" tvg-logo="",One (ID)
+#EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="808" tvg-id="808" tvg-chno="808" tvg-logo="",One (ID)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://anevi-live-channel-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9983
-#EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="807" tvg-id="807" tvg-chno="807" tvg-logo="",K-Plus
+#EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="809" tvg-id="809" tvg-chno="809" tvg-logo="",K-Plus
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
 
-#EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="808" tvg-id="808" tvg-chno="808" tvg-logo="",skyAnimation
+#EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="811" tvg-id="811" tvg-chno="811" tvg-logo="",skyAnimation
 http://195.154.179.234:1234/stream/skycanimat/master.m3u8
  
-#EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="809" tvg-id="809" tvg-chno="809" tvg-logo="",skyFamily
+#EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="812" tvg-id="812" tvg-chno="812" tvg-logo="",skyFamily
 http://195.154.179.234:1234/stream/skycinemafamaly/master.m3u8
 
 ----------------------Sports----------------------
@@ -260,6 +283,9 @@ https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
  
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="912" tvg-id="912" tvg-chno="912" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/unifisport.png",Unifi Sports 2
 https://unifi-live04.secureswiftcontent.com/UnifiHD/live12.mpd
+
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="913" tvg-id="913" tvg-chno="913" tvg-logo="",tvriSport
+http://103.167.167.5:8111/play/a01x/index.m3u8
 
 ----------------------Islamic----------------------
 
