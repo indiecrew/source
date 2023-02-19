@@ -127,7 +127,7 @@ http://online-teve.xp3.biz/vidio/205.m3u8
 #EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="405" tvg-id="405" tvg-chno="405" tvg-logo="",metrotv
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
  
-#EXTINF:-1 group-title="mmyOrigin: Indonesia" ch-number="406" tvg-id="406" tvg-chno="406" tvg-logo="",transtv
+#EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="406" tvg-id="406" tvg-chno="406" tvg-logo="",transtv
 http://103.226.232.199:8008/play/a01b/index.m3u8
  
 #EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="407" tvg-id="407" tvg-chno="407" tvg-logo="",trans7
