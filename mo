@@ -102,6 +102,8 @@ https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.m
 #EXTINF:-1 group-title="myOrigin: Singapura" ch-number="207" tvg-id="207" tvg-chno="207" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/mew1.png",meWatchLive1
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=60dc08aae52f4c0b806a8e43f24a12c8&key=30d5b579966d822b215ec51a91d8a271
 #EXTINF:-1 group-title="myOrigin: Singapura" ch-number="208" tvg-id="208" tvg-chno="208" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/mew2.png",meWatchLive2
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
@@ -134,19 +136,23 @@ http://103.167.167.5:8111/play/a00r/index.m3u8
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
  
 #EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="406" tvg-id="406" tvg-chno="406" tvg-logo="",transtv
-http://beetv.my.id/x/oxygen-transtv-masihsama.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
  
 #EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="407" tvg-id="407" tvg-chno="407" tvg-logo="",trans7
-http://beetv.my.id/x/oxygen-trans7-masihsama.m3u8
- 
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="408" tvg-id="408" tvg-chno="408" tvg-logo="",rtv
-http://beetv.my.id/x/oxygen-rtv-masihsama.m3u8
+https://nxanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="409" tvg-id="409" tvg-chno="409" tvg-logo="",tvri
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="410" tvg-id="410" tvg-chno="410" tvg-logo="",antv
-http://beetv.my.id/x/oxygen-antv-masihsama.m3u8
+https://nxanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 ----------------------Australia----------------------
 
