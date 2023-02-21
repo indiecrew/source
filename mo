@@ -192,6 +192,18 @@ http://58.96.43.228:9981/stream/channelid/590433938?ticket=61D48386817DBD364C4B0
 #EXTINF:-1 group-title="myOrigin: Australia" ch-number="508" tvg-id="508" tvg-chno="508" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/tenpeach.png",10peach
 http://58.96.43.228:9981/stream/channelid/543597512?ticket=97CFE938364ED8ED4F24E43E61F31D75AC7DFE7D&profile=pass
 
+#EXTINF:-1 group-title="myOrigin: Australia" ch-number="509" tvg-id="509" tvg-chno="509" tvg-logo="",7flix
+http://mxu03.wanicelife.com:8880/12mf220025/84196511/61094
+
+#EXTINF:-1 group-title="myOrigin: Australia" ch-number="510" tvg-id="510" tvg-chno="510" tvg-logo="",7mate
+http://mxu03.wanicelife.com:8880/12mf220025/84196511/61095
+
+#EXTINF:-1 group-title="myOrigin: Australia" ch-number="511" tvg-id="511" tvg-chno="511" tvg-logo="",7two
+http://mxu03.wanicelife.com:8880/12mf220025/84196511/61096
+
+#EXTINF:-1 group-title="myOrigin: Australia" ch-number="512" tvg-id="512" tvg-chno="512" tvg-logo="",10
+http://mxu03.wanicelife.com:8880/12mf220025/84196511/61092
+
 ----------------------Kids-------------------------
 
 #EXTINF:-1 group-title="myOrigin: Kids" ch-number="601" tvg-id="601" tvg-chno="601" tvg-logo="",nickelodeon
@@ -282,7 +294,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
 http://195.154.179.234:1234/stream/skycanimat/master.m3u8
  
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="812" tvg-id="812" tvg-chno="812" tvg-logo="",skyFamily
-http://195.154.179.234:1234/stream/skycinemafamaly/master.m3u8
+#http://195.154.179.234:1234/stream/skycinemafamaly/master.m3u8
+http://mxu03.wanicelife.com:8880/12mf220025/84196511/2888
 
 ----------------------Sports----------------------
 
