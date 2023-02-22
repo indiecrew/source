@@ -297,19 +297,29 @@ http://195.154.179.234:1234/stream/skycanimat/master.m3u8
 #http://195.154.179.234:1234/stream/skycinemafamaly/master.m3u8
 http://mxu03.wanicelife.com:8880/12mf220025/84196511/2888
 
+#EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="813" tvg-id="813" tvg-chno="813" tvg-logo="",skyComedy
+http://mxu03.wanicelife.com:8880/12mf220025/84196511/2890
+
+#EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="814" tvg-id="814" tvg-chno="814" tvg-logo="",skyPremiere
+http://mxu03.wanicelife.com:8880/12mf220025/84196511/2885
+
+#EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="815" tvg-id="815" tvg-chno="815" tvg-logo="",rakutenFamily
+https://rakuten-family-1-gb.samsung.wurl.tv/playlist.m3u8
+
 ----------------------Sports----------------------
 
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="901" tvg-id="901" tvg-chno="901" tvg-logo="",jSports1
-http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="901" tvg-id="901" tvg-chno="901" tvg-logo="",btSports1
+http://starshare.live:8080/live/203837773/0293938883/286.ts
 
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="902" tvg-id="902" tvg-chno="902" tvg-logo="",jSports2
-http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="902" tvg-id="902" tvg-chno="902" tvg-logo="",btSports2
+http://starshare.live:8080/live/203837773/0293938883/285.ts
 
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="903" tvg-id="903" tvg-chno="903" tvg-logo="",jSports3
-http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="903" tvg-id="903" tvg-chno="903" tvg-logo="",btSports3
+http://starshare.live:8080/live/203837773/0293938883/283.ts
 
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="904" tvg-id="904" tvg-chno="904" tvg-logo="",skySportNews
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="904" tvg-id="904" tvg-chno="904" tvg-logo="",skySportsPLeague
 http://skylogic.site:8080/adastream/ghdiJqVJWvqxIMd5/263
+http://starshare.live:8080/live/203837773/0293938883/122410.ts
  
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="905" tvg-id="905" tvg-chno="905" tvg-logo="",sukanRTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?id=4
@@ -340,6 +350,22 @@ https://unifi-live04.secureswiftcontent.com/UnifiHD/live12.mpd
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="913" tvg-id="913" tvg-chno="913" tvg-logo="",tvriSport
 http://103.167.167.5:8111/play/a01x/index.m3u8
+
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="914" tvg-id="914" tvg-chno="914" tvg-logo="",asupersports1
+https://tinyurl.com/Astro-superspots-1
+http://starshare.live:8080/live/203837773/0293938883/5480.ts
+
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="915" tvg-id="915" tvg-chno="915" tvg-logo="",asupersports2
+https://tinyurl.com/Astro-supersports-2
+http://starshare.live:8080/live/203837773/0293938883/5481.ts
+
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="916" tvg-id="916" tvg-chno="916" tvg-logo="",asupersports3
+http://iptvmedia.live:8080/live/F22230/6e9e8ce0/157557.m3u8
+http://starshare.live:8080/live/203837773/0293938883/5482.ts
+
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="917" tvg-id="917" tvg-chno="917" tvg-logo="",asupersports4
+http://iptvmedia.live:8080/live/F22230/6e9e8ce0/157558.m3u8
+http://starshare.live:8080/live/203837773/0293938883/5483.ts
 
 ----------------------Islamic----------------------
 
