@@ -247,6 +247,11 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/Car
 #EXTINF:-1 group-title="myOrigin: Kids" ch-number="611" tvg-id="611" tvg-chno="611" tvg-logo="",nickelodeonAsia
 https://anevi-live-channel-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="myOrigin: Kids" ch-number="612" tvg-id="612" tvg-chno="612" tvg-logo="",nickJrAsia
+https://anevi-live-channel-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
+
 ----------------------News-------------------------
 
 #EXTINF:-1 group-title="myOrigin: News" ch-number="701" tvg-id="701" tvg-chno="701" tvg-logo="",bernamaTV
@@ -393,16 +398,21 @@ http://starshare.live:8080/live/203837773/0293938883/5482.ts
 http://iptvmedia.live:8080/live/F22230/6e9e8ce0/157558.m3u8
 http://starshare.live:8080/live/203837773/0293938883/5483.ts
 
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="918" tvg-id="918" tvg-chno="918" tvg-logo="",astroCricket
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="918" tvg-id="918" tvg-chno="918" tvg-logo="",asupersports5
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/918982
+
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="919" tvg-id="919" tvg-chno="919" tvg-logo="",astroCricket
 http://xtv.ooo:8080/Mohammad/Mohammad123/222288
 
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="919" tvg-id="919" tvg-chno="919" tvg-logo="",beinSports1
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="920" tvg-id="920" tvg-chno="920" tvg-logo="",beinSports1
 http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/136.ts
 
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="919" tvg-id="919" tvg-chno="919" tvg-logo="",beinSports2
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="921" tvg-id="921" tvg-chno="921" tvg-logo="",beinSports2
 http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/132.ts
 
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="919" tvg-id="919" tvg-chno="919" tvg-logo="",beinSports3
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="922" tvg-id="922" tvg-chno="922" tvg-logo="",beinSports3
 http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/133.ts
 
 ----------------------Islamic----------------------
