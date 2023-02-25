@@ -230,9 +230,12 @@ https://rakuten-family-1-gb.samsung.wurl.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2606
 #EXTINF:-1 group-title="myOrigin: Kids" ch-number="608" tvg-id="608" tvg-chno="608" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/ceria.png",astroCeria
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
-https://linears-playback.astro.com.my/vsg/413SMQfHEFTc3pXr-_M3bLe6shwDDyrutpa13O9AdlVR0=Y2xJ/dash-wv/jitp-linearwm/2606/default_ott.mpd
-https://linears-playback.astro.com.my/vsg/413SMQfHEFTc3pXr-_M3bLe_LnovwXjE476XJVGfy9GIQ=_rxQ/dash-wv/jitp-linearwm/2606/default_ott.mpd
+https://ceria.astradamy.com/dash-wv/jitp-linearwm/2606/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5095
+#EXTINF:-1 group-title="myOrigin: Kids" ch-number="609" tvg-id="609" tvg-chno="609" tvg-logo="",dreamworks 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default.mpd
 
 ----------------------News-------------------------
 
