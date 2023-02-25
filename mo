@@ -227,8 +227,12 @@ https://simultv.s.llnwi.net/o058/KidCentral/interlink.m3u8
 #EXTINF:-1 group-title="myOrigin: Kids" ch-number="607" tvg-id="607" tvg-chno="607" tvg-logo="",rakutenFamily
 https://rakuten-family-1-gb.samsung.wurl.tv/playlist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2606
 #EXTINF:-1 group-title="myOrigin: Kids" ch-number="608" tvg-id="608" tvg-chno="608" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/ceria.png",astroCeria
-http://starshare.org:8080/live/gxc733/sxk877/5478.m3u8
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/413SMQfHEFTc3pXr-_M3bLe6shwDDyrutpa13O9AdlVR0=Y2xJ/dash-wv/jitp-linearwm/2606/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/413SMQfHEFTc3pXr-_M3bLe_LnovwXjE476XJVGfy9GIQ=_rxQ/dash-wv/jitp-linearwm/2606/default_ott.mpd
 
 ----------------------News-------------------------
 
