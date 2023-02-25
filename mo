@@ -54,10 +54,10 @@ http://23.237.10.66:16471
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="115" tvg-id="115" tvg-chno="115" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/prima.png",astroPrima
 https://aqfadtv.xyz/live/prima/index.mpd
 
-#EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="116" tvg-id="116" tvg-chno="116" tvg-logo="",astroRia
+#EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="116" tvg-id="116" tvg-chno="116" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/ria.png",astroRia
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/158347
 
-#EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="117" tvg-id="117" tvg-chno="117" tvg-logo="",astroWarna
+#EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="117" tvg-id="117" tvg-chno="117" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/warna.png",astroWarna
 https://stream.zeehanzgadget.com/warna
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
@@ -112,13 +112,13 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 
 ----------------------Brunei-------------------------
 
-#EXTINF:-1 group-title="myOrigin: Brunei" ch-number="301" tvg-id="301" tvg-chno="301" tvg-logo="",rtbAneka 
+#EXTINF:-1 group-title="myOrigin: Brunei" ch-number="301" tvg-id="301" tvg-chno="301" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/rtbaneka.png",rtbAneka 
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 
-#EXTINF:-1 group-title="myOrigin: Brunei" ch-number="302" tvg-id="302" tvg-chno="302" tvg-logo="",rtbGo
+#EXTINF:-1 group-title="myOrigin: Brunei" ch-number="302" tvg-id="302" tvg-chno="302" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/rtbgo.png",rtbGo
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
-#EXTINF:-1 group-title="myOrigin: Brunei" ch-number="301" tvg-id="303" tvg-chno="303" tvg-logo="",rtbSukmaindera
+#EXTINF:-1 group-title="myOrigin: Brunei" ch-number="301" tvg-id="303" tvg-chno="303" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/rtbsukma.png",rtbSukmaindera
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
 ----------------------Indonesia----------------------
@@ -224,6 +224,12 @@ http://xtreamui.ddns.net:8000/xtreamui2/FJ7sowGK57/413
 #EXTINF:-1 group-title="myOrigin: Kids" ch-number="606" tvg-id="606" tvg-chno="606" tvg-logo="",kidsCentral
 https://simultv.s.llnwi.net/o058/KidCentral/interlink.m3u8
 
+#EXTINF:-1 group-title="myOrigin: Kids" ch-number="607" tvg-id="607" tvg-chno="607" tvg-logo="",rakutenFamily
+https://rakuten-family-1-gb.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="myOrigin: Kids" ch-number="608" tvg-id="608" tvg-chno="608" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/ceria.png",astroCeria
+http://starshare.org:8080/live/gxc733/sxk877/5478.m3u8
+
 ----------------------News-------------------------
 
 #EXTINF:-1 group-title="myOrigin: News" ch-number="701" tvg-id="701" tvg-chno="701" tvg-logo="",bernamaTV
@@ -249,6 +255,9 @@ http://dontuse1.strmz.cc:2082/live/udWK9XzrS/rBRkWdR/1170868.m3u8
 
 #EXTINF:-1 group-title="myOrigin: News" ch-number="708" tvg-id="708" tvg-chno="708" tvg-logo="",skyNews
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+
+#EXTINF:-1 group-title="myOrigin: News" ch-number="709" tvg-id="709" tvg-chno="709" tvg-logo="",bbcWorldNews
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
 ----------------------Showbiz----------------------
 
@@ -303,8 +312,8 @@ http://mxu03.wanicelife.com:8880/12mf220025/84196511/2890
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="814" tvg-id="814" tvg-chno="814" tvg-logo="",skyPremiere
 http://mxu03.wanicelife.com:8880/12mf220025/84196511/2885
 
-#EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="815" tvg-id="815" tvg-chno="815" tvg-logo="",rakutenFamily
-https://rakuten-family-1-gb.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="815" tvg-id="815" tvg-chno="815" tvg-logo="",mbcMax
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/2192.ts
 
 ----------------------Sports----------------------
 
@@ -325,7 +334,7 @@ http://starshare.live:8080/live/203837773/0293938883/122410.ts
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?id=4
  
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="906" tvg-id="906" tvg-chno="906" tvg-logo="",astroArena1
-http://iptvtree.net:8080/F11682/82ca5fbd/157485
+http://xtv.ooo:8080/Mohammad/Mohammad123/229529
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="914" tvg-id="914" tvg-chno="914" tvg-logo="",astroArena2
 http://xtv.ooo:8080/Mohammad/Mohammad123/229530
@@ -366,6 +375,18 @@ http://starshare.live:8080/live/203837773/0293938883/5482.ts
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="917" tvg-id="917" tvg-chno="917" tvg-logo="",asupersports4
 http://iptvmedia.live:8080/live/F22230/6e9e8ce0/157558.m3u8
 http://starshare.live:8080/live/203837773/0293938883/5483.ts
+
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="918" tvg-id="918" tvg-chno="918" tvg-logo="",astroCricket
+http://xtv.ooo:8080/Mohammad/Mohammad123/222288
+
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="919" tvg-id="919" tvg-chno="919" tvg-logo="",beinSports1
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/136.ts
+
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="919" tvg-id="919" tvg-chno="919" tvg-logo="",beinSports2
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/132.ts
+
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="919" tvg-id="919" tvg-chno="919" tvg-logo="",beinSports3
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/133.ts
 
 ----------------------Islamic----------------------
 
