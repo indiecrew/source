@@ -230,12 +230,22 @@ https://rakuten-family-1-gb.samsung.wurl.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2606
 #EXTINF:-1 group-title="myOrigin: Kids" ch-number="608" tvg-id="608" tvg-chno="608" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/ceria.png",astroCeria
-https://ceria.astradamy.com/dash-wv/jitp-linearwm/2606/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5095
 #EXTINF:-1 group-title="myOrigin: Kids" ch-number="609" tvg-id="609" tvg-chno="609" tvg-logo="",dreamworks 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="myOrigin: Kids" ch-number="610" tvg-id="610" tvg-chno="610" tvg-logo="",cartoonNetworkAsia
+https://anevi-live-channel-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="myOrigin: Kids" ch-number="611" tvg-id="611" tvg-chno="611" tvg-logo="",nickelodeonAsia
+https://anevi-live-channel-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
 ----------------------News-------------------------
 
