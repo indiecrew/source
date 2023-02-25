@@ -127,7 +127,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 http://103.167.167.5:8111/play/a011/index.m3u8
  
 #EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="402" tvg-id="402" tvg-chno="402" tvg-logo="",sctv
-http://online-teve.xp3.biz/vidio/204.m3u8
+http://mpwtv.my.id/vidioye/204-sctv.m3u8
  
 #EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="403" tvg-id="403" tvg-chno="403" tvg-logo="",rcti
 http://103.167.167.5:8111/play/a01c/index.m3u8
