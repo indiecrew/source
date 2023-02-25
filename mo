@@ -224,7 +224,7 @@ http://xtreamui.ddns.net:8000/xtreamui2/FJ7sowGK57/413
 #EXTINF:-1 group-title="myOrigin: Kids" ch-number="606" tvg-id="606" tvg-chno="606" tvg-logo="",kidsCentral
 https://simultv.s.llnwi.net/o058/KidCentral/interlink.m3u8
 
-#EXTINF:-1 group-title="myOrigin: Kids" ch-number="607" tvg-id="607" tvg-chno="607" tvg-logo="",rakutenFamily
+#EXTINF:-1 group-title="myOrigin: Kids" ch-number="607" tvg-id="607" tvg-chno="607" tvg-logo="",rakutentv
 https://rakuten-family-1-gb.samsung.wurl.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
