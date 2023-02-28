@@ -60,40 +60,43 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/158347
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="117" tvg-id="117" tvg-chno="117" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/warna.png",astroWarna
 https://stream.zeehanzgadget.com/warna
 
+#EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="118" tvg-id="118" tvg-chno="118" tvg-logo="",astroCitra
+http://syok.tv:25461/aifaADAM5731/AIMAN5972ganu/26
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="118" tvg-id="118" tvg-chno="118" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/drakyat.png",dewanRakyat
+#EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="119" tvg-id="119" tvg-chno="119" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/drakyat.png",dewanRakyat
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="119" tvg-id="119" tvg-chno="119" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/dnegara.png",dewanNegara
+#EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="120" tvg-id="120" tvg-chno="120" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/dnegara.png",dewanNegara
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
 
 ----------------------Singapura----------------------
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZGOWZMSG13NDhDLUxLZnF2M1h2eTZzc0RZTUlaNG5WNVY1NG5JREtlc0EtNG94LWcwUHlrOExkdGp2UEQ0ZGxpY0h1c0ZjVXcwS1BWcExLYjloN244dWoxV0VOX1dqY2pWMklQQ0dnWDRqemFBVUt6VzJhSUN3NVI5TUFnWjJET3d5N3FTbkR0V1pHdC1TMm5HTk5zX2xqREpkWDFXemdlRWZVYTFIdGpfYTRQU1d6M1h1dlJKVy03RDNEampmM3h4WGtUcHFuWXd6WVZySEFGd3VHM1BFdXYtRTJaUFlkdWNlbzY0RGFGbUJaTmVzbTZqSi1CUk9JajFfWkdLTUtLV3ktWm5YY3BYdXBRN210VkVsYTd1dGJxX2tVVFFZSXdjYjhUazVhT1BfQUo2ZFlwQ3hVdXp4YmJTeE9kUWpVNUE9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMTYiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NoNV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkY5ZkxIbXc0OEMtTEtmcXYzWHZ5NnNzRFlNSVo0blY1VjU0bklES2VzQS00b3gtZzBQeWs4TGR0anZQRDRkbGljSHVzRmNVdzBLUFZwTEtiOWg3bjh1ajFXRU5fV2pjalYySVBDR2dYNGp6YUFVS3pXMmFJQ3c1UjlNQWdaMkRPd3k3cVNuRHRXWkd0LVMybkdOTnNfbGpESmRYMVd6Z2VFZlVhMUh0al9hNFBTV3ozWHV2UkpXLTdEM0RqamYzeHhYa1RwcW5Zd3pZVnJIQUZ3dUczUEV1di1FMlpQWWR1Y2VvNjREYUZtQlpOZXNtNmpKLUJST0lqMV9aR0tNS0tXeS1ablhjcFh1cFE3bXRWRWxhN3V0YnFfa1VUUVlJd2NiOFRrNWFPUF9BSjZkWXBDeFV1enhiYlN4T2RRalU1QT09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=56O3vpEv6ah8ZVcBvoaOuTe3dUk%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZQYzBDZFl0MXkwQjcwbkFjajN2TmtGSE1yRGkwZmd6YTZhc0ZzNFo5a3NYeEwwX0ZiWFlSd2lIOFFEZExUQXg4UDgyeGljYUtycUcwR2NxUk1qQkVUSzJRRHVpZ0tiN2J0YU9KMzNYU0hObGh6NXpTaF9VTjBrUmZja2g2bVBRYUk4Z0RMMmRTQ0g3QTZMR1EydXpZS1FaelZDNnlCSUFaN3F2bjJlVXFNdTQzbkwtYmlUUk5TQWNnZ1NnWXR4YUFqUExYQnRkRVVScDRnd0JIUUM0c21LTzJoNl9zNHhiVEUya0RTQW5WZVo0d2hqaTA1SjM0Q3dFbWUwbmdKX29uVmhMaTlVTExLSjJNeElWODEzVXlyc1BhX2hveHJjWXkxdDhFZjFEOUxTX09ERmF4SG1xZjhibXRlT1BHQ0xXNzdOUkVIS2wwck45clNudGhrOG90eE09JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDExNiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmUGMwQ2RZdDF5MEI3MG5BY2ozdk5rRkhNckRpMGZnemE2YXNGczRaOWtzWHhMMF9GYlhZUndpSDhRRGRMVEF4OFA4MnhpY2FLcnFHMEdjcVJNakJFVEsyUUR1aWdLYjdidGFPSjMzWFNITmxoejV6U2hfVU4wa1JmY2toNm1QUWFJOGdETDJkU0NIN0E2TEdRMnV6WUtRWnpWQzZ5QklBWjdxdm4yZVVxTXU0M25MLWJpVFJOU0FjZ2dTZ1l0eGFBalBMWEJ0ZEVVUnA0Z3dCSFFDNHNtS08yaDZfczR4YlRFMmtEU0FuVmVaNHdoamkwNUozNEN3RW1lMG5nSl9vblZoTGk5VUxMS0oyTXhJVjgxM1V5cnNQYV9ob3hyY1l5MXQ4RWYxRDlMU19PREZheEhtcWY4Ym10ZU9QR0NMVzc3TlJFSEtsMHJOOXJTbnRoazhvdHhNPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=zWkGFwxVuulYVXijbgc9Iao0HQM%3d
 #EXTINF:-1 group-title="myOrigin: Singapura" ch-number="201" tvg-id="201" tvg-chno="201" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/ch5.png",channel5
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/5754116/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZEZVAwQTR0cDR1eExVd1BDVF9rbUFva0F3a1RoNEtyVGRpNFByZFViNXBLbEh1R1NpeExIem5ncm1JNUUzeG14dl9hcnVaSldvbkd4NXc5clpKNWdkeXBxXy1RWTVrdnVDaERTbWFieVk1TEpVYWFaX1BMT2xReDVkZFJOVkJoWGp1MGRLZ0pBeTBZTnBoOGptN3ZYX3lqNnd4OEo3NWVwVzlKa2tpdl9FSS1SVEYzckVHNkwtU09MNUhKbFF4UEhUYWtpSE91QXVUSGQwUDQxTUlLWU1iR25WbFNwMkI3eEM5eVlSVUw1OVM2TmZYdzZEdWZXSExNLUhLWFRhVUtwcHczZjlpdTd0VmItOXo5T3Z0RXFVUjFCTGplWXFqdy01MjlNb0FuQlVTUGNRcnAtUmJITDNTVmdUV2hLSmdQalE9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMjQiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NoOF9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkRlUDBBNHRwNHV4TFV3UENUX2ttQW9rQXdrVGg0S3JUZGk0UHJkVWI1cEtsSHVHU2l4TEh6bmdybUk1RTN4bXh2X2FydVpKV29uR3g1dzlyWko1Z2R5cHFfLVFZNWt2dUNoRFNtYWJ5WTVMSlVhYVpfUExPbFF4NWRkUk5WQmhYanUwZEtnSkF5MFlOcGg4am03dlhfeWo2d3g4Sjc1ZXBXOUpra2l2X0VJLVJURjNyRUc2TC1TT0w1SEpsUXhQSFRha2lIT3VBdVRIZDBQNDFNSUtZTWJHblZsU3AyQjd4Qzl5WVJVTDU5UzZOZlh3NkR1ZldITE0tSEtYVGFVS3BwdzNmOWl1N3RWYi05ejlPdnRFcVVSMUJMamVZcWp3LTUyOU1vQW5CVVNQY1FycC1SYkhMM1NWZ1RXaEtKZ1BqUT09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=sK9eg%2bod16%2faTAXOAH024r5%2b89w%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZCTVpyaUVxeGQ1SEdBalluXzdPS3dyXzV4ZU9YN0VDYTdqSHVTQUNHTWxuMThBSTY2V18yeHZwTXJFVGlxNzJHRF90bDdQYlRiNmNZUnRSN1l1eDdLLWpnd0hfRFF3OVFqZGIyV1p1d0Q4dGgtcHhtRkV3a1MyS3pORHdHRHFFd3ZhaEZHaVRFYmUxVGtiMEdZMGs3ZUNKXzRCT0Y0cWZfSHUxNkhuaWxsN0JwOFRZcFExd2c4ZzNVZ2lmUUNUU2pEamRIdW1MZFFIdk5yMWtHelBXcTdiOTJ3OGRCUVRFZXY0UUlhd0pIQlB3YTk3QjVvQ2trYk50V0JKQ1lqM1FHVUFlbHNPZnB3cm1XSUdpVUpQT0xidzNldDJWZ2lLdGstVTZObGM3S2hUUzVKY0ttZk5oUXRtSXNJQVRhRWxNMGc9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMjQiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NoOF9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkJNWnJpRXF4ZDVIR0FqWW5fN09Ld3JfNXhlT1g3RUNhN2pIdVNBQ0dNbG4xOEFJNjZXXzJ4dnBNckVUaXE3MkdEX3RsN1BiVGI2Y1lSdFI3WXV4N0stamd3SF9EUXc5UWpkYjJXWnV3RDh0aC1weG1GRXdrUzJLek5Ed0dEcUV3dmFoRkdpVEViZTFUa2IwR1kwazdlQ0pfNEJPRjRxZl9IdTE2SG5pbGw3QnA4VFlwUTF3ZzhnM1VnaWZRQ1RTakRqZEh1bUxkUUh2TnIxa0d6UFdxN2I5Mnc4ZEJRVEVldjRRSWF3SkhCUHdhOTdCNW9Da2tiTnRXQkpDWWozUUdVQWVsc09mcHdybVdJR2lVSlBPTGJ3M2V0MlZnaUt0ay1VNk5sYzdLaFRTNUpjS21mTmhRdG1Jc0lBVGFFbE0wZz09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=WKm4%2bduvVusLuq294pzOjZqUluU%3d
 #EXTINF:-1 group-title="myOrigin: Singapura" ch-number="202" tvg-id="202" tvg-chno="202" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/ch8.png",channel8
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/5754124/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZIZGU0X1NOUU85cGd6TzQ3NFhoa04zSGtlX19qS2twcGl4SmlzcUV0TG1MQ0E5WGhnVTZlakRzNjVWaFZJMWlTQTEySVl3RDJjdjR0elJHeDQxU0tfQnczQndpTFJUekRpQUJwOUxNcmZKUzBLSlZzbGdEVEYxUThqRFl4ZEwyVzItRFVPekxhbUtma2J3czhVbkQ0bkpNTEh2NUxNS09rTnc5ODBLREhjM0luYjVoOGQ3TmhxMm9lWjlHZ3ZMR1YyZXppQ0RBRmZZajYyNTlDdlViN0pWR0h1MkZnUFY3eEhYdzBjNFJFUl9sYXRxUW1CaGR4NVRmbE1wYUwzejFvdTVYZzhjVWRQU3dvVEFBS04xVGNvLUpRY0FDMmdKbi1HQUs0a2xuOTU5aTdHX3cyUjhtNVMzbFdkQmF1LXptUjNIbGZ5M0h2WmNQc2QxSTQ1QnZpUmx1Z2ZsVF9KdTdtckwyc2dwYTJSTDhTQ2k0UERhWjhVZ0s3UXJLZXJpa1ZmcTVMUjB4aGxMSXVUN3QzaEhuNFl3PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxNTciLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NoVV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkhkZTRfU05RTzlwZ3pPNDc0WGhrTjNIa2VfX2pLa3BwaXhKaXNxRXRMbUxDQTlYaGdVNmVqRHM2NVZoVkkxaVNBMTJJWXdEMmN2NHR6Ukd4NDFTS19CdzNCd2lMUlR6RGlBQnA5TE1yZkpTMEtKVnNsZ0RURjFROGpEWXhkTDJXMi1EVU96TGFtS2ZrYndzOFVuRDRuSk1MSHY1TE1LT2tOdzk4MEtESGMzSW5iNWg4ZDdOaHEyb2VaOUdndkxHVjJlemlDREFGZllqNjI1OUN2VWI3SlZHSHUyRmdQVjd4SFh3MGM0UkVSX2xhdHFRbUJoZHg1VGZsTXBhTDN6MW91NVhnOGNVZFBTd29UQUFLTjFUY28tSlFjQUMyZ0puLUdBSzRrbG45NTlpN0dfdzJSOG01UzNsV2RCYXUtem1SM0hsZnkzSHZaY1BzZDFJNDVCdmlSbHVnZmxUX0p1N21yTDJzZ3BhMlJMOFNDaTRQRGFaOFVnSzdRcktlcmlrVmZxNUxSMHhobExJdVQ3dDNoSG40WXc9IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=np2cQfytx396vtIrHDMH1QHzTwM%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZCV1JMUWRiTU90aFdRNWw5VmstcjF0cVZJMjRQdjc5bjc0NHVmR1l2MmFfMUVQVlZKX3lVQkdKcC1mcDdIbzk1QnlpRjkxdkp0VXBXTm13eWN1UkZ5ZFRXUVZxcGpoTThvcFA5bXhPMVZPNTFheGdkVGl6WTlBYmRXbDEyRWV5NnhOLWxMMVBqUzR6clQySVJsZ1ctWmVFNmpsbF9jd2lxcmZwMnl5U2s3LWlwNzRZbFlaS3VDY3dkQmFtMkttZ3FqQ1ZqU2pfYzFEcGx1dmJCaTJiQ2tRcUpsS0JaaXM0bGgxZDlJU0pZTUdQZWNDdFBYNk9BZDZaczZIc2tNcG90alBieGg3dmFvWnVJS1ZQVTlReWFjdGEyODlDNmdLQmdFN0lRS1NrbG1MeGJFdzZBMGs3eWstZ1VxZXlxbHBBWXc9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxNTciLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NoVV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkJXUkxRZGJNT3RoV1E1bDlWay1yMXRxVkkyNFB2NzluNzQ0dWZHWXYyYV8xRVBWVkpfeVVCR0pwLWZwN0hvOTVCeWlGOTF2SnRVcFdObXd5Y3VSRnlkVFdRVnFwamhNOG9wUDlteE8xVk81MWF4Z2RUaXpZOUFiZFdsMTJFZXk2eE4tbEwxUGpTNHpyVDJJUmxnVy1aZUU2amxsX2N3aXFyZnAyeXlTazctaXA3NFlsWVpLdUNjd2RCYW0yS21ncWpDVmpTal9jMURwbHV2YkJpMmJDa1FxSmxLQlppczRsaDFkOUlTSllNR1BlY0N0UFg2T0FkNlpzNkhza01wb3RqUGJ4aDd2YW9adUlLVlBVOVF5YWN0YTI4OUM2Z0tCZ0U3SVFLU2tsbUx4YkV3NkEwazd5ay1nVXFleXFscEFZdz09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=nHnszxE%2fWOZWo1Ic%2bfU4o85SYzk%3d
 #EXTINF:-1 group-title="myOrigin: Singapura" ch-number="203" tvg-id="203" tvg-chno="203" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/chu.png",channelu
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/330332/assetType/media/assetFileId/5754157/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZEUDFDRFFSZGp4VDFMYW8tU29DaTM4V1JHZ0FIcFZ0LWhmV0NVXzBuSmw3MDJiZV9kY2tfVnUtamNOV01zdWdfWGpHZE54eUhNcDhHZW4xczVfSVZqdklxVzU1WGhoenhEYm5VVXZwdzQxUlFVTndKajRjYlE1c2pHX1UxOUlBbldHcmk5R3IwM0tHcUxfanpsRVY4b2VOVU1RTGhBSTJfaHM2RGtSU0g0RzZCMXJGUHhqbkV5SDZtV09uVXBHWV9pbG8yZGI2alpFYUNuUFdLem9SU0NDLUJ4UUFsZXlONjVOT3dIckpIVHJwQjVWdFBnV2tiNVFfX0ZaVUNBOTI1UUlVMU9kSG5FcmpocUJyR1oxN0R6UmtlQzdoeHFmaE0wRWtvOFk3c0EwRFkwa3FfLV9ibm53dnMyOFBBRE00WmRTaHRaYWtkNUlpbmhIT3gxSHB4VjQ9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDA2NiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfc3VyaWFfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZEUDFDRFFSZGp4VDFMYW8tU29DaTM4V1JHZ0FIcFZ0LWhmV0NVXzBuSmw3MDJiZV9kY2tfVnUtamNOV01zdWdfWGpHZE54eUhNcDhHZW4xczVfSVZqdklxVzU1WGhoenhEYm5VVXZwdzQxUlFVTndKajRjYlE1c2pHX1UxOUlBbldHcmk5R3IwM0tHcUxfanpsRVY4b2VOVU1RTGhBSTJfaHM2RGtSU0g0RzZCMXJGUHhqbkV5SDZtV09uVXBHWV9pbG8yZGI2alpFYUNuUFdLem9SU0NDLUJ4UUFsZXlONjVOT3dIckpIVHJwQjVWdFBnV2tiNVFfX0ZaVUNBOTI1UUlVMU9kSG5FcmpocUJyR1oxN0R6UmtlQzdoeHFmaE0wRWtvOFk3c0EwRFkwa3FfLV9ibm53dnMyOFBBRE00WmRTaHRaYWtkNUlpbmhIT3gxSHB4VjQ9IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=tpp%2bvWEgE6mQxy6V08rNiFWVeoE%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZKRDh0SzZLWENaREVIelBHcWpWVkRsdGFiQ0dlbHZGTU93d1BQU3hlc2hqM1daU0ZTbFpnZmdkU0pYUVI1X2gycGZRLWxKYWdYODlOTDhEbU9udXU2RUFsbS0tNVpSR0pwNzRaSHAyNUxqYXpmQ2hVRy1JaVI5dmdxZnktejc1dFpVaGpYYmVvMlluRzZqTDdydVBlZE90MU42cTRubHpsTE95VFpKY3hWdGwzdU85dlBBSmlCdWlpMHN5am1kX0xwV19ObEhJSVg4YUhiZzdzcWxOTHRnVDRIQlppeVIxUV9oUzFTSTJwWW5nSUNNWGhoY1BhdjNhZ2VvWUNyVUZoRXRNMnVORWVoQy1UaW9VMlRjYjVLYUN0SmdKRmVNOVpmSnNjMDJ0TTV0eVczRW5XWldhVnFKNmI2YmUwYzNiWl9VV0NNOHo2ZlVoaWJmR1FHdHoyMVdxZnFHYm00MkQ4RFNsVkF4OGNjU2wmY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MDY2IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9zdXJpYV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkpEOHRLNktYQ1pERUh6UEdxalZWRGx0YWJDR2VsdkZNT3d3UFBTeGVzaGozV1pTRlNsWmdmZ2RTSlhRUjVfaDJwZlEtbEphZ1g4OU5MOERtT251dTZFQWxtLS01WlJHSnA3NFpIcDI1TGphemZDaFVHLUlpUjl2Z3FmeS16NzV0WlVoalhiZW8yWW5HNmpMN3J1UGVkT3QxTjZxNG5semxMT3lUWkpjeFZ0bDN1Tzl2UEFKaUJ1aWkwc3lqbWRfTHBXX05sSElJWDhhSGJnN3NxbE5MdGdUNEhCWml5UjFRX2hTMVNJMnBZbmdJQ01YaGhjUGF2M2FnZW9ZQ3JVRmhFdE0ydU5FZWhDLVRpb1UyVGNiNUthQ3RKZ0pGZU05WmZKc2MwMnRNNXR5VzNFbldaV2FWcUo2YjZiZTBjM2JaX1VXQ004ejZmVWhpYmZHUUd0ejIxV3FmcUdibTQyRDhEU2xWQXg4Y2NTbCIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=Hs0aTIi1KIdGtNdvoJNE%2fQgEbk0%3d
 #EXTINF:-1 group-title="myOrigin: Singapura" ch-number="204" tvg-id="204" tvg-chno="204" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/chsuria.png",suria
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237652/assetType/media/assetFileId/5754066/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZBYnNPbENEa21rdi1hdmNqTUduWFkyMm1tMC1VNVliTFo2UGZqdnBUVkdjaTc4S3lpLUVpUUpZakp5SExPaHVRcXhCSVo1NHF0RWNEZWFuOEJ3Mm0wMXo0VEE4TGItTHYyZjhDYThENGxxcnBaMVg3LWJyR2ZvMlY0VUJWLURVRDhmZVBUYkVBRFUybDdwWjNXQ0w4cmJwRzBLMW5qM01CSExheVFRNGkxYnpSR0JyaEFjR0RNQndZUlhWb0ZsQWpJaFFUTFByTlM4Q1lFa3dJaGN2SWZreVBmWDRsX3lZYjE5SHloUDd3UC1lcE82Y1V3R19ERzhLdGdVUE92LURZY2hGWnl3Y0V1VVVaZ3N6QmcwR3Ywb3VTNS04RTVhb2pkZnl1a3FVcVA5dFRFaWZhZ0ZhaFQ1a1JWcEdMdlVlOXhFTFRjeFd4SnhYQmJ2SGtDOFlFQnROa2h6bzZaR2dPZHpzVDFwUFBCMXgmY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTA4IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV92YXNhbnRoYW1fZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZBYnNPbENEa21rdi1hdmNqTUduWFkyMm1tMC1VNVliTFo2UGZqdnBUVkdjaTc4S3lpLUVpUUpZakp5SExPaHVRcXhCSVo1NHF0RWNEZWFuOEJ3Mm0wMXo0VEE4TGItTHYyZjhDYThENGxxcnBaMVg3LWJyR2ZvMlY0VUJWLURVRDhmZVBUYkVBRFUybDdwWjNXQ0w4cmJwRzBLMW5qM01CSExheVFRNGkxYnpSR0JyaEFjR0RNQndZUlhWb0ZsQWpJaFFUTFByTlM4Q1lFa3dJaGN2SWZreVBmWDRsX3lZYjE5SHloUDd3UC1lcE82Y1V3R19ERzhLdGdVUE92LURZY2hGWnl3Y0V1VVVaZ3N6QmcwR3Ywb3VTNS04RTVhb2pkZnl1a3FVcVA5dFRFaWZhZ0ZhaFQ1a1JWcEdMdlVlOXhFTFRjeFd4SnhYQmJ2SGtDOFlFQnROa2h6bzZaR2dPZHpzVDFwUFBCMXgiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=H9asMF3c6gx86fVVOJvVpjJIjlg%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZJWFFfaUdudE9ZRnI2eVhNYWR6WFc1bXRDa3NMb1M5X2VLWnJnaDFvU2FuWllhc2NQVkUtREFOaFVDUUpESUl6WGQ4dGg3TUdOVFh1TE5pM3JwOWxpeERoSlYwR0cyUkk5b3BoN3h1MWNIZ3VPU2RzS2hrU0h4bWlLaXZaZXZybFFoMzR4QnlqNFkwWTRhemRuNmhDNW9kbXNJdWNwWEdiLVEzZzJSc0tyeDdoRjltZnUwYk04UHhWX3JjSE1uS0ttUDhDa1pvbVFnVVJqcGhVOGd3NU16MzItRk1KYkJKMUFRamFyTHY3MUw5Y0d1T0RSRzdLcmVicTA1ZFc3SnotMzBXYklJUUtaUVVjSXd5WHlCd1ZOa0xVdzZZa3Y4cDRfX21BVVNyM0FPUXVIZjV5Qm1fUFdMckc4a2RXVXZmRHp4V1diLUFsVEswanJQYV83aHpRdTQ9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDEwOCIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfdmFzYW50aGFtX2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmSVhRX2lHbnRPWUZyNnlYTWFkelhXNW10Q2tzTG9TOV9lS1pyZ2gxb1NhblpZYXNjUFZFLURBTmhVQ1FKRElJelhkOHRoN01HTlRYdUxOaTNycDlsaXhEaEpWMEdHMlJJOW9waDd4dTFjSGd1T1Nkc0toa1NIeG1pS2l2WmV2cmxRaDM0eEJ5ajRZMFk0YXpkbjZoQzVvZG1zSXVjcFhHYi1RM2cyUnNLcng3aEY5bWZ1MGJNOFB4Vl9yY0hNbktLbVA4Q2tab21RZ1VSanBoVThndzVNejMyLUZNSmJCSjFBUWphckx2NzFMOWNHdU9EUkc3S3JlYnEwNWRXN0p6LTMwV2JJSVFLWlFVY0l3eVh5QndWTmtMVXc2WWt2OHA0X19tQVVTcjNBT1F1SGY1eUJtX1BXTHJHOGtkV1V2ZkR6eFdXYi1BbFRLMGpyUGFfN2h6UXU0PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=0ge12C1PgQcNyWJy7yCxJqP2akY%3d
 #EXTINF:-1 group-title="myOrigin: Singapura" ch-number="205" tvg-id="205" tvg-chno="205" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/chv.png",vasantham
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
@@ -141,17 +144,17 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="406" tvg-id="406" tvg-chno="406" tvg-logo="",transtv
-https://nxanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="407" tvg-id="407" tvg-chno="407" tvg-logo="",trans7
-https://nxanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="408" tvg-id="408" tvg-chno="408" tvg-logo="",rtv
-https://nxanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="409" tvg-id="409" tvg-chno="409" tvg-logo="",tvri
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
@@ -159,12 +162,12 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="410" tvg-id="410" tvg-chno="410" tvg-logo="",antv
-https://nxanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="411" tvg-id="411" tvg-chno="411" tvg-logo="",kompastv
-https://nxanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 ----------------------Australia----------------------
 
@@ -207,19 +210,24 @@ http://mxu03.wanicelife.com:8880/12mf220025/84196511/61092
 ----------------------Kids-------------------------
 
 #EXTINF:-1 group-title="myOrigin: Kids" ch-number="601" tvg-id="601" tvg-chno="601" tvg-logo="",nickelodeon
-http://xtreamui.ddns.net:8000/xtreamui2/FJ7sowGK57/178
+http://starshare.live:8080/live/37282146482/37282146482/1535.m3u8
+--http://mxu03.wanicelife.com:8880/12mf220025/84196511/30049
 
 #EXTINF:-1 group-title="myOrigin: Kids" ch-number="602" tvg-id="602" tvg-chno="602" tvg-logo="",nickJr
-http://xtreamui.ddns.net:8000/xtreamui2/FJ7sowGK57/182
+http://mxu03.wanicelife.com:8880/12mf220025/84196511/31572
+--http://syok.tv:25461/aifaADAM5731/AIMAN5972ganu/231
 
 #EXTINF:-1 group-title="myOrigin: Kids" ch-number="603" tvg-id="603" tvg-chno="603" tvg-logo="",disney
 http://208.86.19.13:81/14.stream/index.m3u8
+--http://syok.tv:25461/aifaADAM5731/AIMAN5972ganu/975
 
 #EXTINF:-1 group-title="myOrigin: Kids" ch-number="604" tvg-id="604" tvg-chno="604" tvg-logo="",disneyJr
-http://xtreamui.ddns.net:8000/xtreamui2/FJ7sowGK57/170
+http://mxu03.wanicelife.com:8880/12mf220025/84196511/3141
 
 #EXTINF:-1 group-title="myOrigin: Kids" ch-number="605" tvg-id="605" tvg-chno="605" tvg-logo="",cartoonNetwork
-http://xtreamui.ddns.net:8000/xtreamui2/FJ7sowGK57/413
+http://mxu03.wanicelife.com:8880/12mf220025/84196511/3152
+--http://208.86.19.13:81/33.stream/index.m3u8
+--http://syok.tv:25461/aifaADAM5731/AIMAN5972ganu/229
 
 #EXTINF:-1 group-title="myOrigin: Kids" ch-number="606" tvg-id="606" tvg-chno="606" tvg-logo="",kidsCentral
 https://simultv.s.llnwi.net/o058/KidCentral/interlink.m3u8
@@ -227,10 +235,8 @@ https://simultv.s.llnwi.net/o058/KidCentral/interlink.m3u8
 #EXTINF:-1 group-title="myOrigin: Kids" ch-number="607" tvg-id="607" tvg-chno="607" tvg-logo="",rakutentv
 https://rakuten-family-1-gb.samsung.wurl.tv/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2606
 #EXTINF:-1 group-title="myOrigin: Kids" ch-number="608" tvg-id="608" tvg-chno="608" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/ceria.png",astroCeria
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default.mpd
+http://mxu03.wanicelife.com:8880/12mf220025/84196511/71080
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5095
@@ -240,17 +246,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 group-title="myOrigin: Kids" ch-number="610" tvg-id="610" tvg-chno="610" tvg-logo="",cartoonNetworkAsia
-https://anevi-live-channel-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 group-title="myOrigin: Kids" ch-number="611" tvg-id="611" tvg-chno="611" tvg-logo="",nickelodeonAsia
-https://anevi-live-channel-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 group-title="myOrigin: Kids" ch-number="612" tvg-id="612" tvg-chno="612" tvg-logo="",nickJrAsia
-https://anevi-live-channel-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 
 ----------------------News-------------------------
 
@@ -283,13 +289,15 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
 ----------------------Showbiz----------------------
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1001
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="801" tvg-id="801" tvg-chno="801" tvg-logo="",tvN
-http://dontuse1.strmz.cc:2082/live/udWK9XzrS/rBRkWdR/2186026.m3u8
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="802" tvg-id="802" tvg-chno="802" tvg-logo="",tvN (ID)
-https://anevi-live-channel-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2406
@@ -299,7 +307,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="804" tvg-id="804" tvg-chno="804" tvg-logo="",tvN Movies (ID)
-https://nxanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="805" tvg-id="805" tvg-chno="805" tvg-logo="",KBS World
 #http://dontuse1.strmz.cc:2082/live/udWK9XzrS/rBRkWdR/2186080.m3u8
@@ -308,18 +316,23 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="806" tvg-id="806" tvg-chno="806" tvg-logo="",KBS World (ID)
 http://103.167.167.5:8111/play/a03a/index.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2702
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="807" tvg-id="807" tvg-chno="807" tvg-logo="",One
-http://dontuse1.strmz.cc:2082/live/udWK9XzrS/rBRkWdR/2186063.m3u8
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
 
-#EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="808" tvg-id="808" tvg-chno="808" tvg-logo="",One (ID)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-https://anevi-live-channel-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="808" tvg-id="808" tvg-chno="808" tvg-logo="",One (ID)
+https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9983
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="809" tvg-id="809" tvg-chno="809" tvg-logo="",K-Plus
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
+
+#EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="810" tvg-id="810" tvg-chno="810" tvg-logo="",K-Plus (ID)
+http://mxu03.wanicelife.com:8880/12mf220025/84196511/71111
 
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="811" tvg-id="811" tvg-chno="811" tvg-logo="",skyAnimation
 http://195.154.179.234:1234/stream/skycanimat/master.m3u8
@@ -337,6 +350,22 @@ http://mxu03.wanicelife.com:8880/12mf220025/84196511/2885
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="815" tvg-id="815" tvg-chno="815" tvg-logo="",mbcMax
 http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/2192.ts
 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="816" tvg-id="816" tvg-chno="816" tvg-logo="",dubaiOne
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="817" tvg-id="817" tvg-chno="817" tvg-logo="",dubaiTv
+https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1007
+#EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="818" tvg-id="818" tvg-chno="818" tvg-logo="",bollyOne
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default.mpd
+
+#EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="819" tvg-id="819" tvg-chno="819" tvg-logo="",mbcBollywood
+http://starshare.live:8080/live/120220920/120220920/4487.ts
+
 ----------------------Sports----------------------
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="901" tvg-id="901" tvg-chno="901" tvg-logo="",btSports1
@@ -349,17 +378,19 @@ http://starshare.live:8080/live/203837773/0293938883/285.ts
 http://starshare.live:8080/live/203837773/0293938883/283.ts
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="904" tvg-id="904" tvg-chno="904" tvg-logo="",skySportsPLeague
-http://skylogic.site:8080/adastream/ghdiJqVJWvqxIMd5/263
 http://starshare.live:8080/live/203837773/0293938883/122410.ts
  
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="905" tvg-id="905" tvg-chno="905" tvg-logo="",sukanRTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?id=4
  
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="906" tvg-id="906" tvg-chno="906" tvg-logo="",astroArena1
-http://xtv.ooo:8080/Mohammad/Mohammad123/229529
+http://iptvtree.net:8080/F11682/82ca5fbd/157485
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="914" tvg-id="914" tvg-chno="914" tvg-logo="",astroArena2
-http://xtv.ooo:8080/Mohammad/Mohammad123/229530
+http://syok.tv:25461/aifaADAM5731/AIMAN5972ganu/123
+
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="915" tvg-id="915" tvg-chno="915" tvg-logo="",astroArena3
+http://humiptv.live:8080/live/876465421460/087543135678/143007.ts
  
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="907" tvg-id="907" tvg-chno="907" tvg-logo="",UFC
 http://xtreamui.ddns.net:8000/xtreamui2/FJ7sowGK57/130
@@ -402,18 +433,6 @@ http://starshare.live:8080/live/203837773/0293938883/5483.ts
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="918" tvg-id="918" tvg-chno="918" tvg-logo="",asupersports5
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/918982
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="919" tvg-id="919" tvg-chno="919" tvg-logo="",astroCricket
-http://xtv.ooo:8080/Mohammad/Mohammad123/222288
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="920" tvg-id="920" tvg-chno="920" tvg-logo="",beinSports1
-http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/136.ts
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="921" tvg-id="921" tvg-chno="921" tvg-logo="",beinSports2
-http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/132.ts
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="922" tvg-id="922" tvg-chno="922" tvg-logo="",beinSports3
-http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/133.ts
 
 ----------------------Islamic----------------------
 
