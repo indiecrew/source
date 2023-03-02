@@ -236,7 +236,7 @@ https://simultv.s.llnwi.net/o058/KidCentral/interlink.m3u8
 https://rakuten-family-1-gb.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="myOrigin: Kids" ch-number="608" tvg-id="608" tvg-chno="608" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/ceria.png",astroCeria
-http://mxu03.wanicelife.com:8880/12mf220025/84196511/71080
+http://alienstreams.fi:7070/ansuaronsson@me.com1/KSzGE2pp4V2333213/173033.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5095
@@ -335,17 +335,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
 http://mxu03.wanicelife.com:8880/12mf220025/84196511/71111
 
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="811" tvg-id="811" tvg-chno="811" tvg-logo="",skyAnimation
-http://195.154.179.234:1234/stream/skycanimat/master.m3u8
+http://alienstreams.fi:7070/ansuaronsson@me.com1/KSzGE2pp4V2333213/184373.ts
  
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="812" tvg-id="812" tvg-chno="812" tvg-logo="",skyFamily
 #http://195.154.179.234:1234/stream/skycinemafamaly/master.m3u8
 http://mxu03.wanicelife.com:8880/12mf220025/84196511/2888
-
-#EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="813" tvg-id="813" tvg-chno="813" tvg-logo="",skyComedy
-http://mxu03.wanicelife.com:8880/12mf220025/84196511/2890
-
-#EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="814" tvg-id="814" tvg-chno="814" tvg-logo="",skyPremiere
-http://mxu03.wanicelife.com:8880/12mf220025/84196511/2885
 
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="815" tvg-id="815" tvg-chno="815" tvg-logo="",mbcMax
 http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/2192.ts
@@ -366,73 +360,40 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default.mpd
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="819" tvg-id="819" tvg-chno="819" tvg-logo="",mbcBollywood
 http://starshare.live:8080/live/120220920/120220920/4487.ts
 
+#EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="820" tvg-id="820" tvg-chno="820" tvg-logo="",disneyMovieTv
+http://alienstreams.fi:7070/ansuaronsson@me.com1/KSzGE2pp4V2333213/187546.ts
+
 ----------------------Sports----------------------
 
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="901" tvg-id="901" tvg-chno="901" tvg-logo="",btSports1
-http://starshare.live:8080/live/203837773/0293938883/286.ts
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="902" tvg-id="902" tvg-chno="902" tvg-logo="",btSports2
-http://starshare.live:8080/live/203837773/0293938883/285.ts
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="903" tvg-id="903" tvg-chno="903" tvg-logo="",btSports3
-http://starshare.live:8080/live/203837773/0293938883/283.ts
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="904" tvg-id="904" tvg-chno="904" tvg-logo="",skySportsPLeague
-http://starshare.live:8080/live/203837773/0293938883/122410.ts
- 
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="905" tvg-id="905" tvg-chno="905" tvg-logo="",sukanRTM
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="901" tvg-id="901" tvg-chno="901" tvg-logo="",sukanRTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?id=4
  
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="906" tvg-id="906" tvg-chno="906" tvg-logo="",astroArena1
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="902" tvg-id="902" tvg-chno="902" tvg-logo="",astroArena1
 http://iptvtree.net:8080/F11682/82ca5fbd/157485
 
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="914" tvg-id="914" tvg-chno="914" tvg-logo="",astroArena2
-http://syok.tv:25461/aifaADAM5731/AIMAN5972ganu/123
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="903" tvg-id="903" tvg-chno="903" tvg-logo="",astroArena2
+http://alienstreams.fi:7070/ansuaronsson@me.com1/KSzGE2pp4V2333213/173026.ts
 
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="915" tvg-id="915" tvg-chno="915" tvg-logo="",astroArena3
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="904" tvg-id="904" tvg-chno="904" tvg-logo="",astroArena3
 http://humiptv.live:8080/live/876465421460/087543135678/143007.ts
- 
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="907" tvg-id="907" tvg-chno="907" tvg-logo="",UFC
-http://xtreamui.ddns.net:8000/xtreamui2/FJ7sowGK57/130
- 
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="908" tvg-id="908" tvg-chno="908" tvg-logo="",NBA
-http://xtreamui.ddns.net:8000/xtreamui2/FJ7sowGK57/146
- 
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="909" tvg-id="909" tvg-chno="909" tvg-logo="",NFL
-http://xtreamui.ddns.net:8000/xtreamui2/FJ7sowGK57/407
- 
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="910" tvg-id="910" tvg-chno="910" tvg-logo="",NHL
-http://xtreamui.ddns.net:8000/xtreamui2/FJ7sowGK57/618
- 
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="911" tvg-id="911" tvg-chno="911" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/unifisport.png",Unifi Sports 1
+
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="905" tvg-id="905" tvg-chno="905" tvg-logo="",astroArena4
+http://51.79.255.108:2082/live/Duriantv8375/Duriantv8373/18864.ts
+
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="906" tvg-id="906" tvg-chno="906" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/unifisport.png",unifiSports1
 https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="912" tvg-id="912" tvg-chno="912" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/unifisport.png",Unifi Sports 2
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="907" tvg-id="907" tvg-chno="907" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/unifisport.png",unifiSports2
 https://unifi-live04.secureswiftcontent.com/UnifiHD/live12.mpd
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="913" tvg-id="913" tvg-chno="913" tvg-logo="",tvriSport
-http://103.167.167.5:8111/play/a01x/index.m3u8
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="914" tvg-id="914" tvg-chno="914" tvg-logo="",asupersports1
-https://tinyurl.com/Astro-superspots-1
-http://starshare.live:8080/live/203837773/0293938883/5480.ts
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="915" tvg-id="915" tvg-chno="915" tvg-logo="",asupersports2
-https://tinyurl.com/Astro-supersports-2
-http://starshare.live:8080/live/203837773/0293938883/5481.ts
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="916" tvg-id="916" tvg-chno="916" tvg-logo="",asupersports3
-http://iptvmedia.live:8080/live/F22230/6e9e8ce0/157557.m3u8
-http://starshare.live:8080/live/203837773/0293938883/5482.ts
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="917" tvg-id="917" tvg-chno="917" tvg-logo="",asupersports4
-http://iptvmedia.live:8080/live/F22230/6e9e8ce0/157558.m3u8
-http://starshare.live:8080/live/203837773/0293938883/5483.ts
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="918" tvg-id="918" tvg-chno="918" tvg-logo="",asupersports5
-http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/918982
+ 
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="908" tvg-id="908" tvg-chno="908" tvg-logo="",nbaNetwork
+https://epg.pw/stream/3e367545197d9d2f76cd942068f99173785121fff15ecea7ce84806b2f1b0e2c.ctv
+ 
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="909" tvg-id="909" tvg-chno="909" tvg-logo="",nflNetwork
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ced7d5df64be98e07ed47b6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=708&terminate=false&userId=
+ 
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="910" tvg-id="910" tvg-chno="910" tvg-logo="",nhlNetwork
+http://alienstreams.fi:7070/ansuaronsson@me.com1/KSzGE2pp4V2333213/162165.ts
 
 ----------------------Islamic----------------------
 
