@@ -43,9 +43,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="112" tvg-id="112" tvg-chno="112" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/tvs.png",tvs
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 
-#EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/suketv.png",suketv
-https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCzh6SMSWad2934rgoq_cNkg/live
-
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="114" tvg-id="114" tvg-chno="114" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/oasis.png",astroOasis
 http://23.237.10.66:16471
 
@@ -221,8 +218,14 @@ http://mxu03.wanicelife.com:8880/12mf220025/84196511/31572
 http://208.86.19.13:81/14.stream/index.m3u8
 --http://syok.tv:25461/aifaADAM5731/AIMAN5972ganu/975
 
+#EXTINF:-1 group-title="myOrigin: Kids" ch-number="613" tvg-id="613" tvg-chno="613" tvg-logo="",disneyUSA
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/3277
+
 #EXTINF:-1 group-title="myOrigin: Kids" ch-number="604" tvg-id="604" tvg-chno="604" tvg-logo="",disneyJr
 http://mxu03.wanicelife.com:8880/12mf220025/84196511/3141
+
+#EXTINF:-1 group-title="myOrigin: Kids" ch-number="614" tvg-id="614" tvg-chno="614" tvg-logo="",disneyJrUSA
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/3292
 
 #EXTINF:-1 group-title="myOrigin: Kids" ch-number="605" tvg-id="605" tvg-chno="605" tvg-logo="",cartoonNetwork
 http://mxu03.wanicelife.com:8880/12mf220025/84196511/3152
@@ -261,7 +264,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 ----------------------News-------------------------
 
 #EXTINF:-1 group-title="myOrigin: News" ch-number="701" tvg-id="701" tvg-chno="701" tvg-logo="",bernamaTV
-https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/watch?v=RCTQED23dxc
+https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/watch?v=BXufQQ-EGsk
  
 #EXTINF:-1 group-title="myOrigin: News" ch-number="702" tvg-id="702" tvg-chno="702" tvg-logo="",beritaRTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8?id=5
@@ -279,7 +282,7 @@ https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
  
 #EXTINF:-1 group-title="myOrigin: News" ch-number="707" tvg-id="707" tvg-chno="707" tvg-logo="",bloomberg
-http://dontuse1.strmz.cc:2082/live/udWK9XzrS/rBRkWdR/1170868.m3u8
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/3294
 
 #EXTINF:-1 group-title="myOrigin: News" ch-number="708" tvg-id="708" tvg-chno="708" tvg-logo="",skyNews
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
