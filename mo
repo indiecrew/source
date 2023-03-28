@@ -170,6 +170,16 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="411" tvg-id="411" tvg-chno="411" tvg-logo="",kompas tv
 https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="412" tvg-id="412" tvg-chno="412" tvg-logo="",gtv
+https://nxanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="413" tvg-id="413" tvg-chno="413" tvg-logo="",net tv
+https://nxanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mp
+
 ----------------------Australia----------------------
 
 #EXTINF:-1 group-title="myOrigin: Australia" ch-number="501" tvg-id="501" tvg-chno="501" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/abctv.png",abc 
@@ -457,7 +467,7 @@ http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/918982
 ----------------------Islamic----------------------
 
 #EXTINF:-1 group-title="myOrigin: Islamic" ch-number="991" tvg-id="991" tvg-chno="991" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/mecca.png",Makkah Live 
-https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/watch?v=w4Ay4lHpR4o
+https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/watch?v=3loPeQnJKk4
 
 #EXTINF:-1 group-title="myOrigin: Islamic" ch-number="992" tvg-id="992" tvg-chno="992" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/nabawi.png",Madinah Live
-https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/watch?v=X2EWnA6cc-M
+https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/watch?v=bRSKpb_xzq0
