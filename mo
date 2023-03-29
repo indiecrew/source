@@ -279,7 +279,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 ----------------------News-------------------------
 
 #EXTINF:-1 group-title="myOrigin: News" ch-number="701" tvg-id="701" tvg-chno="701" tvg-logo="",bernamaTV
-https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/watch?v=BXufQQ-EGsk
+https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/@bernamatv9196/live
  
 #EXTINF:-1 group-title="myOrigin: News" ch-number="702" tvg-id="702" tvg-chno="702" tvg-logo="",beritaRTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8?id=5
@@ -391,78 +391,25 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5078/default_ott.mpd
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="901" tvg-id="901" tvg-chno="901" tvg-logo="",sukanRTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?id=4
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1qbGlPREl3WW1ZdE5XVTRZeTAwTlRNNUxXSTFZall0WlRnNVkyRTBOamsyTVdRdyIsIndtb3BpZCI6MzIsImV4cCI6MTY3ODI5MDA0OCwiaWF0IjoxNjc3Njg2MDQ4fQ._GddIp26qZZ6YYVoowoTnpO7WOMFwOQ1H1COqnAB5to"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" } ], "type":"temporary" }
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="902" tvg-id="902" tvg-chno="902" tvg-logo="",astroArenaBola1
-https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
+https://bit.ly/arenabola-1-shareext-ts
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1qbGlPREl3WW1ZdE5XVTRZeTAwTlRNNUxXSTFZall0WlRnNVkyRTBOamsyTVdRdyIsIndtb3BpZCI6MzIsImV4cCI6MTY3ODI5MDA0OCwiaWF0IjoxNjc3Njg2MDQ4fQ._GddIp26qZZ6YYVoowoTnpO7WOMFwOQ1H1COqnAB5to"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" }
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="903" tvg-id="903" tvg-chno="903" tvg-logo="",astroArenaBola2
-https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
+https://bit.ly/arenabola-2-shareext-ts
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HO5FQCla5tbFGcUEGoDxwA", "kid":"jQKveknkSzGXZNgR0BjF6A" } ], "type":"temporary" }
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="904" tvg-id="904" tvg-chno="904" tvg-logo="",astroArenaBola3
-https://linear03-playback.sooka.my/CH3/masterCH3.mpd
+https://bit.ly/arenabola-3-shareext-ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="905" tvg-id="905" tvg-chno="905" tvg-logo="",astroArena1
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5057
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="906" tvg-id="906" tvg-chno="906" tvg-logo="",astroArena2
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
+https://bit.ly/ARENA-2-shareext-ts
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="907" tvg-id="907" tvg-chno="907" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/unifisport.png",unifiSports1
 https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="908" tvg-id="908" tvg-chno="908" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/unifisport.png",unifiSports2
-https://unifi-live04.secureswiftcontent.com/UnifiHD/live12.mpd
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="909" tvg-id="909" tvg-chno="909" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/unifisport.png",unifiSports3
-https://unifi-live04.secureswiftcontent.com/UnifiHD/live13.mpd
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="910" tvg-id="910" tvg-chno="910" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/unifisport.png",unifiSports4
-https://unifi-live04.secureswiftcontent.com/UnifiHD/live14.mpd
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="911" tvg-id="911" tvg-chno="911" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/unifisport.png",unifiSports5
-https://unifi-live04.secureswiftcontent.com/UnifiHD/live15.mpd
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="912" tvg-id="912" tvg-chno="912" tvg-logo="",aSuperSport1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115615&extension=ts&play_token=TQ6cftyhX8
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="913" tvg-id="913" tvg-chno="913" tvg-logo="",aSuperSport2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115616&extension=ts&play_token=TQ6cftyhX8
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="914" tvg-id="914" tvg-chno="914" tvg-logo="",aSuperSport3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115617&extension=ts&play_token=TQ6cftyhX8
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="915" tvg-id="915" tvg-chno="915" tvg-logo="",aSuperSport4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115618&extension=ts&play_token=TQ6cftyhX8
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="916" tvg-id="916" tvg-chno="916" tvg-logo="",aSuperSport5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
-http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/918982
 
 ----------------------Islamic----------------------
 
