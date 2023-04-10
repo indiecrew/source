@@ -134,7 +134,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 https://nxanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
  
 #EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="402" tvg-id="402" tvg-chno="402" tvg-logo="",sctv
-http://mpwtv.my.id/vidioye/204-sctv.m3u8
+https://github.com/mimipipi22/nontontv/raw/main/FMX/sctv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -142,7 +142,7 @@ http://mpwtv.my.id/vidioye/204-sctv.m3u8
 https://nxanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
  
 #EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="404" tvg-id="404" tvg-chno="404" tvg-logo="",indosiar
-http://mpwtv.my.id/vidioye/205-indosiar.m3u8
+https://github.com/mimipipi22/nontontv/raw/main/FMX/indosiar.m3u8
  
 #EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="405" tvg-id="405" tvg-chno="405" tvg-logo="",metro tv
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
