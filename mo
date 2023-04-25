@@ -288,7 +288,7 @@ https://simultv.s.llnwi.net/o058/KidCentral/interlink.m3u8
 https://rakuten-family-1-gb.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="myOrigin: Kids" ch-number="608" tvg-id="608" tvg-chno="608" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/ceria.png",astroCeria
-http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571241&extension=ts&play_token=P95ULA6A9w
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5095
