@@ -58,12 +58,10 @@ https://aqfadtv.xyz/live/prima/index.mpd
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571236&extension=ts&play_token=DvbUwd0jPoDvbUwd0jPo
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="117" tvg-id="117" tvg-chno="117" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/warna.png",astro Warna hd
-https://epg.pw/stream/aa1b2652b5400194d10060d1fd203f35b901cf19f748391c77761261e72e8e16.ctv
+http://syok.tv:25461/live/ABC/234/22.ts
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="118" tvg-id="118" tvg-chno="118" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/citra.png",astro Citra
-https://linears-playback.astro.com.my/vsg/41orfM7v37kUn6TvosfksYUhKOZLM-d_fxBvHPRfQi2mc=Wf5F/dash-wv/jitp-dashisowm/2700/default_primary.mpd
+http://smartfr.xyz:80/live/smartpro30/47DB92B6/400200335.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
