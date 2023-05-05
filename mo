@@ -60,7 +60,7 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571236&exten
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="117" tvg-id="117" tvg-chno="117" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/warna.png",astro Warna hd
 http://syok.tv:25461/live/ABC/234/22.ts
 
-#EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="118" tvg-id="118" tvg-chno="118" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/citra.png",astro Citra
+#EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="118" tvg-id="118" tvg-chno="118" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/citra.png",astro Citra hd
 http://smartfr.xyz:80/live/smartpro30/47DB92B6/400200335.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
