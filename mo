@@ -205,35 +205,35 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
-#EXTINF:-1 group-title="myOrigin: Kids" ch-number="601" tvg-id="601" tvg-chno="601" tvg-logo="", ceria
+#EXTINF:-1 group-title="myOrigin: Kids" ch-number="601" tvg-id="601" tvg-chno="601" tvg-logo="",astro ceria hd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="myOrigin: Kids" ch-number="602" tvg-id="602" tvg-chno="602" tvg-logo="",cartoonNetworkAsia
+#EXTINF:-1 group-title="myOrigin: Kids" ch-number="602" tvg-id="602" tvg-chno="602" tvg-logo="",cartoon network hd
 https://nyanv-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5095
-#EXTINF:-1 group-title="myOrigin: Kids" ch-number="603" tvg-id="603" tvg-chno="603" tvg-logo="",dreamworksAsia
+#EXTINF:-1 group-title="myOrigin: Kids" ch-number="603" tvg-id="603" tvg-chno="603" tvg-logo="",dreamworks
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="myOrigin: Kids" ch-number="604" tvg-id="604" tvg-chno="604" tvg-logo="",nickelodeonAsia
+#EXTINF:-1 group-title="myOrigin: Kids" ch-number="604" tvg-id="604" tvg-chno="604" tvg-logo="",nickelodeon hd
 https://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="myOrigin: Kids" ch-number="605" tvg-id="605" tvg-chno="605" tvg-logo="",nickJrAsia
+#EXTINF:-1 group-title="myOrigin: Kids" ch-number="605" tvg-id="605" tvg-chno="605" tvg-logo="",nickelodeon junior
 https://nyanv-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="myOrigin: Kids" ch-number="606" tvg-id="606" tvg-chno="606" tvg-logo="",moonbugKids
+#EXTINF:-1 group-title="myOrigin: Kids" ch-number="606" tvg-id="606" tvg-chno="606" tvg-logo="",moonbug kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -339,17 +339,17 @@ https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.m
 
 ----------------------Sports----------------------
 
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="901" tvg-id="901" tvg-chno="901" tvg-logo="",sukanRTM
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="901" tvg-id="901" tvg-chno="901" tvg-logo="",sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=1
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="902" tvg-id="902" tvg-chno="902" tvg-logo="",astroArena
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="902" tvg-id="902" tvg-chno="902" tvg-logo="",astro arena hd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="903" tvg-id="903" tvg-chno="903" tvg-logo="",astroArena 2
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="903" tvg-id="903" tvg-chno="903" tvg-logo="",astro arena 2 hd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default.mpd
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="904" tvg-id="904" tvg-chno="904" tvg-logo="",redBullTv
@@ -358,24 +358,24 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="906" tvg-id="906" tvg-chno="906" tvg-logo="",tvriSport
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream3/streamPlaylist.m3u8
 
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="910" tvg-id="910" tvg-chno="910" tvg-logo="",SuperSport 3
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="910" tvg-id="910" tvg-chno="910" tvg-logo="",astro superSport 3 d
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186389&extension=ts&play_token=oNnNMlQM3k
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2506
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="911" tvg-id="911" tvg-chno="911" tvg-logo="",SuperSport 4
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="911" tvg-id="911" tvg-chno="911" tvg-logo="",astro superSport 4 hd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="912" tvg-id="912" tvg-chno="912" tvg-logo="",SPOTV
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="912" tvg-id="912" tvg-chno="912" tvg-logo="",SPOTV hd
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="912" tvg-id="912" tvg-chno="912" tvg-logo="",SPOTV2
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="912" tvg-id="912" tvg-chno="912" tvg-logo="",SPOTV2 hd
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
