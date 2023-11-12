@@ -358,13 +358,38 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="906" tvg-id="906" tvg-chno="906" tvg-logo="",tvriSport
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream3/streamPlaylist.m3u8
 
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="910" tvg-id="910" tvg-chno="910" tvg-logo="",Astro SuperSport 3 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/601
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="909" tvg-id="909" tvg-chno="909" tvg-logo="",SuperSport 1
+https://linears-playback.astro.com.my/vsgN/41EYOIqwRu3ux82k6lgqo-_QQ31fxoGIQJs7fUTocCpfY=OIVU/dash-wv/jitp-linearwm/601/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2104
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="909" tvg-id="909" tvg-chno="909" tvg-logo="",SuperSport 2
+https://linears-playback.astro.com.my/vsgN/41--XC1x_lgL3fqw2UE0W3OhT-sT5hliZa2-ytPvhCOEM=hHOa/dash-wv/jitp-linearwm/2104/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2701
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="909" tvg-id="909" tvg-chno="909" tvg-logo="",SuperSport 3a
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2701
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="909" tvg-id="909" tvg-chno="909" tvg-logo="",SuperSport 3b
+https://linears-playback.astro.com.my/vsgN/41t8zrLOKP6zl_HfPbQrjTgkMzCtUVw2wt1ZxJ8BXQcuI=W7tW/dash-wv/jitp-linearwm/2701/default_ott.mpd
+
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="910" tvg-id="910" tvg-chno="910" tvg-logo="",SuperSport 3c
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186389&extension=ts&play_token=oNnNMlQM3k
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2506
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="911" tvg-id="911" tvg-chno="911" tvg-logo="",Astro SuperSport 4 HD
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="911" tvg-id="911" tvg-chno="911" tvg-logo=""SuperSport 4
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5059
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="909" tvg-id="909" tvg-chno="909" tvg-logo="",SuperSport 5
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
