@@ -414,5 +414,15 @@ https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccercha
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="912" tvg-id="912" tvg-chno="912" tvg-logo="",Fight Sports
 https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="912" tvg-id="912" tvg-chno="912" tvg-logo="",Astro SUPERSPORT 1
+https://sc2022.stream-link.org/tv2306.php?id=s19
 
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="912" tvg-id="912" tvg-chno="912" tvg-logo="",Astro SUPERSPORT 2
+https://sc2022.stream-link.org/tv2306.php?id=s20
+
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="912" tvg-id="912" tvg-chno="912" tvg-logo="",Astro SUPERSPORT 3
+https://sc2022.stream-link.org/tv2306.php?id=s21
+
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="912" tvg-id="912" tvg-chno="912" tvg-logo="",Astro SUPERSPORT 4
+https://sc2022.stream-link.org/tv2306.php?id=s22
 
