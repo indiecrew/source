@@ -368,9 +368,14 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="905" tvg-id="905" tvg-chno="905" tvg-logo="",tvriSport
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream3/streamPlaylist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1601
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="906" tvg-id="906" tvg-chno="906" tvg-logo="",superSport 1
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186387&extension=ts&play_token=oNnNMlQM3k
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="907" tvg-id="907" tvg-chno="907" tvg-logo="",superSport 2
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186388&extension=ts&play_token=oNnNMlQM3k
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="908" tvg-id="908" tvg-chno="908" tvg-logo="",superSport 3
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186389&extension=ts&play_token=oNnNMlQM3k
