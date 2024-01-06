@@ -379,7 +379,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default.mpd
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="813" tvg-id="813" tvg-chno="813" tvg-logo="",Warner tv hd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default.mpd
 
-#EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="814" tvg-id="814" tvg-chno="814" tvg-logo="",HGTV
+#EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="814" tvg-id="814" tvg-chno="814" tvg-logo="",Hgtv hd
 https://smt.sky4k.eu.org/AEC_V6/index.php?id=HGTVHD
 
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="815" tvg-id="815" tvg-chno="815" tvg-logo="",Hits Movies hd
@@ -522,7 +522,7 @@ http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-1 group-title="myOrigin: Korea" ch-number="944" tvg-id="944" tvg-chno="944" tvg-logo="",KBS 1
 http://free.cvmtv.site/KBS1?token=live
 
-#EXTINF:-1 group-title="myOrigin: Korea" ch-number="945" tvg-id="945" tvg-chno="945" tvg-logo="",KBS 1
+#EXTINF:-1 group-title="myOrigin: Korea" ch-number="945" tvg-id="945" tvg-chno="945" tvg-logo="",KBS 2
 http://free.cvmtv.site/KBS2?token=live
 
 #EXTINF:-1 group-title="myOrigin: Korea" ch-number="946" tvg-id="946" tvg-chno="946" tvg-logo="",PLAYY 영화
@@ -544,4 +544,21 @@ http://203.162.235.41:19098/
 
 #EXTINF:-1 group-title="myOrigin: Japan" ch-number="955" tvg-id="955" tvg-chno="955" tvg-logo="", Fuji TV
 http://203.162.235.41:15094/
+
+----------------------Australia-------------------------
+
+#EXTINF:-1 group-title="myOrigin: Australia" ch-number="961" tvg-id="961" tvg-chno="961" tvg-logo="",10HD
+http://free.cvmtv.site/10HD?token=live
+
+#EXTINF:-1 group-title="myOrigin: Australia" ch-number="962" tvg-id="962" tvg-chno="962" tvg-logo="",10 Bold
+http://free.cvmtv.site/10B?token=live
+
+#EXTINF:-1 group-title="myOrigin: Australia" ch-number="963" tvg-id="963" tvg-chno="963" tvg-logo="",7HD
+http://free.cvmtv.site/7HD?token=live
+
+#EXTINF:-1 group-title="myOrigin: Australia" ch-number="964" tvg-id="964" tvg-chno="964" tvg-logo="",9HD
+http://free.cvmtv.site/9HD?token=live
+
+#EXTINF:-1 group-title="myOrigin: Australia" ch-number="965" tvg-id="965" tvg-chno="965" tvg-logo="",9Gem
+http://free.cvmtv.site/9G?token=live
 
