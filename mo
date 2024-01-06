@@ -277,15 +277,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 #EXTINF:-1 group-title="myOrigin: Kids" ch-number="606" tvg-id="606" tvg-chno="606" tvg-logo="",moonbug kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="myOrigin: Kids" ch-number="609" tvg-id="609" tvg-chno="609" tvg-logo="",disney jr
-http://alienstreams.fi:7070/ansuaronsson@me.com1/KSzGE2pp4V2333213/216321.ts
-
-#EXTINF:-1 group-title="myOrigin: Kids" ch-number="610" tvg-id="610" tvg-chno="610" tvg-logo="",disney
-http://teeveetv.one:2052/syntax/MKlaiuUcj2/973365
-
-#EXTINF:-1 group-title="myOrigin: Kids" ch-number="611" tvg-id="611" tvg-chno="611" tvg-logo="",disney xd
-http://teeveetv.one:2052/syntax/MKlaiuUcj2/973366
-http://208.86.19.13:81/10.stream/index.m3u8
 
 ----------------------News-------------------------
 
@@ -389,9 +380,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default.mpd
 
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="814" tvg-id="814" tvg-chno="814" tvg-logo="",HGTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2502
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_primary.mpd
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=HGTVHD
+
+#EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="815" tvg-id="815" tvg-chno="815" tvg-logo="",Hits Movies hd
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=HitsMovies
 
 ----------------------Sports----------------------
 
@@ -522,12 +514,17 @@ https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="myOrigin: Korea" ch-number="942" tvg-id="942" tvg-chno="942" tvg-logo="",JTBC
-http://mytv.dothome.co.kr/ch/catv/211.php
+https://i.mjh.nz/SamsungTVPlus/KRBC4600004BQ.m3u8|user-agent=okhttp/4.10.0
 
 #EXTINF:-1 group-title="myOrigin: Korea" ch-number="943" tvg-id="943" tvg-chno="943" tvg-logo="",MBC
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 
-#EXTINF:-1 group-title="myOrigin: Korea" ch-number="944" tvg-id="944" tvg-chno="944" tvg-logo="",KBS Drama
-http://ye23.vip/z7z8/2021/kbs2020.php?id=5
+#EXTINF:-1 group-title="myOrigin: Korea" ch-number="944" tvg-id="944" tvg-chno="944" tvg-logo="",KBS 1
+http://free.cvmtv.site/KBS1?token=live
 
+#EXTINF:-1 group-title="myOrigin: Korea" ch-number="945" tvg-id="945" tvg-chno="945" tvg-logo="",KBS 1
+http://free.cvmtv.site/KBS2?token=live
+
+#EXTINF:-1 group-title="myOrigin: Korea" ch-number="946" tvg-id="946" tvg-chno="946" tvg-logo="",PLAYY 영화
+https://i.mjh.nz/SamsungTVPlus/KRBD2700007S0.m3u8|user-agent=okhttp/4.10.0
 
