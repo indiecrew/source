@@ -513,8 +513,8 @@ https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 #EXTINF:-1 group-title="myOrigin: Korea" ch-number="941" tvg-id="941" tvg-chno="941" tvg-logo="",SBS
 https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="myOrigin: Korea" ch-number="942" tvg-id="942" tvg-chno="942" tvg-logo="",JTBC
-https://i.mjh.nz/SamsungTVPlus/KRBC4600004BQ.m3u8|user-agent=okhttp/4.10.0
+#EXTINF:-1 group-title="myOrigin: Korea" ch-number="942" tvg-id="942" tvg-chno="942" tvg-logo="",씨네21+
+https://i.mjh.nz/SamsungTVPlus/KRBD26000011V.m3u8|user-agent=okhttp/4.10.0
 
 #EXTINF:-1 group-title="myOrigin: Korea" ch-number="943" tvg-id="943" tvg-chno="943" tvg-logo="",MBC
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
@@ -527,4 +527,21 @@ http://free.cvmtv.site/KBS2?token=live
 
 #EXTINF:-1 group-title="myOrigin: Korea" ch-number="946" tvg-id="946" tvg-chno="946" tvg-logo="",PLAYY 영화
 https://i.mjh.nz/SamsungTVPlus/KRBD2700007S0.m3u8|user-agent=okhttp/4.10.0
+
+----------------------Japan-------------------------
+
+#EXTINF:-1 group-title="myOrigin: Japan" ch-number="951" tvg-id="951" tvg-chno="951" tvg-logo="", Nippon TV
+http://203.162.235.41:16095/
+
+#EXTINF:-1 group-title="myOrigin: Japan" ch-number="952" tvg-id="952" tvg-chno="952" tvg-logo="", TV Asahi
+http://203.162.235.41:17097/
+
+#EXTINF:-1 group-title="myOrigin: Japan" ch-number="953" tvg-id="953" tvg-chno="953" tvg-logo="", TBS
+http://203.162.235.41:18097/
+
+#EXTINF:-1 group-title="myOrigin: Japan" ch-number="954" tvg-id="954" tvg-chno="954" tvg-logo="", TV Tokyo
+http://203.162.235.41:19098/
+
+#EXTINF:-1 group-title="myOrigin: Japan" ch-number="955" tvg-id="955" tvg-chno="955" tvg-logo="", Fuji TV
+http://203.162.235.41:15094/
 
