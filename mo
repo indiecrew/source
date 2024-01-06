@@ -110,6 +110,20 @@ https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.m
 #EXTINF:-1 group-title="myOrigin: Singapura" ch-number="208" tvg-id="208" tvg-chno="208" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/mew2.png",meWatchLive2
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=607b7d22565c4bc3b95ff6c33ce65425&key=28cc5367df666c44be4382e64af64d57
+#EXTINF:-1 group-title="myOrigin: Singapura" ch-number="209" tvg-id="209" tvg-chno="209" tvg-logo="",Channel 5 ⁽ˢᵉʳᵛᵉʳ ¹⁾
+https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
+#EXTINF:-1 group-title="myOrigin: Singapura" ch-number="210" tvg-id="210" tvg-chno="210" tvg-logo="",Channel 5 ⁽ˢᵉʳᵛᵉʳ ²⁾
+https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
+
+
+
+
+
 ----------------------Brunei-------------------------
 
 #EXTINF:-1 group-title="myOrigin: Brunei" ch-number="301" tvg-id="301" tvg-chno="301" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/rtbaneka.png",rtbAneka 
@@ -441,4 +455,13 @@ https://sc2022.stream-link.org/tv2306.php?id=s21
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="921" tvg-id="921" tvg-chno="921" tvg-logo="",astro superSport 4 hd
 https://sc2022.stream-link.org/tv2306.php?id=s22
+
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="922" tvg-id="922" tvg-chno="922" tvg-logo="",Arena Bola
+#EXTHTTP:{"authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5qTXpNakl4TldFdE5UYzVPQzAwWVRJeUxUZzBNalF0TVdVeFlqTXhabVU0TWpJeSIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTMwODgwMywiaWF0IjoxNzAwNzA0ODAzfQ.duLkyE5DQJTRDqXo0D-C2K5iNnJ7YoAb3Pa5r-ppp0M"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key= {"7481d3e3738c46768f138e208fee9076": "e1d428c7f1ca82339a6cfa1d0757428e"}
+https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
+
+
 
