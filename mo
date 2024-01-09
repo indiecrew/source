@@ -381,6 +381,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default.mpd
 
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="814" tvg-id="814" tvg-chno="814" tvg-logo="",Hgtv hd
 https://smt.sky4k.eu.org/AEC_V6/index.php?id=HGTVHD
+https://api.vthanhtivi.pw/v1/getlink/tv360/99/2
 
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="815" tvg-id="815" tvg-chno="815" tvg-logo="",Hits Movies hd
 https://smt.sky4k.eu.org/AEC_V6/index.php?id=HitsMovies
