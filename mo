@@ -388,7 +388,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default.mpd
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
 
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="815" tvg-id="815" tvg-chno="815" tvg-logo="",Hits Movies hd
-https://smt.sky4k.eu.org/AEC_V6/index.php?id=HitsMovies
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hitmovie.m3u8
+
+#EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="816" tvg-id="816" tvg-chno="816" tvg-logo="",dmax hd
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8
+
+#EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="816" tvg-id="816" tvg-chno="816" tvg-logo="",amc
+https://e2.thetvapp.to/hls/AMCEast.m3u8?token=efLxJXDT6OozlgpJ_FBuvQ&expires=1704912770
 
 ----------------------Sports----------------------
 
