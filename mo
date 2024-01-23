@@ -10,11 +10,14 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"J6L3HYe/XrEFrwlvtmBdlw", "kid":"Ov4w7k6iSmf+Wi7wboPbCw" } ], "type":"temporary" }
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/tv3.png",tv3
 https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
- 
+
+#EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056648&autoplay=1&mute=0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="104" tvg-id="104" tvg-chno="104" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/drama.png",Drama Sangat
+https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="105" tvg-id="105" tvg-chno="105" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/okey.png",tv okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
@@ -22,32 +25,33 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="106" tvg-id="106" tvg-chno="106" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/tv6.png",tv6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4EDKKqQm33ibo4S6VhiRtA", "kid":"R6Ega0SCLIkyDnCRbPV7DA" } ], "type":"temporary" }
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/didik.png",didiktv kpm
+https://unifi-live06.secureswiftcontent.com/UnifiHD/live06.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0cb7980e9d1d8957f9a293ed96342410:11da1ad368d0cacffe4824b6b35e22b7
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BW4eSVc9LK7ly0/nj4xPPQ", "kid":"qcYZB07TjCDiWtNsPFfBDA" } ], "type":"temporary" }
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/8tv.png",8tv
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default.mpd
+https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=27828727f0a3a0b4fbc668378ccf8c10:958e9cb7389e20948de5a542d2729ecf
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Zfavh1DSSyMNkbmEI3rB5A", "kid":"HfqKZFr0HoPFIL3fkTk0yg" } ], "type":"temporary" }
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/tv9.png",tv9
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default.mpd
+https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
  
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=41a42fb5af457501c11bb9b158d5a110:57a8d6f9e3832887db18ea6071118736
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"V6jW+eODKIfbGOpgcRGHNg", "kid":"QaQvta9FdQHBG7mxWNWhEA" } ], "type":"temporary" }
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="110" tvg-id="110" tvg-chno="110" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/tvalhijrah.png",al-hijrah
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default.mpd
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f84fbe826d15755ef91ebcab67c57d10:6a136b65d2d45699cb1e98506dfa1bee
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="111" tvg-id="111" tvg-chno="111" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/awesometv.png",awesome tv
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71021
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3e956b38ae993be1494c7cfa17b1110:55ccaee886b340dd901f4bf8dd9d3a6a
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vcyu6IazQN2QH0v43Z06ag", "kid":"w+lWs4rpk74UlMfPoXsREA" } ], "type":"temporary" }
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="112" tvg-id="112" tvg-chno="112" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/tvs.png",tvs
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="114" tvg-id="114" tvg-chno="114" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/oasis.png",astro Oasis hd
 
@@ -73,7 +77,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
 ----------------------Singapura----------------------
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZEVmVMb2thaXdYRXVSOU1BTkxNT0xGT21TQV9DS2xvUlhIS05tSzNJTGh5UG9UVHhDb0xSN0tUa094SzBwMllnSDJCajBmU1FyTEs2LVYzYmN0RU5xM095OGk0Sk1JRGdZbzI5R29kRms3ZXpKZExIVUVPVTF2VW5hQkVsYi0yNVU1a0F3dHFrZTlVakR5UWhoVVVIazhOVUJ0U1lfbDdzdTdqOC1WX3JoUHQ2MkJRdDlNUlZPNlNjcGxYWVdMNDJaRUZGMTZoNHVzcldaUU1za3RPOUpSVEtIOUI5MWdNMTVUX1R6Z2VrOVpDQ3BMM1YtU0FWVXZjLThTRURlSXM1eW0xM2pWR0xTdy1EQlBpUU5LR21MdlVkc3VBV2swR29sLXN4VW40dmptMG9qdWZlelhpRDR5d1ZHLUFDVFp4d1E9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMTYiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NoNV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkRWZUxva2Fpd1hFdVI5TUFOTE1PTEZPbVNBX0NLbG9SWEhLTm1LM0lMaHlQb1RUeENvTFI3S1RrT3hLMHAyWWdIMkJqMGZTUXJMSzYtVjNiY3RFTnEzT3k4aTRKTUlEZ1lvMjlHb2RGazdlekpkTEhVRU9VMXZVbmFCRWxiLTI1VTVrQXd0cWtlOVVqRHlRaGhVVUhrOE5VQnRTWV9sN3N1N2o4LVZfcmhQdDYyQlF0OU1SVk82U2NwbFhZV0w0MlpFRkYxNmg0dXNyV1pRTXNrdE85SlJUS0g5QjkxZ00xNVRfVHpnZWs5WkNDcEwzVi1TQVZVdmMtOFNFRGVJczV5bTEzalZHTFN3LURCUGlRTktHbUx2VWRzdUFXazBHb2wtc3hVbjR2am0wb2p1ZmV6WGlENHl3VkctQUNUWnh3UT09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=SROMS3pyOClO30GOY%2bMRueYPJ5Y%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZDdWtIOE9oSlo3ZE5FanZMVDA0MEEteC03T0Z4dkRaZnp6OTZ4V0czYmVuV1F2OFFNRTIxWXY2VnpsODlxUFF6VUgyQ3lNSVRnckJSSlgtZzZhelZmVlNxeHFMbm52Sk0teThSVGdWcnJqQnM3LW9rMm5LelNsRXlvUS02UUhTOUNsaW5VMWU2MXZ6VGFQUDBFMUE3ZUpneXJPTjByNThWOFdQWDdIVWs3T3NfU0hrQ2o1N2hCQWVYa3BXRm5xdXZ1eXFFbHdSWF92eGpLdnUwa2RkS1F1Skg2WUswS0dWeHZxeUZXSDQ2dnpHc3J6XzE3NXY2eEZBOVBmOGZDc1M0cU9NV0l1alA5RERyd21keE5uSXVoYm81V0d6T0tFUGJrUUdnd1JpR3F1WnphaUdHaldSS2dvdEZOMUk4RkFnS0E9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMTYiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NoNV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkN1a0g4T2hKWjdkTkVqdkxUMDQwQS14LTdPRnh2RFpmeno5NnhXRzNiZW5XUXY4UU1FMjFZdjZWemw4OXFQUXpVSDJDeU1JVGdyQlJKWC1nNmF6VmZWU3F4cUxubnZKTS15OFJUZ1ZycmpCczctb2sybkt6U2xFeW9RLTZRSFM5Q2xpblUxZTYxdnpUYVBQMEUxQTdlSmd5ck9OMHI1OFY4V1BYN0hVazdPc19TSGtDajU3aEJBZVhrcFdGbnF1dnV5cUVsd1JYX3Z4akt2dTBrZGRLUXVKSDZZSzBLR1Z4dnF5RldINDZ2ekdzcnpfMTc1djZ4RkE5UGY4ZkNzUzRxT01XSXVqUDlERHJ3bWR4Tm5JdWhibzVXR3pPS0VQYmtRR2d3UmlHcXVaemFpR0dqV1JLZ290Rk4xSThGQWdLQT09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=Nl28cjab14YP444JWGM3SYBDKV0%3d
 #EXTINF:-1 group-title="myOrigin: Singapura" ch-number="201" tvg-id="201" tvg-chno="201" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/ch5.png",channel 5
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/5754116/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
