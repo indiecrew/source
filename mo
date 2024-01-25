@@ -607,24 +607,45 @@ http://free.cvmtv.site/9G?token=live
 #EXTINF:-1 group-title="myOrigin: Premier" ch-number="002" tvg-id="002" tvg-chno="002" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/prima.png",Astro Prima HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
+#http://linearjitp02-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 
 #EXTINF:-1 group-title="myOrigin: Premier" ch-number="003" tvg-id="003" tvg-chno="003" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/ria.png",Astro Ria HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
+https://stream.zeehanzgadget.com/ria.mpd
 
 #EXTINF:-1 group-title="myOrigin: Premier" ch-number="004" tvg-id="004" tvg-chno="004" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/warna.png",Astro Warna HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/2402/default_primary.mpd
+#http://linearjitp02-playback.astro.com.my/dash-wv/linear/2402/default_primary.mpd
 
 #EXTINF:-1 group-title="myOrigin: Premier" ch-number="005" tvg-id="005" tvg-chno="005" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/citra.png",Astro Citra HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/2700/default_primary.mpd
+#http://linearjitp02-playback.astro.com.my/dash-wv/linear/2700/default_primary.mpd
 
 #EXTINF:-1 group-title="myOrigin: Premier" ch-number="006" tvg-id="006" tvg-chno="006" tvg-logo="",Astro Premier
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Q4+2LpcnhSZobZIRJjQ9Mg", "kid":"LzI4FCNIeJ7VqZuaG9jgEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5128/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=YWQyZGI1NzMtYjE5Mi0zY2QxLThkZTAtZjNjMDQ4NGUyYWEz
+#EXTINF:-1 group-title="myOrigin: Premier" ch-number="007" tvg-id="007" tvg-chno="007" tvg-logo="",,Makkah TV
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+
+----------------------Radio----------------------
+
+#EXTINF:-1 group-title="myOrigin: Radio" ch-number="1001" tvg-id="1001" tvg-chno="1001" tvg-logo="",Zayan FM
+plugin://plugin.video.youtube/play/?video_id=jq9F--t5G4s
+
+#EXTINF:-1 group-title="myOrigin: Radio" ch-number="1002" tvg-id="1002" tvg-chno="1002" tvg-logo="",Ria FM
+http://23253.live.streamtheworld.com:80/RIA897FMAAC.aac
+
+#EXTINF:-1 group-title="myOrigin: Radio" ch-number="1003" tvg-id="1003" tvg-chno="1003" tvg-logo="",Warna FM
+http://22903.live.streamtheworld.com:80/WARNA942FMAAC.aac
+
+#EXTINF:-1 group-title="myOrigin: Radio" ch-number="1004" tvg-id="1004" tvg-chno="1004" tvg-logo="",Zayan FM test
+https://www.youtube.com/watch?v=v1ZqoaRv60k
+
+
