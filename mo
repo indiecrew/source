@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="" url-tvg="" refresh="1440" max-conn="1" refresh="24"
-#EXTM3U x-tvg-url="https://github.com/AqFad2811/epg/raw/main/epg.xml, https://xmltv.tvkaista.net/guides/foxtel.com.au.xml, https://xmltv.tvkaista.net/guides/ena.skylifetv.co.kr.xml" url-tvg="https://github.com/AqFad2811/epg/raw/main/epg.xml, https://xmltv.tvkaista.net/guides/foxtel.com.au.xml, https://xmltv.tvkaista.net/guides/ena.skylifetv.co.kr.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://github.com/AqFad2811/epg/raw/main/epg.xml" refresh="1440" max-conn="1" refresh="24"
 
 ----------------------Malaysia----------------------
 
@@ -66,7 +66,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
 ----------------------Singapura----------------------
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZDdWtIOE9oSlo3ZE5FanZMVDA0MEEteC03T0Z4dkRaZnp6OTZ4V0czYmVuV1F2OFFNRTIxWXY2VnpsODlxUFF6VUgyQ3lNSVRnckJSSlgtZzZhelZmVlNxeHFMbm52Sk0teThSVGdWcnJqQnM3LW9rMm5LelNsRXlvUS02UUhTOUNsaW5VMWU2MXZ6VGFQUDBFMUE3ZUpneXJPTjByNThWOFdQWDdIVWs3T3NfU0hrQ2o1N2hCQWVYa3BXRm5xdXZ1eXFFbHdSWF92eGpLdnUwa2RkS1F1Skg2WUswS0dWeHZxeUZXSDQ2dnpHc3J6XzE3NXY2eEZBOVBmOGZDc1M0cU9NV0l1alA5RERyd21keE5uSXVoYm81V0d6T0tFUGJrUUdnd1JpR3F1WnphaUdHaldSS2dvdEZOMUk4RkFnS0E9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMTYiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NoNV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkN1a0g4T2hKWjdkTkVqdkxUMDQwQS14LTdPRnh2RFpmeno5NnhXRzNiZW5XUXY4UU1FMjFZdjZWemw4OXFQUXpVSDJDeU1JVGdyQlJKWC1nNmF6VmZWU3F4cUxubnZKTS15OFJUZ1ZycmpCczctb2sybkt6U2xFeW9RLTZRSFM5Q2xpblUxZTYxdnpUYVBQMEUxQTdlSmd5ck9OMHI1OFY4V1BYN0hVazdPc19TSGtDajU3aEJBZVhrcFdGbnF1dnV5cUVsd1JYX3Z4akt2dTBrZGRLUXVKSDZZSzBLR1Z4dnF5RldINDZ2ekdzcnpfMTc1djZ4RkE5UGY4ZkNzUzRxT01XSXVqUDlERHJ3bWR4Tm5JdWhibzVXR3pPS0VQYmtRR2d3UmlHcXVaemFpR0dqV1JLZ290Rk4xSThGQWdLQT09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=Nl28cjab14YP444JWGM3SYBDKV0%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZQMW9mMEhIbmJOSEdGUXhNRWhZb0JOUEMwS2xVQW9xOUxzeHhpN29sWWZ0My1mTjZfTFR3NHFOUWVxTFNNeTNwS29PNFBzWldSMThNcUhRVzB2dEZ5SVcyTzNnTURDQ2hsTm5nd3VLME9lVVJYdmRjX0ZfLUVJeElmZ1FWcjVrbTZ6amhVeExDYnVQMEM4alVVOVBYWE0ybWRFSXlaaE1LdW82M0k3akp3X0NsYm04WVRRbHlYSC03aFdFN0tSdkwzbTZJc0hiMFF6bjh4VF9kdkJ4cFpzbjZWS2FoNVA5bXNodERYNHhjSlN5OFpsSllNczVFWnJFRkJta0c4VkgxNnZWdzlTLUE3T09Rbnk3ZXN6bmtINHQ0aW9NTlhQc2Q5ZE1OZFEwRUZxMjRocWhXRVhWeXJhY3B4eTNxcEE1WFZmamFEMlcxeFljaXlMOFl6YU5od289JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDExNiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmUDFvZjBISG5iTkhHRlF4TUVoWW9CTlBDMEtsVUFvcTlMc3h4aTdvbFlmdDMtZk42X0xUdzRxTlFlcUxTTXkzcEtvTzRQc1pXUjE4TXFIUVcwdnRGeUlXMk8zZ01EQ0NobE5uZ3d1SzBPZVVSWHZkY19GXy1FSXhJZmdRVnI1a202empoVXhMQ2J1UDBDOGpVVTlQWFhNMm1kRUl5WmhNS3VvNjNJN2pKd19DbGJtOFlUUWx5WEgtN2hXRTdLUnZMM202SXNIYjBRem44eFRfZHZCeHBac242VkthaDVQOW1zaHREWDR4Y0pTeThabEpZTXM1RVpyRUZCbWtHOFZIMTZ2Vnc5Uy1BN09PUW55N2Vzem5rSDR0NGlvTU5YUHNkOWRNTmRRMEVGcTI0aHFoV0VYVnlyYWNweHkzcXBBNVhWZmphRDJXMXhZY2l5TDhZemFOaHdvPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=wD%2fbJMn%2f8nIlLod4z7kWkA2Zusc%3d
 #EXTINF:-1 group-title="myOrigin: Singapura" ch-number="201" tvg-id="201" tvg-chno="201" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/ch5.png",channel 5
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/5754116/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
@@ -243,13 +243,11 @@ https://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 ----------------------Kids-------------------------
 
-#EXTINF:-1 group-title="myOrigin: Kids" ch-number="601" tvg-id="601" tvg-chno="601" tvg-logo="",astro ceria hd
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="myOrigin: Kids" ch-number="602" tvg-id="602" tvg-chno="602" tvg-logo="",cartoon network hd
-https://live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
+#https://live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -606,36 +604,37 @@ http://free.cvmtv.site/9G?token=live
 ----------------------Premier----------------------
 
 #EXTINF:-1 group-title="myOrigin: PPremier" ch-number="001" tvg-id="001" tvg-chno="001" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/oasis.png",Astro Oasis HD
+https://epg.pw/stream/24f9fb947da03e8f81717e2ece2efbbc4adbb16d2ef5f72f9dee2ebfa4265bcb.ctv
 
 #EXTINF:-1 group-title="myOrigin: Premier" ch-number="002" tvg-id="002" tvg-chno="002" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/prima.png",Astro Prima HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
-#http://linearjitp02-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
+
 
 #EXTINF:-1 group-title="myOrigin: Premier" ch-number="003" tvg-id="003" tvg-chno="003" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/ria.png",Astro Ria HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
-https://stream.zeehanzgadget.com/ria.mpd
+https://epg.pw/stream/80738e7952cdfa7eff74449f9b12956abb259efb5c5ca0d180bf3a8ec2383037.ctv
 
 #EXTINF:-1 group-title="myOrigin: Premier" ch-number="004" tvg-id="004" tvg-chno="004" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/warna.png",Astro Warna HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
-#http://linearjitp02-playback.astro.com.my/dash-wv/linear/2402/default_primary.mpd
+https://epg.pw/stream/30048dbc6e2283f5ce1da5012eede6532c41eacd9dcf0e556ceaa358edc83a56.ctv
 
 #EXTINF:-1 group-title="myOrigin: Premier" ch-number="005" tvg-id="005" tvg-chno="005" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/citra.png",Astro Citra HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
-#http://linearjitp02-playback.astro.com.my/dash-wv/linear/2700/default_primary.mpd
+https://epg.pw/stream/b72f42d21e29b4ab4e1e88a4a8bbb00f502f730acca4ef8891f40b175c164661.ctv
 
 #EXTINF:-1 group-title="myOrigin: Premier" ch-number="006" tvg-id="006" tvg-chno="006" tvg-logo="",Astro Premier
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Q4+2LpcnhSZobZIRJjQ9Mg", "kid":"LzI4FCNIeJ7VqZuaG9jgEA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5128/default_primary.mpd
+https://epg.pw/stream/513fccb78a428cabb7282a12764dc51e53299a61f22e6866d1d1209cfea27c9f.ctv
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=YWQyZGI1NzMtYjE5Mi0zY2QxLThkZTAtZjNjMDQ4NGUyYWEz
-#EXTINF:-1 group-title="myOrigin: Premier" ch-number="007" tvg-id="007" tvg-chno="007" tvg-logo="",,Makkah TV
+#EXTINF:-1 group-title="myOrigin: Premier" ch-number="007" tvg-id="007" tvg-chno="007" tvg-logo="",Astro Ceria HD
+https://epg.pw/stream/1b8f6e1ceb9a1a36d29947c1c9868dffa5f9d8a64f892ab8a3b60821f70a8ace.ctv
+
+#EXTINF:-1 group-title="myOrigin: Premier" ch-number="007" tvg-id="007" tvg-chno="007" tvg-logo="",Astro Aura HD
+https://epg.pw/stream/c3c104e7dd542948f68a129b5b536976871633af353d562f89fd27ea9e517fd3.ctv
+
+#EXTINF:-1 group-title="myOrigin: Premier" ch-number="008" tvg-id="008" tvg-chno="008" tvg-logo="",Astro Rania HD
+https://epg.pw/stream/cffbaaa3bb623d0cfb560aa1739f33ec7df4ca39003278cdbd53c4f0d3665437.ctv
+
+#EXTINF:-1 group-title="myOrigin: Premier" ch-number="098" tvg-id="098" tvg-chno="098" tvg-logo="",,Mecca TV
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
+
+#EXTINF:-1 group-title="myOrigin: Premier" ch-number="099" tvg-id="099" tvg-chno="099" tvg-logo="",,Medina TV
+http://m.live.net.sa:1935/live/sunnah/chunklist_w364295954.m3u8
 
 ----------------------Radio----------------------
 
