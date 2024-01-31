@@ -603,7 +603,7 @@ http://free.cvmtv.site/9G?token=live
 
 ----------------------Premier----------------------
 
-#EXTINF:-1 group-title="myOrigin: PPremier" ch-number="001" tvg-id="001" tvg-chno="001" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/oasis.png",Astro Oasis HD
+#EXTINF:-1 group-title="myOrigin: Premier" ch-number="001" tvg-id="001" tvg-chno="001" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/oasis.png",Astro Oasis HD
 https://epg.pw/stream/24f9fb947da03e8f81717e2ece2efbbc4adbb16d2ef5f72f9dee2ebfa4265bcb.ctv
 
 #EXTINF:-1 group-title="myOrigin: Premier" ch-number="002" tvg-id="002" tvg-chno="002" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/prima.png",Astro Prima HD
@@ -621,13 +621,13 @@ https://epg.pw/stream/b72f42d21e29b4ab4e1e88a4a8bbb00f502f730acca4ef8891f40b175c
 #EXTINF:-1 group-title="myOrigin: Premier" ch-number="006" tvg-id="006" tvg-chno="006" tvg-logo="",Astro Premier
 https://epg.pw/stream/513fccb78a428cabb7282a12764dc51e53299a61f22e6866d1d1209cfea27c9f.ctv
 
-#EXTINF:-1 group-title="myOrigin: Premier" ch-number="007" tvg-id="007" tvg-chno="007" tvg-logo="",Astro Ceria HD
+#EXTINF:-1 group-title="myOrigin: Premier" ch-number="007" tvg-id="007" tvg-chno="007" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/ceria.png",Astro Ceria HD
 https://epg.pw/stream/1b8f6e1ceb9a1a36d29947c1c9868dffa5f9d8a64f892ab8a3b60821f70a8ace.ctv
 
-#EXTINF:-1 group-title="myOrigin: Premier" ch-number="007" tvg-id="007" tvg-chno="007" tvg-logo="",Astro Aura HD
+#EXTINF:-1 group-title="myOrigin: Premier" ch-number="007" tvg-id="007" tvg-chno="007" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",Astro Aura HD
 https://epg.pw/stream/c3c104e7dd542948f68a129b5b536976871633af353d562f89fd27ea9e517fd3.ctv
 
-#EXTINF:-1 group-title="myOrigin: Premier" ch-number="008" tvg-id="008" tvg-chno="008" tvg-logo="",Astro Rania HD
+#EXTINF:-1 group-title="myOrigin: Premier" ch-number="008" tvg-id="008" tvg-chno="008" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",Astro Rania HD
 https://epg.pw/stream/cffbaaa3bb623d0cfb560aa1739f33ec7df4ca39003278cdbd53c4f0d3665437.ctv
 
 #EXTINF:-1 group-title="myOrigin: Premier" ch-number="098" tvg-id="098" tvg-chno="098" tvg-logo="",,Mecca TV
@@ -639,15 +639,12 @@ http://m.live.net.sa:1935/live/sunnah/chunklist_w364295954.m3u8
 ----------------------Radio----------------------
 
 #EXTINF:-1 group-title="myOrigin: Radio" ch-number="1001" tvg-id="1001" tvg-chno="1001" tvg-logo="",Zayan FM
-plugin://plugin.video.youtube/play/?video_id=jq9F--t5G4s
+https://www.youtube.com/watch?v=v1ZqoaRv60k
 
 #EXTINF:-1 group-title="myOrigin: Radio" ch-number="1002" tvg-id="1002" tvg-chno="1002" tvg-logo="",Ria FM
 http://23253.live.streamtheworld.com:80/RIA897FMAAC.aac
 
 #EXTINF:-1 group-title="myOrigin: Radio" ch-number="1003" tvg-id="1003" tvg-chno="1003" tvg-logo="",Warna FM
 http://22903.live.streamtheworld.com:80/WARNA942FMAAC.aac
-
-#EXTINF:-1 group-title="myOrigin: Radio" ch-number="1004" tvg-id="1004" tvg-chno="1004" tvg-logo="",Zayan FM test
-https://www.youtube.com/watch?v=v1ZqoaRv60k
 
 
