@@ -46,7 +46,7 @@ https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="111" tvg-id="111" tvg-chno="111" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/awesometv.png",awesome tv
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71021
+http://muka03.wanicelife.com:8880/kg12m3n0513/xvsdf23433/71149
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vcyu6IazQN2QH0v43Z06ag", "kid":"w+lWs4rpk74UlMfPoXsREA" } ], "type":"temporary" }
@@ -66,7 +66,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
 ----------------------Singapura----------------------
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZQMW9mMEhIbmJOSEdGUXhNRWhZb0JOUEMwS2xVQW9xOUxzeHhpN29sWWZ0My1mTjZfTFR3NHFOUWVxTFNNeTNwS29PNFBzWldSMThNcUhRVzB2dEZ5SVcyTzNnTURDQ2hsTm5nd3VLME9lVVJYdmRjX0ZfLUVJeElmZ1FWcjVrbTZ6amhVeExDYnVQMEM4alVVOVBYWE0ybWRFSXlaaE1LdW82M0k3akp3X0NsYm04WVRRbHlYSC03aFdFN0tSdkwzbTZJc0hiMFF6bjh4VF9kdkJ4cFpzbjZWS2FoNVA5bXNodERYNHhjSlN5OFpsSllNczVFWnJFRkJta0c4VkgxNnZWdzlTLUE3T09Rbnk3ZXN6bmtINHQ0aW9NTlhQc2Q5ZE1OZFEwRUZxMjRocWhXRVhWeXJhY3B4eTNxcEE1WFZmamFEMlcxeFljaXlMOFl6YU5od289JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDExNiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmUDFvZjBISG5iTkhHRlF4TUVoWW9CTlBDMEtsVUFvcTlMc3h4aTdvbFlmdDMtZk42X0xUdzRxTlFlcUxTTXkzcEtvTzRQc1pXUjE4TXFIUVcwdnRGeUlXMk8zZ01EQ0NobE5uZ3d1SzBPZVVSWHZkY19GXy1FSXhJZmdRVnI1a202empoVXhMQ2J1UDBDOGpVVTlQWFhNMm1kRUl5WmhNS3VvNjNJN2pKd19DbGJtOFlUUWx5WEgtN2hXRTdLUnZMM202SXNIYjBRem44eFRfZHZCeHBac242VkthaDVQOW1zaHREWDR4Y0pTeThabEpZTXM1RVpyRUZCbWtHOFZIMTZ2Vnc5Uy1BN09PUW55N2Vzem5rSDR0NGlvTU5YUHNkOWRNTmRRMEVGcTI0aHFoV0VYVnlyYWNweHkzcXBBNVhWZmphRDJXMXhZY2l5TDhZemFOaHdvPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=wD%2fbJMn%2f8nIlLod4z7kWkA2Zusc%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZESm1PUUE5R3JqU08yT3VWUUh4bXp0NDJBczZfS0ZxemJoV3pEQWFtMENqR0J3bkFYdnVEdjFnVGwzeG1yZHVkZ1poSzFOWF9Way1admo1eVluZnZ6NzJIMHh2bFJCVDh6cHZDX3pWUVdUa2psZERsU3NxLUpjUTF6M3UydVNncUNjTTFmZUpONldCTWdaTFN5TDd1ZXVyeEQ4WGNlOEFma2docGNTMHlIdkpZMmo0bHNfZ3RfZUdfRXFwelNIalA3Nm05NTM0eS1jOGY5YlBVQWlYazlCWEZPRDN3ZF81cG0wYXFWWWM4WHI3V21sYmwtUmJYeWxETjM2M0RVcWwySEZYRk1ReW9RcUNGTkUxeHU5enZYZEEybktvOTZvVzhqN1BhUjRPRTRFdG5QRlJtVWpYNmhGd3gwanN3OElXQ3c9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMTYiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NoNV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkRKbU9RQTlHcmpTTzJPdVZRSHhtenQ0MkFzNl9LRnF6YmhXekRBYW0wQ2pHQnduQVh2dUR2MWdUbDN4bXJkdWRnWmhLMU5YX1ZrLVp2ajV5WW5mdno3MkgweHZsUkJUOHpwdkNfelZRV1RramxkRGxTc3EtSmNRMXozdTJ1U2dxQ2NNMWZlSk42V0JNZ1pMU3lMN3VldXJ4RDhYY2U4QWZrZ2hwY1MweUh2SlkyajRsc19ndF9lR19FcXB6U0hqUDc2bTk1MzR5LWM4ZjliUFVBaVhrOUJYRk9EM3dkXzVwbTBhcVZZYzhYcjdXbWxibC1SYlh5bEROMzYzRFVxbDJIRlhGTVF5b1FxQ0ZORTF4dTl6dlhkQTJuS285Nm9XOGo3UGFSNE9FNEV0blBGUm1Valg2aEZ3eDBqc3c4SVdDdz09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=r6WgwF8sYtfSuYVIwRLamrxCvyg%3d
 #EXTINF:-1 group-title="myOrigin: Singapura" ch-number="201" tvg-id="201" tvg-chno="201" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/ch5.png",channel 5
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/5754116/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
@@ -103,9 +103,9 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 #EXTINF:-1 group-title="myOrigin: Singapura" ch-number="208" tvg-id="208" tvg-chno="208" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/mew2.png",meWatchLive2
 #https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
-#EXTINF:-1 group-title="myOrigin: Singapura" ch-number="210" tvg-id="210" tvg-chno="210" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/ch5.png",Channel 5 ⁽ˢᵉʳᵛᵉʳ ²⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=607b7d22565c4bc3b95ff6c33ce65425&key=28cc5367df666c44be4382e64af64d57
+#EXTINF:-1 group-title="myOrigin: Singapura" ch-number="210" tvg-id="210" tvg-chno="210" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/ch5.png",Channel 5 ⁽ˢᵉʳᵛᵉʳ ²⁾
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -163,7 +163,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="402" tvg-id="402" tvg-chno="402" tvg-logo="",sctv
-https://playlist-coffee.my.id/oxy/sctv.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/sctv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -172,7 +172,7 @@ https://playlist-coffee.my.id/oxy/sctv.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="404" tvg-id="404" tvg-chno="404" tvg-logo="",indosiar
-https://playlist-coffee.my.id/oxy/indosiar.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/indosiar.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -521,26 +521,26 @@ https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"99685545491d40b493b3a4b263c7245e": "7939e335bf8cbbd6882f9f5c9cdebe19"}
-https://d1fk7kbmz4il3.cloudfront.net/CH2/masterCH2.mpd
+https://d1fk7kbmz4il3.cloudfront.net/CH4/masterCH4.mpd
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="926" tvg-id="926" tvg-chno="926" tvg-logo="",Sky Premier League
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0003e5d66d7501ff2930c80e9b5609fc:32661be41b5b713dcd88683cd389af21
-https://linear003-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(skysportspremierleague)/manifest_sd.mpd
+
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="927" tvg-id="927" tvg-chno="927" tvg-logo="",Sky Sports Football
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00033a7801c324b97dd9997d15cd1e6d:da90342266ae32a331a83bd05d6308bd
-https://linear016-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(skysportsfootball)/manifest_sd.mpd
+
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="928" tvg-id="928" tvg-chno="928" tvg-logo="",Sky Sports Football HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00051ec4671fcd3e8095f1e6118d9052:50304047eb0a462a4ba50add2596b215
-http://linear005-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsfootball50)/manifest_mob.mpd
+
 
 
 ----------------------Korea-------------------------
@@ -548,78 +548,114 @@ http://linear005-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/ch
 #EXTINF:-1 group-title="myOrigin: Korea" ch-number="941" tvg-id="941" tvg-chno="941" tvg-logo="",SBS
 https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="myOrigin: Korea" ch-number="942" tvg-id="942" tvg-chno="942" tvg-logo="",EBS Kids
+#EXTINF:-1 group-title="myOrigin: Korea" ch-number="942" tvg-id="942" tvg-chno="942" tvg-logo="",EBS1
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="myOrigin: Korea" ch-number="943" tvg-id="943" tvg-chno="943" tvg-logo="",EBS2
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="myOrigin: Korea" ch-number="944" tvg-id="944" tvg-chno="944" tvg-logo="",EBS Kids
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 group-title="myOrigin: Korea" ch-number="943" tvg-id="943" tvg-chno="943" tvg-logo="",MBC
+#EXTINF:-1 group-title="myOrigin: Korea" ch-number="945" tvg-id="945" tvg-chno="945" tvg-logo="",MBC
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 
-#EXTINF:-1 group-title="myOrigin: Korea" ch-number="944" tvg-id="944" tvg-chno="944" tvg-logo="",KBS 1
+#EXTINF:-1 group-title="myOrigin: Korea" ch-number="946" tvg-id="946" tvg-chno="946" tvg-logo="",KBS 1
 https://code.vthanhtivi.pw/getlink/kbs/10_11/playlist.m3u8
 
-#EXTINF:-1 group-title="myOrigin: Korea" ch-number="945" tvg-id="945" tvg-chno="945" tvg-logo="",TBS
+#EXTINF:-1 group-title="myOrigin: Korea" ch-number="947" tvg-id="947" tvg-chno="947" tvg-logo="",KBS 2
+https://code.vthanhtivi.pw/getlink/kbs/12/playlist.m3u8
+
+#EXTINF:-1 group-title="myOrigin: Korea" ch-number="948" tvg-id="948" tvg-chno="948" tvg-logo="",KBS Drama
+https://code.vthanhtivi.pw/getlink/kbs/N91/playlist.m3u8
+
+#EXTINF:-1 group-title="myOrigin: Korea" ch-number="949" tvg-id="949" tvg-chno="949" tvg-logo="",KBS Kids
+https://code.vthanhtivi.pw/getlink/kbs/N96/playlist.m3u8
+
+#EXTINF:-1 group-title="myOrigin: Korea" ch-number="950" tvg-id="950" tvg-chno="950" tvg-logo="",TBS
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="myOrigin: Korea" ch-number="946" tvg-id="946" tvg-chno="946" tvg-logo="",PLAYY 영화
+#EXTINF:-1 group-title="myOrigin: Korea" ch-number="951" tvg-id="951" tvg-chno="951" tvg-logo="",PLAYY 영화
 https://i.mjh.nz/SamsungTVPlus/KRBD2700007S0.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 group-title="myOrigin: Korea" ch-number="947" tvg-id="947" tvg-chno="947" tvg-logo="",Arirang
+#EXTINF:-1 group-title="myOrigin: Korea" ch-number="952" tvg-id="952" tvg-chno="952" tvg-logo="",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 
 ----------------------Japan-------------------------
 
-#EXTINF:-1 group-title="myOrigin: Japan" ch-number="951" tvg-id="951" tvg-chno="951" tvg-logo="", Nippon TV
+#EXTINF:-1 group-title="myOrigin: Japan" ch-number="961" tvg-id="961" tvg-chno="961" tvg-logo="", Nippon TV
 http://203.162.235.41:16095/
 
-#EXTINF:-1 group-title="myOrigin: Japan" ch-number="952" tvg-id="952" tvg-chno="952" tvg-logo="", TV Asahi
+#EXTINF:-1 group-title="myOrigin: Japan" ch-number="962" tvg-id="962" tvg-chno="962" tvg-logo="", TV Asahi
 http://203.162.235.41:17097/
 
-#EXTINF:-1 group-title="myOrigin: Japan" ch-number="953" tvg-id="953" tvg-chno="953" tvg-logo="", TBS
+#EXTINF:-1 group-title="myOrigin: Japan" ch-number="963" tvg-id="963" tvg-chno="963" tvg-logo="", TBS
 http://203.162.235.41:18097/
 
-#EXTINF:-1 group-title="myOrigin: Japan" ch-number="954" tvg-id="954" tvg-chno="954" tvg-logo="", TV Tokyo
+#EXTINF:-1 group-title="myOrigin: Japan" ch-number="964" tvg-id="964" tvg-chno="964" tvg-logo="", TV Tokyo
 http://203.162.235.41:19098/
 
-#EXTINF:-1 group-title="myOrigin: Japan" ch-number="955" tvg-id="955" tvg-chno="955" tvg-logo="", Fuji TV
+#EXTINF:-1 group-title="myOrigin: Japan" ch-number="965" tvg-id="965" tvg-chno="965" tvg-logo="", Fuji TV
 http://203.162.235.41:15094/
+
+#EXTINF:-1 group-title="myOrigin: Japan" ch-number="966" tvg-id="966" tvg-chno="966" tvg-logo="", J SPORTS 1  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+
+#EXTINF:-1 group-title="myOrigin: Japan" ch-number="967" tvg-id="967" tvg-chno="967" tvg-logo="", J SPORTS 2  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+
+#EXTINF:-1 group-title="myOrigin: Japan" ch-number="968" tvg-id="968" tvg-chno="968" tvg-logo="", J SPORTS 3  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+
+#EXTINF:-1 group-title="myOrigin: Japan" ch-number="969" tvg-id="969" tvg-chno="969" tvg-logo="", J SPORTS 4  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 
 ----------------------Australia-------------------------
 
-#EXTINF:-1 group-title="myOrigin: Australia" ch-number="961" tvg-id="961" tvg-chno="961" tvg-logo="",10HD
-http://free.cvmtv.site/10HD?token=live
+#EXTINF:-1 group-title="myOrigin: Australia" ch-number="981" tvg-id="981" tvg-chno="981" tvg-logo="",10HD
 
-#EXTINF:-1 group-title="myOrigin: Australia" ch-number="962" tvg-id="962" tvg-chno="962" tvg-logo="",10 Bold
-http://free.cvmtv.site/10B?token=live
 
-#EXTINF:-1 group-title="myOrigin: Australia" ch-number="963" tvg-id="963" tvg-chno="963" tvg-logo="",7HD
-http://free.cvmtv.site/7HD?token=live
+#EXTINF:-1 group-title="myOrigin: Australia" ch-number="982" tvg-id="982" tvg-chno="982" tvg-logo="",10 Bold
 
-#EXTINF:-1 group-title="myOrigin: Australia" ch-number="964" tvg-id="964" tvg-chno="964" tvg-logo="",9HD
-http://free.cvmtv.site/9HD?token=live
 
-#EXTINF:-1 group-title="myOrigin: Australia" ch-number="965" tvg-id="965" tvg-chno="965" tvg-logo="",9Gem
-http://free.cvmtv.site/9G?token=live
+#EXTINF:-1 group-title="myOrigin: Australia" ch-number="983" tvg-id="983" tvg-chno="983" tvg-logo="",7HD
+
+
+#EXTINF:-1 group-title="myOrigin: Australia" ch-number="984" tvg-id="984" tvg-chno="984" tvg-logo="",9HD
+
+
+#EXTINF:-1 group-title="myOrigin: Australia" ch-number="985" tvg-id="985" tvg-chno="985" tvg-logo="",9Gem
+
+
+#EXTINF:-1 group-title="myOrigin: Australia" ch-number="986" tvg-id="986" tvg-chno="986" tvg-logo="",ABC tv
+https://c.mjh.nz/abc-vic.m3u8
+
+#EXTINF:-1 group-title="myOrigin: Australia" ch-number="987" tvg-id="987" tvg-chno="987" tvg-logo="",ABC tv plus
+https://c.mjh.nz/abc-tv-plus.m3u8
+
 
 ----------------------Premier----------------------
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17d5d62dc61954b82ee016da264abd10:5f35f815699140e2649d825f0d24028e
 #EXTINF:-1 group-title="myOrigin: Premier" ch-number="001" tvg-id="001" tvg-chno="001" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/oasis.png",Astro Oasis HD
-https://epg.pw/stream/24f9fb947da03e8f81717e2ece2efbbc4adbb16d2ef5f72f9dee2ebfa4265bcb.ctv
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default.mpd
 
 #EXTINF:-1 group-title="myOrigin: Premier" ch-number="002" tvg-id="002" tvg-chno="002" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/prima.png",Astro Prima HD
 
 
 #EXTINF:-1 group-title="myOrigin: Premier" ch-number="003" tvg-id="003" tvg-chno="003" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/ria.png",Astro Ria HD
-https://epg.pw/stream/80738e7952cdfa7eff74449f9b12956abb259efb5c5ca0d180bf3a8ec2383037.ctv
+
 
 #EXTINF:-1 group-title="myOrigin: Premier" ch-number="004" tvg-id="004" tvg-chno="004" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/warna.png",Astro Warna HD
 https://epg.pw/stream/30048dbc6e2283f5ce1da5012eede6532c41eacd9dcf0e556ceaa358edc83a56.ctv
 
 #EXTINF:-1 group-title="myOrigin: Premier" ch-number="005" tvg-id="005" tvg-chno="005" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/citra.png",Astro Citra HD
-https://epg.pw/stream/b72f42d21e29b4ab4e1e88a4a8bbb00f502f730acca4ef8891f40b175c164661.ctv
+
 
 #EXTINF:-1 group-title="myOrigin: Premier" ch-number="006" tvg-id="006" tvg-chno="006" tvg-logo="",Astro Premier
-https://epg.pw/stream/513fccb78a428cabb7282a12764dc51e53299a61f22e6866d1d1209cfea27c9f.ctv
+
 
 #EXTINF:-1 group-title="myOrigin: Premier" ch-number="007" tvg-id="007" tvg-chno="007" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/ceria.png",Astro Ceria HD
 https://epg.pw/stream/1b8f6e1ceb9a1a36d29947c1c9868dffa5f9d8a64f892ab8a3b60821f70a8ace.ctv
@@ -631,10 +667,10 @@ https://epg.pw/stream/c3c104e7dd542948f68a129b5b536976871633af353d562f89fd27ea9e
 https://epg.pw/stream/cffbaaa3bb623d0cfb560aa1739f33ec7df4ca39003278cdbd53c4f0d3665437.ctv
 
 #EXTINF:-1 group-title="myOrigin: Premier" ch-number="098" tvg-id="098" tvg-chno="098" tvg-logo="",,Mecca TV
-http://m.live.net.sa:1935/live/quran/playlist.m3u8
+
 
 #EXTINF:-1 group-title="myOrigin: Premier" ch-number="099" tvg-id="099" tvg-chno="099" tvg-logo="",,Medina TV
-http://m.live.net.sa:1935/live/sunnah/chunklist_w364295954.m3u8
+
 
 ----------------------Radio----------------------
 
