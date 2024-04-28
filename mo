@@ -116,46 +116,46 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 ----------------------Indonesia----------------------
 
 #EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="401" tvg-id="401" tvg-chno="401" tvg-logo="",mnctv
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/mnc.m3u8
+https://iptvsystem.my.id/index.m3u8?cid=mnctv&provider=rctiplus&type=hls&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjIwMDE6NDQ4YTpiMDEwOmRlYzA6ODUzZTpiMTgwOjY3MTQ6YzYxNCIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwic2lnbmF0dXJlIjoibHFSTkRQQzhObEZKQW45TW5uWUFEdz09Iiwic2Vzc2lvbl9pZCI6IjQyZDk4ZGY4OWEwMDc1M2RmMzRmMzM3NzY5NjU4MGY0In0|Referer="https://www.rctiplus.com/"
 
 #EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="402" tvg-id="402" tvg-chno="402" tvg-logo="",sctv
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/sctv.m3u8
+https://iptvsystem.my.id/index.m3u8?cid=sctv&provider=fta&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjIwMDE6NDQ4YTpiMDEwOmRlYzA6ODUzZTpiMTgwOjY3MTQ6YzYxNCIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwic2lnbmF0dXJlIjoibHFSTkRQQzhObEZKQW45TW5uWUFEdz09Iiwic2Vzc2lvbl9pZCI6IjQyZDk4ZGY4OWEwMDc1M2RmMzRmMzM3NzY5NjU4MGY0In0|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 
 #EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="403" tvg-id="403" tvg-chno="403" tvg-logo="",rcti
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/rcti.m3u8
+https://iptvsystem.my.id/index.m3u8?cid=rcti&provider=rctiplus&type=hls&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjIwMDE6NDQ4YTpiMDEwOmRlYzA6ODUzZTpiMTgwOjY3MTQ6YzYxNCIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwic2lnbmF0dXJlIjoibHFSTkRQQzhObEZKQW45TW5uWUFEdz09Iiwic2Vzc2lvbl9pZCI6IjQyZDk4ZGY4OWEwMDc1M2RmMzRmMzM3NzY5NjU4MGY0In0|Referer="https://www.rctiplus.com/"
 
 #EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="404" tvg-id="404" tvg-chno="404" tvg-logo="",indosiar
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/indos.m3u8
+https://iptvsystem.my.id/index.m3u8?cid=indosiar&provider=fta&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjIwMDE6NDQ4YTpiMDEwOmRlYzA6ODUzZTpiMTgwOjY3MTQ6YzYxNCIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwic2lnbmF0dXJlIjoibHFSTkRQQzhObEZKQW45TW5uWUFEdz09Iiwic2Vzc2lvbl9pZCI6IjQyZDk4ZGY4OWEwMDc1M2RmMzRmMzM3NzY5NjU4MGY0In0|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 
 #EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="405" tvg-id="405" tvg-chno="405" tvg-logo="",metro tv
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/metro.m3u8
+https://iptvsystem.my.id/index.m3u8?cid=metrotvnews&provider=yt&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjIwMDE6NDQ4YTpiMDEwOmRlYzA6ODUzZTpiMTgwOjY3MTQ6YzYxNCIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwic2lnbmF0dXJlIjoibHFSTkRQQzhObEZKQW45TW5uWUFEdz09Iiwic2Vzc2lvbl9pZCI6IjQyZDk4ZGY4OWEwMDc1M2RmMzRmMzM3NzY5NjU4MGY0In0
 
 #EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="406" tvg-id="406" tvg-chno="406" tvg-logo="",trans tv
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/trns.m3u8
+https://iptvsystem.my.id/index.m3u8?cid=transtv&provider=indihome&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjIwMDE6NDQ4YTpiMDEwOmRlYzA6ODUzZTpiMTgwOjY3MTQ6YzYxNCIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwic2lnbmF0dXJlIjoibHFSTkRQQzhObEZKQW45TW5uWUFEdz09Iiwic2Vzc2lvbl9pZCI6IjQyZDk4ZGY4OWEwMDc1M2RmMzRmMzM3NzY5NjU4MGY0In0
 
 #EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="407" tvg-id="407" tvg-chno="407" tvg-logo="",trans 7
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/trns7.m3u8
+https://iptvsystem.my.id/index.m3u8?cid=trans7&provider=indihome&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjIwMDE6NDQ4YTpiMDEwOmRlYzA6ODUzZTpiMTgwOjY3MTQ6YzYxNCIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwic2lnbmF0dXJlIjoibHFSTkRQQzhObEZKQW45TW5uWUFEdz09Iiwic2Vzc2lvbl9pZCI6IjQyZDk4ZGY4OWEwMDc1M2RmMzRmMzM3NzY5NjU4MGY0In0
 
 #EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="408" tvg-id="408" tvg-chno="408" tvg-logo="",rtv
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/rtv.m3u8
+https://iptvsystem.my.id/index.m3u8?cid=rtv&provider=indihome&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjIwMDE6NDQ4YTpiMDEwOmRlYzA6ODUzZTpiMTgwOjY3MTQ6YzYxNCIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwic2lnbmF0dXJlIjoibHFSTkRQQzhObEZKQW45TW5uWUFEdz09Iiwic2Vzc2lvbl9pZCI6IjQyZDk4ZGY4OWEwMDc1M2RmMzRmMzM3NzY5NjU4MGY0In0
 
 #EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="409" tvg-id="409" tvg-chno="409" tvg-logo="",tvri
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/trvl.m3u8
+https://iptvsystem.my.id/index.m3u8?cid=tvri&provider=fta&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjIwMDE6NDQ4YTpiMDEwOmRlYzA6ODUzZTpiMTgwOjY3MTQ6YzYxNCIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwic2lnbmF0dXJlIjoibHFSTkRQQzhObEZKQW45TW5uWUFEdz09Iiwic2Vzc2lvbl9pZCI6IjQyZDk4ZGY4OWEwMDc1M2RmMzRmMzM3NzY5NjU4MGY0In0|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 
 #EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="410" tvg-id="410" tvg-chno="410" tvg-logo="",antv
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/antv.m3u8
+https://iptvsystem.my.id/index.m3u8?cid=antv&provider=indihome&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjIwMDE6NDQ4YTpiMDEwOmRlYzA6ODUzZTpiMTgwOjY3MTQ6YzYxNCIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwic2lnbmF0dXJlIjoibHFSTkRQQzhObEZKQW45TW5uWUFEdz09Iiwic2Vzc2lvbl9pZCI6IjQyZDk4ZGY4OWEwMDc1M2RmMzRmMzM3NzY5NjU4MGY0In0
 
 #EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="411" tvg-id="411" tvg-chno="411" tvg-logo="",kompas tv
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/kompas.m3u8
+https://iptvsystem.my.id/index.m3u8?cid=kompastv&provider=yt&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjIwMDE6NDQ4YTpiMDEwOmRlYzA6ODUzZTpiMTgwOjY3MTQ6YzYxNCIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwic2lnbmF0dXJlIjoibHFSTkRQQzhObEZKQW45TW5uWUFEdz09Iiwic2Vzc2lvbl9pZCI6IjQyZDk4ZGY4OWEwMDc1M2RmMzRmMzM3NzY5NjU4MGY0In0
 
 #EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="412" tvg-id="412" tvg-chno="412" tvg-logo="",gtv
-
+https://iptvsystem.my.id/index.m3u8?cid=gtv&provider=rctiplus&type=hls&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjIwMDE6NDQ4YTpiMDEwOmRlYzA6ODUzZTpiMTgwOjY3MTQ6YzYxNCIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwic2lnbmF0dXJlIjoibHFSTkRQQzhObEZKQW45TW5uWUFEdz09Iiwic2Vzc2lvbl9pZCI6IjQyZDk4ZGY4OWEwMDc1M2RmMzRmMzM3NzY5NjU4MGY0In0|Referer="https://www.rctiplus.com/"
 
 #EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="413" tvg-id="413" tvg-chno="413" tvg-logo="",net tv
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/netv.m3u8
+https://iptvsystem.my.id/index.m3u8?cid=netinsights&provider=yt&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjIwMDE6NDQ4YTpiMDEwOmRlYzA6ODUzZTpiMTgwOjY3MTQ6YzYxNCIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwic2lnbmF0dXJlIjoibHFSTkRQQzhObEZKQW45TW5uWUFEdz09Iiwic2Vzc2lvbl9pZCI6IjQyZDk4ZGY4OWEwMDc1M2RmMzRmMzM3NzY5NjU4MGY0In0
 
 #EXTINF:-1 group-title="myOrigin: Indonesia" ch-number="414" tvg-id="414" tvg-chno="414" tvg-logo="",tvOne
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/tvone.m3u8
+https://iptvsystem.my.id/index.m3u8?cid=tvonenews&provider=yt&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjIwMDE6NDQ4YTpiMDEwOmRlYzA6ODUzZTpiMTgwOjY3MTQ6YzYxNCIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwic2lnbmF0dXJlIjoibHFSTkRQQzhObEZKQW45TW5uWUFEdz09Iiwic2Vzc2lvbl9pZCI6IjQyZDk4ZGY4OWEwMDc1M2RmMzRmMzM3NzY5NjU4MGY0In0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -281,14 +281,18 @@ https://raw.githubusercontent.com/kusnadipepenk/campeign/master/prmont.m3u8
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="812" tvg-id="812" tvg-chno="812" tvg-logo="",Showcase
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/cubmu
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="813" tvg-id="813" tvg-chno="813" tvg-logo="",Warner tv hd
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/wrnr.m3u8
+https://iptvsystem.my.id/index.mpd?cid=warner&provider=cubmu&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjIwMDE6NDQ4YTpiMDEwOmRlYzA6ODUzZTpiMTgwOjY3MTQ6YzYxNCIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwic2lnbmF0dXJlIjoibHFSTkRQQzhObEZKQW45TW5uWUFEdz09Iiwic2Vzc2lvbl9pZCI6IjQyZDk4ZGY4OWEwMDc1M2RmMzRmMzM3NzY5NjU4MGY0In0
 
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="814" tvg-id="814" tvg-chno="814" tvg-logo="",Hgtv hd
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/hgtv.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/vision
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="815" tvg-id="815" tvg-chno="815" tvg-logo="",Hits Movies hd
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hit.m3u8
+https://iptvsystem.my.id/index.mpd?cid=hitsmovies&provider=vision&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjIwMDE6NDQ4YTpiMDEwOmRlYzA6ODUzZTpiMTgwOjY3MTQ6YzYxNCIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwic2lnbmF0dXJlIjoibHFSTkRQQzhObEZKQW45TW5uWUFEdz09Iiwic2Vzc2lvbl9pZCI6IjQyZDk4ZGY4OWEwMDc1M2RmMzRmMzM3NzY5NjU4MGY0In0|Referer="https://visionplus.id"
 
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="816" tvg-id="816" tvg-chno="816" tvg-logo="",dmax hd
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8
@@ -400,15 +404,20 @@ https://ctrl.laotv.la/live/TSport1/index.m3u8
 #EXTVLCOPT:http-user-agent=PotPlayer/1.7.20977 (Windows NT 10.0; Win64; x64)
 https://ctrl.laotv.la/live/TSport2/index.m3u8
 
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="930" tvg-id="930" tvg-chno="930" tvg-logo="",TrueVision3
-#EXTVLCOPT:http-referrer=https://laotv.la/live.html
-#EXTVLCOPT:http-user-agent=PotPlayer/1.7.20977 (Windows NT 10.0; Win64; x64)
-https://ctrl.laotv.la/live/TSport3/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys": [ { "kty": "oct", "k": "HO5FQCla5tbFGcUEGoDxwA", "kid": "jQKveknkSzGXZNgR0BjF6A" } ], "type": "temporary" }
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="930" tvg-id="930" tvg-chno="930" tvg-logo="",Astro Supersport ⁽ˢᵉʳᵛᵉʳ ²⁾
+https://cors.iptvsystem.my.id/https://linear03-playback.sooka.my/CH3/masterCH3.mpd
 
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="930" tvg-id="930" tvg-chno="930" tvg-logo="",TrueVision4
-#EXTVLCOPT:http-referrer=https://laotv.la/live.html
-#EXTVLCOPT:http-user-agent=PotPlayer/1.7.20977 (Windows NT 10.0; Win64; x64)
-https://ctrl.laotv.la/live/TSport4/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" }], "type":"temporary" }
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="930" tvg-id="930" tvg-chno="930" tvg-logo="",Astro Supersport 2 ⁽ˢᵉʳᵛᵉʳ ²⁾
+https://cors.iptvsystem.my.id/sooka/CH4/masterCH4.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bda7f74b842f4f0eb142395dadd91f07:fb12f661d640e4ebdf38e312302260eb
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="930" tvg-id="930" tvg-chno="930" tvg-logo="",Astro Supersport 4 ⁽ˢᵉʳᵛᵉʳ ²⁾
+https://cors.iptvsystem.my.id/sooka/CH2/masterCH2.mpd
 
 
 ----------------------Korea-------------------------
