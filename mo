@@ -243,25 +243,18 @@ https://live.cgtn.com/1000/prog_index.m3u8
 
 
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="801" tvg-id="801" tvg-chno="801" tvg-logo="",tvN hd
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GegOzF0zchXGQATLScnLAQ", "kid":"+vTWK7iY3lA0RsKPsaqSEA" } ], "type":"temporary" }
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
-
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvn.m3u8
 
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="802" tvg-id="802" tvg-chno="802" tvg-logo="",tvN Movies hd
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0SzOuvu6KlNdiKMIf4hCUg", "kid":"jiaciqMq1364MGgxI0PWEA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvnmovies.m3u8
 
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="803" tvg-id="803" tvg-chno="803" tvg-logo="",KBS World hd
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="804" tvg-id="804" tvg-chno="804" tvg-logo="",One hd
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Red+aounZ7Y8rP2wHvKsKQ", "kid":"2P45jHkGUXP6l4jyJgVlEA" } ], "type":"temporary" }
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
-
 
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="805" tvg-id="805" tvg-chno="805" tvg-logo="",K-Plus hd
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"taOoAISBIMhDrg+mjAnCYQ", "kid":"qkiyi9cj+RIUiH327Z+tEA" } ], "type":"temporary" }
-http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/kplus.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
@@ -405,6 +398,22 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/truepremfootball4.m3u8
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="933" tvg-id="933" tvg-chno="933" tvg-logo="",True Premier Football 5
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/truepremfootball5.m3u8
+
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="937" tvg-id="937" tvg-chno="937" tvg-logo="",True Sport 1
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/truesports1.m3u8
+
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="938" tvg-id="938" tvg-chno="938" tvg-logo="",True Sport 2
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/truesports2.m3u8
+
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="939" tvg-id="939" tvg-chno="939" tvg-logo="",True Sport 3
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/truesports3.m3u8
+
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="940" tvg-id="940" tvg-chno="940" tvg-logo="",True Sport 5
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/truesports5.m3u8
+
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="941" tvg-id="941" tvg-chno="941" tvg-logo="",True Sport 7
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/truesports7.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys": [ { "kty": "oct", "k": "HO5FQCla5tbFGcUEGoDxwA", "kid": "jQKveknkSzGXZNgR0BjF6A" } ], "type": "temporary" }
