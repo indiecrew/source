@@ -725,66 +725,17 @@ https://epg.pw/stream/44832095be73db9840f69dfc006523533a6d1bd5e50e6b8c0695c240bb
 #EXTINF:-1 group-title="myOrigin: Test",[BD]ASSP4
 https://epg.pw/stream/00674d58090bf5ef9dc078922acd30f5eab6d8bc1962261022124fd0c9cf689b.ctv
 
-----------------------Radio----------------------
 
-#EXTINF:-1 group-title="myOrigin: Radio" ch-number="1001" tvg-id="1001" tvg-chno="1001" tvg-logo="",Zayan FM
-https://www.youtube.com/watch?v=v1ZqoaRv60k
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
+#EXTINF:-1 group-title="myOrigin: Test",121 Unifi Siar
+https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227948/3221227948.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=nR3IWnuvgquP%2F8My8iyxx%2BoxnuQhQQA9yraVG9ZBgJG7lGYp3EaTqDAXfA4S%2BPVgQpTIHrOhXCgOoaP1Jv59qvHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124221801%3AUTC%2C1001767138%2C27.125.242.143%2C20221124221801%2Curn:Huawei:liveTV:XTV56919296%2C1001767138%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C3073678270%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6001&from=5&ocs=2_1.9.62.160_80&hms_devid=1787&mag_hms=1787,1745,1797,1793&it=H4sIAAAAAAAAA0XMzQoCIRRA4beZpfhLtXBVBG0kmGob1-tVBBtJp4HePiaC9uc7cwOk08GGqGjD0XuDWuvtzhsuQuAmCk-oOAydnq5aNSCUkqfkaljZbdzfBWecSSmYkMNl3R0LJCu_pXs9PLU_G6ktGcmGHtkCnUFKjRLMuU7sXOB9beWXfADZd8fkmQAAAA
 
-#EXTINF:-1 group-title="myOrigin: Radio" ch-number="1002" tvg-id="1002" tvg-chno="1002" tvg-logo="",Ria FM
-http://23253.live.streamtheworld.com:80/RIA897FMAAC.aac
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
+#EXTINF:-1 group-title="myOrigin: Test",201 tvN Movies
+https://web.hypp.tv:443/PLTV/88888888/224/3221227553/3221227553.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=H8USOZqD4I2bxHIyzKB%2BnKTDq%2BIToAJxs6VtIhBb%2FNFw13x1HN1VtGsGy8wPB00MKrS9eklsKbM5%2BGUUXK9YHp80VkBqjDwau2wIP2KqdiFb36ThO1ayqBSBMPmUhBSTl1Gu6dfQIjZRtiMM1k%2B5qA%3D%3D%3A20230705141802%3AUTC%2C1004320542%2C14.1.246.132%2C20230705141802%2Curn:Huawei:liveTV:XTV100000381%2C1004320542%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C3692854%2C0%2C2611154%2C21dd4af0-2953-367a-cbe6-1cb936543fca%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&ocs=2_1.9.62.184_80&hms_devid=1795&it=H4sIAAAAAAAAA0XMvQrCMBRA4bfJGPJzW9IhkyK4BKHqKjfJNRRig0kt-PZSEdzPd5aKgY57O8ReitijMpLAeIMQtAcPYDoE7AbW6OmK1SxgztOcXIkbu467mxRccKUk18DO2-6QMVn1Ld3r4an-2Uh1nQLZ2O58xcYxpUoJl6nM_JTxfan5l3wAV8JRZ5kAAAA
 
-#EXTINF:-1 group-title="myOrigin: Radio" ch-number="1003" tvg-id="1003" tvg-chno="1003" tvg-logo="",Warna FM
-http://22903.live.streamtheworld.com:80/WARNA942FMAAC.aac
 
-#EXTINF:-1 group-title="myOrigin: Radio" ch-number="1004" tvg-id="1004" tvg-chno="1004" tvg-logo="",Nasional FM
-https://28103.live.streamtheworld.com/NASIONAL_FMAAC.aac
-
-#EXTINF:-1 group-title="myOrigin: Radio" ch-number="1005" tvg-id="1005" tvg-chno="1005" tvg-logo="",Traxx FM
-https://28103.live.streamtheworld.com/TRAXX_FMAAC.aac
-
-#EXTINF:-1 group-title="myOrigin: Radio" ch-number="1006" tvg-id="1006" tvg-chno="1006" tvg-logo="",Minnal FM
-https://28163.live.streamtheworld.com/MINNAL_FMAAC.aac
-
-#EXTINF:-1 group-title="myOrigin: Radio" ch-number="1007" tvg-id="1007" tvg-chno="1007" tvg-logo="",Ai FM
-https://28153.live.streamtheworld.com/AI_FMAAC.aac
-
-#EXTINF:-1 group-title="myOrigin: Radio" ch-number="1008" tvg-id="1008" tvg-chno="1008" tvg-logo="",Radio Klasik
-https://22273.live.streamtheworld.com/RADIO_KLASIKAAC.aac
-
-#EXTINF:-1 group-title="myOrigin: Radio" ch-number="1009" tvg-id="1009" tvg-chno="1009" tvg-logo="",Asyik FM
-https://28163.live.streamtheworld.com/ASYIK_FMAAC.aac
-
-#EXTINF:-1 group-title="myOrigin: Radio" ch-number="1010" tvg-id="1010" tvg-chno="1010" tvg-logo="",Sabah FM
-https://22243.live.streamtheworld.com/SABAH_FMAAC.aac
-
-#EXTINF:-1 group-title="myOrigin: Radio" ch-number="1011" tvg-id="1011" tvg-chno="1011" tvg-logo="",Sabah VFM
-https://28163.live.streamtheworld.com/SABAH_VFMAAC.aac
-
-#EXTINF:-1 group-title="myOrigin: Radio" ch-number="1012" tvg-id="1012" tvg-chno="1012" tvg-logo="",Sarawak FM
-https://28163.live.streamtheworld.com/SARAWAK_FMAAC.aac
-
-#EXTINF:-1 group-title="myOrigin: Radio" ch-number="1013" tvg-id="1013" tvg-chno="1013" tvg-logo="",Wai FM
-https://28163.live.streamtheworld.com/WAI_FM_IBANAAC.aac
-
-#EXTINF:-1 group-title="myOrigin: Radio" ch-number="1014" tvg-id="1014" tvg-chno="1014" tvg-logo="",Bernama Radio
-https://live.mana2.my/BernamaRadio/index.m3u8|User-Agent=Mozilla
-
-#EXTINF:-1 group-title="myOrigin: Radio" ch-number="1015" tvg-id="1015" tvg-chno="1015" tvg-logo="",Hot FM
-https://mediaprima.rastream.com/mediaprima-hotfm
-
-#EXTINF:-1 group-title="myOrigin: Radio" ch-number="1016" tvg-id="1016" tvg-chno="1016" tvg-logo="",Kool 101
-https://mediaprima.rastream.com/mediaprima-koolfm
-
-#EXTINF:-1 group-title="myOrigin: Radio" ch-number="1017" tvg-id="1017" tvg-chno="1017" tvg-logo="",Fly FM
-https://mediaprima.rastream.com/mediaprima-flyfm
-
-#EXTINF:-1 group-title="myOrigin: Radio" ch-number="1018" tvg-id="1018" tvg-chno="1018" tvg-logo="",8FM
-https://mediaprima.rastream.com/mediaprima-onefm
-
-#EXTINF:-1 group-title="myOrigin: Radio" ch-number="1019" tvg-id="1019" tvg-chno="1019" tvg-logo="",Molek FM
-https://mediaprima.rastream.com/mediaprima-molekfm
-
-#EXTINF:-1 group-title="myOrigin: Radio" ch-number="1020" tvg-id="1020" tvg-chno="1020" tvg-logo="",Manis FM
-https://n01.rcs.revma.com/nzgauqq1v7zuv
 
 
