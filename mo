@@ -249,7 +249,9 @@ https://live.cgtn.com/1000/prog_index.m3u8
 ----------------------Showbiz----------------------
 
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="801" tvg-id="801" tvg-chno="801" tvg-logo="",tvN hd
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/tvn/manifest.mpd
 
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="802" tvg-id="802" tvg-chno="802" tvg-logo="",tvN Movies hd
 
