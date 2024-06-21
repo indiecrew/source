@@ -2,7 +2,7 @@
 
 # =======================================================
 # Playlist Name: My Playlist by indiecrew
-# Last Update: 2024-05-18
+# Last Update: 2024-06-22
 # =======================================================
 
 ----------------------Malaysia----------------------
@@ -14,12 +14,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/tv3.png",tv3
-https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
+https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="104" tvg-id="104" tvg-chno="104" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/drama.png",Drama Sangat
-#EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056648&autoplay=1&mute=0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8|Referer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056637&autoplay=1&mute=0
+
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="105" tvg-id="105" tvg-chno="105" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/okey.png",tv okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
@@ -28,32 +26,21 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/didik.png",didiktv kpm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056641&autoplay=1&mute=0
-https://tonton-live-ssai.akamaized.net/live/0e27ef78-4cc9-4c62-bec9-5c946c9e7354/cmaf.isml/.m3u8
+
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/8tv.png",8tv
-#EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056645&autoplay=1&mute=0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8
+
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/tv9.png",tv9
-https://live-streams-ssai-01.tonton.com.my/live/2020783a-0303-401a-9c92-b7c3c9108c0b/cmaf.isml/.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"HfqKZFr0HoPFIL3fkTk0yg","k":"Zfavh1DSSyMNkbmEI3rB5A"}]}
+https://tonton-live-ssai.akamaized.net/live/2020783a-0303-401a-9c92-b7c3c9108c0b/cmaf.isml/.m3u8
  
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"V6jW+eODKIfbGOpgcRGHNg", "kid":"QaQvta9FdQHBG7mxWNWhEA" } ], "type":"temporary" }
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="110" tvg-id="110" tvg-chno="110" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/tvalhijrah.png",al-hijrah
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ahNrZdLUVpnLHphQbfob7g", "kid":"+E++gm0VdV75HryrZ8V9EA" } ], "type":"temporary" }
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="111" tvg-id="111" tvg-chno="111" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/awesometv.png",awesome tv
-https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vcyu6IazQN2QH0v43Z06ag", "kid":"w+lWs4rpk74UlMfPoXsREA" } ], "type":"temporary" }
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="112" tvg-id="112" tvg-chno="112" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/tvs.png",tvs
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
@@ -186,7 +173,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 ----------------------Kids-------------------------
 
 #EXTINF:-1 group-title="myOrigin: Kids" ch-number="602" tvg-id="602" tvg-chno="602" tvg-logo="",cartoon network hd
-
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/index.m3u8
 
 #EXTINF:-1 group-title="myOrigin: Kids" ch-number="603" tvg-id="603" tvg-chno="603" tvg-logo="",dreamworks
 
@@ -265,7 +252,8 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
 
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="805" tvg-id="805" tvg-chno="805" tvg-logo="",K-Plus hd
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
@@ -339,22 +327,26 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="906" tvg-id="906" tvg-chno="906" tvg-logo="",astro superSport hd
-http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186387&extension=ts&play_token=oNnNMlQM3k
+
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="907" tvg-id="907" tvg-chno="907" tvg-logo="",astro superSport 2 hd
-http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186388&extension=ts&play_token=oNnNMlQM3k
+
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="908" tvg-id="908" tvg-chno="908" tvg-logo="",astro superSport 3 hd
-http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186389&extension=ts&play_token=oNnNMlQM3k
+
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="909" tvg-id="909" tvg-chno="909" tvg-logo="",astro superSport 4 hd
-http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186390&extension=ts&play_token=oNnNMlQM3k
+
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="910" tvg-id="910" tvg-chno="910" tvg-logo="",SPOTV hd
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="911" tvg-id="911" tvg-chno="911" tvg-logo="",SPOTV2 hd
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="912" tvg-id="912" tvg-chno="912" tvg-logo="",Sportstars
 
@@ -396,50 +388,58 @@ http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186390&extens
 
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="929" tvg-id="929" tvg-chno="929" tvg-logo="",True Premier Football 1
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/truepremfootball1.m3u8
+
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="930" tvg-id="930" tvg-chno="930" tvg-logo="",True Premier Football 2
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/truepremfootball2.m3u8
+
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="931" tvg-id="931" tvg-chno="931" tvg-logo="",True Premier Football 3
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/truepremfootball3.m3u8
+
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="932" tvg-id="932" tvg-chno="932" tvg-logo="",True Premier Football 4
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/truepremfootball4.m3u8
+
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="933" tvg-id="933" tvg-chno="933" tvg-logo="",True Premier Football 5
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/truepremfootball5.m3u8
+
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="937" tvg-id="937" tvg-chno="937" tvg-logo="",True Sport 1
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/truesports1.m3u8
+
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="938" tvg-id="938" tvg-chno="938" tvg-logo="",True Sport 2
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/truesports2.m3u8
+
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="939" tvg-id="939" tvg-chno="939" tvg-logo="",True Sport 3
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/truesports3.m3u8
+
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="940" tvg-id="940" tvg-chno="940" tvg-logo="",True Sport 5
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/truesports5.m3u8
+
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="941" tvg-id="941" tvg-chno="941" tvg-logo="",True Sport 7
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/truesports7.m3u8
 
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="941" tvg-id="941" tvg-chno="941" tvg-logo="",EURO EVENT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#EXTVLCOPT:http-Referer=https://player.goupnow.net/
+https://tevi.my.id/Euroevent.m3u8|referer=https://player.goupnow.net/
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys": [ { "kty": "oct", "k": "HO5FQCla5tbFGcUEGoDxwA", "kid": "jQKveknkSzGXZNgR0BjF6A" } ], "type": "temporary" }
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="934" tvg-id="934" tvg-chno="940" tvg-logo="",Astro Supersport ⁽ˢᵉʳᵛᵉʳ ²⁾
-https://cors.iptvsystem.my.id/https://linear03-playback.sooka.my/CH3/masterCH3.mpd
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="941" tvg-id="941" tvg-chno="941" tvg-logo="",EURO EVENT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#EXTVLCOPT:http-Referer=https://player.goupnow.net/
+https://tevi.my.id/Euroevent2.m3u8|referer=https://player.goupnow.net/
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" }], "type":"temporary" }
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="935" tvg-id="935" tvg-chno="935" tvg-logo="",Astro Supersport 2 ⁽ˢᵉʳᵛᵉʳ ²⁾
-https://cors.iptvsystem.my.id/sooka/CH4/masterCH4.mpd
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="941" tvg-id="941" tvg-chno="941" tvg-logo="",EURO EVENT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#EXTVLCOPT:http-Referer=https://player.goupnow.net/
+https://tevi.my.id/Euroevent3.m3u8|referer=https://player.goupnow.net/
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bda7f74b842f4f0eb142395dadd91f07:fb12f661d640e4ebdf38e312302260eb
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="936" tvg-id="936" tvg-chno="936" tvg-logo="",Astro Supersport 4 ⁽ˢᵉʳᵛᵉʳ ²⁾
-https://cors.iptvsystem.my.id/sooka/CH2/masterCH2.mpd
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="941" tvg-id="941" tvg-chno="941" tvg-logo="",EURO EVENT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#EXTVLCOPT:http-Referer=https://player.goupnow.net/
+https://tevi.my.id/Euroevent4.m3u8|referer=https://player.goupnow.net/
+
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="941" tvg-id="941" tvg-chno="941" tvg-logo="",EURO EVENT 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#EXTVLCOPT:http-Referer=https://player.goupnow.net/
+https://tevi.my.id/Euroevent5.m3u8|referer=https://player.goupnow.net/
 
 
 ----------------------Korea-------------------------
@@ -532,214 +532,3 @@ https://c.mjh.nz/abc-vic.m3u8
 
 #EXTINF:-1 group-title="myOrigin: Australia" ch-number="987" tvg-id="987" tvg-chno="987" tvg-logo="",ABC tv plus
 https://c.mjh.nz/abc-tv-plus.m3u8
-
-
-----------------------Test----------------------
-
-#EXTINF:-1 group-title="myOrigin: Test",[HD]AstroSupersports1
-https://epg.pw/stream/a128a2e3f868fca436fcab08c7e947d79a49c1fbfe01cbb70e55dbe098971bf0.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[HD]Astro Supersports 1
-https://epg.pw/stream/44d5f3e4644647d11fd33f88d6b29ddd6bea2fdc712572451c599eed5b87504e.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[HD]astrosupersport 1
-https://epg.pw/stream/9e8b73c3471fb1cc5de554e46d3a5366f035ec578ff5d99200e6d2fea31f3239.m3u8
-#EXTINF:-1 group-title="myOrigin: Test",[HD]AstroSupersports1
-https://epg.pw/stream/e43559843deaa6cea12ef5909b3b70b41c8d3cb7eba91821dc6edac45a96ccf5.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[HD]AstroSupersports1
-https://epg.pw/stream/e19e761dc129eff186db1cb9d720589be3d53dcfa7feb0531a5f2e2b1ba7c056.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[SD]AstroSupersports1
-https://epg.pw/stream/7f572d82e43a686854eadfaaac08be8a3794890620c61bc0d43ebf6fcb9cd4e9.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[HD]Astro Supersports 1
-https://epg.pw/stream/9e1e3427f8e042972ad76c63064eb3432eab204219e5bf6d51a8bf0f9320ddf3.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[HD]AstroSupersports1
-https://epg.pw/stream/aaa1f47fc0800bb7415b8b72eea732009253692f81c8987ffe79dfbdfcc3ecbc.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[HD]AstroSupersports1
-https://epg.pw/stream/5f0eb270c7d4914169d51ef682eb09aa08ff6cb44e33f358f278a6147b2b39c6.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[BD]astro supersport 2@@1
-https://epg.pw/stream/24629eff58f2e1960df17c9ac5812b392302a3cb921d01b0ff5a5458a3485a36.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[SD]AstroSupersports2
-https://epg.pw/stream/5ed4ea3c4f3789782f2aac4006aa4863eef91a885a3f525e65af6c17ad584d28.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[SD]AstroSupersports2
-https://epg.pw/stream/32781b016087431869519f06960b36e7891e736fb0b1727b93e1f3f876a5258f.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[SD]Astro Supersports 2
-https://epg.pw/stream/72192ec63ac1f17afa2a0aec7ec17d481efef847efe4b123940ca3858d0751fe.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[BD]astrosupersport 2
-https://epg.pw/stream/5b0063833e2e4c91df9946e244847e895f604e82e84efc80df51b2ab9bf124f2.m3u8
-#EXTINF:-1 group-title="myOrigin: Test",[SD]Astro Supersports 2
-https://epg.pw/stream/a7488f1ed07ad3cb9a043da824e392c890b88207d3ed4a6414456e3428dbfc2d.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[HD]AstroSupersports2
-https://epg.pw/stream/7072f29b8073f2d8b185f7dd33985c4dac00c1818a6baf6d71ec24adbd519ba9.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[VGA]AstroSupersports2
-https://epg.pw/stream/aeb0d15b5bea4447f0f6d3522c2d8c584b4e411689695c4f2ecb37c7453bb2f3.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[SD]AstroSupersports2
-https://epg.pw/stream/4d708402fc92c66e372d76fec0fde4e8737fab35ca15e4c20b92b65e1ee7e992.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[VGA]AstroSupersports2
-https://epg.pw/stream/51ff325c0aeb5bd86be34047433708cda30e518acce4e64990712a81370ddcf9.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[BD]astro supersport 2
-https://epg.pw/stream/a6021743e0e0ea0da317a3ee3896777648a8ab3330e2afcab893808ee14ec054.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[VGA]Astro Supersports 2
-https://epg.pw/stream/91aad4c08b8ef63cd29de3f2270f83d828c6d8905422483d3d9757af07cabee0.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[SD]Astro Supersports 2
-https://epg.pw/stream/3c10c514af4679b1118b7fe9214864d677adaecab9182566b1711883c5840685.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[BD]Astro Supersports 2
-https://epg.pw/stream/cb3d24235c0ead3a576bd4ad29e08f097bdc8e6be56c702f48ca27c9cb4c2236.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[SD]AstroSupersports2
-https://epg.pw/stream/d9860b9ac9a1b2b927ff7c7ee00da99f3f5dceda411513c1ad8dcfe8ce810db1.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[SD]AstroSupersports2
-https://epg.pw/stream/d487bd2bb865660276c35443e0e33aa0b3ba8690b145ab68ef66035882e44576.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[SD]Astro Supersports 3
-https://epg.pw/stream/2aacbb9c3183dd8951beee5c6b249d3dd4ac03217e03a5d3844500cf55d42ad8.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[HD]AstroSupersports3
-https://epg.pw/stream/c4445ac2d434e5f3e6a4274778f85bcdf3fa380007f47b09765b6d4dece7a531.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[HD]AstroSupersports3
-https://epg.pw/stream/8f29483b92fc4c255ddde9c0242e1ae1ed60043629a4e5e2914ccd8e8542c1ee.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[BD]AstroSupersports3
-https://epg.pw/stream/289a829cc0eedfc6f8f1d39e2d5bad5146ce22d7c711f49dc843974bb9dce435.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[BD]Astro Supersports 3
-https://epg.pw/stream/d2f642129a35a22f96683bb898f8b71b41c5acc1809844a18682055711341c91.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[SD]Astro Supersports 3
-https://epg.pw/stream/393487a6e4b8c483ae3fe31a437881efbbbb0fcf6b7357bdb35d2d296392b61a.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[SD]Astro Supersports 3
-https://epg.pw/stream/ba9b4d4006b6fa8e4c33e1fc6c3c854ecec9da3447212cfea01a994e76d4741d.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[BD]astro supersport 3@@1
-https://epg.pw/stream/9cf3c54a966de9e04c381d66890bb9153fd28e1e9443bf48b5d9c9230d6c3c7e.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[SD]AstroSupersports3
-https://epg.pw/stream/8961a5e0aabd1bf06920151d4285550a0ba080ff888fb903a571af549180f75e.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[SD]AstroSupersports3
-https://epg.pw/stream/206441a9f3a06fbd2eeeb3766708565258eab460f8c0eb74c4815191345b3155.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[SD]AstroSupersports3
-https://epg.pw/stream/a77d3c73b1fe9ec4982077fdf3be7e99205f529a7328d825ea7d5b6a852c8c79.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[SD]AstroSupersports3
-https://epg.pw/stream/8628d13eaa40c0e30c0cd1e872f44d91cfa62ea53cd97d7e4930c83f08570d15.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[BD]AstroSupersports3
-https://epg.pw/stream/76b02dc917814c94fd81a5939d901ce73de76c77a50aaa9b38a82e753c35fdf4.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[HD]Astro Supersports 3
-https://epg.pw/stream/46669585abdbe1f79599981e2423812fac5b9221253c1c26b768d1248680673b.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[BD]Astro Supersports 4
-https://epg.pw/stream/8ec4a64020f21f3f87389fddb0c1bc9d032bfb6b2705c04314d93eb2a9c17c88.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[BD]Astro Supersports 4
-https://epg.pw/stream/5d9026b0dfe5b6b14ab49492f481ddc264c6ad3419f5e64cadd6190efd378448.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[BD]AstroSupersports4
-https://epg.pw/stream/2a8cdc6b6be04966500c0b156864eb6aa4d0e952ce26ef3ead24949fddc01ecb.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[BD]AstroSupersports4
-https://epg.pw/stream/4abbe323a59d001eef916f8e66627031e29b83289b7fb6c3daea350d46c3d2ac.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[HD]astro supersport
-https://epg.pw/stream/378bbd50bbd7ed8aafcc71195bb2bde2eab1f877ad9c7995306413dc78cf4a40.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[HD]astro supersport 4
-https://epg.pw/stream/3f84e0de00a3808fc088ea8b2768e42e075ce58d0a68911a71d088d1da153aae.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[VGA]astro supersport@@2
-https://epg.pw/stream/d7cbf82e8c785e0b1bbcc43ff9899e57d2828059560287c5d875603fe35f5d2c.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[SD]AstroSupersports4
-https://epg.pw/stream/72eefa829ee2f000a75b92eeee015471488bb1885ec2e718dcf9968a3b8dc02e.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[BD]AstroSupersports4
-https://epg.pw/stream/abcfb7647193318826fe08c116c818686d1580b3dbc0c571e0487f1af8b2d828.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[BD]Astro Supersports 4
-https://epg.pw/stream/6ae53a5bf808c0bea442b199955fdc38ac82ea146b6935ed7afa3383d6bc0820.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[HD]astrosupersport 4
-https://epg.pw/stream/8c971e5d2e3699f0ad9bbfde13c09fc3760a6896bdb3931be527084547269a72.m3u8
-#EXTINF:-1 group-title="myOrigin: Test",[BD]Astro Supersports 4
-https://epg.pw/stream/710622f20e9423c09be57bdbf41eff5619954bf7e7da39e49e8fcf5318e5eee8.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[HD]AstroSupersports4
-https://epg.pw/stream/ff5701a6487c4a797b2a71fd2ba8e93511d3d81fcf87bb87a5ba21339bfbb190.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[BD]AstroSupersports4
-https://epg.pw/stream/54fb3706162c8c250a8d2a32f14790cc46a21013aa7292d948698597695a3da7.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[BD]AstroSupersports4
-https://epg.pw/stream/440ed67d4eaa07a13e67fec75d9c4beb126f71262f86e18f6d8fdb99576a38eb.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[BD]AstroSupersports4
-https://epg.pw/stream/e30c6ab9a27f8ad1b99f698d02ab0e7a69ba405c794af4ff53932545464b720b.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[BD]AstroSupersports4
-https://epg.pw/stream/30b07445f8fbc99b8ed45383c63d014a2ef01d91f144fba07d1528e928490add.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[BD]Astro Supersports 4
-https://epg.pw/stream/10aa12f23f4dc50f9627b767464e325ee819130655afa726ffbe131e6498a2bc.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[HD]astro supersport 5 fhd
-https://epg.pw/stream/df12a3d051f7e6a6d9e7d8fd437d89c526aa9df00780ca1467f674d6b9fa9cdc.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[HD]ASSP
-https://epg.pw/stream/115cc092698b277cf1198e392d5cdc1798875778beed1ab7cebff466a11ae455.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[HD]ASSP
-https://epg.pw/stream/28e4ae8258a0ef610f8617cb3bd231bd5bed438989e455aa9aea29dd4ff9e65c.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[HD]ASSP
-https://epg.pw/stream/33a05a8652424f570f54393b707d099439e93cfba6d90ebd2ff8f03b5dd4cd61.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[HD]ASSP
-https://epg.pw/stream/757bf16711a3c2b10ecdc6f54c4e602db687f103ddb7c83071c2daa425640d10.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[SD]ASSP
-https://epg.pw/stream/0ff0bff7cd5583e0f9dfb5729892b28e0d06e24de8c91b2df010231d958f9e2a.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[HD]ASSP
-https://epg.pw/stream/f3ed6529a35a5ca9a2a657995b39b37df3cfd8a602e7c14b3a01e905c460381a.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[HD]ASSP
-https://epg.pw/stream/0ce7fc5666a2cfd889f725b0a865fe8e233ddcabec173d813ac1da5563ee2fe6.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[HD]ASSP
-https://epg.pw/stream/f5f1b99983eac919f1eb86aa8468bd49a2941c5929c8471e8173e524b8e38d33.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[HD]ASSP
-https://epg.pw/stream/b56bafe444aa6b7ebd01ec34ebba1295a08e4f5584b8d2f91d5e271117c7b4b6.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[SD]ASSP2
-https://epg.pw/stream/3a5a032b0c86d1e22a138e255a4102db70b9ff795e7d45c84c5093c122022e63.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[VGA]ASSP2
-https://epg.pw/stream/db8ec9376227bcec290243775660eef14073f49ee6bfcf9110bc1a4198a2da18.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[VGA]ASSP2
-https://epg.pw/stream/0149815098cfde0ff40df53f70c5ad1de91147d3023a66cd4da8b623be3980dd.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[VGA]ASSP2
-https://epg.pw/stream/503a4703f6706d107f15e7295fb9438170500b92ba359d6800f0143e795d3641.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[BD]ASSP2
-https://epg.pw/stream/e8131ae4d9ca8c4c0275871d4ed7ac758ad56deaf634d28a6cb95d2e40803034.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[VGA]ASSP2
-https://epg.pw/stream/050d0a1ffc8cb7c3b6c473095c698ae739a288e4159c3488040a277dbe275e60.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[VGA]ASSP2
-https://epg.pw/stream/2e0b2089c7ead25e45aaa888642a6915466374c772198cc7af2f8b877878ee4e.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[SD]ASSP2
-https://epg.pw/stream/fecc4e7af8673638fd1aa2cb495ecb003f5f682b83ac1aaa1143114dc7e49251.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[VGA]ASSP2
-https://epg.pw/stream/d7c7094165cfad955c2772d817864ca177c0949b40cca338bc4eaa88a8f3474d.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[HD]ASSP2
-https://epg.pw/stream/a7c4ec7357f28e08810fd2b86a362e0ed4b095d89c6b5f01f5f8c24f9f8e95f6.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[BD]ASSP2
-https://epg.pw/stream/0001097505d285a18b96efc8c71db38f431eb8ea52a4a25a453a568a33a6ec8a.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[HD]ASSP2
-https://epg.pw/stream/a4a8a5ed924c051f3ade52698b42f2eeb4d9f69161fe503240f9146d8e4bab10.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[BD]ASSP2
-https://epg.pw/stream/b4ac0fd4a86c0346b908945d5123fb0b5bcc3d27bcbbfb3a5c6ca7c271fa4796.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[BD]ASSP2
-https://epg.pw/stream/7c4a2825d55b7383f1255f979abbf4d1e83e9638d90c8100c109607291523ba4.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[BD]ASSP3
-https://epg.pw/stream/110943bac6cbcb3d90d715f3c368686b754f123d7e26da16f82e239f453aa389.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[HD]ASSP3
-https://epg.pw/stream/15706242d1216c5c57800cca8369e6e87801a85a35e812e36796696bc45165e5.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[SD]ASSP3
-https://epg.pw/stream/f46b5aac0f28c47993b9526b242d3edbff5ecc583a159d259c70720cf300cc39.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[HD]ASSP3
-https://epg.pw/stream/25fc8694531ba6d034cb035dbc87bf9904443c4df71daedc0f27f6e8bd276588.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[HD]ASSP3
-https://epg.pw/stream/85933546ff5c48c5d78265f14e546a605664885f58ff9067db0ad5114bc96e16.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[BD]ASSP3
-https://epg.pw/stream/fade8d4d9bcc1638ede4d55c15ce89a10f72d4ad4f4cc102963c002a595ee554.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[BD]ASSP3
-https://epg.pw/stream/49a50f16c79976c305def5794c7660ed590300dcc6e94e57d866c5c63a4c8680.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[BD]ASSP3
-https://epg.pw/stream/325e4dcc1b77a837f65fefd691cfc2bddcd863543e14998e60b1a6e413a03bf9.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[BD]ASSP3
-https://epg.pw/stream/3853ba5a132f78e4c72d770077f52785dec10776e309f36b4c3c98a9cc750629.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[SD]ASSP3
-https://epg.pw/stream/7f350276e57734e7ab779b847a1a095142fa9806da319648063a5d27a680da5f.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[BD]ASSP3
-https://epg.pw/stream/00010a1172df1bfff361c898193a72d00ebae7e9bb7ee26118d47316f3adc3f4.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[BD]ASSP3
-https://epg.pw/stream/71be678ce62525b488277834060aa015b30b2546139653ca8f64b9b963dcf07a.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[BD]ASSP3
-https://epg.pw/stream/db0588ab88879be3d36c206bda4d9f25664d1360e8470dee26829db0aea4bcf1.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[BD]ASSP3
-https://epg.pw/stream/44832095be73db9840f69dfc006523533a6d1bd5e50e6b8c0695c240bb15545d.ctv
-#EXTINF:-1 group-title="myOrigin: Test",[BD]ASSP4
-https://epg.pw/stream/00674d58090bf5ef9dc078922acd30f5eab6d8bc1962261022124fd0c9cf689b.ctv
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
-#EXTINF:-1 group-title="myOrigin: Test",121 Unifi Siar
-https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227948/3221227948.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=nR3IWnuvgquP%2F8My8iyxx%2BoxnuQhQQA9yraVG9ZBgJG7lGYp3EaTqDAXfA4S%2BPVgQpTIHrOhXCgOoaP1Jv59qvHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124221801%3AUTC%2C1001767138%2C27.125.242.143%2C20221124221801%2Curn:Huawei:liveTV:XTV56919296%2C1001767138%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C3073678270%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6001&from=5&ocs=2_1.9.62.160_80&hms_devid=1787&mag_hms=1787,1745,1797,1793&it=H4sIAAAAAAAAA0XMzQoCIRRA4beZpfhLtXBVBG0kmGob1-tVBBtJp4HePiaC9uc7cwOk08GGqGjD0XuDWuvtzhsuQuAmCk-oOAydnq5aNSCUkqfkaljZbdzfBWecSSmYkMNl3R0LJCu_pXs9PLU_G6ktGcmGHtkCnUFKjRLMuU7sXOB9beWXfADZd8fkmQAAAA
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
-#EXTINF:-1 group-title="myOrigin: Test",201 tvN Movies
-https://web.hypp.tv:443/PLTV/88888888/224/3221227553/3221227553.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=H8USOZqD4I2bxHIyzKB%2BnKTDq%2BIToAJxs6VtIhBb%2FNFw13x1HN1VtGsGy8wPB00MKrS9eklsKbM5%2BGUUXK9YHp80VkBqjDwau2wIP2KqdiFb36ThO1ayqBSBMPmUhBSTl1Gu6dfQIjZRtiMM1k%2B5qA%3D%3D%3A20230705141802%3AUTC%2C1004320542%2C14.1.246.132%2C20230705141802%2Curn:Huawei:liveTV:XTV100000381%2C1004320542%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C3692854%2C0%2C2611154%2C21dd4af0-2953-367a-cbe6-1cb936543fca%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&ocs=2_1.9.62.184_80&hms_devid=1795&it=H4sIAAAAAAAAA0XMvQrCMBRA4bfJGPJzW9IhkyK4BKHqKjfJNRRig0kt-PZSEdzPd5aKgY57O8ReitijMpLAeIMQtAcPYDoE7AbW6OmK1SxgztOcXIkbu467mxRccKUk18DO2-6QMVn1Ld3r4an-2Uh1nQLZ2O58xcYxpUoJl6nM_JTxfan5l3wAV8JRZ5kAAAA
-
-
-
-
