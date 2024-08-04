@@ -2,7 +2,7 @@
 
 # =======================================================
 # Playlist Name: My Playlist by indiecrew
-# Last Update: 2024-06-22
+# Last Update: 2024-08-04
 # =======================================================
 
 ----------------------Malaysia----------------------
@@ -26,10 +26,14 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/didik.png",didiktv kpm
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4EDKKqQm33ibo4S6VhiRtA", "kid":"R6Ega0SCLIkyDnCRbPV7DA" } ], "type":"temporary" }
+https://tonton-live-ssai.akamaized.net/live/0e27ef78-4cc9-4c62-bec9-5c946c9e7354/cmaf.isml/.m3u8
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/8tv.png",8tv
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/tv9.png",tv9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -51,6 +55,15 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="120" tvg-id="120" tvg-chno="120" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/dnegara.png",dewanNegara
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
+
+#EXTINF:-1, group-title="IPTV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/drmhebatmy.png",Drama Hebat Malaysia 
+https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessionId=44e175e1-eb16-4e7c-8aaa-e04e865974e9 
+
+#EXTINF:-1, group-title="IPTV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/filemmantapmy.png",Filem Mantap Malaysia
+https://78470390525b4b03b023113696878114.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd?aws.sessionId=e5afa272-3bef-427f-9c68-976c25e8d27b 
+
+#EXTINF:-1, group-title="IPTV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/drmhotpotmy.png",Drama Hotpot Malaysia
+https://770c1b3657e94bc4b76ecd3e12882bcc.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd?aws.sessionId=58442df2-7820-4010-9a73-56381a7afe27
 
 ----------------------Singapura----------------------
 
@@ -173,7 +186,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 ----------------------Kids-------------------------
 
 #EXTINF:-1 group-title="myOrigin: Kids" ch-number="602" tvg-id="602" tvg-chno="602" tvg-logo="",cartoon network hd
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/index.m3u8
+
 
 #EXTINF:-1 group-title="myOrigin: Kids" ch-number="603" tvg-id="603" tvg-chno="603" tvg-logo="",dreamworks
 
@@ -252,8 +265,7 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
 
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="805" tvg-id="805" tvg-chno="805" tvg-logo="",K-Plus hd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
@@ -314,8 +326,9 @@ https://d2q3zea8ff7bj4.cloudfront.net/out/v1/acd34a6d1e2540f888793461457b77e1/ma
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="901" tvg-id="901" tvg-chno="901" tvg-logo="",sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=1
 
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="902" tvg-id="902" tvg-chno="902" tvg-logo="",astro arena hd
-
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="902" tvg-id="902" tvg-chno="902" tvg-logo="",unifi sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="903" tvg-id="903" tvg-chno="903" tvg-logo="",astro arena 2 hd
 
@@ -339,14 +352,10 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="910" tvg-id="910" tvg-chno="910" tvg-logo="",SPOTV hd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="911" tvg-id="911" tvg-chno="911" tvg-logo="",SPOTV2 hd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="912" tvg-id="912" tvg-chno="912" tvg-logo="",Sportstars
 
@@ -401,45 +410,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="933" tvg-id="933" tvg-chno="933" tvg-logo="",True Premier Football 5
 
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="937" tvg-id="937" tvg-chno="937" tvg-logo="",True Sport 1
-
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="938" tvg-id="938" tvg-chno="938" tvg-logo="",True Sport 2
-
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="939" tvg-id="939" tvg-chno="939" tvg-logo="",True Sport 3
-
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="940" tvg-id="940" tvg-chno="940" tvg-logo="",True Sport 5
-
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="941" tvg-id="941" tvg-chno="941" tvg-logo="",True Sport 7
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="941" tvg-id="941" tvg-chno="941" tvg-logo="",EURO EVENT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-#EXTVLCOPT:http-Referer=https://player.goupnow.net/
-https://tevi.my.id/Euroevent.m3u8|referer=https://player.goupnow.net/
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="941" tvg-id="941" tvg-chno="941" tvg-logo="",EURO EVENT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-#EXTVLCOPT:http-Referer=https://player.goupnow.net/
-https://tevi.my.id/Euroevent2.m3u8|referer=https://player.goupnow.net/
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="941" tvg-id="941" tvg-chno="941" tvg-logo="",EURO EVENT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-#EXTVLCOPT:http-Referer=https://player.goupnow.net/
-https://tevi.my.id/Euroevent3.m3u8|referer=https://player.goupnow.net/
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="941" tvg-id="941" tvg-chno="941" tvg-logo="",EURO EVENT 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-#EXTVLCOPT:http-Referer=https://player.goupnow.net/
-https://tevi.my.id/Euroevent4.m3u8|referer=https://player.goupnow.net/
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="941" tvg-id="941" tvg-chno="941" tvg-logo="",EURO EVENT 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-#EXTVLCOPT:http-Referer=https://player.goupnow.net/
-https://tevi.my.id/Euroevent5.m3u8|referer=https://player.goupnow.net/
 
 
 ----------------------Korea-------------------------
