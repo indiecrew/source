@@ -56,13 +56,13 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="120" tvg-id="120" tvg-chno="120" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/dnegara.png",dewanNegara
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
 
-#EXTINF:-1, group-title="IPTV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/drmhebatmy.png",Drama Hebat Malaysia 
+#EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="",Drama Hebat Malaysia 
 https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessionId=44e175e1-eb16-4e7c-8aaa-e04e865974e9 
 
-#EXTINF:-1, group-title="IPTV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/filemmantapmy.png",Filem Mantap Malaysia
+#EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="114" tvg-id="114" tvg-chno="114" tvg-logo="",Filem Mantap Malaysia
 https://78470390525b4b03b023113696878114.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd?aws.sessionId=e5afa272-3bef-427f-9c68-976c25e8d27b 
 
-#EXTINF:-1, group-title="IPTV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/drmhotpotmy.png",Drama Hotpot Malaysia
+#EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="115" tvg-id="115" tvg-chno="115" tvg-logo="",Drama Hotpot Malaysia
 https://770c1b3657e94bc4b76ecd3e12882bcc.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd?aws.sessionId=58442df2-7820-4010-9a73-56381a7afe27
 
 ----------------------Singapura----------------------
@@ -330,8 +330,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="903" tvg-id="903" tvg-chno="903" tvg-logo="",astro arena 2 hd
-
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="903" tvg-id="903" tvg-chno="903" tvg-logo="",unifi sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live12.mpd
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="904" tvg-id="904" tvg-chno="904" tvg-logo="",redBullTv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
@@ -373,19 +374,10 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="917" tvg-id="917" tvg-chno="917" tvg-logo="",Fight Sports
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="922" tvg-id="922" tvg-chno="922" tvg-logo="",astro arena bola
-
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="923" tvg-id="923" tvg-chno="923" tvg-logo="",astro arena bola 2
-
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="924" tvg-id="924" tvg-chno="924" tvg-logo="",astro arena bola 3
-
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="925" tvg-id="925" tvg-chno="925" tvg-logo="",astro arena bola 4
-
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="918" tvg-id="918" tvg-chno="918" tvg-logo="",Fight Box
+http://iptv.prosto.tv:7000/ch118/video.m3u8
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="926" tvg-id="926" tvg-chno="926" tvg-logo="",Sky Premier League
 
