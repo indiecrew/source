@@ -2,7 +2,7 @@
 
 # =======================================================
 # Playlist Name: My Playlist by indiecrew
-# Last Update: 2024-08-04
+# Last Update: 2024-08-10
 # =======================================================
 
 ----------------------Malaysia----------------------
@@ -64,6 +64,10 @@ https://78470390525b4b03b023113696878114.mediatailor.ap-southeast-1.amazonaws.co
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="115" tvg-id="115" tvg-chno="115" tvg-logo="",Drama Hotpot Malaysia
 https://770c1b3657e94bc4b76ecd3e12882bcc.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd?aws.sessionId=58442df2-7820-4010-9a73-56381a7afe27
+
+#EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="116" tvg-id="116" tvg-chno="116" tvg-logo="",Dunia Sinema HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-720H.m3u8
 
 ----------------------Singapura----------------------
 
@@ -215,35 +219,35 @@ https://newidco-babysharktv-1-us.roku.wurl.tv/4300.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"OaJ6osyEoptmX8xNv5xUtg","kid":"FAa78hjKFPlnA0/PSr93EA"}],"type":"temporary"}
-#EXTINF:-1 group-title="myOrigin: News" ch-number="701" tvg-id="701" tvg-chno="701" tvg-logo="",bernamaTV
+#EXTINF:-1 group-title="myOrigin: News" ch-number="701" tvg-id="701" tvg-chno="701" tvg-logo="",Bernama TV
 
  
-#EXTINF:-1 group-title="myOrigin: News" ch-number="702" tvg-id="702" tvg-chno="702" tvg-logo="",berita RTM
+#EXTINF:-1 group-title="myOrigin: News" ch-number="702" tvg-id="702" tvg-chno="702" tvg-logo="",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
  
-#EXTINF:-1 group-title="myOrigin: News" ch-number="703" tvg-id="703" tvg-chno="703" tvg-logo="",astro Awani
+#EXTINF:-1 group-title="myOrigin: News" ch-number="703" tvg-id="703" tvg-chno="703" tvg-logo="",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
  
-#EXTINF:-1 group-title="myOrigin: News" ch-number="704" tvg-id="704" tvg-chno="704" tvg-logo="",al Jazeera
+#EXTINF:-1 group-title="myOrigin: News" ch-number="704" tvg-id="704" tvg-chno="704" tvg-logo="",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
  
-#EXTINF:-1 group-title="myOrigin: News" ch-number="705" tvg-id="705" tvg-chno="705" tvg-logo="",channel News Asia
+#EXTINF:-1 group-title="myOrigin: News" ch-number="705" tvg-id="705" tvg-chno="705" tvg-logo="",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
  
-#EXTINF:-1 group-title="myOrigin: News" ch-number="706" tvg-id="706" tvg-chno="706" tvg-logo="",bbcWorldNews
+#EXTINF:-1 group-title="myOrigin: News" ch-number="706" tvg-id="706" tvg-chno="706" tvg-logo="",Blommberg
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 
+#EXTINF:-1 group-title="myOrigin: News" ch-number="707" tvg-id="707" tvg-chno="707" tvg-logo="",NHK World Japan
+https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/id/playlist.m3u8
 
-#EXTINF:-1 group-title="myOrigin: News" ch-number="707" tvg-id="707" tvg-chno="707" tvg-logo="",nhkWorldJapan
-
-
-#EXTINF:-1 group-title="myOrigin: News" ch-number="708" tvg-id="708" tvg-chno="708" tvg-logo="",arirang TV
+#EXTINF:-1 group-title="myOrigin: News" ch-number="708" tvg-id="708" tvg-chno="708" tvg-logo="",Arirang TV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
-#EXTINF:-1 group-title="myOrigin: News" ch-number="709" tvg-id="709" tvg-chno="709" tvg-logo="",cgtn
+#EXTINF:-1 group-title="myOrigin: News" ch-number="709" tvg-id="709" tvg-chno="709" tvg-logo="",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
 
-#EXTINF:-1 group-title="myOrigin: News" ch-number="710" tvg-id="710" tvg-chno="710" tvg-logo="",iNews
-
+#EXTINF:-1 group-title="myOrigin: News" ch-number="710" tvg-id="710" tvg-chno="710" tvg-logo="",CNN International
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 ----------------------Showbiz----------------------
@@ -330,13 +334,23 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="903" tvg-id="903" tvg-chno="903" tvg-logo="",unifi sports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="903" tvg-id="903" tvg-chno="903" tvg-logo="",TNT SPORTS 1
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="904" tvg-id="904" tvg-chno="904" tvg-logo="",redBullTv
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="904" tvg-id="904" tvg-chno="904" tvg-logo="",TNT SPORTS 2
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="905" tvg-id="905" tvg-chno="905" tvg-logo="",TNT SPORTS 3
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="906" tvg-id="906" tvg-chno="906" tvg-logo="",redBullTv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="905" tvg-id="905" tvg-chno="905" tvg-logo="",tvriSport
-
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="906" tvg-id="906" tvg-chno="906" tvg-logo="",astro superSport hd
 
@@ -348,24 +362,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="909" tvg-id="909" tvg-chno="909" tvg-logo="",astro superSport 4 hd
-
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="910" tvg-id="910" tvg-chno="910" tvg-logo="",SPOTV hd
-
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="911" tvg-id="911" tvg-chno="911" tvg-logo="",SPOTV2 hd
-
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="912" tvg-id="912" tvg-chno="912" tvg-logo="",Sportstars
-
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="913" tvg-id="913" tvg-chno="913" tvg-logo="",Sportstars 2
-
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="914" tvg-id="914" tvg-chno="914" tvg-logo="",Sportstars 3
-
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="915" tvg-id="915" tvg-chno="915" tvg-logo="",Sportstars 4
 
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="916" tvg-id="916" tvg-chno="916" tvg-logo="",Soccer Channel
