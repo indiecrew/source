@@ -217,10 +217,8 @@ https://newidco-babysharktv-1-us.roku.wurl.tv/4300.m3u8
 
 ----------------------News-------------------------
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"OaJ6osyEoptmX8xNv5xUtg","kid":"FAa78hjKFPlnA0/PSr93EA"}],"type":"temporary"}
-#EXTINF:-1 group-title="myOrigin: News" ch-number="701" tvg-id="701" tvg-chno="701" tvg-logo="",Bernama TV
-
+#EXTINF:-1 group-title="myOrigin: News" ch-number="701" tvg-id="701" tvg-chno="701" tvg-logo="",CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
  
 #EXTINF:-1 group-title="myOrigin: News" ch-number="702" tvg-id="702" tvg-chno="702" tvg-logo="",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
@@ -248,6 +246,16 @@ https://live.cgtn.com/1000/prog_index.m3u8
 
 #EXTINF:-1 group-title="myOrigin: News" ch-number="710" tvg-id="710" tvg-chno="710" tvg-logo="",CNN International
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="myOrigin: News" ch-number="711" tvg-id="711" tvg-chno="711" tvg-logo="",FOX News Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 group-title="myOrigin: News" ch-number="712" tvg-id="712" tvg-chno="712" tvg-logo="",Sky News
+https://jmp2.uk/SamsungTVPlus/USBB52000022Q.m3u8
+
+#EXTINF:-1 group-title="myOrigin: News" ch-number="713" tvg-id="713" tvg-chno="713" tvg-logo="",USA Today
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
 
 
 ----------------------Showbiz----------------------
