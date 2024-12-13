@@ -2,7 +2,7 @@
 
 # =======================================================
 # Playlist Name: My Playlist by indiecrew
-# Last Update: 2024-08-30
+# Last Update: 2024-12-13
 # =======================================================
 
 ----------------------Malaysia----------------------
@@ -16,7 +16,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/tv3.png",tv3
-https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
+
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="104" tvg-id="104" tvg-chno="104" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/drama.png",Drama Sangat
 
@@ -31,16 +31,16 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4EDKKqQm33ibo4S6VhiRtA", "kid":"R6Ega0SCLIkyDnCRbPV7DA" } ], "type":"temporary" }
-https://tonton-live-ssai.akamaized.net/live/0e27ef78-4cc9-4c62-bec9-5c946c9e7354/cmaf.isml/.m3u8
+
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/8tv.png",8tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8
+
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/tv9.png",tv9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"HfqKZFr0HoPFIL3fkTk0yg","k":"Zfavh1DSSyMNkbmEI3rB5A"}]}
-https://tonton-live-ssai.akamaized.net/live/2020783a-0303-401a-9c92-b7c3c9108c0b/cmaf.isml/.m3u8
+
  
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="110" tvg-id="110" tvg-chno="110" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/tvalhijrah.png",al-hijrah
 
@@ -192,7 +192,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 ----------------------Kids-------------------------
 
 #EXTINF:-1 group-title="myOrigin: Kids" ch-number="602" tvg-id="602" tvg-chno="602" tvg-logo="",cartoon network hd
-
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/cn.m3u8
 
 #EXTINF:-1 group-title="myOrigin: Kids" ch-number="603" tvg-id="603" tvg-chno="603" tvg-logo="",dreamworks
 
@@ -200,8 +200,8 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 #EXTINF:-1 group-title="myOrigin: Kids" ch-number="604" tvg-id="604" tvg-chno="604" tvg-logo="",nickelodeon hd
 
 
-#EXTINF:-1 group-title="myOrigin: Kids" ch-number="605" tvg-id="605" tvg-chno="605" tvg-logo="",nickelodeon junior
-
+#EXTINF:-1 group-title="myOrigin: Kids" ch-number="605" tvg-id="605" tvg-chno="605" tvg-logo="",zoomoo
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -284,27 +284,27 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="806" tvg-id="806" tvg-chno="806" tvg-logo="",HBO hd
-https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=473fabdc05ac4d9b94fd34f33f73394f:1072b1e61206c3859607984f872e549c
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="807" tvg-id="807" tvg-chno="807" tvg-logo="",HBO Hits +1 hd
-https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=363b551913124d6b80074ca295b25129:a6c6efcab0076d572e5732fb6451d19c
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="808" tvg-id="808" tvg-chno="808" tvg-logo="",HBO Family +1 hd
-https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="809" tvg-id="809" tvg-chno="809" tvg-logo="",HBO Signature hd
-https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="810" tvg-id="810" tvg-chno="810" tvg-logo="",Cinemax hd
-https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
+
 
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="811" tvg-id="811" tvg-chno="811" tvg-logo="",Paramount Network
 
@@ -323,7 +323,7 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/hgtv.m3u8
 
 
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="816" tvg-id="816" tvg-chno="816" tvg-logo="",dmax hd
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8
+
 
 
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="820" tvg-id="820" tvg-chno="820" tvg-logo="",OCN Movie
@@ -332,7 +332,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="821" tvg-id="821" tvg-chno="821" tvg-logo="",gem hd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0403e654ddab419db6cc72bb3fa51248:9d43bcc51f3750550d321cdc37e57cc9
-https://d2q3zea8ff7bj4.cloudfront.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
+
 
 
 ----------------------Sports----------------------
@@ -378,7 +378,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="917" tvg-id="917" tvg-chno="917" tvg-logo="",Fight Sports
-https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
+
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="918" tvg-id="918" tvg-chno="918" tvg-logo="",Fight Box
 http://iptv.prosto.tv:7000/ch118/video.m3u8
@@ -402,19 +402,19 @@ http://iptv.prosto.tv:7000/ch118/video.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.41 (KHTML, like Gecko) Large Screen WebAppManager Safari/537.41
-https://dcf-ak-livedazn.akamaized.net/dash/dazn-linear-051/stream.mpd
+
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="932" tvg-id="932" tvg-chno="932" tvg-logo="",PLAY SPORTS 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.41 (KHTML, like Gecko) Large Screen WebAppManager Safari/537.41
-https://dcf-ak-livedazn.akamaized.net/dash/dazn-linear-052/stream.mpd
+
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="933" tvg-id="933" tvg-chno="933" tvg-logo="",PLAY SPORTS 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.41 (KHTML, like Gecko) Large Screen WebAppManager Safari/537.41
-https://dcf-ak-livedazn.akamaized.net/dash/dazn-linear-053/stream.mpd
+
 
 
 ----------------------Korea-------------------------
@@ -470,16 +470,16 @@ https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 
 
 #EXTINF:-1 group-title="myOrigin: Japan" ch-number="966" tvg-id="966" tvg-chno="966" tvg-logo="", J SPORTS 1  
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+
 
 #EXTINF:-1 group-title="myOrigin: Japan" ch-number="967" tvg-id="967" tvg-chno="967" tvg-logo="", J SPORTS 2  
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+
 
 #EXTINF:-1 group-title="myOrigin: Japan" ch-number="968" tvg-id="968" tvg-chno="968" tvg-logo="", J SPORTS 3  
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+
 
 #EXTINF:-1 group-title="myOrigin: Japan" ch-number="969" tvg-id="969" tvg-chno="969" tvg-logo="", J SPORTS 4  
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+
 
 ----------------------Australia-------------------------
 
