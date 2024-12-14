@@ -76,8 +76,8 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-720H.m3u8
 
 #EXTINF:-1 group-title="myOrigin: Singapura" ch-number="201" tvg-id="201" tvg-chno="201" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/ch5.png",channel 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a4315e7266024dfc9ddb9667727d9635:485a55859fda05a1e3e8ae1ae63906e8 
-https://tglmp02.akamaized.net/out/v1/423fa206c4ea458ebe83d6edd172eb10/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=1b8ee3db17d34547983a2c3ddc3d28fc:fb5deb5f688fd67ec20c71191c7f4590
+https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
 
 #EXTINF:-1 group-title="myOrigin: Singapura" ch-number="202" tvg-id="202" tvg-chno="202" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/ch8.png",channel 8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
