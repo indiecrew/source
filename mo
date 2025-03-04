@@ -2,7 +2,7 @@
 
 # =======================================================
 # Playlist Name: My Playlist by indiecrew
-# Last Update: 2024-12-13
+# Last Update: 2025-03-04
 # =======================================================
 
 ----------------------Malaysia----------------------
@@ -28,10 +28,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/didik.png",didiktv kpm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4EDKKqQm33ibo4S6VhiRtA", "kid":"R6Ega0SCLIkyDnCRbPV7DA" } ], "type":"temporary" }
-https://unifi-live07.secureswiftcontent.com/UnifiHD/live07.mpd
+
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/8tv.png",8tv
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -60,17 +57,21 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="",Drama Hebat Malaysia 
-https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessionId=44e175e1-eb16-4e7c-8aaa-e04e865974e9 
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="114" tvg-id="114" tvg-chno="114" tvg-logo="",Filem Mantap Malaysia
-https://78470390525b4b03b023113696878114.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd?aws.sessionId=e5afa272-3bef-427f-9c68-976c25e8d27b 
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mp
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="115" tvg-id="115" tvg-chno="115" tvg-logo="",Drama Hotpot Malaysia
-https://770c1b3657e94bc4b76ecd3e12882bcc.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd?aws.sessionId=58442df2-7820-4010-9a73-56381a7afe27
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="116" tvg-id="116" tvg-chno="116" tvg-logo="",Dunia Sinema HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-720H.m3u8
+
+#EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="117" tvg-id="117" tvg-chno="117" tvg-logo="",RTM Asean
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
+
 
 ----------------------Singapura----------------------
 
@@ -274,7 +275,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/tvn/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/133/tvnmovies/manifest.mpd
 
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="803" tvg-id="803" tvg-chno="803" tvg-logo="",KBS World hd
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+http://mytv.dothome.co.kr/ch/catv/7.php
 
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="804" tvg-id="804" tvg-chno="804" tvg-logo="",One hd
 
@@ -321,7 +322,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055927f
 
 
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="814" tvg-id="814" tvg-chno="814" tvg-logo="",Hgtv hd
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/hgtv.m3u8
+
 
 
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="815" tvg-id="815" tvg-chno="815" tvg-logo="",Hits Movies hd
@@ -349,20 +350,26 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="903" tvg-id="903" tvg-chno="903" tvg-logo="",TNT SPORTS 1
-https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+https://cors-proxy.cooks.fyi/http://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="904" tvg-id="904" tvg-chno="904" tvg-logo="",TNT SPORTS 2
-https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+https://cors-proxy.cooks.fyi/http://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="905" tvg-id="905" tvg-chno="905" tvg-logo="",TNT SPORTS 3
-https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
+https://cors-proxy.cooks.fyi/http://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="906" tvg-id="906" tvg-chno="906" tvg-logo="",redBullTv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
@@ -403,29 +410,19 @@ http://iptv.prosto.tv:7000/ch118/video.m3u8
 #EXTINF:-1 group-title="myOrigin: Sports" ch-number="930" tvg-id="930" tvg-chno="930" tvg-logo="",True Premier Football 2
 
 
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="931" tvg-id="931" tvg-chno="931" tvg-logo="",PLAY SPORTS 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.41 (KHTML, like Gecko) Large Screen WebAppManager Safari/537.41
-
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="932" tvg-id="932" tvg-chno="932" tvg-logo="",PLAY SPORTS 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.41 (KHTML, like Gecko) Large Screen WebAppManager Safari/537.41
-
-
-#EXTINF:-1 group-title="myOrigin: Sports" ch-number="933" tvg-id="933" tvg-chno="933" tvg-logo="",PLAY SPORTS 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.41 (KHTML, like Gecko) Large Screen WebAppManager Safari/537.41
+#EXTINF:-1 group-title="myOrigin: Sports" ch-number="931" tvg-id="931" tvg-chno="931" tvg-logo="",Peacock TV Premier League
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
 
 
 ----------------------Korea-------------------------
 
 #EXTINF:-1 group-title="myOrigin: Korea" ch-number="941" tvg-id="941" tvg-chno="941" tvg-logo="",SBS
-https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
 
 #EXTINF:-1 group-title="myOrigin: Korea" ch-number="942" tvg-id="942" tvg-chno="942" tvg-logo="",EBS1
 https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
@@ -437,7 +434,7 @@ https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 
 #EXTINF:-1 group-title="myOrigin: Korea" ch-number="945" tvg-id="945" tvg-chno="945" tvg-logo="",MBC
-http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+
 
 #EXTINF:-1 group-title="myOrigin: Korea" ch-number="946" tvg-id="946" tvg-chno="946" tvg-logo="",KBS 1
 
