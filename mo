@@ -98,7 +98,7 @@ https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9970038ef6c548e39768f3a1ff6f5081:3e19d54b7bcd8bb336776fe136d48f57
 #EXTINF:-1 group-title="myOrigin: Singapura" ch-number="205" tvg-id="205" tvg-chno="205" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/chv.png",vasantham
-#https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
+https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=612eb711dfb444f7a194c5e20d7f7048&key=b6226449b9ed5066542e6d6ad5ecb346
@@ -333,9 +333,13 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055927f
 
 
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="820" tvg-id="820" tvg-chno="820" tvg-logo="",Entertainment - Mediacorp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV84.m3u8
 
 #EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="821" tvg-id="821" tvg-chno="821" tvg-logo="",SBS Running Man
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV80.m3u8
 
 
