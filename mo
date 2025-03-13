@@ -103,17 +103,17 @@ https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=612eb711dfb444f7a194c5e20d7f7048&key=b6226449b9ed5066542e6d6ad5ecb346
 #EXTINF:-1 group-title="myOrigin: Singapura" ch-number="206" tvg-id="206" tvg-chno="206" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/chokto.png",oktolidays
-3https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
+https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 #EXTINF:-1 group-title="myOrigin: Singapura" ch-number="207" tvg-id="207" tvg-chno="207" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/mew1.png",meWatchLive1
-#https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 #EXTINF:-1 group-title="myOrigin: Singapura" ch-number="208" tvg-id="208" tvg-chno="208" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/mew2.png",meWatchLive2
-#https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
 
 ----------------------Brunei-------------------------
@@ -332,12 +332,11 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055927f
 
 
 
-#EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="820" tvg-id="820" tvg-chno="820" tvg-logo="",OCN Movie
+#EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="820" tvg-id="820" tvg-chno="820" tvg-logo="",Entertainment - Mediacorp
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV84.m3u8
 
-
-#EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="821" tvg-id="821" tvg-chno="821" tvg-logo="",gem hd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0403e654ddab419db6cc72bb3fa51248:9d43bcc51f3750550d321cdc37e57cc9
+#EXTINF:-1 group-title="myOrigin: Showbiz" ch-number="821" tvg-id="821" tvg-chno="821" tvg-logo="",SBS Running Man
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV80.m3u8
 
 
 
