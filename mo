@@ -12,7 +12,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/tv3.png",TV3
-https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TV3)/1763979305893item-05item_Segment-78800967428030.m4v
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="104" tvg-id="104" tvg-chno="104" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/tvalhijrah.png",Al-Hijrah
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -27,21 +27,24 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/didik.png",Didik TV
-https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Didik)/1763981324158item-05item_Segment-78785570422800.m4v
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/8tv.png",8TV
 http://cdn6.163189.xyz/163189/8tv
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/tv9.png",TV9
-https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TV9)/1763981383352item-05item_Segment-78779842641370.m4v
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="110" tvg-id="110" tvg-chno="110" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/awesometv.png",Awesome TV
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="111" tvg-id="111" tvg-chno="111" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/tvs.png",TVS
-https://live-tvs.tvsarawak.my/live/tvs.m3u8
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TVS)/1763981704180item-05item_Segment-78777292346320.m4v
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="112" tvg-id="112" tvg-chno="112" tvg-logo="https://i.imgur.com/1pYYSu2.png",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
+
+#EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="133" tvg-id="133" tvg-chno="133" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png",Unifi Sports
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(unifi1)/1768057480763item-05item_Segment-38018370016844.m4v
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Drama_Hebat.png/revision/latest?cb=20260102080145",Drama Hebat
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
@@ -106,3 +109,6 @@ https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="132" tvg-id="132" tvg-chno="132" tvg-logo="https://i.imgur.com/dLzgBUj.png",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
+
+#EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="134" tvg-id="134" tvg-chno="134" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg",KPlus
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Kplus)/1763981970092item-05item_Segment-78775126901032.m4v
