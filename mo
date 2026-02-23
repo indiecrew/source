@@ -12,7 +12,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/tv3.png",TV3
-https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TV3)/1763979305893item-05item_Segment-78800967428030.m4v
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3bc3f0e518aed92e80a98118e5bc2c10": "5fce364fbc4499856597b19a96f44648"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="104" tvg-id="104" tvg-chno="104" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/tvalhijrah.png",Al-Hijrah
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -26,19 +29,28 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="106" tvg-id="106" tvg-chno="106" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/tv6.png",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 
-#EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/didik.png",Didik TV
-https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Didik)/1763981324158item-05item_Segment-78785570422800.m4v
+#EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/didik.png",DidikTV KPM
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e509735b5f89750d42ace2410ead7210": "1726083509d570b5de4730ab9f338cc3"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/707/default_ott.mpd
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/8tv.png",8TV
 http://cdn6.163189.xyz/163189/8tv
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/tv9.png",TV9
-https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TV9)/1763981383352item-05item_Segment-78779842641370.m4v
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"27828727f0a3a0b4fbc668378ccf8c10": "958e9cb7389e20948de5a542d2729ecf"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default_primary.mpd
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="110" tvg-id="110" tvg-chno="110" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/awesometv.png",Awesome TV
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="111" tvg-id="111" tvg-chno="111" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/tvs.png",TVS
-https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TVS)/1763981704180item-05item_Segment-78777292346320.m4v
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c3e956b38ae993be1494c7cfa17b1110": "55ccaee886b340dd901f4bf8dd9d3a6a"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="112" tvg-id="112" tvg-chno="112" tvg-logo="https://i.imgur.com/1pYYSu2.png",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
@@ -64,7 +76,7 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="118" tvg-id="118" tvg-chno="118" tvg-logo="https://i.postimg.cc/xd29T4sf/Sooka-Jom-Ngaji.png",Jom Ngaji
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_6/dash.mpd
 
-#EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="119" tvg-id="119" tvg-chno="119" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Oh_My_Ceria%21.png/revision/latest?cb=20260102080555",oh My Ceria!
+#EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="119" tvg-id="119" tvg-chno="119" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Oh_My_Ceria%21.png/revision/latest?cb=20260102080555",oh My Ceria
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="120" tvg-id="120" tvg-chno="120" tvg-logo="https://i.imgur.com/skAiUxg.png",RTM Asean
@@ -110,5 +122,29 @@ https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="132" tvg-id="132" tvg-chno="132" tvg-logo="https://i.imgur.com/dLzgBUj.png",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
 
-#EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="134" tvg-id="134" tvg-chno="134" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg",KPlus
+#EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="134" tvg-id="134" tvg-chno="134" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/266_144.png",K-Plus
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Kplus)/1763981970092item-05item_Segment-78775126901032.m4v
+
+#EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="135" tvg-id="135" tvg-chno="135" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png",KBS World
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Kplus)/1763981970092item-05item_Segment-78775126901032.m4v
+
+#EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="136" tvg-id="136" tvg-chno="136" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png",ONE
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Kplus)/1763981970092item-05item_Segment-78775126901032.m4v
+
+#EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="137" tvg-id="137" tvg-chno="137" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png",tvN
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Kplus)/1763981970092item-05item_Segment-78775126901032.m4v
+
+#EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="138" tvg-id="138" tvg-chno="138" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png",tvN Movies
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Kplus)/1763981970092item-05item_Segment-78775126901032.m4v
+
+#EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="139" tvg-id="139" tvg-chno="139" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png",Bernama
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1406bbf218ca14f967034fcf4abf7710": "39a27aa2cc84a29b665fcc4dbf9c54b6"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
+
+#EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="140" tvg-id="140" tvg-chno="140" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png/revision/latest?cb=20210712100310",Dunia Sinema
+#KODIPROP:inputstream.adaptive.license_type=org.w3 .clearkey
+#KODIPROP:inputstream.adaptive.license_key={"01a17625701e4734b02aa22c8657bd6f":"975a483df422455dbc29a1d83ed6f154"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(DuniaSin)/master.mpd
