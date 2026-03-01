@@ -148,3 +148,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key={"01a17625701e4734b02aa22c8657bd6f":"975a483df422455dbc29a1d83ed6f154"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(DuniaSin)/master.mpd
+
+#EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="141" tvg-id="141" tvg-chno="141" tvg-logo="",Upin Ipin Live
+https://https://www.youtube.com/@lescopaque/live
