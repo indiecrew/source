@@ -25,6 +25,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="105" tvg-id="105" tvg-chno="105" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/okey.png",TV Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+https://d25tgymtnqzu8s.cloudfront.net/live/media0/okey/HLS/okey-avc1_3000000=1985961624.m3u8
  
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="106" tvg-id="106" tvg-chno="106" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/tv6.png",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
@@ -53,7 +54,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="112" tvg-id="112" tvg-chno="112" tvg-logo="https://i.imgur.com/1pYYSu2.png",Sukan RTM
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/live/tv/sukan
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
+https://d25tgymtnqzu8s.cloudfront.net/live/media0/sukan/HLS/sukan-avc1_3000000=1985961624.m3u8
+
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="133" tvg-id="133" tvg-chno="133" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png",Unifi Sports
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(unifi1)/1768057480763item-05item_Segment-38018370016844.m4v
@@ -123,19 +127,19 @@ https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="134" tvg-id="134" tvg-chno="134" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/266_144.png",K-Plus
-https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Kplus)/1763981970092item-05item_Segment-78775126901032.m4v
+
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="135" tvg-id="135" tvg-chno="135" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png",KBS World
-https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Kplus)/1763981970092item-05item_Segment-78775126901032.m4v
+
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="136" tvg-id="136" tvg-chno="136" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png",ONE
-https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Kplus)/1763981970092item-05item_Segment-78775126901032.m4v
+
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="137" tvg-id="137" tvg-chno="137" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png",tvN
-https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Kplus)/1763981970092item-05item_Segment-78775126901032.m4v
+
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="138" tvg-id="138" tvg-chno="138" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png",tvN Movies
-https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Kplus)/1763981970092item-05item_Segment-78775126901032.m4v
+
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="139" tvg-id="139" tvg-chno="139" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png",Bernama
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -147,7 +151,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3 .clearkey
 #KODIPROP:inputstream.adaptive.license_key={"01a17625701e4734b02aa22c8657bd6f":"975a483df422455dbc29a1d83ed6f154"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
-https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(DuniaSin)/master.mpd
+
 
 #EXTINF:-1 group-title="myOrigin: Malaysia" ch-number="141" tvg-id="141" tvg-chno="141" tvg-logo="",Upin Ipin Live
-https://https://www.youtube.com/@lescopaque/live
+
